@@ -1,0 +1,770 @@
+[
+  {
+    "quesId": "Q20221128103238977216",
+    "Q_Id": "ST_1",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bi no linguistics hi jüpo mü tho zü matho ko lo krühi to ha?",
+    "hint": "A20221128105257541164_281474976739622.wav"
+  },
+  {
+    "quesId": "Q20221128103238977574",
+    "Q_Id": "ST_2",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "dipü bi no jü corpora hi language technology lo thi kühü sayi yo?",
+    "hint": "A20221128105258791725_281474976739623.wav"
+  },
+  {
+    "quesId": "Q20221128103238977932",
+    "Q_Id": "ST_3",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "di la no corpora jü kükre kükre zü hi thi kühü pü linguistics lo ma küjo thi sa mosü ba?",
+    "hint": "A20221128105300095180_281474976739624.wav"
+  },
+  {
+    "quesId": "Q20221128103238978289",
+    "Q_Id": "ST_4",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bi no speech technology hi speech database thi kühü sayi yo?",
+    "hint": "A20221128105301392283_281474976739625.wav"
+  },
+  {
+    "quesId": "Q20221128103238978668",
+    "Q_Id": "ST_5",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Speech data base lo dipü bizü bayo?",
+    "hint": "A20221128105302652934_281474976739626.wav"
+  },
+  {
+    "quesId": "Q20221128103238979037",
+    "Q_Id": "ST_6",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bi no raw text hi corpora la khasü yo?",
+    "hint": "A20221128105303908068_281474976739627.wav"
+  },
+  {
+    "quesId": "Q20221128103238979396",
+    "Q_Id": "ST_7",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "di la no ma tho küjü matho ko hi transcribe thi pü corpora lü sü mosü?",
+    "hint": "A20221128105305357575_281474976739628.wav"
+  },
+  {
+    "quesId": "Q20221128103238979754",
+    "Q_Id": "ST_8",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "annoted version of a corpus lü dipü bayo? Dipü bi no annoted corpora hi jü ko phri zü lo khrühi ba?",
+    "hint": "A20221128105306816306_281474976739629.wav"
+  },
+  {
+    "quesId": "Q20221128103238980125",
+    "Q_Id": "ST_9",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Text corpora la no special design dipu la sü mosü ba?",
+    "hint": "A20221128105308072567_281474976739630.wav"
+  },
+  {
+    "quesId": "Q20221128103238980487",
+    "Q_Id": "ST_10",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Dialect corpora dipü thi yo? Hihi dipü bi no speech varieties ko pe mvü-ye ta,u shüye lo?",
+    "hint": "A20221128105309588161_281474976739631.wav"
+  },
+  {
+    "quesId": "Q20221128103238980846",
+    "Q_Id": "ST_11",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Comparable corpora hi dipü bi no thi kühü sa yo?",
+    "hint": "A20221128105310891346_281474976739632.wav"
+  },
+  {
+    "quesId": "Q20221128103238981205",
+    "Q_Id": "ST_12",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Databases ko maintain thi küto la dipü bizü matho ko lü nü thi shü dü yo?",
+    "hint": "A20221128105312143900_281474976739633.wav"
+  },
+  {
+    "quesId": "Q20221128103238981563",
+    "Q_Id": "ST_13",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "language technology thi kühü küto la dipü sü mosü ba?",
+    "hint": "A20221128105313397575_281474976739634.wav"
+  },
+  {
+    "quesId": "Q20221128103238981948",
+    "Q_Id": "ST_14",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "digital literacy za kümüle posüte?",
+    "hint": "A20221128105314654178_281474976739635.wav"
+  },
+  {
+    "quesId": "Q20221128103238982318",
+    "Q_Id": "ST_15",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Computational linguistics za kümüle jü posüte?",
+    "hint": "A20221128105315899470_281474976739636.wav"
+  },
+  {
+    "quesId": "Q20221128103238982676",
+    "Q_Id": "ST_16",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "No natural language data lo dipü bizü analysis ko süyo?",
+    "hint": "A20221128105317398596_281474976739637.wav"
+  },
+  {
+    "quesId": "Q20221128103238983034",
+    "Q_Id": "ST_17",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü lo nü speech sounds ko hi machine wo seyo?",
+    "hint": "A20221128105318695488_281474976739638.wav"
+  },
+  {
+    "quesId": "Q20221128103238983389",
+    "Q_Id": "ST_18",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "dipü chode lo nü text ko hi linguistics analysis ütü kükre kükre zü lo process thiyo?",
+    "hint": "A20221128105320002343_281474976739639.wav"
+  },
+  {
+    "quesId": "Q20221128103238983745",
+    "Q_Id": "ST_19",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "sentence splitting hi dipü bi no thiyo?",
+    "hint": "A20221128105321102803_281474976739640.wav"
+  },
+  {
+    "quesId": "Q20221128103238984114",
+    "Q_Id": "ST_20",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bi zü thüdo ko pü speech tagging lo sü yo?",
+    "hint": "A20221128105322154366_281474976739641.wav"
+  },
+  {
+    "quesId": "Q20221128103238984471",
+    "Q_Id": "ST_21",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Morph analysis jü ko kropü posü ve ma?",
+    "hint": "A20221128105323210531_281474976739642.wav"
+  },
+  {
+    "quesId": "Q20221128103238984827",
+    "Q_Id": "ST_22",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Syntactic analysis of words hi dipü bi no thiyo?",
+    "hint": "A20221128105324461589_281474976739643.wav"
+  },
+  {
+    "quesId": "Q20221128103238985179",
+    "Q_Id": "ST_23",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Syntactic parsing hi dipü bi zü thüdo sü no thiyo?",
+    "hint": "A20221128105325765388_281474976739644.wav"
+  },
+  {
+    "quesId": "Q20221128103238985557",
+    "Q_Id": "ST_24",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Dila no National Digital Literary mission shü dü sü?",
+    "hint": "A20221128105327069755_281474976739645.wav"
+  },
+  {
+    "quesId": "Q20221128103238985929",
+    "Q_Id": "ST_25",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "dipü bi no uma jü pü küngü no sentence lo khasü yo? Dipü property ko sentence mu phrase ko hi khapü limit mosheri fixed length bayo sibi poyo?",
+    "hint": "A20221128105328525531_281474976739646.wav"
+  },
+  {
+    "quesId": "Q20221128103238986287",
+    "Q_Id": "ST_26",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Jü hi dipü bi no se yo? Jü mhase hi dipü bi no süyo?",
+    "hint": "A20221128105329975334_281474976739647.wav"
+  },
+  {
+    "quesId": "Q20221128103238986643",
+    "Q_Id": "ST_27",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "phonetics mu phonology hi dipü bi no kre ta?",
+    "hint": "A20221128105331284483_281474976739648.wav"
+  },
+  {
+    "quesId": "Q20221128103238986996",
+    "Q_Id": "ST_28",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Speech sounds pari küto la no dipü bizü üta ümü mori ulünyo bizü ko sü no pari yo?",
+    "hint": "A20221128105332781784_281474976739649.wav"
+  },
+  {
+    "quesId": "Q20221128103238987354",
+    "Q_Id": "ST_29",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "No IPA hi dipü bi no sü yo shi süsü po ve ma?",
+    "hint": "A20221128105333836266_281474976739650.wav"
+  },
+  {
+    "quesId": "Q20221128103238987712",
+    "Q_Id": "ST_30",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Language properties za design bezü bame ?",
+    "hint": "A20221128105335083469_281474976739651.wav"
+  },
+  {
+    "quesId": "Q20221128103238988082",
+    "Q_Id": "ST_31",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Morphemes ko hi di wa? Morpheme ju kümüle posüte?",
+    "hint": "A20221128105336336309_281474976739652.wav"
+  },
+  {
+    "quesId": "Q20221128103238988444",
+    "Q_Id": "ST_32",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Pulmonic mu non pulmonic hi dibi no kre ta?",
+    "hint": "A20221128105337586358_281474976739653.wav"
+  },
+  {
+    "quesId": "Q20221128103238988825",
+    "Q_Id": "ST_33",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Vowels sounds pari küto la ülünyo ko dipü bi no süyo?",
+    "hint": "A20221128105338843618_281474976739654.wav"
+  },
+  {
+    "quesId": "Q20221128103238989194",
+    "Q_Id": "ST_34",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Linguistics method sü no transcription hi jü pü lo nü jü pü lo süyo?",
+    "hint": "A20221128105340098972_281474976739655.wav"
+  },
+  {
+    "quesId": "Q20221128103238989550",
+    "Q_Id": "ST_35",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "PRAAT hi analysis mu synthesis of speech la no didi no süyo?",
+    "hint": "A20221128105341229608_281474976739656.wav"
+  },
+  {
+    "quesId": "Q20221128103238989904",
+    "Q_Id": "ST_36 (Scientific Research)",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Scientific research hi dipü cho lo nü mha rhü no thi yo?",
+    "hint": "A20221128105342470173_281474976739657.wav"
+  },
+  {
+    "quesId": "Q20221128103238990271",
+    "Q_Id": "ST_37",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Scientific research thi kümo mozü ce dipü bizü matho ko thi mosü ba?",
+    "hint": "A20221128105343762321_281474976739658.wav"
+  },
+  {
+    "quesId": "Q20221128103238990626",
+    "Q_Id": "ST_38",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Dibi no scientific research classification hi research za structure design thi zü lo khrühi yo?",
+    "hint": "A20221128105345009265_281474976739659.wav"
+  },
+  {
+    "quesId": "Q20221128103238990981",
+    "Q_Id": "ST_39",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Observational data collection technique hi dipü lo nü experimental technique zü kre ta?",
+    "hint": "A20221128105346260127_281474976739660.wav"
+  },
+  {
+    "quesId": "Q20221128103238991333",
+    "Q_Id": "ST_40",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Scientific research hi dipü zho lü nü matho keti ko sü mhathi ve?",
+    "hint": "A20221128105347506204_281474976739661.wav"
+  },
+  {
+    "quesId": "Q20221128103238991685",
+    "Q_Id": "ST_41",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Classification of scientific research za descriptive mu analytical method za ju posüte?",
+    "hint": "A20221128105348948421_281474976739662.wav"
+  },
+  {
+    "quesId": "Q20221128103238992084",
+    "Q_Id": "ST_42",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Case report mü case series ne hi descriptive lü za kümüle ju posü ve ma?",
+    "hint": "A20221128105350257885_281474976739663.wav"
+  },
+  {
+    "quesId": "Q20221128103238992458",
+    "Q_Id": "ST_43",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "dibi no analytical scientific research hi descriptive matho zü kreta?",
+    "hint": "A20221128105351509432_281474976739664.wav"
+  },
+  {
+    "quesId": "Q20221128103238992818",
+    "Q_Id": "ST_44",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Observational research hi dila no kükre research studies ko ce ri hüve kü ta?",
+    "hint": "A20221128105352759445_281474976739665.wav"
+  },
+  {
+    "quesId": "Q20221128103238993175",
+    "Q_Id": "ST_45",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Cohert research hi ucho dipü lo nü observational mü experimental studies zü mhathi yo?",
+    "hint": "A20221128105354020884_281474976739666.wav"
+  },
+  {
+    "quesId": "Q20221128103238993528",
+    "Q_Id": "ST_46",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "no ucho kümüle case-control studies mu cross sectional studies za posü ve ma?",
+    "hint": "A20221128105355273276_281474976739667.wav"
+  },
+  {
+    "quesId": "Q20221128103238993882",
+    "Q_Id": "ST_47",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Interventional research hi ucho di wa?",
+    "hint": "A20221128105356516499_281474976739668.wav"
+  },
+  {
+    "quesId": "Q20221128103238994235",
+    "Q_Id": "ST_48",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Clinical research hi dibi no control group lo sü yo clinical case lo?",
+    "hint": "A20221128105357765600_281474976739669.wav"
+  },
+  {
+    "quesId": "Q20221128103238994589",
+    "Q_Id": "ST_49",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Clinical research hi di la no müleri?",
+    "hint": "A20221128105358873348_281474976739670.wav"
+  },
+  {
+    "quesId": "Q20221128103238994953",
+    "Q_Id": "ST_50",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "randomisation mu blinding method hi dipü bi no clinical research lo sü yo?",
+    "hint": "A20221128105400169086_281474976739671.wav"
+  },
+  {
+    "quesId": "Q20221128103238995331",
+    "Q_Id": "ST_51General",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "dzü püno di di thiyo? dzü filtration dibi no thiyo?",
+    "hint": "A20221128105401474905_281474976739672.wav"
+  },
+  {
+    "quesId": "Q20221128103238995700",
+    "Q_Id": "ST_52",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "chlorination mü bleeching hine hi pü no dila dzü thi müsa yo?",
+    "hint": "A20221128105402778771_281474976739673.wav"
+  },
+  {
+    "quesId": "Q20221128103238996069",
+    "Q_Id": "ST_53",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Dila no dzü hi müsho no khaba müsü ba?",
+    "hint": "A20221128105403860086_281474976739674.wav"
+  },
+  {
+    "quesId": "Q20221128103238996443",
+    "Q_Id": "ST_54",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Dibi bi tükhra mülü ba süzi no müka ve?",
+    "hint": "A20221128105405106699_281474976739675.wav"
+  },
+  {
+    "quesId": "Q20221128103238996800",
+    "Q_Id": "ST_55",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Tükhra(oxygen) hi dila no thüma la no müle ri?",
+    "hint": "A20221128105406404740_281474976739676.wav"
+  },
+  {
+    "quesId": "Q20221128103238997181",
+    "Q_Id": "ST_56",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Deforestation hi diwa? Thüra ko mü fossil fuel hiko the tso mütha dibi ta?",
+    "hint": "A20221128105407659806_281474976739677.wav"
+  },
+  {
+    "quesId": "Q20221128103238997548",
+    "Q_Id": "ST_57",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Dila no mesocho(north) mü mekhrocho(south) hüne hü tüsü yo?",
+    "hint": "A20221128105409020253_281474976739678.wav"
+  },
+  {
+    "quesId": "Q20221128103238997905",
+    "Q_Id": "ST_58",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Thegi kükre kükre zü za posüte? Thegi hi pü no di thiyo?",
+    "hint": "A20221128105410279388_281474976739679.wav"
+  },
+  {
+    "quesId": "Q20221128103238998267",
+    "Q_Id": "ST_59",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "matter kükre kükre zü za posüte?",
+    "hint": "A20221128105411331521_281474976739680.wav"
+  },
+  {
+    "quesId": "Q20221128103238998623",
+    "Q_Id": "ST_60",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "thegi kümo ko za posüte? Hiko dice süyo?",
+    "hint": "A20221128105412627612_281474976739681.wav"
+  },
+  {
+    "quesId": "Q20221128103238999229",
+    "Q_Id": "ST_61",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "evaporation lo nü dibi no terü thiyo?",
+    "hint": "A20221128105413726686_281474976739682.wav"
+  },
+  {
+    "quesId": "Q20221128103238999612",
+    "Q_Id": "ST_62",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Steam hi dibi no pai yo?",
+    "hint": "A20221128105414778725_281474976739683.wav"
+  },
+  {
+    "quesId": "Q20221128103238999975",
+    "Q_Id": "ST_63",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Life-cycle is dibi yo?",
+    "hint": "A20221128105415826341_281474976739684.wav"
+  },
+  {
+    "quesId": "Q20221128103239001075",
+    "Q_Id": "ST_64",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Terü jü küngü(harvest) yo zü hi diwa?",
+    "hint": "A20221128105416870714_281474976739685.wav"
+  },
+  {
+    "quesId": "Q20221128103239001449",
+    "Q_Id": "ST_65",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Mobile phone is dibi no süyo?",
+    "hint": "A20221128105417960887_281474976739686.wav"
+  },
+  {
+    "quesId": "Q20221128103239001810",
+    "Q_Id": "ST_66",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Dibi no mobile phone hi charge thiyo?",
+    "hint": "A20221128105419069949_281474976739687.wav"
+  },
+  {
+    "quesId": "Q20221128103239002168",
+    "Q_Id": "ST_67",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "You-tube channel lo no di peyo?",
+    "hint": "A20221128105420116041_281474976739688.wav"
+  },
+  {
+    "quesId": "Q20221128103239002600",
+    "Q_Id": "ST_68",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "No electricity lübi mo no kükre lo nü dice charge thiyo?",
+    "hint": "A20221128105421416771_281474976739689.wav"
+  },
+  {
+    "quesId": "Q20221128103239002964",
+    "Q_Id": "ST_69",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "No ma kükre kükre zü dipü lo no light buld hi to yo?",
+    "hint": "A20221128105422665587_281474976739690.wav"
+  },
+  {
+    "quesId": "Q20221128103239003320",
+    "Q_Id": "ST_70",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Solar energy hi dibi no süyo?",
+    "hint": "A20221128105423710585_281474976739691.wav"
+  },
+  {
+    "quesId": "Q20221128103239003672",
+    "Q_Id": "ST_71",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Power source kükre kükre dibi no thi pari yo?",
+    "hint": "A20221128105424957538_281474976739692.wav"
+  },
+  {
+    "quesId": "Q20221128103239004065",
+    "Q_Id": "ST_72",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Dice lo nü jü pü no kra yo?",
+    "hint": "A20221128105426245429_281474976739693.wav"
+  },
+  {
+    "quesId": "Q20221128103239004445",
+    "Q_Id": "ST_73",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Dila no jü thi mülü no kra yo?",
+    "hint": "A20221128105427601763_281474976739694.wav"
+  },
+  {
+    "quesId": "Q20221128103239004797",
+    "Q_Id": "ST_74",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "No mobile phone sü zü ce ma kürü dipü bizü küsü yo mü dibi no thin ve yo?",
+    "hint": "A20221128105428888312_281474976739695.wav"
+  },
+  {
+    "quesId": "Q20221128103239005158",
+    "Q_Id": "ST_75",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "No mobile phone sü zü ce ma kürü dipü bizü küsü yo mü dibi no thin ve yo?",
+    "hint": "A20221128105430202129_281474976739696.wav"
+  },
+  {
+    "quesId": "Q20221128103239005512",
+    "Q_Id": "ST_76",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "No dibi no shopping app kükre kükre zü ko süyo?",
+    "hint": "A20221128105431458243_281474976739697.wav"
+  },
+  {
+    "quesId": "Q20221128103239005860",
+    "Q_Id": "ST_77",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "mobile phone hi pü no di di thiyo?",
+    "hint": "A20221128105432539208_281474976739698.wav"
+  },
+  {
+    "quesId": "Q20221128103239006212",
+    "Q_Id": "ST_78",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Dila terü shü zü ce light hi vori mota yo?",
+    "hint": "A20221128105433783914_281474976739699.wav"
+  },
+  {
+    "quesId": "Q20221128103239006644",
+    "Q_Id": "ST_79",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "T.V kri zü ce mhanyo kükre kükre zü ko di ngoyo?",
+    "hint": "A20221128105435038194_281474976739700.wav"
+  },
+  {
+    "quesId": "Q20221128103239007017",
+    "Q_Id": "ST_80",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "no dibi no t.v za set-top box hi recharge thiyo?",
+    "hint": "A20221128105436348069_281474976739701.wav"
+  },
+  {
+    "quesId": "Q20221128103239007398",
+    "Q_Id": "ST_81",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "No dibi no mobile phone camera hi süyo? Dibi zü ce ko camera hi süyo?",
+    "hint": "A20221128105437598366_281474976739702.wav"
+  },
+  {
+    "quesId": "Q20221128103239007779",
+    "Q_Id": "ST_82",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Mobile phone bamo mozü ce dibi no mi zü kerithi yo?",
+    "hint": "A20221128105438854893_281474976739703.wav"
+  },
+  {
+    "quesId": "Q20221128103239008159",
+    "Q_Id": "ST_83",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "vapü inverter hi charge thi ta mütha babü do ditsü sü ve?",
+    "hint": "A20221128105440106803_281474976739704.wav"
+  },
+  {
+    "quesId": "Q20221128103239008520",
+    "Q_Id": "ST_84",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "thazü ce dibi no mha tho no tiyo?",
+    "hint": "A20221128105441353527_281474976739705.wav"
+  },
+  {
+    "quesId": "Q20221128103239008879",
+    "Q_Id": "ST_85",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ütü dibi no che yo?",
+    "hint": "A20221128105442407520_281474976739706.wav"
+  },
+  {
+    "quesId": "Q20221128103239009232",
+    "Q_Id": "ST_86",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Nace kükü hi pü di di thi ve?",
+    "hint": "A20221128105443459797_281474976739707.wav"
+  },
+  {
+    "quesId": "Q20221128103239009590",
+    "Q_Id": "ST_87",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Rainbow hi dibi no pari yo?",
+    "hint": "A20221128105444514040_281474976739708.wav"
+  },
+  {
+    "quesId": "Q20221128103239009943",
+    "Q_Id": "ST_88",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Cecesü hi dibi no pari yo?",
+    "hint": "A20221128105445623500_281474976739709.wav"
+  },
+  {
+    "quesId": "Q20221128103239010297",
+    "Q_Id": "ST_89",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "thunder mü lightening hi dibi no pari wo?",
+    "hint": "A20221128105446669692_281474976739710.wav"
+  },
+  {
+    "quesId": "Q20221128103239010652",
+    "Q_Id": "ST_90",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "No dibi no üthesü ha yo? Ülünyo kükre kükre zi ko pü no thüma dibi no üthesü ha yo?",
+    "hint": "A20221128105447922498_281474976739711.wav"
+  },
+  {
+    "quesId": "Q20221128103239011010",
+    "Q_Id": "ST_91",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Rhü(living) mü rhü kümo(non-living) ko hi diwa?",
+    "hint": "A20221128105449168144_281474976739712.wav"
+  },
+  {
+    "quesId": "Q20221128103239011368",
+    "Q_Id": "ST_92",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "rhü(living) dibi bi zü n khü n mho lo bayo?",
+    "hint": "A20221128105450463307_281474976739713.wav"
+  },
+  {
+    "quesId": "Q20221128103239011749",
+    "Q_Id": "ST_93",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "rhü kümo(non-living) dibi zü ko n khü n mho lo bayo?",
+    "hint": "A20221128105451770464_281474976739714.wav"
+  },
+  {
+    "quesId": "Q20221128103239012125",
+    "Q_Id": "ST_94",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Dibi no ükhri-e pari yo?",
+    "hint": "A20221128105452819069_281474976739715.wav"
+  },
+  {
+    "quesId": "Q20221128103239012497",
+    "Q_Id": "ST_95",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "mati keti za ülünyo ko za posüte?",
+    "hint": "A20221128105454127191_281474976739716.wav"
+  },
+  {
+    "quesId": "Q20221128103239012854",
+    "Q_Id": "ST_96",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Gari dibi no start thiyo?",
+    "hint": "A20221128105455212319_281474976739717.wav"
+  }
+]

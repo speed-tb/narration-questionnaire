@@ -1,0 +1,466 @@
+[
+  {
+    "quesId": "Q20221128103239013213",
+    "Q_Id": "OH_2",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "n po mu n zu künane ri rüna pu lo nü vori me? me kükre kükre zü rüna lo nu vori?",
+    "hint": "A20221128105456659983_281474976739718.wav"
+  },
+  {
+    "quesId": "Q20221128103239013577",
+    "Q_Id": "OH_3",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "n cekro ko di pu nani züyo? nani hi celü zü yo me? zü mütha di pu bi no neko celu lo kürüshü matho thiyo?",
+    "hint": "A20221128105458122274_281474976739719.wav"
+  },
+  {
+    "quesId": "Q20221128103239013947",
+    "Q_Id": "OH_6",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no tsüdo n jüpo zü kümono küba tha posüte. No n jüpo po küba hi zü no n rünami jo zü kümüno küzü lü yo me?",
+    "hint": "A20221128105459381739_281474976739720.wav"
+  },
+  {
+    "quesId": "Q20221128103239014311",
+    "Q_Id": "OH_7",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no ba no pethi pari zü thi za ju posü. Phülü me town cho ta?",
+    "hint": "A20221128105500903024_281474976739721.wav"
+  },
+  {
+    "quesId": "Q20221128103239014697",
+    "Q_Id": "OH_8",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "n tho n thüma kümo, dipu thümako no bazü thi lo lhuyo?",
+    "hint": "A20221128105502357809_281474976739722.wav"
+  },
+  {
+    "quesId": "Q20221128103239015078",
+    "Q_Id": "OH_9",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "n cekro ko no tsi hi ba zü thi lü nü vori me, me rüna kükre lü nü vori? no dipü se ba n rüna za jü? va-o ri vo ma?",
+    "hint": "A20221128105503854376_281474976739723.wav"
+  },
+  {
+    "quesId": "Q20221128103239015440",
+    "Q_Id": "OH_10",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no n potsa mu n zutsa ju dipu n sase ba?",
+    "hint": "A20221128105505161452_281474976739724.wav"
+  },
+  {
+    "quesId": "Q20221128103239015800",
+    "Q_Id": "OH_11",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no pethi pari zü ce no sekümo ukrüne kürako za ju se vori ma?",
+    "hint": "A20221128105506410476_281474976739725.wav"
+  },
+  {
+    "quesId": "Q20221128103239016172",
+    "Q_Id": "OH_12",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no lhu vori zü ce utü kümüle tü zü küsü no vori ma? mu si bi zü ce no mu n cekro ko makürü zü küsüte me?",
+    "hint": "A20221128105507869784_281474976739726.wav"
+  },
+  {
+    "quesId": "Q20221128103239016538",
+    "Q_Id": "OH_13",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "neko cekro za cesü-cenye dipu bi no vori? no n cekro ko cesü-cenye kürü zü küsü zü tü pu ri se ma?",
+    "hint": "A20221128105509329130_281474976739727.wav"
+  },
+  {
+    "quesId": "Q20221128103239016907",
+    "Q_Id": "OH_14",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no pethi pari zü ce dipü thüdo mori udo(skills/activities) kükre kükre  se vori-e? süno thüdo(activities/skills) hiko n mütha sü?",
+    "hint": "A20221128105510789942_281474976739728.wav"
+  },
+  {
+    "quesId": "Q20221128103239017302",
+    "Q_Id": "OH_16",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no n sa-jüra ko ju posüte mu di pu bi no neko bayo? neko dolü tetse(age)kümüno me? lesice lü kümüza no phri vori me?",
+    "hint": "A20221128105512247750_281474976739729.wav"
+  },
+  {
+    "quesId": "Q20221128103239017675",
+    "Q_Id": "OH_17",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no khrüsa-reli thi zü ce n tü reri zü ce dipu thi no bayo?",
+    "hint": "A20221128105513541950_281474976739730.wav"
+  },
+  {
+    "quesId": "Q20221128103239018034",
+    "Q_Id": "OH_18",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "n pethi pari zü ce dipu bizü küti(food) nyo ko ti no vori?",
+    "hint": "A20221128105514791418_281474976739731.wav"
+  },
+  {
+    "quesId": "Q20221128103239018386",
+    "Q_Id": "OH_20",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "n natsi ce, no pethi pari mütha dipu thi ni sa yo? mu di la na?",
+    "hint": "A20221128105516144686_281474976739732.wav"
+  },
+  {
+    "quesId": "Q20221128103239018747",
+    "Q_Id": "OH_21",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no tsi hi dipu thi ba? n ma thi zü thi dice bayo?",
+    "hint": "A20221128105517388953_281474976739733.wav"
+  },
+  {
+    "quesId": "Q20221128103239019105",
+    "Q_Id": "OH_22",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no dipu bi no n matho/kam hi thi vori? no tsü hi ri n matho/kam hi thi ni sa zo me? dila no?",
+    "hint": "A20221128105518904462_281474976739734.wav"
+  },
+  {
+    "quesId": "Q20221128103239019461",
+    "Q_Id": "OH_23",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "n kam/matho hi thi zü ce makürü di pu bizü küsüyo?",
+    "hint": "A20221128105520196710_281474976739735.wav"
+  },
+  {
+    "quesId": "Q20221128103239019820",
+    "Q_Id": "OH_24",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "n cekro ko tetse pu lo dipu bizü thenye nye yo",
+    "hint": "A20221128105521451322_281474976739736.wav"
+  },
+  {
+    "quesId": "Q20221128103239020196",
+    "Q_Id": "OH_25",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "n zümi ko za ju hu posüte? n zü neko dipu bizü thi bayo?",
+    "hint": "A20221128105522703280_281474976739737.wav"
+  },
+  {
+    "quesId": "Q20221128103239020587",
+    "Q_Id": "OH_26",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no mi zü kümüza me, dipu bi no n zü-u/ züpü n ne küsü-e? di pu bino kümüza-a ta?",
+    "hint": "A20221128105523959794_281474976739738.wav"
+  },
+  {
+    "quesId": "Q20221128103239020962",
+    "Q_Id": "OH_27",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no ceyo thi te me? thi mütha, di pu bi no n ceyo nye ?",
+    "hint": "A20221128105525417930_281474976739739.wav"
+  },
+  {
+    "quesId": "Q20221128103239021321",
+    "Q_Id": "OH_29",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no dipu bizü rezhü mori merü ko thi bayo n tü reri zü ce ko?",
+    "hint": "A20221128105526724115_281474976739740.wav"
+  },
+  {
+    "quesId": "Q20221128103239021674",
+    "Q_Id": "OH_30",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no dipu bi no n küsürho-küsürhi pe bayo?",
+    "hint": "A20221128105527816986_281474976739741.wav"
+  },
+  {
+    "quesId": "Q20221128103239022029",
+    "Q_Id": "OH_31",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no u ramiko za mori u ma koza di pu bizü küticho ti n künütho-u thiyo?",
+    "hint": "A20221128105528869719_281474976739742.wav"
+  },
+  {
+    "quesId": "Q20221128103239022384",
+    "Q_Id": "OH_32",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no di pu bizü thema mi pu sü posüte? n küve ri posüte?",
+    "hint": "A20221128105530120473_281474976739743.wav"
+  },
+  {
+    "quesId": "Q20221128103239022742",
+    "Q_Id": "OH_33",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "ma di pu n la no ma küjotho-u?",
+    "hint": "A20221128105531372636_281474976739744.wav"
+  },
+  {
+    "quesId": "Q20221128103239023102",
+    "Q_Id": "OH_34",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no mi zü kümüza küto la, mi za di pu bizü pe yo?",
+    "hint": "A20221128105532627993_281474976739745.wav"
+  },
+  {
+    "quesId": "Q20221128103239023463",
+    "Q_Id": "OH_35",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "cezü lo ma küve thi zü ko dolü dipu n la no uma kürü tho?",
+    "hint": "A20221128105533933488_281474976739746.wav"
+  },
+  {
+    "quesId": "Q20221128103239023849",
+    "Q_Id": "OH_36",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no tsi hi dipu rhi ba, küno/hisa la no?",
+    "hint": "A20221128105535185061_281474976739747.wav"
+  },
+  {
+    "quesId": "Q20221128103239024255",
+    "Q_Id": "OH_37",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no vokuto tü-o lo hi dipu rhi ba n la no mu cekro ko la no?",
+    "hint": "A20221128105536495458_281474976739748.wav"
+  },
+  {
+    "quesId": "Q20221128103239024622",
+    "Q_Id": "OH_39",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no n natsi lü nü tsü hi kütso n tho n jo rüle vapu ri küde vori ma? n natsi lü nü tsü kütso n rüna lü dipu bizü ko küde ta?",
+    "hint": "A20221128105537950168_281474976739749.wav"
+  },
+  {
+    "quesId": "Q20221128103239024980",
+    "Q_Id": "OH_40",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "n jüpo lü dipu bizü lü, mi jüpo ce ri kre te süzi-e po-o ve?",
+    "hint": "A20221128105539213328_281474976739750.wav"
+  },
+  {
+    "quesId": "Q20221128103239025433",
+    "Q_Id": "OH_41",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "tsüdo khre ko dibi no u tho u jü lü mi zü kerethi yo?",
+    "hint": "A20221128105540463993_281474976739751.wav"
+  },
+  {
+    "quesId": "Q20221128103239025802",
+    "Q_Id": "OH_42",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no n külü lo, hisa u jüko mu uko zho dipu bi no rüde/ küde vori ta?",
+    "hint": "A20221128105541715975_281474976739752.wav"
+  },
+  {
+    "quesId": "Q20221128103239026622",
+    "Q_Id": "OH_43",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no vori kuto natsi khre ko la no dipu po ni sawa?",
+    "hint": "A20221128105542960875_281474976739753.wav"
+  },
+  {
+    "quesId": "Q20221128103239027021",
+    "Q_Id": "OH_45",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "tethi mori di pu bizü tü ce n tho n jü lü mi thüju pozü se yo?",
+    "hint": "A20221128105544211565_281474976739754.wav"
+  },
+  {
+    "quesId": "Q20221128103239027391",
+    "Q_Id": "OH_46",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no n natsi ce rüni zü thüju khropu posüte?",
+    "hint": "A20221128105545517195_281474976739755.wav"
+  },
+  {
+    "quesId": "Q20221128103239027784",
+    "Q_Id": "OH_47",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "u tho u jü lü thüjü pozü ma mori lesi tho zü ma mele(famous) zü bame ?",
+    "hint": "A20221128105547026387_281474976739756.wav"
+  },
+  {
+    "quesId": "Q20221128103239028177",
+    "Q_Id": "OH_48",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "neko rami za li(music) ko di pu bi no thiyo? mhanyo dipu bizü sü yo?",
+    "hint": "A20221128105548480656_281474976739757.wav"
+  },
+  {
+    "quesId": "Q20221128103239028545",
+    "Q_Id": "OH_51",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no dipu bizü tsale/ li rüni vori?",
+    "hint": "A20221128105549735045_281474976739758.wav"
+  },
+  {
+    "quesId": "Q20221128103239028938",
+    "Q_Id": "OH_52",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no dipu tü ce tsale rüni yo mu di pu bi lü nü rüni yo? no puko tsale thi zü hi u mhi lü nü ngo pe rüni yo me, me kükre mhanyo khro lü nü rüni yo?",
+    "hint": "A20221128105550989131_281474976739759.wav"
+  },
+  {
+    "quesId": "Q20221128103239029413",
+    "Q_Id": "OH_54",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "n rüna lo ngo küve dipu bizü lecho(food) mi vori mütha ti zü veto ha?",
+    "hint": "A20221128105552241500_281474976739760.wav"
+  },
+  {
+    "quesId": "Q20221128103239029803",
+    "Q_Id": "OH_56",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "n rünami ko dipü bizü füne ko süyo?",
+    "hint": "A20221128105553528112_281474976739761.wav"
+  },
+  {
+    "quesId": "Q20221128103239030168",
+    "Q_Id": "OH_57",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no dipu bizü füne ko n natsi lü nü tsü kutso sü vori?",
+    "hint": "A20221128105554843622_281474976739762.wav"
+  },
+  {
+    "quesId": "Q20221128103239030533",
+    "Q_Id": "OH_58",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no tsi hi ri thazü(traditional) füne kropü sü me? thazü(traditional) füne sü mütha, süsü jü posüte, di-e kethi ce süyo mü dila no süyo?",
+    "hint": "A20221128105556361263_281474976739763.wav"
+  },
+  {
+    "quesId": "Q20221128103239030897",
+    "Q_Id": "OH_59",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no n füne sü zü ko dolü dipü n la no u ma küri tho mu di la no?",
+    "hint": "A20221128105557616159_281474976739764.wav"
+  },
+  {
+    "quesId": "Q20221128103239031298",
+    "Q_Id": "OH_61",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "n rüna lü thünomi mu thüpumi ko di pu bizü matho ko thi mosü yo?",
+    "hint": "A20221128105558867233_281474976739765.wav"
+  },
+  {
+    "quesId": "Q20221128103239031659",
+    "Q_Id": "OH_63",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no tha mosheri n do ko dipu thi no bayo?",
+    "hint": "A20221128105559918161_281474976739766.wav"
+  },
+  {
+    "quesId": "Q20221128103239032020",
+    "Q_Id": "OH_64",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no n füne di pu bizü sü no mathi no bayo?",
+    "hint": "A20221128105601169500_281474976739767.wav"
+  },
+  {
+    "quesId": "Q20221128103239032399",
+    "Q_Id": "OH_65",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no dipü bizü lü nü rüvü zü unyu yo? no rüvü zü unüyo ma? no dipu bi no n matho ko lo voyo?",
+    "hint": "A20221128105602617213_281474976739768.wav"
+  },
+  {
+    "quesId": "Q20221128103239032759",
+    "Q_Id": "OH_66",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "thazü tü ce celü ko dipu biyo? ",
+    "hint": "A20221128105604067934_281474976739769.wav"
+  },
+  {
+    "quesId": "Q20221128103239033117",
+    "Q_Id": "OH_67",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "n rüna za physical geography ju posüte?",
+    "hint": "A20221128105605378593_281474976739770.wav"
+  },
+  {
+    "quesId": "Q20221128103239033478",
+    "Q_Id": "OH_68",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "khünu dipu bizü ngo yo n rüna ce ko?",
+    "hint": "A20221128105606622827_281474976739771.wav"
+  },
+  {
+    "quesId": "Q20221128103239033835",
+    "Q_Id": "OH_69",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "di pu bizü nhabo ko nyo yo n rüna ce ko?",
+    "hint": "A20221128105607873909_281474976739772.wav"
+  },
+  {
+    "quesId": "Q20221128103239034227",
+    "Q_Id": "OH_70",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no tsüdo mhanyo küsa dipu bizü nyoyi? mhanyo küsa ko dolü di pu no n la küvetho mu dila no",
+    "hint": "A20221128105609401614_281474976739773.wav"
+  },
+  {
+    "quesId": "Q20221128103239034619",
+    "Q_Id": "OH_71",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no tsüdo mhanyo küsa dipu bizü nyoyi? mhanyo küsa ko dolü di pu no n la küvetho mu dila no",
+    "hint": "A20221128105610857944_281474976739774.wav"
+  },
+  {
+    "quesId": "Q20221128103239034994",
+    "Q_Id": "OH_72",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "no mahu kükre n ju ko posa nyi sa me?",
+    "hint": "A20221128105704097265_281474976739775.wav"
+  }
+]

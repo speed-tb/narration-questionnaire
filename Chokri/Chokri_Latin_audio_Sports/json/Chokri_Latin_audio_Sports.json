@@ -1,0 +1,130 @@
+[
+  {
+    "quesId": "Q20221128103239042990",
+    "Q_Id": "SPR_1",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Polo hi dibi no shüdu vori ?",
+    "hint": "A20221128105730448298_281474976739796.wav"
+  },
+  {
+    "quesId": "Q20221128103239043349",
+    "Q_Id": "SPR_2",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "neko rüna lo thazü dipü bizü rüzü merü thino vori?",
+    "hint": "A20221128105731500399_281474976739797.wav"
+  },
+  {
+    "quesId": "Q20221128103239043708",
+    "Q_Id": "SPR_3",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "rugby bizü rüzü kropu bame neko rüna lo?",
+    "hint": "A20221128105732793626_281474976739798.wav"
+  },
+  {
+    "quesId": "Q20221128103239044077",
+    "Q_Id": "SPR_4",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Dibi no rüzü hi u mo sürho thi bayo?",
+    "hint": "A20221128105734148262_281474976739799.wav"
+  },
+  {
+    "quesId": "Q20221128103239044440",
+    "Q_Id": "SPR_5",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "No dibi zü rüzü ko rüzü yo? Dibi no rüzü yo?",
+    "hint": "A20221128105735399474_281474976739800.wav"
+  },
+  {
+    "quesId": "Q20221128103239044848",
+    "Q_Id": "SPR_6",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "n natsi ce no di rüzü rüzü yo? No thazü rüzü zü bayo thuju kropü posüte?",
+    "hint": "A20221128105736647851_281474976739801.wav"
+  },
+  {
+    "quesId": "Q20221128103239045217",
+    "Q_Id": "SPR_7",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "celü rüzü mu ceta rüzü küve posüte?",
+    "hint": "A20221128105737951850_281474976739802.wav"
+  },
+  {
+    "quesId": "Q20221128103239045593",
+    "Q_Id": "SPR_8",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "wrestling bizü rüzü za posüte? Süno süko sü rüzü yo?",
+    "hint": "A20221128105739199436_281474976739803.wav"
+  },
+  {
+    "quesId": "Q20221128103239045945",
+    "Q_Id": "SPR_9",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "board games rüzü za posüte? Ba mütha u za ko mü dipübi no rüzü yo?",
+    "hint": "A20221128105740448098_281474976739804.wav"
+  },
+  {
+    "quesId": "Q20221128103239046305",
+    "Q_Id": "SPR_10",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "marble(guti) sü no rüzü yo ma? di bizü rüzü rüzü yo? dibi no rüzü yo?",
+    "hint": "A20221128105741696400_281474976739805.wav"
+  },
+  {
+    "quesId": "Q20221128103239046666",
+    "Q_Id": "SPR_11",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "kütsü sü no dipü bizü rüzü rüzüyo? dibi no rüzü yo?",
+    "hint": "A20221128105743009938_281474976739806.wav"
+  },
+  {
+    "quesId": "Q20221128103239047016",
+    "Q_Id": "SPR_12",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "rüzü pü ri küra müle zü ko mori thayese müle zü ko bayo ma?",
+    "hint": "A20221128105744255484_281474976739807.wav"
+  },
+  {
+    "quesId": "Q20221128103239047391",
+    "Q_Id": "SPR_13",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "sü(stick) sü no rüzü pü ri bayo ma? Dibi no rüzü yo?",
+    "hint": "A20221128105745501380_281474976739808.wav"
+  },
+  {
+    "quesId": "Q20221128103239047746",
+    "Q_Id": "SPR_14",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "celü lo rüzü za rüzü pü ri n rüna lo bayo ma? Dibi no rüzü yo?",
+    "hint": "A20221128105746807581_281474976739809.wav"
+  },
+  {
+    "quesId": "Q20221128103239048134",
+    "Q_Id": "SPR_15",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "rü(boat) pü no rüzü zü za rüzü pü ri bayo ma? Ütü mü dibi no rüzü yo?",
+    "hint": "A20221128105748060195_281474976739810.wav"
+  },
+  {
+    "quesId": "Q20221128103239048510",
+    "Q_Id": "SPR_16",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "yoga hi pü kümüve diwa?",
+    "hint": "A20221128105749110349_281474976739811.wav"
+  }
+]

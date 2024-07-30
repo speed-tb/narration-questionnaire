@@ -1,0 +1,1522 @@
+[
+  {
+    "quesId": "Q20221128103238867094",
+    "Q_Id": "AG_1",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "n thüma mori n rünami ko dipu bizü rhase ranye/bate teyo?",
+    "hint": "A20221128104725878529_281474976737803.wav"
+  },
+  {
+    "quesId": "Q20221128103238867468",
+    "Q_Id": "AG_2",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "thüma rhase ranye/bate(crop) teyo zü mi kha dipu thi tsüyo? puko ga bizü ko lübi teyo me mha kükre mhatho ri thiyo? mha kükre mhatho thiyo mütha , dipu thi yo?",
+    "hint": "A20221128104727336323_281474976737804.wav"
+  },
+  {
+    "quesId": "Q20221128103238867835",
+    "Q_Id": "AG_3",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ga kükre kükre zü n thüma ko mori rünami ko teyo zü posüte? kütsa tho lo ri uza se pungu posüte?",
+    "hint": "A20221128104728641287_281474976737805.wav"
+  },
+  {
+    "quesId": "Q20221128103238868206",
+    "Q_Id": "AG_4",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "tekhri mori utu dibi zü ce ga hiko teyo?",
+    "hint": "A20221128104729934414_281474976737806.wav"
+  },
+  {
+    "quesId": "Q20221128103238868574",
+    "Q_Id": "AG_5",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipu bi no ga hiko teyo?",
+    "hint": "A20221128104730979730_281474976737807.wav"
+  },
+  {
+    "quesId": "Q20221128103238868940",
+    "Q_Id": "AG_6",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "mü küto la pütü didu-o yiyo?",
+    "hint": "A20221128104732280250_281474976737808.wav"
+  },
+  {
+    "quesId": "Q20221128103238869308",
+    "Q_Id": "AG_7",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ga hiko te zü ce, daru bizü sü yo me? me ga vo vekuto la udo kükre kro-o ba?",
+    "hint": "A20221128104733566508_281474976737809.wav"
+  },
+  {
+    "quesId": "Q20221128103238869669",
+    "Q_Id": "AG_8",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipu bi no hiko mi kükremi ko ce zhu yo?",
+    "hint": "A20221128104734618396_281474976737810.wav"
+  },
+  {
+    "quesId": "Q20221128103238870026",
+    "Q_Id": "AG_9",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipu bi no hiko cho no tiyo?",
+    "hint": "A20221128104735864438_281474976737811.wav"
+  },
+  {
+    "quesId": "Q20221128103238870412",
+    "Q_Id": "AG_10",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "rhase kükre kükre zü n thüma mori rünami teyo zü posüte? kütsa tho lo ri uza se pungu posüte?",
+    "hint": "A20221128104737211949_281474976737812.wav"
+  },
+  {
+    "quesId": "Q20221128103238870784",
+    "Q_Id": "AG_11",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "tekhri mori utu dibi zü ce rhase hiko teyo?",
+    "hint": "A20221128104738458574_281474976737813.wav"
+  },
+  {
+    "quesId": "Q20221128103238871165",
+    "Q_Id": "AG_12",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipu bi no rhase hiko teyo?",
+    "hint": "A20221128104739512226_281474976737814.wav"
+  },
+  {
+    "quesId": "Q20221128103238871525",
+    "Q_Id": "AG_13",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "mü küto la pütü didu-o yiyo?",
+    "hint": "A20221128104740561667_281474976737815.wav"
+  },
+  {
+    "quesId": "Q20221128103238871886",
+    "Q_Id": "AG_14",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "rhase hiko te zü ce, daru bizü sü yo me? me rhase vo vekuto la udo kükre kro-o ba?",
+    "hint": "A20221128104741810175_281474976737816.wav"
+  },
+  {
+    "quesId": "Q20221128103238872264",
+    "Q_Id": "AG_15",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipu bi no hiko mi kükremi ko che zhu yo?",
+    "hint": "A20221128104742857267_281474976737817.wav"
+  },
+  {
+    "quesId": "Q20221128103238872626",
+    "Q_Id": "AG_16",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipu bi no hiko cho no tiyo?",
+    "hint": "A20221128104743905334_281474976737818.wav"
+  },
+  {
+    "quesId": "Q20221128103238872984",
+    "Q_Id": "AG_17",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "lhako kükre kükre zü n thüma ko mori rüna mi teyo küzü uza küna-sü posüte?",
+    "hint": "A20221128104745152345_281474976737819.wav"
+  },
+  {
+    "quesId": "Q20221128103238873340",
+    "Q_Id": "AG_18",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "tekhri mori utu dibi zü ce lhako hiko teyo?",
+    "hint": "A20221128104746451759_281474976737820.wav"
+  },
+  {
+    "quesId": "Q20221128103238873703",
+    "Q_Id": "AG_19",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipu bi no lhako hiko teyo?",
+    "hint": "A20221128104747530129_281474976737821.wav"
+  },
+  {
+    "quesId": "Q20221128103238874083",
+    "Q_Id": "AG_20",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "mü küto la pütü didu-o yiyo?",
+    "hint": "A20221128104748581371_281474976737822.wav"
+  },
+  {
+    "quesId": "Q20221128103238874458",
+    "Q_Id": "AG_21",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "lhako hiko te zü ce, daru bizü sü yo me? me lhako vo vekuto la udo kükre kro-o ba?",
+    "hint": "A20221128104749832464_281474976737823.wav"
+  },
+  {
+    "quesId": "Q20221128103238874821",
+    "Q_Id": "AG_22",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipu bi no hiko mi kükremi ko ce zhu yo?",
+    "hint": "A20221128104750879271_281474976737824.wav"
+  },
+  {
+    "quesId": "Q20221128103238875180",
+    "Q_Id": "AG_23",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipu bi no hiko cho no tiyo?",
+    "hint": "A20221128104751923261_281474976737825.wav"
+  },
+  {
+    "quesId": "Q20221128103238875536",
+    "Q_Id": "AG_24",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "rhase rane kükre kükre zü n thüma ko mori rüna mi teyo küzü uza küna-sü posüte?",
+    "hint": "A20221128104753177511_281474976737826.wav"
+  },
+  {
+    "quesId": "Q20221128103238875897",
+    "Q_Id": "AG_25",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "tekhri mori utu dibi zü ce rhase rane hiko teyo?",
+    "hint": "A20221128104754523770_281474976737827.wav"
+  },
+  {
+    "quesId": "Q20221128103238876282",
+    "Q_Id": "AG_26",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipu bi no rhase rane hiko teyo?",
+    "hint": "A20221128104755767287_281474976737828.wav"
+  },
+  {
+    "quesId": "Q20221128103238876643",
+    "Q_Id": "AG_27",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "mü küto la pütü didu-o yiyo?",
+    "hint": "A20221128104756814596_281474976737829.wav"
+  },
+  {
+    "quesId": "Q20221128103238877009",
+    "Q_Id": "AG_28",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "rhase rane hiko te zü ce, daru bizü sü yo me? me lhako vo vekuto la udo kükre kro-o ba?",
+    "hint": "A20221128104757867185_281474976737830.wav"
+  },
+  {
+    "quesId": "Q20221128103238877376",
+    "Q_Id": "AG_29",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipu bi no hiko mi kükremi ko ce zhu yo?",
+    "hint": "A20221128104758912821_281474976737831.wav"
+  },
+  {
+    "quesId": "Q20221128103238877760",
+    "Q_Id": "AG_30",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipu bi no hiko cho no tiyo?",
+    "hint": "A20221128104800200907_281474976737832.wav"
+  },
+  {
+    "quesId": "Q20221128103238878178",
+    "Q_Id": "AG_31",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "sübo kükre kükre zü n thüma ko mori rüna mi teyo küzü uza se pungu posüte?",
+    "hint": "A20221128104801511675_281474976737833.wav"
+  },
+  {
+    "quesId": "Q20221128103238878579",
+    "Q_Id": "AG_32",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "sübo hiko pü no dipu thiyo?",
+    "hint": "A20221128104802617214_281474976737834.wav"
+  },
+  {
+    "quesId": "Q20221128103238878948",
+    "Q_Id": "AG_33",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipu bi no sübo hiko teyo?",
+    "hint": "A20221128104803664403_281474976737835.wav"
+  },
+  {
+    "quesId": "Q20221128103238879310",
+    "Q_Id": "AG_34",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "zho no pü mhathi-e küve pari küto la pütü didu-o yiyo?",
+    "hint": "A20221128104804913927_281474976737836.wav"
+  },
+  {
+    "quesId": "Q20221128103238879678",
+    "Q_Id": "AG_35",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "sübo hiko te zü ce, daru bizü sü yo me? me sübo vo vekuto la udo kükre kro-o ba?",
+    "hint": "A20221128104806002773_281474976737837.wav"
+  },
+  {
+    "quesId": "Q20221128103238880044",
+    "Q_Id": "AG_36",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "n thüma ko dipu bino mha te zü mathoko mi kükre mi ce ri khre ku zü ju khropu posüte?",
+    "hint": "A20221128104807252793_281474976737838.wav"
+  },
+  {
+    "quesId": "Q20221128103238880428",
+    "Q_Id": "AG_37",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "vokutau tetse ko lü dipu bi no mha tezü matho ko kre no vori zü ngo?",
+    "hint": "A20221128104808697074_281474976737839.wav"
+  },
+  {
+    "quesId": "Q20221128103238880791",
+    "Q_Id": "AG_38",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "mha te zü jü kropü posüte ?",
+    "hint": "A20221128104809990269_281474976737840.wav"
+  },
+  {
+    "quesId": "Q20221128103238881325",
+    "Q_Id": "AG_39",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ma tezü matho ko la di pu bizü manyo khropu süyo?",
+    "hint": "A20221128104811290319_281474976737841.wav"
+  },
+  {
+    "quesId": "Q20221128103238881756",
+    "Q_Id": "AG_40",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "manyo süko sü dipu bi no ma kükre kükre zü lo sü mathi yo?",
+    "hint": "A20221128104812389407_281474976737842.wav"
+  },
+  {
+    "quesId": "Q20221128103238882158",
+    "Q_Id": "AG_41",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "mhanyo süko sü no di pu bino n thüma ko la matho thi reri ku wa?",
+    "hint": "A20221128104813642472_281474976737843.wav"
+  },
+  {
+    "quesId": "Q20221128103238882543",
+    "Q_Id": "AG_42",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "n thüma ko mha tezü matho ko mori yi lo mathi keti ce manyo kükre(technology) khropu ala sü yo me?",
+    "hint": "A20221128104814889697_281474976737844.wav"
+  },
+  {
+    "quesId": "Q20221128103238882921",
+    "Q_Id": "AG_43",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "manyo(technology) hiko di pu bi no süyo?",
+    "hint": "A20221128104816133366_281474976737845.wav"
+  },
+  {
+    "quesId": "Q20221128103238883292",
+    "Q_Id": "AG_44",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "yi lo di pu bizü khünü sü yo?",
+    "hint": "A20221128104817423009_281474976737846.wav"
+  },
+  {
+    "quesId": "Q20221128103238883659",
+    "Q_Id": "AG_45",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "n thüma ko la khünü sü zü uküve mu di pu bi no süyo zü ju khropu posüte?",
+    "hint": "A20221128104818671802_281474976737847.wav"
+  },
+  {
+    "quesId": "Q20221128103238884027",
+    "Q_Id": "AG_112",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipü bi non khü lü mha te küto la jü pü vori yo?",
+    "hint": "A20221128104819928366_281474976737848.wav"
+  },
+  {
+    "quesId": "Q20221128103238884403",
+    "Q_Id": "AG_113",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Türü mo zü ce dipü bi no jü pu vori no n khü lo mütsü süyo?",
+    "hint": "A20221128104821174372_281474976737849.wav"
+  },
+  {
+    "quesId": "Q20221128103238884775",
+    "Q_Id": "AG_114",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "N rüna lo dipü bizü bete teyo?",
+    "hint": "A20221128104822276298_281474976737850.wav"
+  },
+  {
+    "quesId": "Q20221128103238885133",
+    "Q_Id": "AG_115",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bizü bete(crops) no jü sü mükro mu jü sü mütsa yo?",
+    "hint": "A20221128104823523192_281474976737851.wav"
+  },
+  {
+    "quesId": "Q20221128103238885522",
+    "Q_Id": "AG_116",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bizü bete(crops) tüsü tü ce teyo?",
+    "hint": "A20221128104824819270_281474976737852.wav"
+  },
+  {
+    "quesId": "Q20221128103238885895",
+    "Q_Id": "AG_117",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bizü bete türü zü tü ce teyo?",
+    "hint": "A20221128104826106311_281474976737853.wav"
+  },
+  {
+    "quesId": "Q20221128103238886262",
+    "Q_Id": "AG_118",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bizü bete(crops) tiche mütü lü te ve?",
+    "hint": "A20221128104827358425_281474976737854.wav"
+  },
+  {
+    "quesId": "Q20221128103238886624",
+    "Q_Id": "AG_119",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "n cekro ko n zü yi te yo mütha, dipü bizü matho thi küza sü yo?",
+    "hint": "A20221128104828603903_281474976737855.wav"
+  },
+  {
+    "quesId": "Q20221128103238886987",
+    "Q_Id": "AG_120",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bizü manyo sü no bete thiyo?",
+    "hint": "A20221128104829850536_281474976737856.wav"
+  },
+  {
+    "quesId": "Q20221128103238887352",
+    "Q_Id": "AG_121",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "bete(crops) te zü ce dipü bizü daru ko sü yo?",
+    "hint": "A20221128104831154177_281474976737857.wav"
+  },
+  {
+    "quesId": "Q20221128103238887714",
+    "Q_Id": "AG_122",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bizü bete(crops) lo metho bü süyo?",
+    "hint": "A20221128104832403102_281474976737858.wav"
+  },
+  {
+    "quesId": "Q20221128103238888085",
+    "Q_Id": "AG_123",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Süno n rüna lo fü ko thekü yo?",
+    "hint": "A20221128104833458703_281474976737859.wav"
+  },
+  {
+    "quesId": "Q20221128103238888451",
+    "Q_Id": "AG_124",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Süno n rüna lo thevü ko thekü yo?",
+    "hint": "A20221128104834705716_281474976737860.wav"
+  },
+  {
+    "quesId": "Q20221128103238888808",
+    "Q_Id": "AG_125",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Süno n rüna lo khunune ko thekü yo?",
+    "hint": "A20221128104835958712_281474976737861.wav"
+  },
+  {
+    "quesId": "Q20221128103238889169",
+    "Q_Id": "AG_126",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Süno n rüna lo tenyü ko thekü yo?",
+    "hint": "A20221128104837056182_281474976737862.wav"
+  },
+  {
+    "quesId": "Q20221128103238889568",
+    "Q_Id": "AG_127",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Süno n rüno lo teko ko thekü yo?",
+    "hint": "A20221128104838103555_281474976737863.wav"
+  },
+  {
+    "quesId": "Q20221128103238889934",
+    "Q_Id": "AG_128",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "No jü thü bayo zü khunune dipu bizü thekü yo n rüna mi ko?",
+    "hint": "A20221128104839355134_281474976737864.wav"
+  },
+  {
+    "quesId": "Q20221128103238890292",
+    "Q_Id": "AG_129",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "no methonojü pü no dipu thiyo?",
+    "hint": "A20221128104840454026_281474976737865.wav"
+  },
+  {
+    "quesId": "Q20221128103238890657",
+    "Q_Id": "AG_130",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipü pü no n metho ko vi yo?",
+    "hint": "A20221128104841498435_281474976737866.wav"
+  },
+  {
+    "quesId": "Q20221128103238891019",
+    "Q_Id": "AG_131",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bizü pulses ko te yo?",
+    "hint": "A20221128104842546517_281474976737867.wav"
+  },
+  {
+    "quesId": "Q20221128103238891385",
+    "Q_Id": "AG_132",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bizü ga kümüjo ko teyo?",
+    "hint": "A20221128104843601717_281474976737868.wav"
+  },
+  {
+    "quesId": "Q20221128103238891745",
+    "Q_Id": "AG_133",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bizü ga te yo?",
+    "hint": "A20221128104844650563_281474976737869.wav"
+  },
+  {
+    "quesId": "Q20221128103238892119",
+    "Q_Id": "AG_134",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ma teyo küzü ko dice kha ma müta yo?",
+    "hint": "A20221128104845699754_281474976737870.wav"
+  },
+  {
+    "quesId": "Q20221128103238892481",
+    "Q_Id": "AG_135",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bizü bete(crops) ko government pe yo?",
+    "hint": "A20221128104846958758_281474976737871.wav"
+  },
+  {
+    "quesId": "Q20221128103238892837",
+    "Q_Id": "AG_276",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipü bi no thimü thi müso yo?",
+    "hint": "A20221128104848062466_281474976737872.wav"
+  },
+  {
+    "quesId": "Q20221128103238893192",
+    "Q_Id": "AG_277",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bi no ga ko thi müso yo?",
+    "hint": "A20221128104849141756_281474976737873.wav"
+  },
+  {
+    "quesId": "Q20221128103238893577",
+    "Q_Id": "AG_278",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bi no fü thi müso yo?",
+    "hint": "A20221128104850187450_281474976737874.wav"
+  },
+  {
+    "quesId": "Q20221128103238893948",
+    "Q_Id": "AG_279",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bi hezo thi yo?",
+    "hint": "A20221128104851236830_281474976737875.wav"
+  },
+  {
+    "quesId": "Q20221128103238894307",
+    "Q_Id": "AG_280",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Hezo thi küto la, di sü yo?",
+    "hint": "A20221128104852285286_281474976737876.wav"
+  },
+  {
+    "quesId": "Q20221128103238894667",
+    "Q_Id": "AG_46",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Talhako utsa kükre kükre zü dipü bizü teyo? Pu küve mu pu küsü posüte?",
+    "hint": "A20221128104853580939_281474976737877.wav"
+  },
+  {
+    "quesId": "Q20221128103238895027",
+    "Q_Id": "AG_47",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Talhako utsa kükre kükre zü dipü bizü teyo?",
+    "hint": "A20221128104854637827_281474976737878.wav"
+  },
+  {
+    "quesId": "Q20221128103238895402",
+    "Q_Id": "AG_48",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tekhri mu utü dipu bizü te hiko teyo? Talhako hi sepu lübi teyo mütha, dipü la no sibi ta?",
+    "hint": "A20221128104855999842_281474976737879.wav"
+  },
+  {
+    "quesId": "Q20221128103238895778",
+    "Q_Id": "AG_49",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no talhako kükre kükre zü ko teyo? Sepu lübi zo ta mütha , u jü sü ri posüte?",
+    "hint": "A20221128104857249885_281474976737880.wav"
+  },
+  {
+    "quesId": "Q20221128103238896147",
+    "Q_Id": "AG_50",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "mü küto pü tü dipü bizü yi yo?",
+    "hint": "A20221128104858331522_281474976737881.wav"
+  },
+  {
+    "quesId": "Q20221128103238896523",
+    "Q_Id": "AG_51",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Talhako hiko tezü ce, daru bizü kropu süyo me? Me talhako ko vo veküto la udo kükre kro-o ba me?",
+    "hint": "A20221128104859578352_281474976737882.wav"
+  },
+  {
+    "quesId": "Q20221128103238896915",
+    "Q_Id": "AG_52",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no mi ce ju yo?",
+    "hint": "A20221128104900627929_281474976737883.wav"
+  },
+  {
+    "quesId": "Q20221128103238897290",
+    "Q_Id": "AG_53",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no cho mu tiyo?",
+    "hint": "A20221128104901877724_281474976737884.wav"
+  },
+  {
+    "quesId": "Q20221128103238897655",
+    "Q_Id": "AG_54",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Sako utsa kükre kükre zü dipü bizü teyo? Pu küve mu pu küsü posüte?",
+    "hint": "A20221128104903132588_281474976737885.wav"
+  },
+  {
+    "quesId": "Q20221128103238898018",
+    "Q_Id": "AG_55",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Sako utsa kükre kükre zü dipü bizü teyo?",
+    "hint": "A20221128104904382313_281474976737886.wav"
+  },
+  {
+    "quesId": "Q20221128103238898433",
+    "Q_Id": "AG_56",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tekhri mu utü dipu bizü ce sako hiko teyo? Sako hi utsa sepu lübi teyo mütha, dipü la no sibi ta?",
+    "hint": "A20221128104905729488_281474976737887.wav"
+  },
+  {
+    "quesId": "Q20221128103238898811",
+    "Q_Id": "AG_57",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no sako kükre kükre zü ko teyo? Sepu lübi zo ta mütha , u jü sü ri posüte?",
+    "hint": "A20221128104906984777_281474976737888.wav"
+  },
+  {
+    "quesId": "Q20221128103238899176",
+    "Q_Id": "AG_58",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "mü küto pü tü dipü bizü yi yo?",
+    "hint": "A20221128104908231551_281474976737889.wav"
+  },
+  {
+    "quesId": "Q20221128103238899540",
+    "Q_Id": "AG_59",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Sako hiko tezü ce, daru bizü kropu süyo me? Me sako ko vo veküto la udo kükre kro-o ba me?",
+    "hint": "A20221128104909537729_281474976737890.wav"
+  },
+  {
+    "quesId": "Q20221128103238899900",
+    "Q_Id": "AG_60",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no mi ce ju yo?",
+    "hint": "A20221128104910783137_281474976737891.wav"
+  },
+  {
+    "quesId": "Q20221128103238900302",
+    "Q_Id": "AG_61",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no cho mu tiyo?",
+    "hint": "A20221128104911828622_281474976737892.wav"
+  },
+  {
+    "quesId": "Q20221128103238900679",
+    "Q_Id": "AG_62",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Thise utsa kükre kükre zü dipü bizü teyo? Pu küve mu pu küsü posüte?",
+    "hint": "A20221128104913277112_281474976737893.wav"
+  },
+  {
+    "quesId": "Q20221128103238901042",
+    "Q_Id": "AG_63",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Thise utsa kükre kükre zü dipü bizü teyo?",
+    "hint": "A20221128104914578771_281474976737894.wav"
+  },
+  {
+    "quesId": "Q20221128103238901406",
+    "Q_Id": "AG_64",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tekhri mu utü dipu bizü ce thise hiko teyo? thise hi utsa sepu lübi teyo mütha, dipü la no sibi ta?",
+    "hint": "A20221128104915881326_281474976737895.wav"
+  },
+  {
+    "quesId": "Q20221128103238901771",
+    "Q_Id": "AG_65",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no sako kükre kükre zü ko teyo? Sepu lübi zo ta mütha , u jü sü ri posüte?",
+    "hint": "A20221128104916927749_281474976737896.wav"
+  },
+  {
+    "quesId": "Q20221128103238902159",
+    "Q_Id": "AG_66",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "mü küto pü tü dipü bizü yi yo?",
+    "hint": "A20221128104918172617_281474976737897.wav"
+  },
+  {
+    "quesId": "Q20221128103238902524",
+    "Q_Id": "AG_67",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Thise hiko tezü ce, daru bizü kropu süyo me? Me thise ko vo veküto la udo kükre kro-o ba me?",
+    "hint": "A20221128104919423614_281474976737898.wav"
+  },
+  {
+    "quesId": "Q20221128103238902884",
+    "Q_Id": "AG_68",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no mi ce ju yo?",
+    "hint": "A20221128104920674411_281474976737899.wav"
+  },
+  {
+    "quesId": "Q20221128103238903240",
+    "Q_Id": "AG_69",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no cho mu tiyo?",
+    "hint": "A20221128104921722897_281474976737900.wav"
+  },
+  {
+    "quesId": "Q20221128103238903625",
+    "Q_Id": "AG_70",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Turmeric utsa kükre kükre zü dipü bizü teyo? Pu küve mu pu küsü posüte?",
+    "hint": "A20221128104922971882_281474976737901.wav"
+  },
+  {
+    "quesId": "Q20221128103238904000",
+    "Q_Id": "AG_71",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Turmeric utsa kükre kükre zü dipü bizü teyo?",
+    "hint": "A20221128104924282651_281474976737902.wav"
+  },
+  {
+    "quesId": "Q20221128103238904382",
+    "Q_Id": "AG_72",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tekhri mu utü dipu bizü ce turmeric hiko teyo? turmeric hi utsa sepu lübi teyo mütha, dipü la no sibi ta?",
+    "hint": "A20221128104925527350_281474976737903.wav"
+  },
+  {
+    "quesId": "Q20221128103238904748",
+    "Q_Id": "AG_73",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Turmeric hiko te küto la udo dipu bizü süyo? Utsa sepü lubi teyo mütha, di pü la no sibi ta?",
+    "hint": "A20221128104926779818_281474976737904.wav"
+  },
+  {
+    "quesId": "Q20221128103238905193",
+    "Q_Id": "AG_74",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "mü küto pü tü dipü bizü yi yo?",
+    "hint": "A20221128104930304489_281474976737905.wav"
+  },
+  {
+    "quesId": "Q20221128103238905564",
+    "Q_Id": "AG_75",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Turmeric hiko tezü ce, daru bizü kropu süyo me? Me turmeric ko vo veküto la udo kükre kro-o ba me?",
+    "hint": "A20221128104931546111_281474976737906.wav"
+  },
+  {
+    "quesId": "Q20221128103238905923",
+    "Q_Id": "AG_76",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no mi ce ju yo?",
+    "hint": "A20221128104932593525_281474976737907.wav"
+  },
+  {
+    "quesId": "Q20221128103238906281",
+    "Q_Id": "AG_77",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no cho mu tiyo?",
+    "hint": "A20221128104933640444_281474976737908.wav"
+  },
+  {
+    "quesId": "Q20221128103238906639",
+    "Q_Id": "AG_78",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "alu utsa kükre kükre zü dipü bizü teyo? Pu küve mu pu küsü posüte?",
+    "hint": "A20221128105209751312_281474976737909.wav"
+  },
+  {
+    "quesId": "Q20221128103238907020",
+    "Q_Id": "AG_79",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "alu utsa kükre kükre zü dipü bizü teyo?",
+    "hint": "A20221128105210999534_281474976737910.wav"
+  },
+  {
+    "quesId": "Q20221128103238907395",
+    "Q_Id": "AG_80",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tekhri mu utü dipu bizü ce alu hiko teyo? alu hi utsa sepu lübi teyo mütha, dipü la no sibi ta?",
+    "hint": "A20221128105212249150_281474976737911.wav"
+  },
+  {
+    "quesId": "Q20221128103238907762",
+    "Q_Id": "AG_81",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Alu hiko te küto la udo dipu bizü süyo? Utsa sepü lubi teyo mütha, di pü la no sibi ta?",
+    "hint": "A20221128105213325506_281474976737912.wav"
+  },
+  {
+    "quesId": "Q20221128103238908135",
+    "Q_Id": "AG_82",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "mü küto pü tü dipü bizü yi yo?",
+    "hint": "A20221128104939460407_281474976737929.wav"
+  },
+  {
+    "quesId": "Q20221128103238908498",
+    "Q_Id": "AG_83",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "alu hiko tezü ce, daru bizü kropu süyo me? Me alu ko vo veküto la udo kükre kro-o ba me?",
+    "hint": "A20221128104940507786_281474976737930.wav"
+  },
+  {
+    "quesId": "Q20221128103238908854",
+    "Q_Id": "AG_84",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no mi ce ju yo?",
+    "hint": "A20221128104941553601_281474976737931.wav"
+  },
+  {
+    "quesId": "Q20221128103238909205",
+    "Q_Id": "AG_85",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no cho mu tiyo?",
+    "hint": "A20221128104942598868_281474976737932.wav"
+  },
+  {
+    "quesId": "Q20221128103238909555",
+    "Q_Id": "AG_281",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Chü(millet) utsa kükre kükre zü dipü bizü teyo? Pu küve mu pu küsü posüte?",
+    "hint": "A20221128105219081135_281474976737917.wav"
+  },
+  {
+    "quesId": "Q20221128103238909907",
+    "Q_Id": "AG_282",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Chü(millet) utsa kükre kükre zü dipü bizü teyo?",
+    "hint": "A20221128105220333612_281474976737918.wav"
+  },
+  {
+    "quesId": "Q20221128103238910290",
+    "Q_Id": "AG_283",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tekhri mu utü dipu bizü ce chü(millet) hiko teyo? chü(millet) hi utsa sepu lübi teyo mütha, dipü la no sibi ta?",
+    "hint": "A20221128105221590912_281474976737919.wav"
+  },
+  {
+    "quesId": "Q20221128103238910661",
+    "Q_Id": "AG_284",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Chü(millet) hiko te küto la udo dipu bizü süyo? Utsa sepü lubi teyo mütha, di pü la no sibi ta?",
+    "hint": "A20221128105222837211_281474976737920.wav"
+  },
+  {
+    "quesId": "Q20221128103238911015",
+    "Q_Id": "AG_285",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "mü küto pü tü dipü bizü yi yo?",
+    "hint": "A20221128104948502505_281474976737937.wav"
+  },
+  {
+    "quesId": "Q20221128103238911371",
+    "Q_Id": "AG_286",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "chü(millet) hiko tezü ce, daru bizü kropu süyo me? Me chü ko vo veküto la udo kükre kro-o ba me?",
+    "hint": "A20221128104955702809_281474976739482.wav"
+  },
+  {
+    "quesId": "Q20221128103238911725",
+    "Q_Id": "AG_287",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no mi ce ju yo?",
+    "hint": "A20221128104956752632_281474976739483.wav"
+  },
+  {
+    "quesId": "Q20221128103238912097",
+    "Q_Id": "AG_288",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no cho mu tiyo?",
+    "hint": "A20221128104957854905_281474976739484.wav"
+  },
+  {
+    "quesId": "Q20221128103238912463",
+    "Q_Id": "AG_289",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "küvü utsa kükre kükre zü dipü bizü teyo? Pu küve mu pu küsü posüte?",
+    "hint": "A20221128104934983207_281474976737925.wav"
+  },
+  {
+    "quesId": "Q20221128103238912826",
+    "Q_Id": "AG_290",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "küvü utsa kükre kükre zü dipü bizü teyo?",
+    "hint": "A20221128104936032897_281474976737926.wav"
+  },
+  {
+    "quesId": "Q20221128103238913189",
+    "Q_Id": "AG_291",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tekhri mu utü dipu bizü ce küvü hiko teyo? küvü hi utsa sepu lübi teyo mütha, dipü la no sibi ta?",
+    "hint": "A20221128104937334537_281474976737927.wav"
+  },
+  {
+    "quesId": "Q20221128103238913577",
+    "Q_Id": "AG_292",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "küvü hiko te küto la udo dipu bizü süyo? Utsa sepü lubi teyo mütha, di pü la no sibi ta?",
+    "hint": "A20221128104938380193_281474976737928.wav"
+  },
+  {
+    "quesId": "Q20221128103238913953",
+    "Q_Id": "AG_293",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "mü küto pü tü dipü bizü yi yo?",
+    "hint": "A20221128104954453733_281474976739481.wav"
+  },
+  {
+    "quesId": "Q20221128103238914318",
+    "Q_Id": "AG_294",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "küvü hiko tezü ce, daru bizü kropu süyo me? Me küvü ko vo veküto la udo kükre kro-o ba me?",
+    "hint": "A20221128105215680285_281474976737914.wav"
+  },
+  {
+    "quesId": "Q20221128103238914677",
+    "Q_Id": "AG_295",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no mi ce ju yo?",
+    "hint": "A20221128105216730154_281474976737915.wav"
+  },
+  {
+    "quesId": "Q20221128103238915031",
+    "Q_Id": "AG_296",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no cho mu tiyo?",
+    "hint": "A20221128105217777507_281474976737916.wav"
+  },
+  {
+    "quesId": "Q20221128103238915390",
+    "Q_Id": "AG_297",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "elaichi utsa kükre kükre zü dipü bizü teyo? Pu küve mu pu küsü posüte?",
+    "hint": "A20221128104943897825_281474976737933.wav"
+  },
+  {
+    "quesId": "Q20221128103238915747",
+    "Q_Id": "AG_298",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "elaichi utsa kükre kükre zü dipü bizü teyo?",
+    "hint": "A20221128104945144949_281474976737934.wav"
+  },
+  {
+    "quesId": "Q20221128103238916120",
+    "Q_Id": "AG_299",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tekhri mu utü dipu bizü ce elaichi hiko teyo? elaichi hi utsa sepu lübi teyo mütha, dipü la no sibi ta?",
+    "hint": "A20221128104946395371_281474976737935.wav"
+  },
+  {
+    "quesId": "Q20221128103238916487",
+    "Q_Id": "AG_300",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "elaichi hiko te küto la udo dipu bizü süyo? Utsa sepü lubi teyo mütha, di pü la no sibi ta?",
+    "hint": "A20221128104947451797_281474976737936.wav"
+  },
+  {
+    "quesId": "Q20221128103238916875",
+    "Q_Id": "AG_301",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "mü küto pü tü dipü bizü yi yo?",
+    "hint": "A20221128105214379104_281474976737913.wav"
+  },
+  {
+    "quesId": "Q20221128103238917250",
+    "Q_Id": "AG_302",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "elaichi hiko tezü ce, daru bizü kropu süyo me? Me elaichi ko vo veküto la udo kükre kro-o ba me?",
+    "hint": "A20221128105225124093_281474976737922.wav"
+  },
+  {
+    "quesId": "Q20221128103238917611",
+    "Q_Id": "AG_303",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no mi ce ju yo?",
+    "hint": "A20221128105226219836_281474976737923.wav"
+  },
+  {
+    "quesId": "Q20221128103238917965",
+    "Q_Id": "AG_304",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no cho mu tiyo?",
+    "hint": "A20221128105227266712_281474976737924.wav"
+  },
+  {
+    "quesId": "Q20221128103238918322",
+    "Q_Id": "AG_305",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "gakre(mustard) utsa kükre kükre zü dipü bizü teyo? Pu küve mu pu küsü posüte?",
+    "hint": "A20221128105231707716_281474976739461.wav"
+  },
+  {
+    "quesId": "Q20221128103238918681",
+    "Q_Id": "AG_306",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "gakre(mustard) utsa kükre kükre zü dipü bizü teyo?",
+    "hint": "A20221128105232957699_281474976739462.wav"
+  },
+  {
+    "quesId": "Q20221128103238919041",
+    "Q_Id": "AG_307",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tekhri mu utü dipu bizü ce gakre hiko teyo? gakre hi utsa sepu lübi teyo mütha, dipü la no sibi ta?",
+    "hint": "A20221128105234257002_281474976739463.wav"
+  },
+  {
+    "quesId": "Q20221128103238919404",
+    "Q_Id": "AG_308",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "gakre(mustard) hiko te küto la udo dipu bizü süyo? Utsa sepü lubi teyo mütha, di pü la no sibi ta?",
+    "hint": "A20221128105235302901_281474976739464.wav"
+  },
+  {
+    "quesId": "Q20221128103238919764",
+    "Q_Id": "AG_309",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "mü küto pü tü dipü bizü yi yo?",
+    "hint": "A20221128105223882740_281474976737921.wav"
+  },
+  {
+    "quesId": "Q20221128103238920157",
+    "Q_Id": "AG_310",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "gakre hiko tezü ce, daru bizü kropu süyo me? Me elaichi ko vo veküto la udo kükre kro-o ba me?",
+    "hint": "A20221128105228312870_281474976739458.wav"
+  },
+  {
+    "quesId": "Q20221128103238920532",
+    "Q_Id": "AG_311",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no mi ce ju yo?",
+    "hint": "A20221128105229361489_281474976739459.wav"
+  },
+  {
+    "quesId": "Q20221128103238920891",
+    "Q_Id": "AG_312",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no cho mu tiyo?",
+    "hint": "A20221128105230411342_281474976739460.wav"
+  },
+  {
+    "quesId": "Q20221128103238921249",
+    "Q_Id": "AG_86",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "alu utsa kükre kükre zü dipü bizü teyo? Pu küve mu pu küsü posüte?",
+    "hint": "A20221128105240986477_281474976739469.wav"
+  },
+  {
+    "quesId": "Q20221128103238921608",
+    "Q_Id": "AG_87",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "alu utsa kükre kükre zü dipü bizü teyo?",
+    "hint": "A20221128105242094549_281474976739470.wav"
+  },
+  {
+    "quesId": "Q20221128103238921968",
+    "Q_Id": "AG_88",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tekhri mu utü dipu bizü ce alu hiko teyo? alu hi utsa sepu lübi teyo mütha, dipü la no sibi ta?",
+    "hint": "A20221128105243344985_281474976739471.wav"
+  },
+  {
+    "quesId": "Q20221128103238922334",
+    "Q_Id": "AG_89",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Alu hiko te küto la udo dipu bizü süyo? Utsa sepü lubi teyo mütha, di pü la no sibi ta?",
+    "hint": "A20221128105244398398_281474976739472.wav"
+  },
+  {
+    "quesId": "Q20221128103238922696",
+    "Q_Id": "AG_90",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "mü küto pü tü dipü bizü yi yo?",
+    "hint": "A20221128105236388606_281474976739465.wav"
+  },
+  {
+    "quesId": "Q20221128103238923054",
+    "Q_Id": "AG_91",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "alu hiko tezü ce, daru bizü kropu süyo me? Me alu ko vo veküto la udo kükre kro-o ba me?",
+    "hint": "A20221128105237637823_281474976739466.wav"
+  },
+  {
+    "quesId": "Q20221128103238923435",
+    "Q_Id": "AG_92",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no mi ce ju yo?",
+    "hint": "A20221128105238690742_281474976739467.wav"
+  },
+  {
+    "quesId": "Q20221128103238923804",
+    "Q_Id": "AG_93",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no cho mu tiyo?",
+    "hint": "A20221128105239732701_281474976739468.wav"
+  },
+  {
+    "quesId": "Q20221128103238924183",
+    "Q_Id": "AG_94",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "thayese(banana) utsa kükre kükre zü dipü bizü teyo? Pu küve mu pu küsü posüte?",
+    "hint": "A20221128104949756985_281474976739477.wav"
+  },
+  {
+    "quesId": "Q20221128103238924548",
+    "Q_Id": "AG_95",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Thayese(banana) utsa kükre kükre zü dipü bizü teyo?",
+    "hint": "A20221128104950999881_281474976739478.wav"
+  },
+  {
+    "quesId": "Q20221128103238924915",
+    "Q_Id": "AG_96",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tekhri mu utü dipu bizü ce thayese hiko teyo? thayese hi utsa sepu lübi teyo mütha, dipü la no sibi ta?",
+    "hint": "A20221128104952363047_281474976739479.wav"
+  },
+  {
+    "quesId": "Q20221128103238925275",
+    "Q_Id": "AG_97",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Thayese hiko te küto la udo dipu bizü süyo? Utsa sepü lubi teyo mütha, di pü la no sibi ta?",
+    "hint": "A20221128104953407967_281474976739480.wav"
+  },
+  {
+    "quesId": "Q20221128103238925631",
+    "Q_Id": "AG_98",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "mü küto pü tü dipü bizü yi yo?",
+    "hint": "A20221128105245445395_281474976739473.wav"
+  },
+  {
+    "quesId": "Q20221128103238925986",
+    "Q_Id": "AG_99",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Thayese(banana) hiko tezü ce, daru bizü kropu süyo me? Me thayese ko vo veküto la udo kükre kro-o ba me?",
+    "hint": "A20221128105246685989_281474976739474.wav"
+  },
+  {
+    "quesId": "Q20221128103238926343",
+    "Q_Id": "AG_100",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no mi ce ju yo?",
+    "hint": "A20221128105247741079_281474976739475.wav"
+  },
+  {
+    "quesId": "Q20221128103238926726",
+    "Q_Id": "AG_101",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipu bi no cho mu tiyo?",
+    "hint": "A20221128105248787272_281474976739476.wav"
+  },
+  {
+    "quesId": "Q20221128103238927099",
+    "Q_Id": "AG_102",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bizü khunü ne n celü lo meri yo?",
+    "hint": "A20221128104958903343_281474976739485.wav"
+  },
+  {
+    "quesId": "Q20221128103238927460",
+    "Q_Id": "AG_103",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dip bizü lo khünü hiko süyo?",
+    "hint": "A20221128104959994786_281474976739486.wav"
+  },
+  {
+    "quesId": "Q20221128103238927819",
+    "Q_Id": "AG_104",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Thüvo ko pü-u no dipü thiyo?",
+    "hint": "A20221128105001094333_281474976739487.wav"
+  },
+  {
+    "quesId": "Q20221128103238928185",
+    "Q_Id": "AG_105",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü pü-u ucho thiyo?",
+    "hint": "A20221128105002139416_281474976739488.wav"
+  },
+  {
+    "quesId": "Q20221128103238928546",
+    "Q_Id": "AG_106",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bi no thüvo ko pe meri yo?",
+    "hint": "A20221128105003194870_281474976739489.wav"
+  },
+  {
+    "quesId": "Q20221128103238928902",
+    "Q_Id": "AG_107",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Thüvo ko thüsa mori rüce dipü bizü bayo?",
+    "hint": "A20221128105004439953_281474976739490.wav"
+  },
+  {
+    "quesId": "Q20221128103238929263",
+    "Q_Id": "AG_108",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Thüvo ko pü-u no dice meriyo?",
+    "hint": "A20221128105005490261_281474976739491.wav"
+  },
+  {
+    "quesId": "Q20221128103238929620",
+    "Q_Id": "AG_109",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "Toto mi ko hi dipu bi no sako müri yo?",
+    "hint": "A20221128105249881109_281474976739492.wav"
+  },
+  {
+    "quesId": "Q20221128103238929975",
+    "Q_Id": "AG_110",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "khothal hi di la no müri yo?",
+    "hint": "A20221128105250977066_281474976739493.wav"
+  },
+  {
+    "quesId": "Q20221128103238954652",
+    "Q_Id": "AG_188",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "talhako kükre kükre zü ko za posüte?",
+    "hint": "A20221128105006735605_281474976739560.wav"
+  },
+  {
+    "quesId": "Q20221128103238955036",
+    "Q_Id": "AG_189",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "tekhri mori utu dibi zü ce talhako hiko teyo?mu talhako hiko di pu bino kre ta?",
+    "hint": "A20221128105100016009_281474976739561.wav"
+  },
+  {
+    "quesId": "Q20221128103238955406",
+    "Q_Id": "AG_190",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "di pu bi no talhako hiko teyo? talhako mütü ri khüma no teyo me? utsa kükre kükre zü ko lü udo kree no te yo?",
+    "hint": "A20221128105101463463_281474976739562.wav"
+  },
+  {
+    "quesId": "Q20221128103238955772",
+    "Q_Id": "AG_191",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "hiko te zü ce, daru bizü sü yo me? me lhako vo vekuto la udo kükre kro-o ba?",
+    "hint": "A20221128105102759553_281474976739563.wav"
+  },
+  {
+    "quesId": "Q20221128103238956170",
+    "Q_Id": "AG_192",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "mü küto la utü di tsü yi yo?",
+    "hint": "A20221128105103854235_281474976739564.wav"
+  },
+  {
+    "quesId": "Q20221128103238956533",
+    "Q_Id": "AG_193",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "di pu bi no cho tiyo?",
+    "hint": "A20221128105104937621_281474976739565.wav"
+  },
+  {
+    "quesId": "Q20221128103238956895",
+    "Q_Id": "AG_194",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ma bu ditsü nyo yo vapu te zü yo lü? mi kükre mi ce ju yo me?",
+    "hint": "A20221128105106204081_281474976739566.wav"
+  },
+  {
+    "quesId": "Q20221128103238957254",
+    "Q_Id": "AG_195",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ganyo-gara(herbs and veg) kükre kükre zü za ko posüte?",
+    "hint": "A20221128105107553772_281474976739567.wav"
+  },
+  {
+    "quesId": "Q20221128103238957637",
+    "Q_Id": "AG_196",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "tekhri mori utu dibi zü ce ganyo-gara hiko teyo?",
+    "hint": "A20221128105108803095_281474976739568.wav"
+  },
+  {
+    "quesId": "Q20221128103238958006",
+    "Q_Id": "AG_197",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "di pu bi no hiko teyo?",
+    "hint": "A20221128105109900317_281474976739569.wav"
+  },
+  {
+    "quesId": "Q20221128103238958392",
+    "Q_Id": "AG_198",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "hiko te zü ce, daru bizü sü yo me? me vekuto la udo kükre kro-o ba?",
+    "hint": "A20221128105111148074_281474976739570.wav"
+  },
+  {
+    "quesId": "Q20221128103238958755",
+    "Q_Id": "AG_199",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "utü di pu bizü yiyo cho ti küve pari küto la?",
+    "hint": "A20221128105112202470_281474976739571.wav"
+  },
+  {
+    "quesId": "Q20221128103238959113",
+    "Q_Id": "AG_200",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipubi no cho mu ti yo?",
+    "hint": "A20221128105113248419_281474976739572.wav"
+  },
+  {
+    "quesId": "Q20221128103238959467",
+    "Q_Id": "AG_201",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipubi no mi ce ju yo?",
+    "hint": "A20221128105114301637_281474976739573.wav"
+  },
+  {
+    "quesId": "Q20221128103238959820",
+    "Q_Id": "AG_202",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "khünune kükre kükre zü dipü n celü lü meri yo?",
+    "hint": "A20221128105115549604_281474976739574.wav"
+  },
+  {
+    "quesId": "Q20221128103238960189",
+    "Q_Id": "AG_203",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipu thi küto la khününe hiko meri yo?",
+    "hint": "A20221128105116631602_281474976739575.wav"
+  },
+  {
+    "quesId": "Q20221128103238960547",
+    "Q_Id": "AG_204",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "dipu kha püko cho thi no vi yo?",
+    "hint": "A20221128105117984567_281474976739576.wav"
+  },
+  {
+    "quesId": "Q20221128103238960905",
+    "Q_Id": "AG_205",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "khünu ko dipu dipu cho la no celü khama no meri yo?",
+    "hint": "A20221128105119277116_281474976739577.wav"
+  },
+  {
+    "quesId": "Q20221128103238961288",
+    "Q_Id": "AG_206",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "khünü meri zü ko mütü ti yo me? tiyo mü tha, di pu cho lü nu tiyo?",
+    "hint": "A20221128105120524675_281474976739578.wav"
+  }
+]

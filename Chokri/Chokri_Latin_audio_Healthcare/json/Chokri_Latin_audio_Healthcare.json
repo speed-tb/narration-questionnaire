@@ -1,0 +1,162 @@
+[
+  {
+    "quesId": "Q20221128103239035360",
+    "Q_Id": "HLT_1",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "nha daru(traditional medicine) za üküve posüte?",
+    "hint": "A20221128105705396153_281474976739776.wav"
+  },
+  {
+    "quesId": "Q20221128103239035721",
+    "Q_Id": "HLT_2",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Dila no nha daru süyo?",
+    "hint": "A20221128105706453207_281474976739777.wav"
+  },
+  {
+    "quesId": "Q20221128103239036100",
+    "Q_Id": "HLT_3",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "nha daru mori di bizü nha ko süyo üva külha zü ce? Dibi no thiyo? Mü dibi no tiyo?",
+    "hint": "A20221128105707900837_281474976739778.wav"
+  },
+  {
+    "quesId": "Q20221128103239036464",
+    "Q_Id": "HLT_4",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "no vapü ri nha daru sü ma? nha daru sü zü za jü sepü posüte?",
+    "hint": "A20221128105709250974_281474976739779.wav"
+  },
+  {
+    "quesId": "Q20221128103239036826",
+    "Q_Id": "HLT_5",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "nha daru kükre zü ko sü no ma kükre kükre pe yo küba , üza ko posüte? Dibi no thiyo mü dila no thiyo?",
+    "hint": "A20221128105710697262_281474976739780.wav"
+  },
+  {
+    "quesId": "Q20221128103239037216",
+    "Q_Id": "HLT_6",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "no dibi no rüce ta zü se yo? No ruce zü ce dipü bizü nha darü süyo?",
+    "hint": "A20221128105711955573_281474976739781.wav"
+  },
+  {
+    "quesId": "Q20221128103239037605",
+    "Q_Id": "HLT_7",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "No mükhrorü rüce zü ce dibi tayo? Nha daru dibi no ti mori kra yo?",
+    "hint": "A20221128105713412382_281474976739782.wav"
+  },
+  {
+    "quesId": "Q20221128103239038001",
+    "Q_Id": "HLT_8",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "rüza(injury) ta zü ce di thi no peyo? kütsü kürü rüzae zü ce ko nha daru khropü sü yo me ma? Dibi no daru süko sü thiyo?",
+    "hint": "A20221128105714667274_281474976739783.wav"
+  },
+  {
+    "quesId": "Q20221128103239038377",
+    "Q_Id": "HLT_9",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "No n mo surho ba küto la di thiyo?",
+    "hint": "A20221128105715768110_281474976739784.wav"
+  },
+  {
+    "quesId": "Q20221128103239038781",
+    "Q_Id": "HLT_11",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "nha daru dibi zü ko sü yo pipa/pitha la no?",
+    "hint": "A20221128105717018457_281474976739785.wav"
+  },
+  {
+    "quesId": "Q20221128103239039206",
+    "Q_Id": "HLT_12",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "n pitha la no dipü bizü daru süyo?",
+    "hint": "A20221128105718264047_281474976739786.wav"
+  },
+  {
+    "quesId": "Q20221128103239039619",
+    "Q_Id": "HLT_13",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "n mo thi zü ce nha daru dibi zü ko sü yo?",
+    "hint": "A20221128105719316151_281474976739787.wav"
+  },
+  {
+    "quesId": "Q20221128103239040009",
+    "Q_Id": "HLT_14",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "nha daru dibi zü ko sü yo n mo(muscle) thi zü ce?",
+    "hint": "A20221128105720576228_281474976739788.wav"
+  },
+  {
+    "quesId": "Q20221128103239040397",
+    "Q_Id": "HLT_15",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "nha daru dibi zü ko sü yo n hu(teeth) thi zü ce?",
+    "hint": "A20221128105721821234_281474976739789.wav"
+  },
+  {
+    "quesId": "Q20221128103239040761",
+    "Q_Id": "HLT_16",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "N pi thi zü ce nha daru dibi zü ko sü yo?",
+    "hint": "A20221128105723066492_281474976739790.wav"
+  },
+  {
+    "quesId": "Q20221128103239041124",
+    "Q_Id": "HLT_17",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "nha daru dibi zü ko sü yo thüno mi ko kümüje tü ce(mensural pain/cramp)?",
+    "hint": "A20221128105724324601_281474976739791.wav"
+  },
+  {
+    "quesId": "Q20221128103239041518",
+    "Q_Id": "HLT_18",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Covid 19 tü ce corona virus müka küho la no di bizü nha daru sü vori?",
+    "hint": "A20221128105725641640_281474976739792.wav"
+  },
+  {
+    "quesId": "Q20221128103239041891",
+    "Q_Id": "HLT_19",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "n hu(teeth) thi zü ce dibi zü nha daru sü yo?",
+    "hint": "A20221128105726893611_281474976739793.wav"
+  },
+  {
+    "quesId": "Q20221128103239042260",
+    "Q_Id": "HLT_20",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "nha daru di bi zü ko sü uhu(teeth) küthi kükre kükre zü(decay,gum disease,sensitivity etc) ko la?",
+    "hint": "A20221128105728145311_281474976739794.wav"
+  },
+  {
+    "quesId": "Q20221128103239042627",
+    "Q_Id": "HLT_21",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "neko rüna lo thuma mi pe yo zü(kobiraz) mi bayo ma? Püko dipü bizü thi no mi pe yo?",
+    "hint": "A20221128105729395236_281474976739795.wav"
+  }
+]

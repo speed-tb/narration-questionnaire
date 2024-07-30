@@ -1,0 +1,338 @@
+[
+  {
+    "quesId": "Q20221128103238962007",
+    "Q_Id": "LC_1",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "thümane menü küyi tücie n suyie zholü dipü bizü nani thi yo?",
+    "hint": "A20221128105121838326_281474976739580.wav"
+  },
+  {
+    "quesId": "Q20221128103238962364",
+    "Q_Id": "LC_2",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "utü mu tethi di pu bizü ce thümane za tho zü nani thiyo?",
+    "hint": "A20221128105123141618_281474976739581.wav"
+  },
+  {
+    "quesId": "Q20221128103238962723",
+    "Q_Id": "LC_3",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "thümane menü zü nami hi ditsü bi zü thiyo? mü menü zü nani za ko posüte mu dila no thiyo?",
+    "hint": "A20221128105124587572_281474976739582.wav"
+  },
+  {
+    "quesId": "Q20221128103238963079",
+    "Q_Id": "LC_4",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "menü zü nani hi utü mu uzho di pu bi no che yo?",
+    "hint": "A20221128105125891220_281474976739583.wav"
+  },
+  {
+    "quesId": "Q20221128103238963435",
+    "Q_Id": "LC_5",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "mi süno bizü ko cü yo?",
+    "hint": "A20221128105127141498_281474976739584.wav"
+  },
+  {
+    "quesId": "Q20221128103238963790",
+    "Q_Id": "LC_6",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "mi vori küba ko ba kre yo me?me dibi no bayo?",
+    "hint": "A20221128105128390632_281474976739585.wav"
+  },
+  {
+    "quesId": "Q20221128103238964148",
+    "Q_Id": "LC_7",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "di pu bi no nani hi thi vo yo?",
+    "hint": "A20221128105129703842_281474976739586.wav"
+  },
+  {
+    "quesId": "Q20221128103238964504",
+    "Q_Id": "LC_8",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "münü zü nani hi lü dipü bizü mhanyo ko sü yo?",
+    "hint": "A20221128105131010339_281474976739587.wav"
+  },
+  {
+    "quesId": "Q20221128103238964885",
+    "Q_Id": "LC_9",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "süno thümane za tho sü yo? mu dibi no thoyo?",
+    "hint": "A20221128105132322868_281474976739588.wav"
+  },
+  {
+    "quesId": "Q20221128103238965254",
+    "Q_Id": "LC_10",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "süno no thümane münü zü nani matho ko küsü sü yo?",
+    "hint": "A20221128105133372412_281474976739589.wav"
+  },
+  {
+    "quesId": "Q20221128103238965615",
+    "Q_Id": "LC_11",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "nani hi tso ta sa lü thenye mori thehü ko thiyo me? thiyo mütha dipü bizü ganuo ko cho sü yo?",
+    "hint": "A20221128105134821676_281474976739590.wav"
+  },
+  {
+    "quesId": "Q20221128103238965971",
+    "Q_Id": "LC_12",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "süno cese cenye müpra yo ?",
+    "hint": "A20221128105136123873_281474976739591.wav"
+  },
+  {
+    "quesId": "Q20221128103238966323",
+    "Q_Id": "LC_13",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "nani hi la no, no mahü posa ni sa me?",
+    "hint": "A20221128105137371175_281474976739592.wav"
+  },
+  {
+    "quesId": "Q20221128103238966683",
+    "Q_Id": "LC_41",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "natsimine menü zü tü ce tetse kürao lü pü wo di-e ti yo?",
+    "hint": "A20221128105138714520_281474976739593.wav"
+  },
+  {
+    "quesId": "Q20221128103238967042",
+    "Q_Id": "LC_14",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "neko rünami ko jo lü ceyo thi kü mo mojü ce theno-thepü kü sü ve me? ",
+    "hint": "A20221128105139964832_281474976739594.wav"
+  },
+  {
+    "quesId": "Q20221128103238967407",
+    "Q_Id": "LC_15",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "neko ma mi ko thüno-thepü ceyo thi küto la dipü thiyo?",
+    "hint": "A20221128105141216776_281474976739595.wav"
+  },
+  {
+    "quesId": "Q20221128103238967770",
+    "Q_Id": "LC_16",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "süno po phü süyo?",
+    "hint": "A20221128105142313748_281474976739596.wav"
+  },
+  {
+    "quesId": "Q20221128103238968143",
+    "Q_Id": "LC_17",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "nolü kükre kükre zü dipu süyo ceyo thi küto la?",
+    "hint": "A20221128105143563974_281474976739597.wav"
+  },
+  {
+    "quesId": "Q20221128103238968532",
+    "Q_Id": "LC_18",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "utü mu tethi di pu ce ceyo ko thi yo?",
+    "hint": "A20221128105144819589_281474976739598.wav"
+  },
+  {
+    "quesId": "Q20221128103238968907",
+    "Q_Id": "LC_19",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "nolü ditsü bizü bayo ceyo thizü ce? nolü za mu di pu la thiyo süko sü posüte?",
+    "hint": "A20221128105146071355_281474976739599.wav"
+  },
+  {
+    "quesId": "Q20221128103238969266",
+    "Q_Id": "LC_20",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "utü mu uzho di pu bi no che yo?",
+    "hint": "A20221128105147321649_281474976739600.wav"
+  },
+  {
+    "quesId": "Q20221128103238969623",
+    "Q_Id": "LC_21",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ceyo thi zü ce thüma mi dibi zü ko tsü mü vori yo?",
+    "hint": "A20221128105148681761_281474976739601.wav"
+  },
+  {
+    "quesId": "Q20221128103238969980",
+    "Q_Id": "LC_22",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "nolü tü ce di pu bi no thüma ko wo bayo?",
+    "hint": "A20221128105149772026_281474976739602.wav"
+  },
+  {
+    "quesId": "Q20221128103238970333",
+    "Q_Id": "LC_23",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ceyo thi zü ce dipü bizü nani ko thi vo yo?",
+    "hint": "A20221128105151030265_281474976739603.wav"
+  },
+  {
+    "quesId": "Q20221128103238970686",
+    "Q_Id": "LC_24",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "dipu bizü manyo ko pu süno ceyo nolü(marriage ceremonies) thi yo?",
+    "hint": "A20221128105152276935_281474976739604.wav"
+  },
+  {
+    "quesId": "Q20221128103238971038",
+    "Q_Id": "LC_25",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "süno ceyo nolü küsüsü yo?",
+    "hint": "A20221128105153527584_281474976739605.wav"
+  },
+  {
+    "quesId": "Q20221128103238971393",
+    "Q_Id": "LC_26",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ceyo thi kümo mojü mori ceyo thi zü ce mori ceyo sa lo thehü(feast) bayo me? di pu bizü lecho ko bayo?",
+    "hint": "A20221128105154773817_281474976739606.wav"
+  },
+  {
+    "quesId": "Q20221128103238971747",
+    "Q_Id": "LC_27",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ceyo thi zü ce dibi no thehü(feast) küsü yo?",
+    "hint": "A20221128105156019131_281474976739607.wav"
+  },
+  {
+    "quesId": "Q20221128103238972136",
+    "Q_Id": "LC_28",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ceyo nolü za ju kro pu ba mütha posa süni sa me?",
+    "hint": "A20221128105157311515_281474976739608.wav"
+  },
+  {
+    "quesId": "Q20221128103238972508",
+    "Q_Id": "LC_42",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "thüno thepü ceyo thi küra tü ce u rüna mi ko dibi no püne zü-ü(welcome) yo?",
+    "hint": "A20221128105158560246_281474976739609.wav"
+  },
+  {
+    "quesId": "Q20221128103238972864",
+    "Q_Id": "LC_29",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "n rüna mi ko küsa(death) nani dipü bizü thi yo?",
+    "hint": "A20221128105159808459_281474976739610.wav"
+  },
+  {
+    "quesId": "Q20221128103238973221",
+    "Q_Id": "LC_30",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "utü mu uzho di pu bizüce küsa nye ko thiyo?",
+    "hint": "A20221128105201060181_281474976739611.wav"
+  },
+  {
+    "quesId": "Q20221128103238973578",
+    "Q_Id": "LC_31",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "küsa nye kükre kükre kütsü ditsü bizü bayo? u za mü u chou posüte",
+    "hint": "A20221128105202356432_281474976739612.wav"
+  },
+  {
+    "quesId": "Q20221128103238973933",
+    "Q_Id": "LC_32",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "küsa(death) thi zü ce thüma di pu bizü ko cü yo?",
+    "hint": "A20221128105203600943_281474976739613.wav"
+  },
+  {
+    "quesId": "Q20221128103238974290",
+    "Q_Id": "LC_33",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "küsa nye ce thüma ko dipu bi no bayo?",
+    "hint": "A20221128105204850657_281474976739614.wav"
+  },
+  {
+    "quesId": "Q20221128103238974650",
+    "Q_Id": "LC_34",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "dipu bi no küsa nye thiyo?",
+    "hint": "A20221128105206154870_281474976739615.wav"
+  },
+  {
+    "quesId": "Q20221128103238975007",
+    "Q_Id": "LC_35",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "dipu bizü manyo ko pu süno küsa nye thi yo?",
+    "hint": "A20221128105207449759_281474976739616.wav"
+  },
+  {
+    "quesId": "Q20221128103238975385",
+    "Q_Id": "LC_36",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "süno küsa nye küsüsüyo?",
+    "hint": "A20221128105208499285_281474976739617.wav"
+  },
+  {
+    "quesId": "Q20221128103238975755",
+    "Q_Id": "LC_37",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "küsa nye thi zü ce thehü bezü bayo me?",
+    "hint": "A20221128105252275146_281474976739618.wav"
+  },
+  {
+    "quesId": "Q20221128103238976124",
+    "Q_Id": "LC_38",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "küsa nye thi zü la no sopü no u cesü-cenye müpra yo?",
+    "hint": "A20221128105253525416_281474976739619.wav"
+  },
+  {
+    "quesId": "Q20221128103238976484",
+    "Q_Id": "LC_39",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "küsa nye ju basa lü mütha posa süni sawo me?",
+    "hint": "A20221128105254773240_281474976739620.wav"
+  },
+  {
+    "quesId": "Q20221128103238976838",
+    "Q_Id": "LC_40",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "nani mori thenye thi zü ce hezo ko krayo?",
+    "hint": "A20221128105256025871_281474976739621.wav"
+  }
+]

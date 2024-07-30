@@ -1,0 +1,922 @@
+[
+  {
+    "quesId": "Q20221128103238816072",
+    "Q_Id": "ED-01",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "n rüna mi ko thüma lesi phri zü ko mu phri kümo ko dipü bi no peyo?",
+    "hint": "A20221128104504120918_281474976737688.wav"
+  },
+  {
+    "quesId": "Q20221128103238816633",
+    "Q_Id": "ED-02",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "lesi mhase hi n rüna lo vori zü hi dipü bi no mha küde vori?",
+    "hint": "A20221128104505458792_281474976737689.wav"
+  },
+  {
+    "quesId": "Q20221128103238817043",
+    "Q_Id": "ED-03",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "No pethi vori zü ce Lesi ce lü dipü bi no ma küde vori zü ngo?",
+    "hint": "A20221128104506698461_281474976737690.wav"
+  },
+  {
+    "quesId": "Q20221128103238817451",
+    "Q_Id": "ED-04",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "N natsice lesice ko dibi no bayo mu tsi hi di bi no bata?",
+    "hint": "A20221128104507941615_281474976737691.wav"
+  },
+  {
+    "quesId": "Q20221128103238817834",
+    "Q_Id": "ED-05",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "thazü dibi no mhase küza no vori?",
+    "hint": "A20221128104509182327_281474976737692.wav"
+  },
+  {
+    "quesId": "Q20221128103238818210",
+    "Q_Id": "ED-06",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "lesi mhase hi tsü do ri ma uma ne me?",
+    "hint": "A20221128104510420732_281474976737693.wav"
+  },
+  {
+    "quesId": "Q20221128103238818580",
+    "Q_Id": "ED-07",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "lesi mhase jü kropü posüte?",
+    "hint": "A20221128104511654331_281474976737694.wav"
+  },
+  {
+    "quesId": "Q20221128103238818950",
+    "Q_Id": "ED-08",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "nko hi dipü bi no lesice mori lesi mhase hi thi-n vekü hü ta ?",
+    "hint": "A20221128104512890076_281474976737695.wav"
+  },
+  {
+    "quesId": "Q20221128103238819316",
+    "Q_Id": "ED-09",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "nko hi dipü bi no lesice mori lesi mhase hi thi-n vekü hü ta ?",
+    "hint": "A20221128104514124167_281474976737696.wav"
+  },
+  {
+    "quesId": "Q20221128103238819718",
+    "Q_Id": "ED-10",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "n rüna lo süno lesi phri kho müra thou? Mü pü n rüna mi la dipü thi vori?",
+    "hint": "A20221128104515374607_281474976737697.wav"
+  },
+  {
+    "quesId": "Q20221128103238820113",
+    "Q_Id": "ED-11",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "lesi mhase hi dibi no küzüküve pü vori yo?",
+    "hint": "A20221128104516672496_281474976737698.wav"
+  },
+  {
+    "quesId": "Q20221128103238820489",
+    "Q_Id": "ED-12",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "n külü lo dipü subject no zü küba hi küno n la veto ha?",
+    "hint": "A20221128104517913498_281474976737699.wav"
+  },
+  {
+    "quesId": "Q20221128103238820859",
+    "Q_Id": "ED-13",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Lesi mhase hi dipü bi no küdimi mu kütsakhumi ko thi mütsa kü wa?",
+    "hint": "A20221128104519207125_281474976737700.wav"
+  },
+  {
+    "quesId": "Q20221128103238821226",
+    "Q_Id": "ED-14",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "no homework hi dipu la n nü mu dipü la n nü yo mo?",
+    "hint": "A20221128104520507800_281474976737701.wav"
+  },
+  {
+    "quesId": "Q20221128103238821594",
+    "Q_Id": "ED-15",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "No dipü thi mütha lesi mhase se ve kü to wa?",
+    "hint": "A20221128104521794037_281474976737702.wav"
+  },
+  {
+    "quesId": "Q20221128103238821959",
+    "Q_Id": "ED-16",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "lesi mhase hi dipü bi no küzü küve pü vori yo?",
+    "hint": "A20221128104523082263_281474976737703.wav"
+  },
+  {
+    "quesId": "Q20221128103238822327",
+    "Q_Id": "ED-17",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "lesi mhase lo nu dipü bi no thüma mhase küsa mu mha do thi zü küsa seyo?",
+    "hint": "A20221128104524328615_281474976737704.wav"
+  },
+  {
+    "quesId": "Q20221128103238822695",
+    "Q_Id": "ED-18",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü n lü thi müre no n vo küve thi ni sa küyo: marks küve me küsü?",
+    "hint": "A20221128104525567865_281474976737705.wav"
+  },
+  {
+    "quesId": "Q20221128103238823056",
+    "Q_Id": "ED-19",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "nko lesi mhaseko hi kükro mi ko lübi do thi mosü me? Me u tho u rünami ko za ju ko ri phri mosü?",
+    "hint": "A20221128104526810054_281474976737706.wav"
+  },
+  {
+    "quesId": "Q20221128103238823444",
+    "Q_Id": "ED-20",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "lesi mhase hi dipü la no seyi mosü?",
+    "hint": "A20221128104528047441_281474976737707.wav"
+  },
+  {
+    "quesId": "Q20221128103238823820",
+    "Q_Id": "ED-21",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "dipü la no thüno thüpü küna zü mhase hi mütha yo mo?",
+    "hint": "A20221128104529288226_281474976737708.wav"
+  },
+  {
+    "quesId": "Q20221128103238824198",
+    "Q_Id": "ED-22",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "dipü no natsimi ne kowo lesi mhase mori thüdo kükre kükre zü thi/se ni sa zü külhü sü yo?",
+    "hint": "A20221128104530728507_281474976737709.wav"
+  },
+  {
+    "quesId": "Q20221128103238824562",
+    "Q_Id": "ED-23",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "u cekhro mi ko hi lesi mhase lo dipü bi no khrü hi yo?",
+    "hint": "A20221128104532018877_281474976737710.wav"
+  },
+  {
+    "quesId": "Q20221128103238824922",
+    "Q_Id": "ED-24",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Cejü mhase/ külü hi dipü bi no thüma mhase/külü thi küde yo?",
+    "hint": "A20221128104533261422_281474976737711.wav"
+  },
+  {
+    "quesId": "Q20221128103238825288",
+    "Q_Id": "ED-25",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "matric exam hi dipü la no exam uma küri tho ta?",
+    "hint": "A20221128104534554303_281474976737712.wav"
+  },
+  {
+    "quesId": "Q20221128103238825657",
+    "Q_Id": "ED-26",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Classroom lü di thi n nü tho thi yo?",
+    "hint": "A20221128104535591056_281474976737713.wav"
+  },
+  {
+    "quesId": "Q20221128103238826018",
+    "Q_Id": "ED-27",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "no mhatho dipü pü thi no, no unü kre-e no bayo?",
+    "hint": "A20221128104536874815_281474976737714.wav"
+  },
+  {
+    "quesId": "Q20221128103238826378",
+    "Q_Id": "ED-28",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "lesi mhase hi dipü bi no n külhü thi kede wa?",
+    "hint": "A20221128104538168784_281474976737715.wav"
+  },
+  {
+    "quesId": "Q20221128103238826736",
+    "Q_Id": "ED-29",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "lesi mhase hi dipü bi no nko külü mü nko mha müpe zü hi dipü bi no küde wa?",
+    "hint": "A20221128104539417278_281474976737716.wav"
+  },
+  {
+    "quesId": "Q20221128103238827124",
+    "Q_Id": "ED-30",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "lesi mhase lü nü dipü bi no mi mhakra zü mhatho ko lü küde vori?",
+    "hint": "A20221128104540658870_281474976737717.wav"
+  },
+  {
+    "quesId": "Q20221128103238827505",
+    "Q_Id": "ED-31",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "mobile phone mu internet hi dipü bi no lesi mhase lü küde ba?",
+    "hint": "A20221128104541902332_281474976737718.wav"
+  },
+  {
+    "quesId": "Q20221128103238827873",
+    "Q_Id": "ED-32",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "thüma hi dipü bi no lesi phri mü lesi tho se vori yo?",
+    "hint": "A20221128104543180164_281474976737719.wav"
+  },
+  {
+    "quesId": "Q20221128103238828254",
+    "Q_Id": "ED-33",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Subject dipü n la küri tho, lesice lü?",
+    "hint": "A20221128104544417890_281474976737720.wav"
+  },
+  {
+    "quesId": "Q20221128103238828613",
+    "Q_Id": "ED-34",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "natsimine ko lesice lü di se müsü?",
+    "hint": "A20221128104545453845_281474976737721.wav"
+  },
+  {
+    "quesId": "Q20221128103238828973",
+    "Q_Id": "ED-35",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "shüye/tethi dipü lo lesice mori university küvetho ko ba? Dipü la no süko sü ve ta? Dipü la no püko kükre ko ce ri ve ta?",
+    "hint": "A20221128104546896626_281474976737722.wav"
+  },
+  {
+    "quesId": "Q20221128103238829337",
+    "Q_Id": "ED-36",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "rüzü la no lesice ko dipü bizü provision kha mü ta yo?",
+    "hint": "A20221128104548137732_281474976737723.wav"
+  },
+  {
+    "quesId": "Q20221128103238829702",
+    "Q_Id": "ED-37",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "government ko lesice ko la no dipü thi-e mosü?",
+    "hint": "A20221128104549174396_281474976737724.wav"
+  },
+  {
+    "quesId": "Q20221128103238830065",
+    "Q_Id": "ED-38",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "natsimine ko ütho ü jü lo mütha zü lesice lo di pü bizü ma kürü zü küsü yo?",
+    "hint": "A20221128104550415983_281474976737725.wav"
+  },
+  {
+    "quesId": "Q20221128103238830454",
+    "Q_Id": "ED-39",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "natsimine ko wo lesice lü thüdo kükre kükre zü ko hi dipü seyi mosü?",
+    "hint": "A20221128104551660250_281474976737726.wav"
+  },
+  {
+    "quesId": "Q20221128103238830828",
+    "Q_Id": "ED-40",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "english pozü lesice lo vozü ce natsimine ko ma kürü dipü bizü küsü yo?",
+    "hint": "A20221128104552953666_281474976737727.wav"
+  },
+  {
+    "quesId": "Q20221128103238831205",
+    "Q_Id": "ED-41",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "mi tso mo zü ko la lesi küphri hi dipü bi no mi mütü ko wo phri-e küve thi mosü?",
+    "hint": "A20221128104554198885_281474976737728.wav"
+  },
+  {
+    "quesId": "Q20221128103238831569",
+    "Q_Id": "ED-42",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "dipü bi no lesice lü mha seyi zü hi mü celü mha seyi sü hi hü ne hü zü kükhü yo?",
+    "hint": "A20221128104555478185_281474976737729.wav"
+  },
+  {
+    "quesId": "Q20221128103238831932",
+    "Q_Id": "ED-43",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "lesi mhase hi dipü bi no u mi zü kümükro zü jo ko lü khrühi mü thi mmüve kü yo?",
+    "hint": "A20221128104556757086_281474976737730.wav"
+  },
+  {
+    "quesId": "Q20221128103238832313",
+    "Q_Id": "ED-44",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "dipü bi no lesice mhase hi natsimi ne ko külhü küde sü yo?",
+    "hint": "A20221128104558038206_281474976737731.wav"
+  },
+  {
+    "quesId": "Q20221128103238832676",
+    "Q_Id": "ED-45",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "thüma mhase zü mi ko dipü bizü üküve u jo ko ba müsü?",
+    "hint": "A20221128104559331319_281474976737732.wav"
+  },
+  {
+    "quesId": "Q20221128103238833036",
+    "Q_Id": "ED-46",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "public lesice mu private lesice küve mu pü küsü posüte?",
+    "hint": "A20221128104600572360_281474976737733.wav"
+  },
+  {
+    "quesId": "Q20221128103238833397",
+    "Q_Id": "ED-47",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "nko dila no u tho u jü hi doctorate kütso phri kho müsü?",
+    "hint": "A20221128104601820594_281474976737734.wav"
+  },
+  {
+    "quesId": "Q20221128103238834313",
+    "Q_Id": "ED-48",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "n külü lü u tho u jü phri zü hi, n ko jo ko mu u nani küla pü hisa la khama ve me?",
+    "hint": "A20221128104603061256_281474976737735.wav"
+  },
+  {
+    "quesId": "Q20221128103238834695",
+    "Q_Id": "ED-51",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "n la no dipü bi no u jü mu u jo mu u nani ko hi preserve thi küto la no dipü küve tho ta ?",
+    "hint": "A20221128104604305262_281474976737736.wav"
+  },
+  {
+    "quesId": "Q20221128103238835063",
+    "Q_Id": "ED-52",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Covid19 tü lü thejü kümüda küye vori tü ce, mhase lesice lü nyoyi zü ko dibi no mi khrühi ?",
+    "hint": "A20221128104605603372_281474976737737.wav"
+  },
+  {
+    "quesId": "Q20221128103238835424",
+    "Q_Id": "ED-54",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "New education policy za n külü küdo pü posüte?",
+    "hint": "A20221128104606899516_281474976737738.wav"
+  },
+  {
+    "quesId": "Q20221128103238835788",
+    "Q_Id": "ED-56",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "covid 19 hi bazü tü ce lesi mhase/lesice cho dipü bi ta n rüna lo?",
+    "hint": "A20221128104608141797_281474976737739.wav"
+  },
+  {
+    "quesId": "Q20221128103238836159",
+    "Q_Id": "ED-61",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "jü kükre kükre küzü classroom lo mütha zü hi u kümve di pü ba?",
+    "hint": "A20221128104609381928_281474976737740.wav"
+  },
+  {
+    "quesId": "Q20221128103238836522",
+    "Q_Id": "ED-62",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "n lesice za küve jü sepü posüte?",
+    "hint": "A20221128104610657959_281474976737741.wav"
+  },
+  {
+    "quesId": "Q20221128103238836885",
+    "Q_Id": "ED-63",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "vo küta tetse lo n lesice lo dipü bizü mha küsa mori mha kükre kükre küzü vori?",
+    "hint": "A20221128104611905671_281474976737742.wav"
+  },
+  {
+    "quesId": "Q20221128103238837247",
+    "Q_Id": "ED-64",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "parent-teacher meeting hi dibi yo?",
+    "hint": "A20221128104612980402_281474976737743.wav"
+  },
+  {
+    "quesId": "Q20221128103238837604",
+    "Q_Id": "ED-65",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "lesice ko hi u rüna mi ko dipü bi no khrü hi yo?",
+    "hint": "A20221128104614284081_281474976737744.wav"
+  },
+  {
+    "quesId": "Q20221128103238837991",
+    "Q_Id": "ED-66",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "kümütha mi ko lesice lü lesi küphrine ko mütha zü hi küno lü la süyo me mü lesi küphrine ko sülü nü mve yo me ?",
+    "hint": "A20221128104928216258_281474976737745.wav"
+  },
+  {
+    "quesId": "Q20221128103238838371",
+    "Q_Id": "ED-67",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "No pethi pari zü ce lesice lü dipü küda vori zü ngo?",
+    "hint": "A20221128104615570637_281474976737746.wav"
+  },
+  {
+    "quesId": "Q20221128103238838739",
+    "Q_Id": "ED-69",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Dipü bizü lo nu kümüthami ko müza zü ko thiyo?",
+    "hint": "A20221128104616819885_281474976737747.wav"
+  },
+  {
+    "quesId": "Q20221128103238839097",
+    "Q_Id": "ED-70",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "n lesice lo n zü mathi zü mi ko mu lesice lo mathi zü mi ko jü kropü posüte?",
+    "hint": "A20221128104618096355_281474976737748.wav"
+  },
+  {
+    "quesId": "Q20221128103238839457",
+    "Q_Id": "ED-71",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "n rüna mi za lesice zü jü ko kropü posüte?",
+    "hint": "A20221128104619337536_281474976737749.wav"
+  },
+  {
+    "quesId": "Q20221128103238839816",
+    "Q_Id": "ED-72",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "english po zü lesice mü u tho u jü pozü lesice hi püne dolü dipü kre ba?",
+    "hint": "A20221128104620580139_281474976737750.wav"
+  },
+  {
+    "quesId": "Q20221128103238840185",
+    "Q_Id": "ED-73",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "kümüthami ko lesice lü kümatha matho lübi mo no mha kükre dipü thi yo?",
+    "hint": "A20221128104621882340_281474976737751.wav"
+  },
+  {
+    "quesId": "Q20221128103238840542",
+    "Q_Id": "ED-74",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "exam za küve küsü jü posüte?",
+    "hint": "A20221128104623115334_281474976737752.wav"
+  },
+  {
+    "quesId": "Q20221128103238840903",
+    "Q_Id": "ED-76",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "kükromi mhase mü u tho u ma mi za mhase küve küsü jü posüte",
+    "hint": "A20221128104624358345_281474976737753.wav"
+  },
+  {
+    "quesId": "Q20221128103238841291",
+    "Q_Id": "ED-77",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "mi tso mo zü ko la u state hi mha thi kü hü-e sa mosü me?",
+    "hint": "A20221128104625658106_281474976737754.wav"
+  },
+  {
+    "quesId": "Q20221128103238841665",
+    "Q_Id": "ED-78",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "kümüthami ko lesi küphrine ko la no dipü thi müka sü mosü ba?",
+    "hint": "A20221128104626901711_281474976737755.wav"
+  },
+  {
+    "quesId": "Q20221128103238842027",
+    "Q_Id": "ED-80",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "kümüthami ko lesice lü natsimine ko zü dipü bi no kerethi mosü?",
+    "hint": "A20221128104628188134_281474976737756.wav"
+  },
+  {
+    "quesId": "Q20221128103238842386",
+    "Q_Id": "ED-81",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "dipü bi no lesi kephri mine ko kükri ta zü ko lü sajo khasü mosü?",
+    "hint": "A20221128104629427457_281474976737757.wav"
+  },
+  {
+    "quesId": "Q20221128103238842747",
+    "Q_Id": "ED-82",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "coaching centre mu private tution ne za n külü kropü küza süte?",
+    "hint": "A20221128104630674314_281474976737758.wav"
+  },
+  {
+    "quesId": "Q20221128103238843107",
+    "Q_Id": "ED-83",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "mobile phone mu internet hi dipü lo nu küphrine ko lesi küphri lü kübü wa yo?",
+    "hint": "A20221128104631917259_281474976737759.wav"
+  },
+  {
+    "quesId": "Q20221128103238843470",
+    "Q_Id": "ED-84",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "dipü bizü lo nu 'tha tüsozho ve' süzi no po ve?",
+    "hint": "A20221128104633155074_281474976737760.wav"
+  },
+  {
+    "quesId": "Q20221128103238843835",
+    "Q_Id": "ED-85",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "August 15 hi n lesice lo dibi nye yo?",
+    "hint": "A20221128104634443257_281474976737761.wav"
+  },
+  {
+    "quesId": "Q20221128103238844213",
+    "Q_Id": "ED-86",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "no kümüthami thi zü hi lo dipü n nü yo?",
+    "hint": "A20221128104635677191_281474976737762.wav"
+  },
+  {
+    "quesId": "Q20221128103238844645",
+    "Q_Id": "ED-87",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Technology hi u külhü thi reri kü wa yo me thi mere kü wa yo?",
+    "hint": "A20221128104636925499_281474976737763.wav"
+  },
+  {
+    "quesId": "Q20221128103238845085",
+    "Q_Id": "ED-88",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "mid day meal za jü n külü posüte?",
+    "hint": "A20221128104637967469_281474976737764.wav"
+  },
+  {
+    "quesId": "Q20221128103238845470",
+    "Q_Id": "ED-90",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "khüsü-u mu külhe-o class lo dipü kükre zü ngo yo?",
+    "hint": "A20221128104639208308_281474976737765.wav"
+  },
+  {
+    "quesId": "Q20221128103238845834",
+    "Q_Id": "ED-92",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "thüma no dipü bi no mhaseyi yo?",
+    "hint": "A20221128104640251524_281474976737766.wav"
+  },
+  {
+    "quesId": "Q20221128103238846194",
+    "Q_Id": "ED-94",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "thüma ko u kümütha mi ko yo thüdo mori u küve dipü pe yo?",
+    "hint": "A20221128104641488543_281474976737767.wav"
+  },
+  {
+    "quesId": "Q20221128103238846549",
+    "Q_Id": "ED-95",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Thüma hi pethi pari zü sa ri dipü se mosü?",
+    "hint": "A20221128104642724560_281474976737768.wav"
+  },
+  {
+    "quesId": "Q20221128103238846910",
+    "Q_Id": "ED-97",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "no n la no dipü bizü pü lo lesi küphri ne ko mhase küve tho thita?",
+    "hint": "A20221128104929255695_281474976737769.wav"
+  },
+  {
+    "quesId": "Q20221128103238847271",
+    "Q_Id": "ED-100",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "n la no dipü bizü mi/küphrimine kha sü thüma mütse süzi no poyo?",
+    "hint": "A20221128104643961249_281474976737770.wav"
+  },
+  {
+    "quesId": "Q20221128103238847626",
+    "Q_Id": "ED-102",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "offline mu online class za küve mü u kesü posüte?",
+    "hint": "A20221128104645200347_281474976737771.wav"
+  },
+  {
+    "quesId": "Q20221128103238847982",
+    "Q_Id": "ED-104",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "nko dila no lesi mhase se küto la internet hi sü yo?",
+    "hint": "A20221128104646444951_281474976737772.wav"
+  },
+  {
+    "quesId": "Q20221128103238848361",
+    "Q_Id": "ED-106",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "dila no maths subject hi natsimine ko mütha süyo?",
+    "hint": "A20221128104647697357_281474976737773.wav"
+  },
+  {
+    "quesId": "Q20221128103238848788",
+    "Q_Id": "ED-107",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "dila no english subject hi pü natsimine ko mütha yo?",
+    "hint": "A20221128104648989955_281474976737774.wav"
+  },
+  {
+    "quesId": "Q20221128103238849161",
+    "Q_Id": "ED-108",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "dila no social science hi pü natsimine ko mütha sü yo?",
+    "hint": "A20221128104650279545_281474976737775.wav"
+  },
+  {
+    "quesId": "Q20221128103238849522",
+    "Q_Id": "ED-109",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "dila no natsimine ko science subject hi mütha sü yo?",
+    "hint": "A20221128104651526092_281474976737776.wav"
+  },
+  {
+    "quesId": "Q20221128103238849921",
+    "Q_Id": "ED-110",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "natsi ko mütha zü lübi mori, mha kükre lesice lü dipü thi yo?",
+    "hint": "A20221128104652766465_281474976737777.wav"
+  },
+  {
+    "quesId": "Q20221128103238850285",
+    "Q_Id": "ED-111",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "dipü bi no mha küda zü hi mu mha se zü hi kükre ta?",
+    "hint": "A20221128104654006545_281474976737778.wav"
+  },
+  {
+    "quesId": "Q20221128103238850652",
+    "Q_Id": "ED-114",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "dipü bi no natsi mi hi lesice lo küda yo?",
+    "hint": "A20221128104655244429_281474976737779.wav"
+  },
+  {
+    "quesId": "Q20221128103238851010",
+    "Q_Id": "ED-117",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "classroom lo dipü küde nisa wa, küde-e ve mütha, ucho sü(three) posüte?",
+    "hint": "A20221128104656486989_281474976737780.wav"
+  },
+  {
+    "quesId": "Q20221128103238851373",
+    "Q_Id": "ED-118",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "lesi phri rü zü mi n class lo bata mü tha no dipü bi no pü mütha ta?",
+    "hint": "A20221128104657727640_281474976737781.wav"
+  },
+  {
+    "quesId": "Q20221128103238851729",
+    "Q_Id": "ED-119",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "lesice lü face-to-face communication di la u mari shü?",
+    "hint": "A20221128104658970692_281474976737782.wav"
+  },
+  {
+    "quesId": "Q20221128103238852109",
+    "Q_Id": "ED-120",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "thüsa vori tü ce no mha kürü dipü bizü zü küsü?",
+    "hint": "A20221128104700217129_281474976737783.wav"
+  },
+  {
+    "quesId": "Q20221128103238852540",
+    "Q_Id": "ED-121",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "celü mütha mu lesice lo mütha zü hi lü no dipü se vori?",
+    "hint": "A20221128104701656722_281474976737784.wav"
+  },
+  {
+    "quesId": "Q20221128103238852923",
+    "Q_Id": "ED-125",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "no dipu n nü mükro yo. Class discussion me small group matho?",
+    "hint": "A20221128104702958524_281474976737785.wav"
+  },
+  {
+    "quesId": "Q20221128103238853289",
+    "Q_Id": "ED-128",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "n lesice lo mi mütha küto la dipü bizü mhanyo süyo?",
+    "hint": "A20221128104704205021_281474976737786.wav"
+  },
+  {
+    "quesId": "Q20221128103238853657",
+    "Q_Id": "ED-131",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "n kümüthami,principal, headmaster mu kükre lesice lo mathi yo küba ko dipü pü bizü thiyo?",
+    "hint": "A20221128104705449863_281474976737787.wav"
+  },
+  {
+    "quesId": "Q20221128103238861212",
+    "Q_Id": "ED-137",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "lesice lo n zü mi ko za ju kropü posüte?",
+    "hint": "A20221128104706698957_281474976737788.wav"
+  },
+  {
+    "quesId": "Q20221128103238861780",
+    "Q_Id": "ED-138",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "n cekro ko n lesi küphri lo dipü bi no khühri sü yo?",
+    "hint": "A20221128104708040839_281474976737789.wav"
+  },
+  {
+    "quesId": "Q20221128103238862182",
+    "Q_Id": "ED-142",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "lesi mhase hi no pethi pari zü ce no dipü se ta?",
+    "hint": "A20221128104709289421_281474976737790.wav"
+  },
+  {
+    "quesId": "Q20221128103238862580",
+    "Q_Id": "ED-144",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "dipü bi no u tho u jü lü mi mütha hi umari ta?",
+    "hint": "A20221128104710540343_281474976737791.wav"
+  },
+  {
+    "quesId": "Q20221128103238862956",
+    "Q_Id": "ED-146",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "subject mori degree no küda no zü vori zü hi, no dila no sü subject küda-e?",
+    "hint": "A20221128104711789041_281474976737792.wav"
+  },
+  {
+    "quesId": "Q20221128103238863348",
+    "Q_Id": "ED-148",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "no lesice lo dipü se ni sa ba yo?",
+    "hint": "A20221128104713078258_281474976737793.wav"
+  },
+  {
+    "quesId": "Q20221128103238863729",
+    "Q_Id": "ED-152",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "internet sü zü hi u küve mu u küsü posüte? Dipü bi no hi n lesi küphri lo effect thi ba?",
+    "hint": "A20221128104714383463_281474976737794.wav"
+  },
+  {
+    "quesId": "Q20221128103238864110",
+    "Q_Id": "ED-160",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "no dipü la no lesi phri ba?",
+    "hint": "A20221128104715490538_281474976737795.wav"
+  },
+  {
+    "quesId": "Q20221128103238864482",
+    "Q_Id": "ED-162",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "nani hi dipü bi no n lesi mhase hi effect thiyo?",
+    "hint": "A20221128104716791685_281474976737796.wav"
+  },
+  {
+    "quesId": "Q20221128103238864852",
+    "Q_Id": "ED-163",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "no jü ditsü se va? No dipü bi no hiko se ta?",
+    "hint": "A20221128104718115246_281474976737797.wav"
+  },
+  {
+    "quesId": "Q20221128103238865227",
+    "Q_Id": "ED-164",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Cekro za cesü cenyü hi dipu bi no lesi küphri ne ko yo effect thiyo?",
+    "hint": "A20221128104719369157_281474976737798.wav"
+  },
+  {
+    "quesId": "Q20221128103238865596",
+    "Q_Id": "ED-167",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "lesice lo no dipü bizü matho ko thi n nyü tho ?",
+    "hint": "A20221128104720617083_281474976737799.wav"
+  },
+  {
+    "quesId": "Q20221128103238865963",
+    "Q_Id": "ED-168",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "no lesice dipü bizü rüzü rüzü yo? N külü lü zü ce lesice ko rüzü mhanyo ko ujo thi no khasü me?",
+    "hint": "A20221128104722072554_281474976737800.wav"
+  },
+  {
+    "quesId": "Q20221128103238866329",
+    "Q_Id": "ED-169",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "no dipü bi no lesice lo voyo? No khüshü chou zü lü nü lesice lo vo tso zü jü kropü posüte",
+    "hint": "A20221128104723386430_281474976737801.wav"
+  },
+  {
+    "quesId": "Q20221128103238866716",
+    "Q_Id": "ED-172",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "No hisa dipü thi küto lü mü thinisa wa?",
+    "hint": "A20221128104724630480_281474976737802.wav"
+  }
+]
