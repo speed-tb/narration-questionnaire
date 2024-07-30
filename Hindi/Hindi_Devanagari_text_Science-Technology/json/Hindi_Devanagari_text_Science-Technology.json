@@ -1,0 +1,762 @@
+[
+  {
+    "quesId": "Q20221213070711358998",
+    "Q_Id": "ST_1",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "भाषाविज्ञान वास्तविक लिखित और बोली जाने वाली पाठ किस्मों से एक कॉर्पोरा विकसित करने में कैसे मदद करेगा?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711359317",
+    "Q_Id": "ST_2",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "भाषा प्रौद्योगिकी के क्षेत्रों में भाषा कॉर्पोरा कैसे विकसित होता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711359630",
+    "Q_Id": "ST_3",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "बडे़ रूप से भाषा की आवश्यकता को पूरा करने के लिए विभिन्न प्रकार की भाषा के लिए कॉर्पोरा विकसित करने की आवश्यकता क्यों है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711359941",
+    "Q_Id": "ST_4",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "वाक् प्रौद्योगिकी किस प्रकार वाक् डेटाबेस विकसित करने के साधन के रूप में कार्य करती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711360251",
+    "Q_Id": "ST_5",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "कंटेक्सटुअल स्पीच डेटाबेस में क्या शामिल है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711360562",
+    "Q_Id": "ST_6",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "रॉ स्पीच कॉर्पोरा में टेक्स्ट कैसे प्रस्तुत किया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711360884",
+    "Q_Id": "ST_7",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "स्पोकन कॉर्पोरा बनाने के लिए उन्हें स्पोकन टेक्स्ट को ट्रांसक्राइब करने की आवश्यकता क्यों है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711361505",
+    "Q_Id": "ST_9",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप हमें विशेष टेक्स्ट कॉरपोरा डिजाइन करने की आवश्यकता बता सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711361951",
+    "Q_Id": "ST_10",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "किसी बोली के कॉर्पोरा की भूमिका क्या है? यह देश में प्रयोग की जाने वाली भाषण किस्मों की कुल संख्या की पहचान करने में कैसे मदद करती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711362325",
+    "Q_Id": "ST_11",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "कम्पेरेबल कॉर्पोरा की प्रक्रिया कैसे विकसित की जाती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711362702",
+    "Q_Id": "ST_12",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "डेटाबेस को बनाए रखने के लिए केंद्रीय निकायों की बुनियादी गतिविधियां क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711363125",
+    "Q_Id": "ST_13",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "भाषा प्रौद्योगिकी के उपकरणों को विकसित करने के लिए क्या आवश्यक है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711363603",
+    "Q_Id": "ST_14",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप डिजिटल साक्षरता के महत्व का उल्लेख कर सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711363980",
+    "Q_Id": "ST_15",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप हमें कम्प्यूटेशनल भाषाविज्ञान का महत्व बता सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711364334",
+    "Q_Id": "ST_16",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप प्राकृतिक भाषा डेटा पर विश्लेषण के प्रकार का उल्लेख कर सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711364673",
+    "Q_Id": "ST_17",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "मशीन द्वारा वाक् ध्वनि को कैसे पहचाना जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711365037",
+    "Q_Id": "ST_18",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "भाषाविज्ञान विश्लेषण के विभिन्न चरणों के साथ किसी पाठ को किस तरीके से संसाधित किया जा सकता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711365378",
+    "Q_Id": "ST_19",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप हमें वाक्य विभाजन की प्रक्रिया बता सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711365720",
+    "Q_Id": "ST_20",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "स्पीच टैगिंग के भाग में शामिल प्रक्रिया क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711366042",
+    "Q_Id": "ST_21",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप मॉर्फ विश्लेषण की भूमिका का उल्लेख कर सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711366364",
+    "Q_Id": "ST_22",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "शब्दों का वाक्यात्मक विश्लेषण कैसे किया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711366680",
+    "Q_Id": "ST_23",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "सिंटेक्टिक पार्सिंग में कौन सी प्रक्रिया शामिल है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711367005",
+    "Q_Id": "ST_24",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "राष्ट्रीय डिजिटल साक्षरता मिशन क्यों शुरू किया गया है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711367333",
+    "Q_Id": "ST_25",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "एक भाषा का वक्ता वाक्य बनाने के लिए शब्दों को एक साथ कैसे रखता है? भाषा का कौन सा गुण बताता है कि वाक्य और वाक्यांशों की कोई सीमा या निश्चित लंबाई नहीं है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711367660",
+    "Q_Id": "ST_26",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "भाषा सीखने से क्या बनता है? भाषा के ज्ञान को कैसे प्रयोग में लाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711367981",
+    "Q_Id": "ST_27",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप हमें फॉनेटिक्स और फोनोलॉजी के बीच अंतर बता सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711368297",
+    "Q_Id": "ST_28",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "वाक् ध्वनि के उत्पादन के लिए वाक् ध्वनि अंगों और गुहाओं का प्रयोग कैसे किया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711368723",
+    "Q_Id": "ST_29",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप आईपीए के प्रयोग का उल्लेख कर सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711369229",
+    "Q_Id": "ST_30",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप आईपीए के प्रयोग बता सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711369640",
+    "Q_Id": "ST_31",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "मॉरफीम्स से आप क्या समझते हैं? क्या आप मॉरफीम का महत्व बता सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711370040",
+    "Q_Id": "ST_32",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप पल्मोनिक और नॉन-पल्मोनिक ध्वनियों के बीच अंतर बता सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711370438",
+    "Q_Id": "ST_33",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "स्वर अंगों का उपयोग करके स्वर ध्वनि कैसे उत्पन्न होती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711370895",
+    "Q_Id": "ST_34",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "भाषाई पद्धति का प्रयोग करके एक भाषा से दूसरी भाषा में ट्रांसक्रिप्शन कैसे किया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711371276",
+    "Q_Id": "ST_35",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "भाषण के विश्लेषण और संश्लेषण के लिए आप प्रात का प्रयोग कैसे करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711371611",
+    "Q_Id": "ST_36 (Scientific Research)",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "साइंटिफिक रिसर्च को योजनाबद्ध तरीके से संचालित करने का उद्देश्य क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711371961",
+    "Q_Id": "ST_37",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "साइंटिफिक रिसर्च शुरू करने से पहले आवश्यक तत्व क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711372294",
+    "Q_Id": "ST_38",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "साइंटिफिक रिसर्च का वर्गीकरण रिसर्च की संरचना को डिजाइन करने में किस प्रकार सहायक होता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711372617",
+    "Q_Id": "ST_39",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ऑब्ज़र्वेशनल डेटा संग्रह तकनीक एक्सपेरिमेंटल तकनीक से किस तरह अलग है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711372952",
+    "Q_Id": "ST_40",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "साइंटिफिक रिसर्च को किन माध्यमों में लागू किया जा सकता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711373273",
+    "Q_Id": "ST_41",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "साइंटिफिक रिसर्च का वर्गीकरण उसकी वर्णनात्मक या विश्लेषणात्मक पद्धति के अनुसार बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711373587",
+    "Q_Id": "ST_42",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप शोध की वर्णनात्मक पद्धति में केस रिपोर्ट और केस सीरीज के महत्व की व्याख्या कर सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711373900",
+    "Q_Id": "ST_43",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके विचार से एनालिटिकल साइंटिफिक रिसर्च किस प्रकार से वर्णनात्मक विधि से अलग है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711374212",
+    "Q_Id": "ST_44",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "अन्य शोध अध्ययनों की तुलना में ऑब्ज़र्वेशनल संबंधी शोध कैसे अधिक आकर्षक है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711374526",
+    "Q_Id": "ST_45",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ऑब्ज़र्वेशनल और एक्सपेरिमेंटल दोनों अध्ययनों में कोहोर्ट रिसर्च का उद्देश्य क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711374834",
+    "Q_Id": "ST_46",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप केस-कंट्रोल स्टडीज और क्रॉस सेक्शनल स्टडीज का महत्व बता सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711375140",
+    "Q_Id": "ST_47",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "इंटरवेंशनल रिसर्च का क्या मतलब है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711375450",
+    "Q_Id": "ST_48",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "एक नैदानिक ​​मामले में एक नियंत्रण समूह के भीतर नैदानिक ​​अनुसंधान कैसे किया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711375761",
+    "Q_Id": "ST_49",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "क्लिनिकल रिसर्च का महत्व बताएं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711376073",
+    "Q_Id": "ST_50",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नैदानिक ​​अनुसंधान में रैंडमाइजेशन और ब्लाइंडिंग विधि कैसे लागू होती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711376390",
+    "Q_Id": "ST_51General",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "पानी के उपयोग क्या हैं? क्या आप हमें छानने की प्रक्रिया बता सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711376701",
+    "Q_Id": "ST_52",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "पानी को साफ करने में क्लोरीनीकरण और ब्लीचिंग का क्या प्रयोग है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711377033",
+    "Q_Id": "ST_53",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप हमें जल संरक्षण की आवश्यकता बता सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711377347",
+    "Q_Id": "ST_54",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "हम कैसे दिखा सकते हैं कि हवा चल रही है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711377657",
+    "Q_Id": "ST_55",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप हमारे जीवन में ऑक्सीजन के महत्व का उल्लेख कर सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711377976",
+    "Q_Id": "ST_56",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "वनों की कटाई क्या है? क्या होता है जब हम जंगल और जीवाश्म ईंधन जलाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711378283",
+    "Q_Id": "ST_57",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "चुम्बक का उत्तरी और दक्षिणी ध्रुव क्यों आकर्षित करता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711378587",
+    "Q_Id": "ST_58",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "धातु के विभिन्न प्रकार क्या हैं? आप धातुओं से कौन से विभिन्न उपकरण बनाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711378896",
+    "Q_Id": "ST_59",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "विभिन्न प्रकार के पदार्थ क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711379209",
+    "Q_Id": "ST_60",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "अधातु क्या है? आप उनका प्रयोग कहां करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711379519",
+    "Q_Id": "ST_61",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "वाष्पीकरण से वर्षा कैसे होती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711379831",
+    "Q_Id": "ST_62",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "भाप का उत्पादन कैसे होता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711380142",
+    "Q_Id": "ST_63",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "जीवन-चक्र की प्रक्रिया क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711380451",
+    "Q_Id": "ST_64",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "वर्षा जल संचयन क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711380763",
+    "Q_Id": "ST_65",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "मोबाइल फोन कैसे काम करता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711381106",
+    "Q_Id": "ST_66",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "आप अपने मोबाइल फोन को कैसे चार्ज करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711381421",
+    "Q_Id": "ST_67",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "आप यू-ट्यूब चैनलों में क्या देखते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711381731",
+    "Q_Id": "ST_68",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आपके पास बिजली के अलावा कोई अन्य चार्जिंग डिवाइस है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711382045",
+    "Q_Id": "ST_69",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "आप अपने बल्बों को जलाने के लिए किस शक्ति के स्रोत का उपयोग करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711382353",
+    "Q_Id": "ST_70",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "सौर ऊर्जा कैसे पैदा की जाती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711382662",
+    "Q_Id": "ST_71",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "विभिन्न शक्ति के स्रोत कैसे लगाए जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711382977",
+    "Q_Id": "ST_72",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "पीने के पानी के स्रोत क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711383292",
+    "Q_Id": "ST_73",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "हमें पीने से पहले पानी क्यों उबालना चाहिए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711383597",
+    "Q_Id": "ST_74",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "हम सौर ऊर्जा से बिजली कैसे उत्पन्न करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711383906",
+    "Q_Id": "ST_75",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "आपको अपने मोबाइल में किस प्रकार की समस्या का सामना करना पड़ता है और आप इसे कैसे ठीक करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711384215",
+    "Q_Id": "ST_76",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "आप विभिन्न शॉपिंग ऐप्स को कैसे एक्सेस करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711384522",
+    "Q_Id": "ST_77",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "आप अपने मोबाइल फोन के साथ क्या करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711384848",
+    "Q_Id": "ST_78",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "भारी बारिश होने पर बिजली क्यों कट जाती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711385165",
+    "Q_Id": "ST_79",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "टेलीविज़न के साथ आपको कौन-कौन से विभिन्न एक्सेसरीज़ मिलते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711385473",
+    "Q_Id": "ST_80",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "आप अपने टेलीविज़न के सेट-टॉप बॉक्स को कैसे रिचार्ज करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711385779",
+    "Q_Id": "ST_81",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "आप अपने फ़ोन के कैमरे का प्रयोग कैसे करते हैं और आप इसका प्रयोग किस स्थिति में करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711386085",
+    "Q_Id": "ST_82",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "आप मोबाइल फोन से पहले लोगों से कैसे जुड़े रहे थे?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711386393",
+    "Q_Id": "ST_83",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "एक इन्वर्टर कितने घंटे की बैटरी चार्ज करने से बिजली पैदा करने में मदद करता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711386698",
+    "Q_Id": "ST_84",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "भोजन पीसने के पारंपरिक तरीके क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711387003",
+    "Q_Id": "ST_85",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "आप समय कैसे रखते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711387304",
+    "Q_Id": "ST_86",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "सूर्य के प्रकाश का क्या जरूरत है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711387612",
+    "Q_Id": "ST_87",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "इंद्रधनुष कैसे बनते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711387919",
+    "Q_Id": "ST_88",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "भूकंप क्यों आता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711388225",
+    "Q_Id": "ST_89",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "बादलों में गरज और बिजली कैसे बनती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711388528",
+    "Q_Id": "ST_90",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "आप कैसे सांस लेते हैं? सांस लेने में उपयोग किए जाने वाले विभिन्न अंग कौन से हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711388849",
+    "Q_Id": "ST_91",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "सजीव और निर्जीव चीजें क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711389186",
+    "Q_Id": "ST_92",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने आस-पास कुछ जीवित वस्तुओं का बारे में बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711389501",
+    "Q_Id": "ST_93",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने आस-पास की कुछ निर्जीव वस्तुओं का बारे में बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711389817",
+    "Q_Id": "ST_94",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "हमारा प्रतिबिंब कैसे बनता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711390133",
+    "Q_Id": "ST_95",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "हमारे पाचन तंत्र के विभिन्न अंग कौन से हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711390446",
+    "Q_Id": "ST_96",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "हम एक वाहन कैसे चालू करते हैं?",
+    "hint": ""
+  }
+]

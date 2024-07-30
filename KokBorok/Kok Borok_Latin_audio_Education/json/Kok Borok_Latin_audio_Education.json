@@ -1,0 +1,922 @@
+[
+  {
+    "quesId": "Q20230328110215423045",
+    "Q_Id": "ED-01",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Norokni hodao school thangnai chwrai bai school thangya chwrairogno twma khakajak eba uansokjak?",
+    "hint": "A20230328110930885492_281474976754378.wav"
+  },
+  {
+    "quesId": "Q20230328110215424149",
+    "Q_Id": "ED-02",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Norokni hodao formal education twma swlaimwng tobo kha sawi de mano?",
+    "hint": "A20230328110931139222_281474976754379.wav"
+  },
+  {
+    "quesId": "Q20230328110215424837",
+    "Q_Id": "ED-03",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini kamini school o kisaswk swlaimwngrog de nukha aswk torwi phaimani?",
+    "hint": "A20230328110931466831_281474976754380.wav"
+  },
+  {
+    "quesId": "Q20230328110215425458",
+    "Q_Id": "ED-04",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nwng chwrai phuru school tei college  bomo hai tongmani tabok nwng torwi bomo hai swlaijakmwngrog nukha?",
+    "hint": "A20230328110931712826_281474976754381.wav"
+  },
+  {
+    "quesId": "Q20230328110215426060",
+    "Q_Id": "ED-05",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini haste eba hodao formal eba indigenous education system-rog bahai sawi de mano?",
+    "hint": "A20230328110932040421_281474976754382.wav"
+  },
+  {
+    "quesId": "Q20230328110215426655",
+    "Q_Id": "ED-06",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Tabok nwng tongwi tongmani amchoi-o formal eba indigenous education system ni phwrwngmwng-rog bwswk jora twi kaham?",
+    "hint": "A20230328110932329846_281474976754383.wav"
+  },
+  {
+    "quesId": "Q20230328110215427233",
+    "Q_Id": "ED-07",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini formal eba indigenous education system no bahai khe rwtawi nainai kaham de hamya de?",
+    "hint": "A20230328110932596681_281474976754384.wav"
+  },
+  {
+    "quesId": "Q20230328110215428175",
+    "Q_Id": "ED-08",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Bahai khlaikhe nini education system teibo kaham wngno?",
+    "hint": "A20230328110932849627_281474976754385.wav"
+  },
+  {
+    "quesId": "Q20230328110215428842",
+    "Q_Id": "ED-09",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini indigenous education system no bahai khe bwswkangni generation-o kwrwng rowi twlangmani?",
+    "hint": "A20230328110933096836_281474976754386.wav"
+  },
+  {
+    "quesId": "Q20230328110215429472",
+    "Q_Id": "ED-10",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini hoda ni lekha kwrwng eba sokat man-nai-rogno nugwi, bobo hai swrwngmwng phaijak nini sago?",
+    "hint": "A20230328110933392893_281474976754387.wav"
+  },
+  {
+    "quesId": "Q20230328110215430051",
+    "Q_Id": "ED-11",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Lekha rwngmani bisingtwi bobo hai khe khakchangma tei tongthokma pirjak nini hodao?",
+    "hint": "A20230328110933653793_281474976754388.wav"
+  },
+  {
+    "quesId": "Q20230328110215430635",
+    "Q_Id": "ED-12",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Bo subject no twiwi swrwng khe nini thinango chugwi no, abono swbai wi sadi?",
+    "hint": "A20230328110933900396_281474976754389.wav"
+  },
+  {
+    "quesId": "Q20230328110215431229",
+    "Q_Id": "ED-13",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Lekha swrwngmani bisingtwi bwswk joratwi bigra wngwi tongma-rogno norwi mano?",
+    "hint": "A20230328110934148212_281474976754390.wav"
+  },
+  {
+    "quesId": "Q20230328110215431673",
+    "Q_Id": "ED-14",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Homework assignment no twiwi bobo haino chajak eba chajakya?",
+    "hint": "A20230328110934407785_281474976754391.wav"
+  },
+  {
+    "quesId": "Q20230328110215432093",
+    "Q_Id": "ED-15",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Bujisogwi swrwngna bagwi tamo khlaina nangno?",
+    "hint": "A20230328110934645663_281474976754392.wav"
+  },
+  {
+    "quesId": "Q20230328110215432483",
+    "Q_Id": "ED-16",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Swrwngmwng bobo haikhe thansa wngthani chukrwi man nini hodao?",
+    "hint": "A20230328110934901445_281474976754393.wav"
+  },
+  {
+    "quesId": "Q20230328110215432866",
+    "Q_Id": "ED-17",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Innovative eba creativity education system ni bisingtwi swrwngmani bobo hai bwthai man?",
+    "hint": "A20230328110935144110_281474976754394.wav"
+  },
+  {
+    "quesId": "Q20230328110215433243",
+    "Q_Id": "ED-18",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Bobo hai result bai nwng swrwngmwng mankuk kaham result bai de eba hamya result bai, tei tmani bagwi?",
+    "hint": "A20230328110935418961_281474976754395.wav"
+  },
+  {
+    "quesId": "Q20230328110215433619",
+    "Q_Id": "ED-19",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Swrwngmwng indigenous education system no simi de naikuk tamni bagwi?",
+    "hint": "A20230328110935680985_281474976754396.wav"
+  },
+  {
+    "quesId": "Q20230328110215433991",
+    "Q_Id": "ED-20",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Education ni soi nahar mwng tamo?",
+    "hint": "A20230328110935935571_281474976754397.wav"
+  },
+  {
+    "quesId": "Q20230328110215434385",
+    "Q_Id": "ED-21",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Kami bising ni schoolrogo sex education no twiwi tamni bagwi samaiya hwnwi hwnjak?",
+    "hint": "A20230328110936189374_281474976754398.wav"
+  },
+  {
+    "quesId": "Q20230328110215434766",
+    "Q_Id": "ED-22",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Bobo hai samwngrogno nugwi siklarog skill development khlaina nagwi bwkha thangsa jakuk?",
+    "hint": "A20230328110936449795_281474976754399.wav"
+  },
+  {
+    "quesId": "Q20230328110215435156",
+    "Q_Id": "ED-23",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini nukhungni borokrog nini lekha swrwng thani bobo hai khe chuba?",
+    "hint": "A20230328110936700005_281474976754400.wav"
+  },
+  {
+    "quesId": "Q20230328110215435532",
+    "Q_Id": "ED-24",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Borokrogni lekha swrwngmwngo bobo hai quality no nasikjak o swngsaro?",
+    "hint": "A20230328110936944350_281474976754401.wav"
+  },
+  {
+    "quesId": "Q20230328110215435927",
+    "Q_Id": "ED-25",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Tamni bagwi pwilani board exam jotoni slai nangkuk mani hwnwi chongwi nahar jak?",
+    "hint": "A20230328110937203645_281474976754402.wav"
+  },
+  {
+    "quesId": "Q20230328110215436328",
+    "Q_Id": "ED-26",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Classrom ni bo activity no joto ni slai nwng hamjakuk?",
+    "hint": "A20230328110937495265_281474976754403.wav"
+  },
+  {
+    "quesId": "Q20230328110215436719",
+    "Q_Id": "ED-27",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nwng aswk lekha swrwngwi manmani bwthaino bobo no joto ni slai hamjakuk eba kungchukuk?",
+    "hint": "A20230328110937751168_281474976754404.wav"
+  },
+  {
+    "quesId": "Q20230328110215437127",
+    "Q_Id": "ED-28",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Bobo hai khe lekha swrwngmani nini langmani quality o samwng khlai kha?",
+    "hint": "A20230328110938044187_281474976754405.wav"
+  },
+  {
+    "quesId": "Q20230328110215437505",
+    "Q_Id": "ED-29",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Lekha swrwngma bisingtwi nini langmano, uansogwi chabwi twlangthani bobo hai khe chukrw kha?",
+    "hint": "A20230328110938292756_281474976754406.wav"
+  },
+  {
+    "quesId": "Q20230328110215437895",
+    "Q_Id": "ED-30",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Lekha swrwngma bisingtwi bobo haikhe nini aje thani chukrw kha?",
+    "hint": "A20230328110938560920_281474976754407.wav"
+  },
+  {
+    "quesId": "Q20230328110215438263",
+    "Q_Id": "ED-31",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Smartphone tei internet nini lekha swrwng thani bwswk jora twi chukrwi man?",
+    "hint": "A20230328110938817283_281474976754408.wav"
+  },
+  {
+    "quesId": "Q20230328110215438656",
+    "Q_Id": "ED-32",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Borokrog bobo haikhe porena tei suina swrwng schoolo?",
+    "hint": "A20230328110939068216_281474976754409.wav"
+  },
+  {
+    "quesId": "Q20230328110215439032",
+    "Q_Id": "ED-33",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Bo subject no joto ni slai nwng tekto nangjakuk?",
+    "hint": "A20230328110939354544_281474976754410.wav"
+  },
+  {
+    "quesId": "Q20230328110215439399",
+    "Q_Id": "ED-34",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Schoolo chwrairog tamono swrwngna nang?",
+    "hint": "A20230328110939591898_281474976754411.wav"
+  },
+  {
+    "quesId": "Q20230328110215439817",
+    "Q_Id": "ED-35",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini amchaini joto ni slai school eba college kahamkuk boro, tamni bagwi borogno kaham hwnwi romjak, tamni bo bwini slai kaham hwnwi hwnjak?",
+    "hint": "A20230328110939927608_281474976754412.wav"
+  },
+  {
+    "quesId": "Q20230328110215440205",
+    "Q_Id": "ED-36",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "NIni amchai ni school-o sports tei phisycal activites ni bagwi, tamo uansokmwng nahar jak tong?",
+    "hint": "A20230328110940188757_281474976754413.wav"
+  },
+  {
+    "quesId": "Q20230328110215440595",
+    "Q_Id": "ED-37",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini lekha swrwng thani o haste haphangni khwlai thai tamo?",
+    "hint": "A20230328110940441605_281474976754414.wav"
+  },
+  {
+    "quesId": "Q20230328110215440992",
+    "Q_Id": "ED-38",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Sakni ma-ni kokbai lekha swrwngnai chwrairog bobo hai jwngjalo kwlai bai kuk?",
+    "hint": "A20230328110940712948_281474976754415.wav"
+  },
+  {
+    "quesId": "Q20230328110215441365",
+    "Q_Id": "ED-39",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Bobo twi life skillno lekha swrwngnai-rog swrwngna nang kuk school tei college ni bising twi?",
+    "hint": "A20230328110941012933_281474976754416.wav"
+  },
+  {
+    "quesId": "Q20230328110215441794",
+    "Q_Id": "ED-40",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "English medium school-o swrwngnai chwrairog bobo hai jwngjal-o kwlai bai kuk?",
+    "hint": "A20230328110941258420_281474976754417.wav"
+  },
+  {
+    "quesId": "Q20230328110215442176",
+    "Q_Id": "ED-41",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Ma poreya tei chukya borokrogno pore rwna bagwi tamo khlai man?",
+    "hint": "A20230328110941523825_281474976754418.wav"
+  },
+  {
+    "quesId": "Q20230328110215442547",
+    "Q_Id": "ED-42",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "School based education bai life skill ni education borog kwrwng laijak, abono nwng tamo uansoknai?",
+    "hint": "A20230328110941778980_281474976754419.wav"
+  },
+  {
+    "quesId": "Q20230328110215442901",
+    "Q_Id": "ED-43",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Social skill no school ni education bomo haikhe kuchuk karo?",
+    "hint": "A20230328110942073200_281474976754420.wav"
+  },
+  {
+    "quesId": "Q20230328110215443284",
+    "Q_Id": "ED-44",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Chwraini langmano school ni education bobo hai khe swnamwi twlang?",
+    "hint": "A20230328110942348077_281474976754421.wav"
+  },
+  {
+    "quesId": "Q20230328110215443674",
+    "Q_Id": "ED-45",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Khoroksa lekha kwrwngni quality bobo hai wngna nang nini uansokma jora twi?",
+    "hint": "A20230328110942597293_281474976754422.wav"
+  },
+  {
+    "quesId": "Q20230328110215444085",
+    "Q_Id": "ED-46",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Govt. school tei private school ni kaham tei hamyarog tamo?",
+    "hint": "A20230328110942849235_281474976754423.wav"
+  },
+  {
+    "quesId": "Q20230328110215444463",
+    "Q_Id": "ED-47",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Tamni bagwi local kokno (MIL) doctoral jora swrwngna nang?",
+    "hint": "A20230328110943089270_281474976754424.wav"
+  },
+  {
+    "quesId": "Q20230328110215444813",
+    "Q_Id": "ED-48",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Bwswk jora twi school o ma poremani local language (MIL) sakni hukumu tei sinimwng no narwk thani chukrwi man?",
+    "hint": "A20230328110943341621_281474976754425.wav"
+  },
+  {
+    "quesId": "Q20230328110215445162",
+    "Q_Id": "ED-51",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Chini ma-ni kok tei hukumu no tisawi narwkna bagwi tamo khwlai khe hamkuk nai?",
+    "hint": "A20230328110943649510_281474976754426.wav"
+  },
+  {
+    "quesId": "Q20230328110215445527",
+    "Q_Id": "ED-52",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Pandamic ni jora o bobo haikhe education covidno nor thani chukha?",
+    "hint": "A20230328110943922367_281474976754427.wav"
+  },
+  {
+    "quesId": "Q20230328110215445891",
+    "Q_Id": "ED-54",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Kwtal educational policy no twiwi nwng bwswk jora twi saiman?",
+    "hint": "A20230328110944180771_281474976754428.wav"
+  },
+  {
+    "quesId": "Q20230328110215446239",
+    "Q_Id": "ED-56",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Norokni hodao lekha swrwngnai-rogni thanio covid-19 bwswk joratwi kaham eba hamya khlai kha?",
+    "hint": "A20230328110944450355_281474976754429.wav"
+  },
+  {
+    "quesId": "Q20230328110215446591",
+    "Q_Id": "ED-61",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Classrom bisingo kwbangma kok eba basa sanairog tong khe aboni kaham tamo wngno?",
+    "hint": "A20230328110944699232_281474976754430.wav"
+  },
+  {
+    "quesId": "Q20230328110215446964",
+    "Q_Id": "ED-62",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini schoolo bwini school bai solaiya abotwi features eba tongwrwng-rogno sadi?",
+    "hint": "A20230328110944947738_281474976754431.wav"
+  },
+  {
+    "quesId": "Q20230328110215447334",
+    "Q_Id": "ED-63",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Laithangjak bisirogo nini schoolo bobo hai swlaimwng sok phai kha?",
+    "hint": "A20230328110945208109_281474976754432.wav"
+  },
+  {
+    "quesId": "Q20230328110215447697",
+    "Q_Id": "ED-64",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Swrwngnairogni ma-pha bai phwrwngnai-rog kokchab laimani eba meeting no twiwi swkrugwi sadi?",
+    "hint": "A20230328110945504933_281474976754433.wav"
+  },
+  {
+    "quesId": "Q20230328110215448106",
+    "Q_Id": "ED-65",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "School nono tamo khlai kha eba rwiman kha nini hodano kaham khe songsa na bagwi?",
+    "hint": "A20230328110945763230_281474976754434.wav"
+  },
+  {
+    "quesId": "Q20230328110215448493",
+    "Q_Id": "ED-66",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Teachersrog classroom-o bahai khe tongwi phunukna nang, tei chwrairogni thanio kaham bai hamyano bobohai saina chukrwi mano?",
+    "hint": "A20230328110946069014_281474976754435.wav"
+  },
+  {
+    "quesId": "Q20230328110215448893",
+    "Q_Id": "ED-67",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nwng torwi-logwi phai mani, tamo swlaimwng nukha nini school tei collego?",
+    "hint": "A20230328110946327318_281474976754436.wav"
+  },
+  {
+    "quesId": "Q20230328110215449259",
+    "Q_Id": "ED-69",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Teachers-rog borogni samwngno twiwi bahai khe kaham hwnwi sini jak nai?",
+    "hint": "A20230328110946600214_281474976754437.wav"
+  },
+  {
+    "quesId": "Q20230328110215449645",
+    "Q_Id": "ED-70",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini school tei college-rogo nini colleague eba staff-no twiwi mwngsaswk sawi de mano?",
+    "hint": "A20230328110946861253_281474976754438.wav"
+  },
+  {
+    "quesId": "Q20230328110215450002",
+    "Q_Id": "ED-71",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini state eba community ni education systemno twiwi mwngsaswk sawi de mano?",
+    "hint": "A20230328110947224166_281474976754439.wav"
+  },
+  {
+    "quesId": "Q20230328110215450385",
+    "Q_Id": "ED-72",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Sakni kok bai phwrwngjak mani school bai english medium school boro pherlai?",
+    "hint": "A20230328110947474939_281474976754440.wav"
+  },
+  {
+    "quesId": "Q20230328110215450752",
+    "Q_Id": "ED-73",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Phwrwngmano karwi teachers-rog tei bobo hai official samwng-rogo bedok jak?",
+    "hint": "A20230328110947769895_281474976754441.wav"
+  },
+  {
+    "quesId": "Q20230328110215451114",
+    "Q_Id": "ED-74",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Amjokmwngni kaham tei hamyarog tamo sawi de mano?",
+    "hint": "A20230328110948020571_281474976754442.wav"
+  },
+  {
+    "quesId": "Q20230328110215451476",
+    "Q_Id": "ED-76",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Western based education system bai indigenous cultural value system ni kaham tei hamyarog tamo abono twiwi kisa sadi?",
+    "hint": "A20230328110948303783_281474976754443.wav"
+  },
+  {
+    "quesId": "Q20230328110215451846",
+    "Q_Id": "ED-77",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Yakung-yak manya rogni education no twiwi nini haste haphang bwswk jora twi samwng kaham khlaina nang eba khlai wi tong?",
+    "hint": "A20230328110948553715_281474976754444.wav"
+  },
+  {
+    "quesId": "Q20230328110215452218",
+    "Q_Id": "ED-78",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Student rogni langma o phwrwngnai-rog bobo hai samwng khlai na nang?",
+    "hint": "A20230328110948812200_281474976754445.wav"
+  },
+  {
+    "quesId": "Q20230328110215452587",
+    "Q_Id": "ED-80",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Chwrairogno teachers-rog bahai khe kok sana nang schoolo?",
+    "hint": "A20230328110949065742_281474976754446.wav"
+  },
+  {
+    "quesId": "Q20230328110215452961",
+    "Q_Id": "ED-81",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Chwrai tongmwng chaya-rogno twiwi school bobo hai khe yapri sena nang?",
+    "hint": "A20230328110949320774_281474976754447.wav"
+  },
+  {
+    "quesId": "Q20230328110215453324",
+    "Q_Id": "ED-82",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Coaching centres tei private tutions rogno twiwi nini uansok mwng le bahai?",
+    "hint": "A20230328110949623703_281474976754448.wav"
+  },
+  {
+    "quesId": "Q20230328110215453686",
+    "Q_Id": "ED-83",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Smartphone bai internet nini lekha swrwng thani bwswk jora twi chukrwi man?",
+    "hint": "A20230328110949872698_281474976754449.wav"
+  },
+  {
+    "quesId": "Q20230328110215454065",
+    "Q_Id": "ED-84",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nwng school-o tong phuru bobo hai salno kaham hwnwi rom nai?",
+    "hint": "A20230328110950101181_281474976754450.wav"
+  },
+  {
+    "quesId": "Q20230328110215454422",
+    "Q_Id": "ED-85",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "15th August no bahai khe palaijak nini school-o?",
+    "hint": "A20230328110950361060_281474976754451.wav"
+  },
+  {
+    "quesId": "Q20230328110215454792",
+    "Q_Id": "ED-86",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nwng ma phwrwngmano bo jagao hamjak?",
+    "hint": "A20230328110950617914_281474976754452.wav"
+  },
+  {
+    "quesId": "Q20230328110215455151",
+    "Q_Id": "ED-87",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Technology bai ma phwrwng mani kwlai de wngjak kutuk?",
+    "hint": "A20230328110950858454_281474976754453.wav"
+  },
+  {
+    "quesId": "Q20230328110215455500",
+    "Q_Id": "ED-88",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "School-o salja-jora ni chamwng no twiwi nwng tamo uansok?",
+    "hint": "A20230328110951121445_281474976754454.wav"
+  },
+  {
+    "quesId": "Q20230328110215455878",
+    "Q_Id": "ED-90",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Shool-o break ni swkang tei breakni ulo student-rogni pherlaimwng tamo nuk?",
+    "hint": "A20230328110951419217_281474976754455.wav"
+  },
+  {
+    "quesId": "Q20230328110215456254",
+    "Q_Id": "ED-92",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Borokrog bahai khe swrwng abono twiwi kisa sawi de mano?",
+    "hint": "A20230328110951659099_281474976754456.wav"
+  },
+  {
+    "quesId": "Q20230328110215456606",
+    "Q_Id": "ED-94",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Lukurog teachers-rogni thanio tamo quality no naina muchuk?",
+    "hint": "A20230328110951913573_281474976754457.wav"
+  },
+  {
+    "quesId": "Q20230328110215456957",
+    "Q_Id": "ED-95",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Borokrog sikla sok khe tamono swrwngna nang?",
+    "hint": "A20230328110952138545_281474976754458.wav"
+  },
+  {
+    "quesId": "Q20230328110215457309",
+    "Q_Id": "ED-97",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Kaham khe porena eba swrwngna thang thani bobo hai environment wngna nang?",
+    "hint": "A20230328110952386857_281474976754459.wav"
+  },
+  {
+    "quesId": "Q20230328110215457665",
+    "Q_Id": "ED-100",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini uansokma joratwi brilliant student sabono hin-nai?",
+    "hint": "A20230328110952681208_281474976754460.wav"
+  },
+  {
+    "quesId": "Q20230328110215458001",
+    "Q_Id": "ED-102",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Offline class bai online class ni kaham bai hamya tamo?",
+    "hint": "A20230328110952975107_281474976754461.wav"
+  },
+  {
+    "quesId": "Q20230328110215458364",
+    "Q_Id": "ED-104",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Internet o manthokmani educational information-no tamni bagwi chwng nai-na nang?",
+    "hint": "A20230328110953232399_281474976754462.wav"
+  },
+  {
+    "quesId": "Q20230328110215458717",
+    "Q_Id": "ED-106",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini uansokma jora twi students rogno tamni bagwi maths phwrwng jak?",
+    "hint": "A20230328110953630610_281474976754463.wav"
+  },
+  {
+    "quesId": "Q20230328110215459110",
+    "Q_Id": "ED-107",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini uansokma jora twi students rogno tamni bagwi english phwrwng jak?",
+    "hint": "A20230328110953893176_281474976754464.wav"
+  },
+  {
+    "quesId": "Q20230328110215459487",
+    "Q_Id": "ED-108",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini uansokma jora twi students rogno tamni bagwi social science phwrwng jak?",
+    "hint": "A20230328110954200880_281474976754465.wav"
+  },
+  {
+    "quesId": "Q20230328110215459851",
+    "Q_Id": "ED-109",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini uansokma jora twi students rogno tamni bagwi science phwrwng jak?",
+    "hint": "A20230328110954470854_281474976754466.wav"
+  },
+  {
+    "quesId": "Q20230328110215460211",
+    "Q_Id": "ED-110",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Phwrwng jakmano khobwi tei tamo activities rog khlairwjak nini schoolo?",
+    "hint": "A20230328110954715307_281474976754467.wav"
+  },
+  {
+    "quesId": "Q20230328110215460578",
+    "Q_Id": "ED-111",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Training bahai khe learning bai pherlai?",
+    "hint": "A20230328110954974062_281474976754468.wav"
+  },
+  {
+    "quesId": "Q20230328110215460979",
+    "Q_Id": "ED-114",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Kwtal student no, school-o eba college-o, admission khlaina thang thanio tamo tamo khlai nang?",
+    "hint": "A20230328110955239144_281474976754469.wav"
+  },
+  {
+    "quesId": "Q20230328110215461335",
+    "Q_Id": "ED-117",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Man kha hinkhe nini class-o bobo swlaimwng tobo na muchung kaitham swk sadi?",
+    "hint": "A20230328110955536614_281474976754470.wav"
+  },
+  {
+    "quesId": "Q20230328110215461679",
+    "Q_Id": "ED-118",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Dakti pora manya chwrairogno teachers-rog bobo hai khe chuba na nang?",
+    "hint": "A20230328110955797127_281474976754471.wav"
+  },
+  {
+    "quesId": "Q20230328110215462034",
+    "Q_Id": "ED-119",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Teaching and learning-o sak baithang thangwi ma phwrwng mani no bwswk jora twi important wngjak?",
+    "hint": "A20230328110956102580_281474976754472.wav"
+  },
+  {
+    "quesId": "Q20230328110215462371",
+    "Q_Id": "ED-120",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Pandemic ni jora o bobo hai jwngjal-rog phaijak kha nini phwrwng thani o?",
+    "hint": "A20230328110956395685_281474976754473.wav"
+  },
+  {
+    "quesId": "Q20230328110215462721",
+    "Q_Id": "ED-121",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Internet ni simi phwrwng mani eba swrwng mani bai, schoolo thangwi phwrwng mani bising twi nwng tamo experience man kha?",
+    "hint": "A20230328110956670392_281474976754474.wav"
+  },
+  {
+    "quesId": "Q20230328110215463061",
+    "Q_Id": "ED-125",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nwng bobo hai classno kisa eba kwbang chajakuk, class discussions eba small group works no de?",
+    "hint": "A20230328110956920037_281474976754475.wav"
+  },
+  {
+    "quesId": "Q20230328110215463404",
+    "Q_Id": "ED-128",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Bobo hai manwi-khwnwi rog bai schoolo phwrwngjak? O manwi-khwnwi rogno bobo hai khe samwngo bedok jak?",
+    "hint": "A20230328110957217742_281474976754476.wav"
+  },
+  {
+    "quesId": "Q20230328110215463785",
+    "Q_Id": "ED-131",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "School o Teachers, Principals, headmaster tei kubun staff-rogni khlai thai tamo?",
+    "hint": "A20230328110957479167_281474976754477.wav"
+  },
+  {
+    "quesId": "Q20230328110215481653",
+    "Q_Id": "ED-137",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini school tei colleg-ni kiching-rogno twiwi kisaswk sawi de mano?",
+    "hint": "A20230328110957749629_281474976754478.wav"
+  },
+  {
+    "quesId": "Q20230328110215482089",
+    "Q_Id": "ED-138",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini nukhungni borokrog bobo hai khe chuba nini education no twiwi?",
+    "hint": "A20230328110958051138_281474976754479.wav"
+  },
+  {
+    "quesId": "Q20230328110215482415",
+    "Q_Id": "ED-142",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nwng torwi lokmani yagulo nini langmao education nono tamo phwrwng kha?",
+    "hint": "A20230328110958322115_281474976754480.wav"
+  },
+  {
+    "quesId": "Q20230328110215482719",
+    "Q_Id": "ED-144",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Bobo hai khe nini ma-ni kok eba english kok samwngo bedok jak education o?",
+    "hint": "A20230328110958584445_281474976754481.wav"
+  },
+  {
+    "quesId": "Q20230328110215483003",
+    "Q_Id": "ED-146",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nwng khoroksa swrwngnai wngwi tamni bagwi o subject ba degree no saiwi nahar kha?",
+    "hint": "A20230328110958864875_281474976754482.wav"
+  },
+  {
+    "quesId": "Q20230328110215483293",
+    "Q_Id": "ED-148",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nwng tamono swrwngna muchuk school eba collegeo?",
+    "hint": "A20230328110959108294_281474976754483.wav"
+  },
+  {
+    "quesId": "Q20230328110215483592",
+    "Q_Id": "ED-152",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Internet bai tongwi bwswk jora twi kaham eba hamya wngkha? Nini swrwng thani o bobo hai bwthai man kha? ",
+    "hint": "A20230328110959385707_281474976754484.wav"
+  },
+  {
+    "quesId": "Q20230328110215483905",
+    "Q_Id": "ED-160",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nwng khoroksa lekha kwrwng tamni bagwi?",
+    "hint": "A20230328110959663330_281474976754485.wav"
+  },
+  {
+    "quesId": "Q20230328110215484213",
+    "Q_Id": "ED-162",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Tongkwthar tongmwng eba dormo, nini lekha swrwng mani langma o bobo hai khe kaham eba hamya khlai?",
+    "hint": "A20230328111000006913_281474976754486.wav"
+  },
+  {
+    "quesId": "Q20230328110215484499",
+    "Q_Id": "ED-163",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Kai bwswk kokno nwng sawi man? Bahai nwng o kokrogno swrwng kha sai de mano?",
+    "hint": "A20230328111000266591_281474976754487.wav"
+  },
+  {
+    "quesId": "Q20230328110215484816",
+    "Q_Id": "ED-164",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nukhungo rangno twiwi bwswk joratwi jwngjal phai kha lekha swrwngnai rogni thanio?",
+    "hint": "A20230328111000531874_281474976754488.wav"
+  },
+  {
+    "quesId": "Q20230328110215486302",
+    "Q_Id": "ED-167",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Bo activities no nwng chajak kuk ni class eba school o?",
+    "hint": "A20230328111000797676_281474976754489.wav"
+  },
+  {
+    "quesId": "Q20230328110215487435",
+    "Q_Id": "ED-168",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini schoolo bobo hai sports no nwng thwng kuk? Nini thwngmwng no nangma jora twi nini school rw-wi tongo abono nwng tamo uansuk?",
+    "hint": "A20230328111001116807_281474976754490.wav"
+  },
+  {
+    "quesId": "Q20230328110215488456",
+    "Q_Id": "ED-169",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini schoolo bobo hai sports no nwng thwng kuk? Nini thwngmwng no nangma jora twi nini school  nono rw-wi tongo abono nwng tamo uansuk?",
+    "hint": "A20230328111001400732_281474976754491.wav"
+  },
+  {
+    "quesId": "Q20230328110215489360",
+    "Q_Id": "ED-172",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini thinangni uansok mwngrog tamo?",
+    "hint": "A20230328111001670583_281474976754492.wav"
+  }
+]

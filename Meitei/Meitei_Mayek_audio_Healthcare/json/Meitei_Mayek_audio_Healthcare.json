@@ -1,0 +1,162 @@
+[
+  {
+    "quesId": "Q20221213065632779892",
+    "Q_Id": "HLT_1",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯥꯠꯀꯤ ꯑꯣꯏꯕ ꯍꯤꯗꯥꯛ ꯂꯥꯡꯊꯛꯀꯤ ꯃꯔꯝꯗ ꯅꯍꯥꯛꯅ ꯀꯔꯤ ꯈꯟꯕꯒꯦ ?",
+    "hint": "A20221213111354241585_281474976740161.wav"
+  },
+  {
+    "quesId": "Q20221213065632780212",
+    "Q_Id": "HLT_2",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯥꯠꯀꯤ ꯑꯣꯏꯕ ꯍꯤꯗꯥꯛ ꯂꯥꯡꯊꯛ ꯑꯁꯤ ꯀꯔꯤꯒꯤꯗꯃꯛꯇ ꯁꯤꯖꯤꯟꯅꯔꯤꯕꯅꯣ ?",
+    "hint": "A20221213111355505007_281474976740162.wav"
+  },
+  {
+    "quesId": "Q20221213065632780542",
+    "Q_Id": "HLT_3",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯆꯥꯕ ꯇꯨꯝꯗ꯭ꯔꯀꯥꯟꯗ ꯅꯥꯠꯀꯤ ꯑꯣꯏꯕ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯍꯤꯗꯥꯛ ꯁꯤꯖꯤꯟꯅꯕꯕꯒꯦ ? ꯍꯥꯏꯔꯤꯕ ꯍꯤꯗꯥꯛ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯁꯦꯝꯕꯒꯦ ꯑꯃꯗꯤ ꯆꯥꯕꯒꯦ ?",
+    "hint": "A20221213111356964889_281474976740163.wav"
+  },
+  {
+    "quesId": "Q20221213065632780871",
+    "Q_Id": "HLT_4",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯁꯥꯗ ꯊꯦꯡꯅꯈꯤꯕ ꯅꯠꯇ꯭ꯔꯒ ꯅꯁꯥꯅ ꯁꯤꯖꯤꯟꯅꯈꯤꯕ ꯅꯥꯠꯀꯤ ꯑꯣꯏꯕ ꯍꯤꯗꯥꯛꯀꯤ ꯃꯔꯝꯗ ꯈꯔ ꯍꯥꯏꯌꯨ ?",
+    "hint": "A20221213111358223727_281474976740164.wav"
+  },
+  {
+    "quesId": "Q20221213065632781194",
+    "Q_Id": "HLT_5",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯇꯩ ꯑꯇꯧꯞꯄ ꯅꯥꯠꯀꯤ ꯑꯣꯏꯕ ꯍꯤꯗꯥꯛ ꯈꯪꯕ ꯂꯩꯔꯒꯗꯤ ꯃꯗꯨꯒꯤ ꯃꯔꯝꯗ ꯋꯥꯍꯩ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ ? ꯃꯈꯣꯏ ꯑꯗꯨ ꯁꯦꯝꯕꯒꯤ ꯃꯑꯣꯡ ꯑꯃꯗꯤ ꯀꯔꯤꯒꯤꯗꯃꯛꯇ ꯁꯦꯝꯂꯤꯕꯅꯣ ꯍꯥꯏꯕꯁꯨ ꯈꯔ ꯊꯝꯕꯤꯌꯨ ?",
+    "hint": "A20221213111359693540_281474976740165.wav"
+  },
+  {
+    "quesId": "Q20221213065632781516",
+    "Q_Id": "HLT_6",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯍꯥꯛ ꯏꯁꯥ ꯁꯥꯒꯠꯂꯦ ꯍꯥꯏꯕ ꯑꯁꯤ ꯀꯔꯝ ꯀꯥꯟꯗ ꯈꯪꯕꯒꯦ? ꯏꯁꯥ ꯁꯥꯒꯠꯄꯗ ꯅꯥꯠꯀꯤ ꯑꯣꯏꯕ ꯍꯤꯗꯥꯛ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ?",
+    "hint": "A20221213111401208002_281474976740166.wav"
+  },
+  {
+    "quesId": "Q20221213065632781834",
+    "Q_Id": "HLT_7",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯥꯏꯍꯧ ꯁꯥꯕ ꯑꯃꯁꯨꯡ ꯂꯣꯛ ꯈꯨꯕꯗ ꯅꯥꯠꯀꯤ ꯑꯣꯏꯕ ꯍꯤꯗꯥꯛꯅ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯐꯍꯟꯕꯒꯦ ?",
+    "hint": "A20221213111402467996_281474976740167.wav"
+  },
+  {
+    "quesId": "Q20221213065632782151",
+    "Q_Id": "HLT_8",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯁꯣꯛ ꯑꯄꯅ ꯊꯣꯛꯄꯗ ꯅꯥꯠꯀꯤ ꯑꯣꯏꯕ ꯍꯤꯗꯥꯛ ꯁꯤꯖꯤꯟꯅꯕꯔꯥ ꯍꯥꯏꯔꯤꯕ ꯍꯤꯗꯥꯛ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯁꯦꯝꯕꯒꯦ ?",
+    "hint": "A20221213111403933882_281474976740168.wav"
+  },
+  {
+    "quesId": "Q20221213065632782469",
+    "Q_Id": "HLT_9",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯛꯆꯥꯡ ꯐꯅꯅꯕ ꯀꯔꯤ ꯀꯔꯤ ꯆꯦꯛꯁꯤꯟ ꯊꯧꯔꯥꯡ ꯂꯧꯈꯠꯄꯒꯦ ?",
+    "hint": "A20221213111405193277_281474976740169.wav"
+  },
+  {
+    "quesId": "Q20221213065632782784",
+    "Q_Id": "HLT_11",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯝꯒꯤꯗꯃꯛꯇ ꯅꯥꯠꯀꯤ ꯑꯣꯏꯕ ꯀꯔꯤ ꯀꯔꯤ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ?",
+    "hint": "A20221213111406451052_281474976740170.wav"
+  },
+  {
+    "quesId": "Q20221213065632783098",
+    "Q_Id": "HLT_12",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯝ ꯀꯦꯟꯗꯅꯕ ꯂꯨꯄꯧ ꯊꯥꯡꯗꯅꯕ ꯄꯣꯛ ꯍꯧꯗꯅꯕ ꯑꯃꯗꯤ ꯍꯤꯛ ꯂꯩꯇꯅꯕ ꯀꯔꯤ ꯀꯔꯤ ꯄꯣꯠ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ?",
+    "hint": "A20221213111407910447_281474976740171.wav"
+  },
+  {
+    "quesId": "Q20221213065632783414",
+    "Q_Id": "HLT_13",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯛꯆꯥꯡ ꯊꯤꯟꯗꯣꯛꯄ ꯀꯥꯟꯗ ꯅꯥꯠꯀꯤ ꯑꯣꯏꯅ ꯀꯔꯤ ꯀꯔꯤ ꯇꯧꯒꯗꯒꯦ ?",
+    "hint": "A20221213111409169933_281474976740172.wav"
+  },
+  {
+    "quesId": "Q20221213065632783728",
+    "Q_Id": "HLT_14",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯔꯨ-ꯁꯌꯥꯡ ꯆꯤꯛꯄ ꯀꯥꯟꯗ ꯅꯥꯠꯀꯤ ꯑꯣꯏꯅ ꯀꯔꯤ ꯇꯧꯔꯒ ꯐꯒꯗꯒꯦ ?",
+    "hint": "A20221213111410425442_281474976740173.wav"
+  },
+  {
+    "quesId": "Q20221213065632784109",
+    "Q_Id": "HLT_15",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯌꯥ ꯆꯤꯛꯄ ꯀꯥꯟꯗ ꯅꯥꯠꯀꯤ ꯑꯣꯏꯅ ꯀꯔꯤ ꯇꯧꯔꯒ ꯐꯒꯗꯒꯦ ?",
+    "hint": "A20221213111411724768_281474976740174.wav"
+  },
+  {
+    "quesId": "Q20221213065632784561",
+    "Q_Id": "HLT_16",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯀꯣꯛ ꯆꯤꯛꯄ ꯀꯥꯟꯗ ꯅꯥꯠꯀꯤ ꯑꯣꯏꯅ ꯀꯔꯤ ꯇꯧꯔꯒ ꯐꯒꯗꯒꯦ ?",
+    "hint": "A20221213111412992087_281474976740175.wav"
+  },
+  {
+    "quesId": "Q20221213065632784995",
+    "Q_Id": "HLT_17",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯛꯆꯥꯡ ꯁꯦꯡꯗꯕꯒꯤ ꯊꯤꯟꯕ-ꯌꯦꯛꯄ ꯇꯧꯕ ꯀꯥꯟꯗ ꯅꯥꯠꯀꯤ ꯑꯣꯏꯅ ꯀꯔꯤ ꯇꯧꯔꯒ ꯐꯒꯗꯒꯦ ?",
+    "hint": "A20221213111414245954_281474976740176.wav"
+  },
+  {
+    "quesId": "Q20221213065632785399",
+    "Q_Id": "HLT_18",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯀꯣꯚꯤꯗ ꯅꯥꯏꯟꯇꯤꯅꯒꯤ ꯃꯇꯝꯗ ꯅꯥꯠꯀꯤ ꯑꯣꯏꯅ ꯍꯤꯗꯥꯛ ꯀꯔꯤ ꯀꯔꯤ ꯁꯤꯖꯤꯟꯅꯈꯤꯕꯒꯦ ? ",
+    "hint": "A20221213111415500645_281474976740177.wav"
+  },
+  {
+    "quesId": "Q20221213065632785793",
+    "Q_Id": "HLT_19",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯌꯥ ꯐꯅꯅꯕ ꯅꯥꯠꯀꯤ ꯑꯣꯏꯅ ꯀꯔꯤ ꯀꯔꯤ ꯍꯤꯗꯥꯛ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ?",
+    "hint": "A20221213111416751681_281474976740178.wav"
+  },
+  {
+    "quesId": "Q20221213065632786186",
+    "Q_Id": "HLT_20",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯌꯥꯒꯤ ꯑꯣꯢꯅ ꯑꯐꯪꯕ ꯀꯔꯤ ꯀꯔꯤ ꯄꯣꯠ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ?",
+    "hint": "A20221213111418015200_281474976740179.wav"
+  },
+  {
+    "quesId": "Q20221213065632786583",
+    "Q_Id": "HLT_21",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯐꯨꯔꯨꯞꯇ ꯅꯥꯠꯀꯤ ꯑꯣꯏꯕ ꯍꯤꯗꯥꯛ ꯁꯦꯝ-ꯁꯥꯕ ꯂꯩꯕꯔꯥ? ꯍꯥꯏꯔꯤꯕ ꯍꯗꯥꯛꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯀꯥꯟꯗ ꯄꯤꯕꯒꯦ ?",
+    "hint": "A20221213111419477121_281474976740180.wav"
+  }
+]

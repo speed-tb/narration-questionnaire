@@ -1,0 +1,130 @@
+[
+  {
+    "quesId": "Q20230328110215664490",
+    "Q_Id": "SPR_1",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Polo bo jago achai eba chengjagra abono twiwi sawi de mano?",
+    "hint": "A20230328111215423992_281474976755746.wav"
+  },
+  {
+    "quesId": "Q20230328110215664845",
+    "Q_Id": "SPR_2",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini hoda sirisiti eba hukumu ni thwngmwngrog tamo?",
+    "hint": "A20230328111215678830_281474976755747.wav"
+  },
+  {
+    "quesId": "Q20230328110215665193",
+    "Q_Id": "SPR_3",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Rugby no kosol abotwi thwngmwng de tong? Tongkhe abono tamo hinjak tei bahai khe thwngjak?",
+    "hint": "A20230328111216029207_281474976755748.wav"
+  },
+  {
+    "quesId": "Q20230328110215665523",
+    "Q_Id": "SPR_4",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Bwswk jora twi exercise tei sports chini sakno kaham khlai man sawi de mano?",
+    "hint": "A20230328111216367966_281474976755749.wav"
+  },
+  {
+    "quesId": "Q20230328110215665847",
+    "Q_Id": "SPR_5",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Bobo hai thwngmwng-rogno nwng thwng kuk a thwngmwngni raida rog tamo?",
+    "hint": "A20230328111216635539_281474976755750.wav"
+  },
+  {
+    "quesId": "Q20230328110215666172",
+    "Q_Id": "SPR_6",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Nwng chwrai phro thwngbo mani a thwngmwng ni bwmwngrog no sawi de mani? Nwng chwrai phro thwngwi tong phro bobo hai patemwngrog pate bo kha kisa sawi de mano?",
+    "hint": "A20230328111216996483_281474976755751.wav"
+  },
+  {
+    "quesId": "Q20230328110215666498",
+    "Q_Id": "SPR_7",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Bisingni thwngmwng bai phatarni thwngmwng no thwngwi nwng tamo man abono twiwi kisa sawi de mano?",
+    "hint": "A20230328111217294759_281474976755752.wav"
+  },
+  {
+    "quesId": "Q20230328110215667015",
+    "Q_Id": "SPR_8",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Wrestling no kosol abotwi thwnmwng rog de tong? Tong khe kaisaswk ni mwng sadi tei abono sabo thwng?",
+    "hint": "A20230328111217570140_281474976755753.wav"
+  },
+  {
+    "quesId": "Q20230328110215667354",
+    "Q_Id": "SPR_9",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Jeba kaisa traditional boat games ni mwng sadi? Tongkhe bahai khe thwngjak tei thwngnai rog sabo?",
+    "hint": "A20230328111217861585_281474976755754.wav"
+  },
+  {
+    "quesId": "Q20230328110215667699",
+    "Q_Id": "SPR_10",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Marble thwngmani a thwmwng ni bwmwng tamo? tei a thwngmwngni raidarog tamo?",
+    "hint": "A20230328111218135172_281474976755755.wav"
+  },
+  {
+    "quesId": "Q20230328110215668039",
+    "Q_Id": "SPR_11",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Holong siki eba sorthai eba tokhlai bai thwng jak mani a thwngmwngni bwmwng tamo? tei bahai khe thwng jak?",
+    "hint": "A20230328111218458077_281474976755756.wav"
+  },
+  {
+    "quesId": "Q20230328110215668395",
+    "Q_Id": "SPR_12",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Wa o eba thailik buphangrogo kasawi thwngmang mani abotwi thwngmwng rog de tong nini hoda o?",
+    "hint": "A20230328111218767059_281474976755757.wav"
+  },
+  {
+    "quesId": "Q20230328110215668740",
+    "Q_Id": "SPR_13",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Waphisa eba latha bai thwngjak mani a thwngmwng ni bwmwng tamo? Abono bahai khe thwng jak?",
+    "hint": "A20230328111219120212_281474976755758.wav"
+  },
+  {
+    "quesId": "Q20230328110215669078",
+    "Q_Id": "SPR_14",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Nok bisingo thwngjak mani abotwi thwngmwngni bwmwngrog tamo? Abono bahai khe thwng jak?",
+    "hint": "A20230328111219387287_281474976755759.wav"
+  },
+  {
+    "quesId": "Q20230328110215669411",
+    "Q_Id": "SPR_15",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Rung batai ma thwngmwng no kosol abotwi thwngmwng no tamo hinajk? Bophro tei bahai khe thwng jak?",
+    "hint": "A20230328111219665337_281474976755760.wav"
+  },
+  {
+    "quesId": "Q20230328110215669730",
+    "Q_Id": "SPR_16",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Yoga khaiwi chini sago tamo man sawi de mano?",
+    "hint": "A20230328111219918646_281474976755761.wav"
+  }
+]

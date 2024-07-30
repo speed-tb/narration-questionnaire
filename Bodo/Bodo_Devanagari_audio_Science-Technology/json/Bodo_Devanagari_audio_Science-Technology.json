@@ -1,0 +1,762 @@
+[
+  {
+    "quesId": "Q20221213070711358998",
+    "Q_Id": "ST_1",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "राव बिगियानआ माबोरै लिरनाय आरो रायज्यियनाय रावखौ जौगानायाव मदद होयो?",
+    "hint": "A20221213101224855185_281474976742180.wav"
+  },
+  {
+    "quesId": "Q20221213070711359317",
+    "Q_Id": "ST_2",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "राव करपराया माबोरै राव बिगियान जौगानायाव माबोरै मदद होयो?",
+    "hint": "A20221213101226115386_281474976742181.wav"
+  },
+  {
+    "quesId": "Q20221213070711359630",
+    "Q_Id": "ST_3",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "राव बिगियान जौगानायनि थाखाय मानो राव करफराया जौगानायनि गोनांथि दं?",
+    "hint": "A20221213101227574936_281474976742182.wav"
+  },
+  {
+    "quesId": "Q20221213070711359941",
+    "Q_Id": "ST_4",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "मा राहायै राव बिगियान आ  बिथं थिसनफानाय जौगानायाव मदद खालामो?",
+    "hint": "A20221213101229044670_281474976742183.wav"
+  },
+  {
+    "quesId": "Q20221213070711360251",
+    "Q_Id": "ST_5",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "माया राव सोमोन्दो गोनां बिथंखौ थिसनफायो?",
+    "hint": "A20221213101230278899_281474976742184.wav"
+  },
+  {
+    "quesId": "Q20221213070711360562",
+    "Q_Id": "ST_6",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "लिरनाय राव करफराखौ माबोरै दिन्थियो?",
+    "hint": "A20221213101231556084_281474976742185.wav"
+  },
+  {
+    "quesId": "Q20221213070711360884",
+    "Q_Id": "ST_7",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "बेवहाय़ मानो रायज्लायनाय रावखौ रायज्लायग्रा करफरायाव सोमजिहोयो?",
+    "hint": "A20221213101232990190_281474976742186.wav"
+  },
+  {
+    "quesId": "Q20221213070711361505",
+    "Q_Id": "ST_9",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों जोंनो गोनांसिन हांखोखौ महर होनायनि गोनांथि खौ फोरमायनो हागोन नामा?",
+    "hint": "A20221213101234432767_281474976742188.wav"
+  },
+  {
+    "quesId": "Q20221213070711361951",
+    "Q_Id": "ST_10",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What is the role of dialect corpora? How does it help to identify the total number of speech varieties used in the country?",
+    "hint": "A20221213102125406731_281474976742189.wav"
+  },
+  {
+    "quesId": "Q20221213070711362325",
+    "Q_Id": "ST_11",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "रूजुथाव करफरा जौगाखांनायनि फारिखानथिआ माबोरै?",
+    "hint": "A20221213102126669239_281474976742190.wav"
+  },
+  {
+    "quesId": "Q20221213070711362702",
+    "Q_Id": "ST_12",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "जोंनि गेजेर देहानि लोर-सोरखौ जोथोन  लानायनि बिथंइ मा?",
+    "hint": "A20221213102128146102_281474976742191.wav"
+  },
+  {
+    "quesId": "Q20221213070711363125",
+    "Q_Id": "ST_13",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "जनथ‌्फा्व राव जौगाहोनायनि बिगियान आ मा?",
+    "hint": "A20221213102131867879_281474976742192.wav"
+  },
+  {
+    "quesId": "Q20221213070711363603",
+    "Q_Id": "ST_14",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों गोदान लिरनो फरायनो रोंनायनि गोनांथि खौ फोरमायनो हागोन नामा?",
+    "hint": "A20221213102133083699_281474976742193.wav"
+  },
+  {
+    "quesId": "Q20221213070711363980",
+    "Q_Id": "ST_15",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों जोंनो कमफिउतिसनाल राव बिगियान नि गोनांथि खौ फोरमायनो हागोन नामा?",
+    "hint": "A20221213102134325851_281474976742194.wav"
+  },
+  {
+    "quesId": "Q20221213070711364334",
+    "Q_Id": "ST_16",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों मोनसे जायखि जाया रावनि बिजिरनाय बाहागोफोरखौ बाहाय?",
+    "hint": "A20221213102135591809_281474976742195.wav"
+  },
+  {
+    "quesId": "Q20221213070711364673",
+    "Q_Id": "ST_17",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "माबोरै मोनसे रायज्लायनाय रावा जन्थ्् जों सिनायलायनो?",
+    "hint": "A20221213102136834310_281474976742196.wav"
+  },
+  {
+    "quesId": "Q20221213070711365037",
+    "Q_Id": "ST_18",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "मा राहायै मोनसे लिरनाया गुबुन गुबुन थिखोनि रिल बिगियान आव सोलायो?",
+    "hint": "A20221213102138299755_281474976742197.wav"
+  },
+  {
+    "quesId": "Q20221213070711365378",
+    "Q_Id": "ST_19",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों जोंनो सोदोब गावसा्नायनि गोनांथि खौ फोरमायनो हागोन नामा?",
+    "hint": "A20221213102139599863_281474976742198.wav"
+  },
+  {
+    "quesId": "Q20221213070711365720",
+    "Q_Id": "ST_20",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "मा फारिखानथिया रायज्लायनाय राव फोनांजाबनायाव हाबदेरफानानै दं?",
+    "hint": "A20221213102140839048_281474976742199.wav"
+  },
+  {
+    "quesId": "Q20221213070711366042",
+    "Q_Id": "ST_21",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों मरप बिजिरथिनि फावखौ फोरमायनो हागोन नामा?",
+    "hint": "A20221213102142111509_281474976742200.wav"
+  },
+  {
+    "quesId": "Q20221213070711366364",
+    "Q_Id": "ST_22",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "माबोरै बाथ्रा दानाय बिजिरथि सोदोबा जायो?",
+    "hint": "A20221213102143347475_281474976742201.wav"
+  },
+  {
+    "quesId": "Q20221213070711366680",
+    "Q_Id": "ST_23",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "मा फारिखानथिआ बाथ्रा दानाय सोमोन्दो आव हाबसनफानानै दं?",
+    "hint": "A20221213102144815779_281474976742202.wav"
+  },
+  {
+    "quesId": "Q20221213070711367005",
+    "Q_Id": "ST_24",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "मानो हादरारि गोदान फरायनाया गायसनजादों?",
+    "hint": "A20221213102146052728_281474976742203.wav"
+  },
+  {
+    "quesId": "Q20221213070711367333",
+    "Q_Id": "ST_25",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "सासे रायलायगा्या माबोरै सोदोबफोरखौ जाथायो? मोनसे रावा माबोरै सोदोब आरो बाथ्रा खोन्दोआ जोबथा गैया होनना फोरमायो?",
+    "hint": "A20221213102147692523_281474976742204.wav"
+  },
+  {
+    "quesId": "Q20221213070711367660",
+    "Q_Id": "ST_26",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "संबिजितराव सोलोंनाया मा?रावनि‌ गियाना माबोरै खामानियाव बाहाय जायो?",
+    "hint": "A20221213102149132077_281474976742205.wav"
+  },
+  {
+    "quesId": "Q20221213070711367981",
+    "Q_Id": "ST_27",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों जोंनो फनेथिक्स आरो फन’लजिनि फारागथिखौ फोरमायनो हागोन नामा?",
+    "hint": "A20221213102150605382_281474976742206.wav"
+  },
+  {
+    "quesId": "Q20221213070711368297",
+    "Q_Id": "ST_28",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "सोदोब अंग आरो केभिटिसफोरा  माबोरै सोदोब अंग सोमजिहोयो?",
+    "hint": "A20221213102152038862_281474976742207.wav"
+  },
+  {
+    "quesId": "Q20221213070711368723",
+    "Q_Id": "ST_29",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों आइफिएनि बाहायथिखौ फोरमायनो हागोन नामा?",
+    "hint": "A20221213102153281625_281474976742208.wav"
+  },
+  {
+    "quesId": "Q20221213070711369229",
+    "Q_Id": "ST_30",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "बेहाय राव महर होनायनि माबा मोनसे गुन दं नामा?",
+    "hint": "A20221213102154493917_281474976742209.wav"
+  },
+  {
+    "quesId": "Q20221213070711369640",
+    "Q_Id": "ST_31",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "मरफेम्स माने मा? नों मरफेम्सनि गोनांथि खौ फोरमायनो हागोन नामा?",
+    "hint": "A20221213102155924650_281474976742210.wav"
+  },
+  {
+    "quesId": "Q20221213070711370040",
+    "Q_Id": "ST_32",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों पुलमनिक आरो पुलमुनिक नंयै सोदोबनि फारागथिखौ फोरमायनो हागोन नामा?",
+    "hint": "A20221213102157184660_281474976742211.wav"
+  },
+  {
+    "quesId": "Q20221213070711370438",
+    "Q_Id": "ST_33",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "गारां अंगखौ बाहायना माबोरै गारां हांखो खौ सोमजिहोयो?",
+    "hint": "A20221213102158428029_281474976742212.wav"
+  },
+  {
+    "quesId": "Q20221213070711370895",
+    "Q_Id": "ST_34",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "लिरस्लायनाया माबोरै मोनसे रावनिफा्य गुबुन मोनसे रिल बिगियान आदबनिफा्य आलादा?",
+    "hint": "A20221213102159939125_281474976742213.wav"
+  },
+  {
+    "quesId": "Q20221213070711371276",
+    "Q_Id": "ST_35",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों फा्तखौ माबोरै बिजिरथि आरो आलादा रावाव बाहायो?",
+    "hint": "A20221213102201397221_281474976742214.wav"
+  },
+  {
+    "quesId": "Q20221213070711371611",
+    "Q_Id": "ST_36 (Scientific Research)",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "बिगियान नायबिजिरनायनि थांखिआ मा?",
+    "hint": "A20221213102202834950_281474976742215.wav"
+  },
+  {
+    "quesId": "Q20221213070711371961",
+    "Q_Id": "ST_37",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "बिगियान नायबिजिरनायनि सिगां मा मा बुस्तुनि गोनांथि जायो?",
+    "hint": "A20221213102204099588_281474976742216.wav"
+  },
+  {
+    "quesId": "Q20221213070711372294",
+    "Q_Id": "ST_38",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "बिगियान नायबिजिरनायनि बाहागोफोरा माबोरै दाथाय बानायनाय नायबिजिरनायाव हेफाजाब होयो?",
+    "hint": "A20221213102205572013_281474976742217.wav"
+  },
+  {
+    "quesId": "Q20221213070711372617",
+    "Q_Id": "ST_39",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "बिसावरायथियारि बिथां बुथुमनाय आदबा माबोरै नायबिजिरनाय आदबनि फा्य आलादा?",
+    "hint": "A20221213102207009159_281474976742218.wav"
+  },
+  {
+    "quesId": "Q20221213070711372952",
+    "Q_Id": "ST_40",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "गेजेरा मोनबेसे रोखोमनि जाय्याव बिगियान नायबिजिरनाया बाहाय जायो?",
+    "hint": "A20221213102208245792_281474976742219.wav"
+  },
+  {
+    "quesId": "Q20221213070711373273",
+    "Q_Id": "ST_41",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "बिगियान नायबिजिरनायनि बाहागोफोरखौ बरनायलु आरो आनजाद आदबनि गेजेरजों फोरमाय?",
+    "hint": "A20221213102209680103_281474976742220.wav"
+  },
+  {
+    "quesId": "Q20221213070711373587",
+    "Q_Id": "ST_42",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों बरनायलु आदबनि नायबिजिरनाया  मख’दमा खौरां आरो मख’दमा फारि आव मा गोनांथि दं फोरमायनो हागोन नामा?",
+    "hint": "A20221213102211156134_281474976742221.wav"
+  },
+  {
+    "quesId": "Q20221213070711373900",
+    "Q_Id": "ST_43",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "मा जाहोनाव नों सानोदि आनजाद नायबिजिरनायनिफा्य बिजिरलु नायबिजिरनाया माबोरै आलादा?",
+    "hint": "A20221213102212618492_281474976742222.wav"
+  },
+  {
+    "quesId": "Q20221213070711374212",
+    "Q_Id": "ST_44",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नोजोर होनानै नायनाय नायबिजिरनाया गुबुन नायबिजिरनायनि‌फा्य माबोरै गोनांथि गोनांसिन?",
+    "hint": "A20221213102214082905_281474976742223.wav"
+  },
+  {
+    "quesId": "Q20221213070711374526",
+    "Q_Id": "ST_45",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "कहरत नायबिजिरनायनि  आनजाद आरो नोजोर होनानै फरायनायनि गोनांथि आं मा?",
+    "hint": "A20221213102215545544_281474976742224.wav"
+  },
+  {
+    "quesId": "Q20221213070711374834",
+    "Q_Id": "ST_46",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों मख’दमा होबथानाय फरायनाय आरो समाजनि बादै फरायनायनि गोनांथि आं मा?",
+    "hint": "A20221213102216780945_281474976742225.wav"
+  },
+  {
+    "quesId": "Q20221213070711375140",
+    "Q_Id": "ST_47",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "गेजेरनि नायबिजिरनाय माने मा?",
+    "hint": "A20221213102218014085_281474976742226.wav"
+  },
+  {
+    "quesId": "Q20221213070711375450",
+    "Q_Id": "ST_48",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "बेराम फाहामनाय नायबिजिरगा्या बेराम बाहायनाय मख’दमाखौ माबोरै होबथानाय हान्जाजों लोगोसे लाबोयो?",
+    "hint": "A20221213102219447988_281474976742227.wav"
+  },
+  {
+    "quesId": "Q20221213070711375761",
+    "Q_Id": "ST_49",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "जोंनो बेराम फाहामनायनि गोनांथि खौ फोरमाय",
+    "hint": "A20221213102220726923_281474976742228.wav"
+  },
+  {
+    "quesId": "Q20221213070711376073",
+    "Q_Id": "ST_50",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "जानला मानला आरो ब्लायनदिं आदबखौ बेराम फाहामनायाव माबोरै बाहायो?",
+    "hint": "A20221213102222164270_281474976742229.wav"
+  },
+  {
+    "quesId": "Q20221213070711376390",
+    "Q_Id": "ST_51General",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "दैखौ मा मा खामानि आव बाहायो? नों जोंनो बे खौ साफा खालामनायनि फारिखान्थिआ मा मा?",
+    "hint": "A20221213102223428827_281474976742230.wav"
+  },
+  {
+    "quesId": "Q20221213070711376701",
+    "Q_Id": "ST_52",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "दै साफा खालामनायाव क्लरिनेसन आरो गुफुर खालामनायनि गोनांथि आं मा?",
+    "hint": "A20221213102224885355_281474976742231.wav"
+  },
+  {
+    "quesId": "Q20221213070711377033",
+    "Q_Id": "ST_53",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों जोंनो दै रैखाथिनि गोनांथि खौ फोरमायनो हायो नामा?",
+    "hint": "A20221213102226145291_281474976742232.wav"
+  },
+  {
+    "quesId": "Q20221213070711377347",
+    "Q_Id": "ST_54",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "बारा मावो होन्नानै जों माबोरै दिन्थिनो हायो?",
+    "hint": "A20221213102227382525_281474976742233.wav"
+  },
+  {
+    "quesId": "Q20221213070711377657",
+    "Q_Id": "ST_55",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों  जोंनि जिउआव अक्सिजेननि गोनांथिखौ फोरमायनो हायो नामा?",
+    "hint": "A20221213102228640441_281474976742234.wav"
+  },
+  {
+    "quesId": "Q20221213070711377976",
+    "Q_Id": "ST_56",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "हागा्मा फोजोबसा्ंनाया मा?मा जायो जेब्ला जों हागा्माखौ आरो मिथिंगायारि जीबास्मखौ सानोब्ला?",
+    "hint": "A20221213102230128524_281474976742235.wav"
+  },
+  {
+    "quesId": "Q20221213070711378283",
+    "Q_Id": "ST_57",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "मानो सा आरो खोला बल आव सुमबुक बोकथाबो?",
+    "hint": "A20221213102231369765_281474976742236.wav"
+  },
+  {
+    "quesId": "Q20221213070711378587",
+    "Q_Id": "ST_58",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि धातुफोरा मा मा? मा मा रोखोमनि बुस्तु बानायनाय जायो धातुनिफा्य?",
+    "hint": "A20221213102232808776_281474976742237.wav"
+  },
+  {
+    "quesId": "Q20221213070711378896",
+    "Q_Id": "ST_59",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि गुदि मुवाया मा मा?",
+    "hint": "A20221213102234015374_281474976742238.wav"
+  },
+  {
+    "quesId": "Q20221213070711379209",
+    "Q_Id": "ST_60",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "धातु नंयैआ मा? बे खौ माबोरै बाहायो?",
+    "hint": "A20221213102235244216_281474976742239.wav"
+  },
+  {
+    "quesId": "Q20221213070711379519",
+    "Q_Id": "ST_61",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "खफ’आ माबोरै अखा हाहोयो?",
+    "hint": "A20221213102236472274_281474976742240.wav"
+  },
+  {
+    "quesId": "Q20221213070711379831",
+    "Q_Id": "ST_62",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "दैखफ’आ माबोरै जायो?",
+    "hint": "A20221213102237723212_281474976742241.wav"
+  },
+  {
+    "quesId": "Q20221213070711380142",
+    "Q_Id": "ST_63",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "जिउ फारिखानथिआ मा?",
+    "hint": "A20221213102238755189_281474976742242.wav"
+  },
+  {
+    "quesId": "Q20221213070711380451",
+    "Q_Id": "ST_64",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "अखा आबाद मावनाया मा?",
+    "hint": "A20221213102239828098_281474976742243.wav"
+  },
+  {
+    "quesId": "Q20221213070711380763",
+    "Q_Id": "ST_65",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "जानबुंआ माबोरै खामानि मावो?",
+    "hint": "A20221213102241086457_281474976742244.wav"
+  },
+  {
+    "quesId": "Q20221213070711381106",
+    "Q_Id": "ST_66",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों नोंनि जानबुंखौ माबोरै मोब्लिब गोहो होयो?",
+    "hint": "A20221213102242323655_281474976742245.wav"
+  },
+  {
+    "quesId": "Q20221213070711381421",
+    "Q_Id": "ST_67",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "युत्युबाव नों मा नायो?",
+    "hint": "A20221213102243526811_281474976742246.wav"
+  },
+  {
+    "quesId": "Q20221213070711381731",
+    "Q_Id": "ST_68",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंहां मोब्लिब गोहो सोनायनि आरो गुबुन मोनसे  राहा दंबावयो नामा?",
+    "hint": "A20221213102244742184_281474976742247.wav"
+  },
+  {
+    "quesId": "Q20221213070711382045",
+    "Q_Id": "ST_69",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन मोब्लिबारि गोहोआ मा मा जायखौ नों नोंनि बाल्बखौ फोजोंनो बाहायो?",
+    "hint": "A20221213102246170512_281474976742248.wav"
+  },
+  {
+    "quesId": "Q20221213070711382353",
+    "Q_Id": "ST_70",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "सलार गोहोखौ माबोरै बानायो?",
+    "hint": "A20221213102247230934_281474976742249.wav"
+  },
+  {
+    "quesId": "Q20221213070711382662",
+    "Q_Id": "ST_71",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन मोब्लिबारि गोहो फसंथाननि राहाया मा मा ?",
+    "hint": "A20221213102248537025_281474976742250.wav"
+  },
+  {
+    "quesId": "Q20221213070711382977",
+    "Q_Id": "ST_72",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "दैलोंनायनि गुबुन गुबुन ",
+    "hint": "A20221213102249773667_281474976742251.wav"
+  },
+  {
+    "quesId": "Q20221213070711383292",
+    "Q_Id": "ST_73",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "दैखौ लोंनायनि सिगां मानो फुदुंनांगौ?",
+    "hint": "A20221213102250984674_281474976742252.wav"
+  },
+  {
+    "quesId": "Q20221213070711383597",
+    "Q_Id": "ST_74",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "जों सलार गोहोनिफा्य माबोरै मोब्लिब गोहो बानायो?",
+    "hint": "A20221213102252220268_281474976742253.wav"
+  },
+  {
+    "quesId": "Q20221213070711383906",
+    "Q_Id": "ST_75",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि जानबुंजों नुजाथिनाय फृब्लेमा मा मा आरो नों बैफोरखौ माबोरै बाहायो?",
+    "hint": "A20221213102253659667_281474976742254.wav"
+  },
+  {
+    "quesId": "Q20221213070711384215",
+    "Q_Id": "ST_76",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन बाजार खालामग्रा बेखौ माबोरै बाहायो?",
+    "hint": "A20221213102254917587_281474976742255.wav"
+  },
+  {
+    "quesId": "Q20221213070711384522",
+    "Q_Id": "ST_77",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों सोर बयबो नोंसोरनन जानब ुंजों मा खालामो?",
+    "hint": "A20221213102256156124_281474976742256.wav"
+  },
+  {
+    "quesId": "Q20221213070711384848",
+    "Q_Id": "ST_78",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "अखा हाब्ला मोब्ब्लब गोहोखौ मानो बन्द खालामो?",
+    "hint": "A20221213102257439679_281474976742257.wav"
+  },
+  {
+    "quesId": "Q20221213070711385165",
+    "Q_Id": "ST_79",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों नोंनन टेलललिजनजों मा मा ब स्त फोर मोनफायो ?",
+    "hint": "A20221213102258677114_281474976742258.wav"
+  },
+  {
+    "quesId": "Q20221213070711385473",
+    "Q_Id": "ST_80",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों नोंनन टेलललिजब्न्न सेट-टफ बक्सखौ माबोरै ररसारज खालामो?",
+    "hint": "A20221213102259933845_281474976742259.wav"
+  },
+  {
+    "quesId": "Q20221213070711385779",
+    "Q_Id": "ST_81",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों नोंनन जानब ुंनी सानम खौ माबोरै बाहायो आरो मा थासाररआव बाहायो?",
+    "hint": "A20221213102301406441_281474976742260.wav"
+  },
+  {
+    "quesId": "Q20221213070711386085",
+    "Q_Id": "ST_82",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "जानब ुंनी लसगाुं मानलस फोरजों माबोरै सोमोन्दो आव थायोमोन?",
+    "hint": "A20221213102302838823_281474976742261.wav"
+  },
+  {
+    "quesId": "Q20221213070711386393",
+    "Q_Id": "ST_83",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "इनिारथारखौ जोंहोनो थाखाय बेसेबाुं घन्टानन बेटारर मोब्ब्लब गोहोनन गोनाुंथथ नाुंगौ?",
+    "hint": "A20221213102304288516_281474976742262.wav"
+  },
+  {
+    "quesId": "Q20221213070711386698",
+    "Q_Id": "ST_84",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "जाग्रा म वा देनायनन गोदोनन नेम आ मा मा?",
+    "hint": "A20221213102305524885_281474976742263.wav"
+  },
+  {
+    "quesId": "Q20221213070711387003",
+    "Q_Id": "ST_85",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों समखौ माबोरै लाखखयो?",
+    "hint": "A20221213102306766704_281474976742264.wav"
+  },
+  {
+    "quesId": "Q20221213070711387304",
+    "Q_Id": "ST_86",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "साननन सोराुंखौ मा मायाव बाहायो?",
+    "hint": "A20221213102308035623_281474976742265.wav"
+  },
+  {
+    "quesId": "Q20221213070711387612",
+    "Q_Id": "ST_87",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "जायखललुंआ माबोरै सोमब्जयो ?",
+    "hint": "A20221213102309070967_281474976742516.wav"
+  },
+  {
+    "quesId": "Q20221213070711387919",
+    "Q_Id": "ST_88",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "बाुंगंआ माबोरै जायो ?",
+    "hint": "A20221213102310129079_281474976742517.wav"
+  },
+  {
+    "quesId": "Q20221213070711388225",
+    "Q_Id": "ST_89",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "अखा खोरोमनाय आरो मोल्फामनाया माबोरै जायो ?",
+    "hint": "A20221213102311394031_281474976742518.wav"
+  },
+  {
+    "quesId": "Q20221213070711388528",
+    "Q_Id": "ST_90",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नों माबोरै हाुं लायो? हाुं लानो थाखाय बाहायनाय ग ब न ग ब न अुंगफोरा मा मा?",
+    "hint": "A20221213102312628822_281474976742519.wav"
+  },
+  {
+    "quesId": "Q20221213070711388849",
+    "Q_Id": "ST_91",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ब्जउ गोनाुं आरो ब्जउ गैयै म वाफोरा मा मा ?",
+    "hint": "A20221213102313880616_281474976742520.wav"
+  },
+  {
+    "quesId": "Q20221213070711389186",
+    "Q_Id": "ST_92",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनन सोरथगददुं थानाय माखासे ब्जउ गोनाुं म वाफोरखौ बेखेव .",
+    "hint": "A20221213102315112653_281474976742521.wav"
+  },
+  {
+    "quesId": "Q20221213070711389501",
+    "Q_Id": "ST_93",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनन सोरथगददुं थानाय माखासे ब्जउ गैयै म वाफोरखौ बेखेव .",
+    "hint": "A20221213102316415297_281474976742522.wav"
+  },
+  {
+    "quesId": "Q20221213070711389817",
+    "Q_Id": "ST_94",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "जोंनन श्रफफनाया माबोरै जाखाुंओ ?",
+    "hint": "A20221213102317644961_281474976742523.wav"
+  },
+  {
+    "quesId": "Q20221213070711390133",
+    "Q_Id": "ST_95",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "जोंनन देहानन ग ब न ग ब न हजम अुंगफोरा माया ?",
+    "hint": "A20221213102318879118_281474976742524.wav"
+  },
+  {
+    "quesId": "Q20221213070711390446",
+    "Q_Id": "ST_96",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "गारर खौ माबोरै जागायगोन ?",
+    "hint": "A20221213102320113713_281474976742525.wav"
+  }
+]

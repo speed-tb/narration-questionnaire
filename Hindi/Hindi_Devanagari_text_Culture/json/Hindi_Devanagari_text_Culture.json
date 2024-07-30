@@ -1,0 +1,250 @@
+[
+  {
+    "quesId": "Q20221213070711420208",
+    "Q_Id": "CLT_1",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके गाँव का प्रशासन कैसे काम करता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711420516",
+    "Q_Id": "CLT_2",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "गाँव के प्रशासन से जुड़े लोग कौन होते हैं? उनकी भूमिकाएँ और कर्तव्य क्या - क्या होते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711420845",
+    "Q_Id": "CLT_3",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ग्राम विकास समिति की क्या भूमिका है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711421168",
+    "Q_Id": "CLT_4",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "हमें अपने समुदाय की परंपराओं और जीवन शैली के बारे में बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711421477",
+    "Q_Id": "CLT_5",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके गाँव में प्रथागत न्यायालय कैसे का करता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711421782",
+    "Q_Id": "CLT_6",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समुदाय के प्रथागत न्यायालय का मुखिया कौन है? उनकी भूमिकाएँ और काम क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711422086",
+    "Q_Id": "CLT_7",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने समुदाय की पारंपरिक पोशाक के बारे में बताएं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711422393",
+    "Q_Id": "CLT_8",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने समुदाय के सबसे महत्वपूर्ण शॉल के डिजाइन के बारे में बताएं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711422698",
+    "Q_Id": "CLT_9",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समुदाय के कुछ पारंपरिक आभूषण और कपड़ें क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711423009",
+    "Q_Id": "CLT_10",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समुदाय के मुख्य व्यवसाय क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711423314",
+    "Q_Id": "CLT_11",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समुदाय की खाद्य संस्कृति क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711423618",
+    "Q_Id": "CLT_12",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "हमें अपने समुदाय के कुछ सबसे लोकप्रिय खाद्य पदार्थों के बारे में बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711423924",
+    "Q_Id": "CLT_13",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "खेती में शामिल विभिन्न चरण और प्रक्रिया क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711424230",
+    "Q_Id": "CLT_14",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आपके समुदाय में खेती से संबंधित कोई त्योहार है? उन्हें कैसे मनाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711424537",
+    "Q_Id": "CLT_15",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समुदाय का सबसे महत्वपूर्ण त्योहार कौन सा है? वह कैसे मनाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711424863",
+    "Q_Id": "CLT_16",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने समुदाय के पारंपरिक नृत्यों के बारे में कुछ बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711425177",
+    "Q_Id": "CLT_17",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने समुदाय की विवाह संस्कृति के बारे में कुछ बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711425486",
+    "Q_Id": "CLT_18",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने समुदाय की बुनाई की पारंपरिक कला के बारे में बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711425793",
+    "Q_Id": "CLT_19",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने समुदाय द्वारा बनाई जाने वाली कुछ प्रसिद्ध कला और हस्तशिल्प, लकड़ी की नक्काशी और मिट्टी के बर्तनों के बारे में बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711426099",
+    "Q_Id": "CLT_20",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समुदाय द्वारा बनाए गए बांस और गन्ने के विभिन्न प्रकार के उत्पाद कौन-से हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711426409",
+    "Q_Id": "CLT_21",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने समुदाय के कुछ प्रसिद्ध लोक गीतों के बारे में बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711426716",
+    "Q_Id": "CLT_22",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "हमें अपने समुदाय द्वारा उपयोग किए जाने वाले संगीत वाद्ययंत्रों के बारे में बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711427021",
+    "Q_Id": "CLT_23",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समुदाय का मौखिक इतिहास कैसे लिखा जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711427326",
+    "Q_Id": "CLT_24",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "हमें अपने समुदाय के नाम की उत्पत्ति के बारे में बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711427637",
+    "Q_Id": "CLT_25",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "हमें अपने समुदाय की एक छोटी लोक कथा बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711427943",
+    "Q_Id": "CLT_26",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "हमें अपने समुदाय के पारंपरिक धर्म या मान्यताओं के बारे में बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711428254",
+    "Q_Id": "CLT_27",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने समुदाय की मछली पकड़ने की पारंपरिक पद्धति के बारे में बताएं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711428559",
+    "Q_Id": "CLT_28",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "शिकार में उपयोग किए जाने वाले पारंपरिक हथियार और उपकरण कौन से हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711428880",
+    "Q_Id": "CLT_29",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "जानवरों और पक्षियों को पकड़ने के लिए पारंपरिक जाल लगाने के बारे में बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711429203",
+    "Q_Id": "CLT_30",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आपके गाँव में अभी भी पारंपरिक शिकार का चलन है? आपके गाँव में शिकार के नियम और कानून क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711429514",
+    "Q_Id": "CLT_31",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "आप अपने समुदाय में किस प्रकार के आभूषणों का प्रयोग करते हैं और वे कैसे बनते हैं ?",
+    "hint": ""
+  }
+]

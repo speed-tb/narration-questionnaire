@@ -1,0 +1,130 @@
+[
+  {
+    "quesId": "Q20221213070711415261",
+    "Q_Id": "SPR_1",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप हमें पोलो (सगोल कांगजेई) की उत्पत्ति के बारे में कुछ बता सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711415564",
+    "Q_Id": "SPR_2",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समुदाय में पारंपरिक खेल कौन से हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711415869",
+    "Q_Id": "SPR_3",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या रग्बी के समान कोई खेल है? इसे क्या कहते हैं और इसे कैसे खेला जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711416173",
+    "Q_Id": "SPR_4",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप बता सकते हैं कि व्यायाम/खेल हमें कैसे स्वस्थ बनाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711416483",
+    "Q_Id": "SPR_5",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "तुम क्या क्या खेल खेलते हो? उन खेलों के नियम क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711416786",
+    "Q_Id": "SPR_6",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप हमें अपने बचपन के दिनों के खेल के बारे में बता सकते हैं? क्या आप अपने बचपन के दिनों के खेल की कोई यादगार घटना साझा कर सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711417120",
+    "Q_Id": "SPR_7",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप इनडोर और आउटडोर खेलों के लाभों के बारे में बता सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711417436",
+    "Q_Id": "SPR_8",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "कुश्ती से संबंधित किसी खेल का नाम बताइए? खेल कौन करता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711417746",
+    "Q_Id": "SPR_9",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "किसी पारंपरिक बोर्ड गेम का नाम दें? यदि हां, तो खेल कैसे खेला जाता है और कौन खेलता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711418050",
+    "Q_Id": "SPR_10",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "संगमरमर से खेले जाने वाले खेल का नाम क्या है? मार्बल बजाने के क्या नियम हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711418354",
+    "Q_Id": "SPR_11",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप हमें पत्थर से खेले जाने वाले खेल का नाम बता सकते हैं? यह कैसे खेला जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711418661",
+    "Q_Id": "SPR_12",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आपके समुदाय में बांस के पेड़ या केले के तने पर चढ़ने से संबंधित कोई विशिष्ट खेल है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711418967",
+    "Q_Id": "SPR_13",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "लाठी से खेल के नाम बताइए? यह कैसे खेला जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711419279",
+    "Q_Id": "SPR_14",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने समुदाय में किसी इनडोर खेल का नाम दें? यह कैसे खेला जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711419588",
+    "Q_Id": "SPR_15",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "बोट रेस से संबंधित खेल का नाम क्या है? यह कब और कैसे खेला जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711419896",
+    "Q_Id": "SPR_16",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप हमें योग के कुछ फायदे बता सकते हैं?",
+    "hint": ""
+  }
+]

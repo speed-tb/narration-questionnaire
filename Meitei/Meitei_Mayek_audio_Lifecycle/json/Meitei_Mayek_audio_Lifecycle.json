@@ -1,0 +1,282 @@
+[
+  {
+    "quesId": "Q20221213065632716394",
+    "Q_Id": "LC_1",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯉꯥꯡ ꯄꯣꯛꯑꯕ ꯃꯇꯨꯡꯗ ꯀꯔꯤ ꯊꯧꯔꯝ ꯄꯥꯡꯊꯣꯛꯄꯒꯦ ?",
+    "hint": "A20221213110954366340_281474976739330.wav"
+  },
+  {
+    "quesId": "Q20221213065632716711",
+    "Q_Id": "LC_2",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯉꯥꯡ ꯄꯣꯛꯑꯕ ꯃꯇꯨꯡꯒꯤ ꯊꯧꯔꯝ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯑꯃꯗꯤ ꯀꯔꯝꯕ ꯃꯐꯝꯗ ꯄꯥꯡꯊꯣꯛꯄꯒꯦ ?",
+    "hint": "A20221213110955624667_281474976739331.wav"
+  },
+  {
+    "quesId": "Q20221213065632717046",
+    "Q_Id": "LC_3",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯉꯥꯡ ꯄꯣꯛꯑꯕ ꯃꯇꯨꯡꯗ ꯊꯧꯔꯝ ꯀꯌꯥ ꯄꯥꯡꯊꯣꯛꯄꯒꯦ? ꯃꯈꯧꯏꯒꯤ ꯃꯃꯤꯡ ꯑꯃꯗꯤ ꯃꯈꯣꯏ ꯄꯥꯡꯊꯣꯛꯂꯤꯕ ꯑꯗꯨ ꯀꯔꯤ ꯃꯔꯝꯒꯤꯅꯣ",
+    "hint": "A20221213110957078904_281474976739332.wav"
+  },
+  {
+    "quesId": "Q20221213065632718324",
+    "Q_Id": "LC_7",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯉꯥꯡ ꯄꯣꯛꯄꯒꯤ ꯊꯧꯔꯝ ꯄꯔꯦꯡ ꯑꯗꯨ ꯀꯔꯤ-ꯀꯔꯤꯅꯣ?",
+    "hint": "A20221213110958329983_281474976739336.wav"
+  },
+  {
+    "quesId": "Q20221213065632718639",
+    "Q_Id": "LC_8",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯉꯥꯡ ꯄꯣꯛꯄꯒꯤ ꯊꯧꯔꯃ ꯑꯗꯨꯗ ꯀꯔꯤ-ꯀꯔꯤ ꯃꯄꯣꯠ-ꯃꯆꯩ ꯆꯣꯕꯒꯦ?",
+    "hint": "A20221213110959592686_281474976739337.wav"
+  },
+  {
+    "quesId": "Q20221213065632718964",
+    "Q_Id": "LC_9",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯉꯥꯡ ꯑꯗꯨꯒꯤ ꯃꯃꯤꯡ ꯀꯅꯥꯅ  ꯊꯣꯟꯕꯒꯦ ꯑꯝꯗꯤ ꯀꯔꯃꯕ ꯃꯑꯣꯡꯗ ꯊꯣꯟꯕꯒꯦ?",
+    "hint": "A20221213111000858293_281474976739338.wav"
+  },
+  {
+    "quesId": "Q20221213065632719281",
+    "Q_Id": "LC_10",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯉꯥꯡ ꯄꯣꯛꯄꯒꯤ ꯊꯧꯔꯝ ꯑꯗꯨꯨ ꯀꯅꯥꯅ ꯄꯥꯡꯊꯣꯛꯄꯒꯦ?",
+    "hint": "A20221213111001914823_281474976739339.wav"
+  },
+  {
+    "quesId": "Q20221213065632719594",
+    "Q_Id": "LC_11",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯉꯥꯡ ꯄꯣꯛꯑꯕ ꯃꯇꯨꯡꯗ ꯆꯥꯛ ꯇꯧꯕꯔꯥ? ꯀꯔꯤ-ꯀꯔꯤ ꯃꯊꯦꯜ ꯇꯧꯕꯒꯦ?",
+    "hint": "A20221213111003170334_281474976739340.wav"
+  },
+  {
+    "quesId": "Q20221213065632719915",
+    "Q_Id": "LC_12",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯉꯥꯡ ꯄꯣꯛꯄꯒꯤ ꯊꯧꯔꯝ ꯑꯗꯨ ꯄꯥꯡꯊꯣꯛꯄꯒꯤꯗꯃꯛꯇ ꯀꯅꯥꯅ ꯁꯤꯟ-ꯂꯥꯡꯕꯒꯦ ꯑꯝꯁꯨꯡ ꯃꯗꯨꯗ ꯆꯣꯒꯗꯕ ꯁꯦꯜ ꯀꯅꯥꯅ ꯄꯨꯊꯣꯛꯄꯒꯦ?",
+    "hint": "A20221213111004669610_281474976739341.wav"
+  },
+  {
+    "quesId": "Q20221213065632720237",
+    "Q_Id": "LC_13",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯉꯥꯡ ꯄꯣꯛꯄꯒ ꯃꯔꯤ ꯂꯩꯅꯕ ꯑꯇꯣꯞꯄ ꯀꯔꯤ ꯊꯧꯔꯝ ꯂꯩꯕꯒꯦ? ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ?",
+    "hint": "A20221213111005933331_281474976739342.wav"
+  },
+  {
+    "quesId": "Q20221213065632720556",
+    "Q_Id": "LC_41",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯆꯍꯤ ꯐꯥꯗ꯭ꯔꯤꯕ ꯑꯉꯥꯡ ꯑꯗꯨ ꯀꯔꯤ-ꯀꯔꯤ ꯄꯤꯖꯕꯒꯦ?",
+    "hint": "A20221213111007185701_281474976739343.wav"
+  },
+  {
+    "quesId": "Q20221213065632721073",
+    "Q_Id": "LC_14",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯨꯍꯣꯡꯒꯗꯧꯔꯤꯕ ꯅꯨꯄꯥ ꯑꯃꯁꯨꯡ ꯅꯨꯄꯤ ꯂꯨꯍꯣꯡꯗ꯭ꯔꯤꯉꯩ ꯃꯃꯥꯡꯗ ꯀꯔꯝꯅ  ꯎꯅꯕꯒꯦ?",
+    "hint": "A20221213111008445730_281474976739344.wav"
+  },
+  {
+    "quesId": "Q20221213065632722239",
+    "Q_Id": "LC_17",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯨꯍꯣꯡꯕꯒ ꯃꯔꯤ ꯂꯩꯅꯕ ꯀꯔꯤ-ꯀꯔꯤ ꯊꯧꯔꯝ ꯄꯥꯡꯊꯣꯛꯄꯒꯦ?",
+    "hint": "A20221213111009697324_281474976739347.wav"
+  },
+  {
+    "quesId": "Q20221213065632722566",
+    "Q_Id": "LC_18",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯀꯔꯝꯕ ꯃꯐꯝ ꯑꯃꯁꯨꯡ ꯃꯐꯃꯗ ꯂꯨꯍꯣꯡꯕꯒ ꯃꯔꯤ ꯂꯩꯅꯕ ꯊꯧꯔꯝ ꯄꯥꯡꯊꯣꯛꯄꯒꯦ?",
+    "hint": "A20221213111010954085_281474976739348.wav"
+  },
+  {
+    "quesId": "Q20221213065632722886",
+    "Q_Id": "LC_19",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯨꯨꯍꯣꯡꯕꯒꯤ ꯊꯧꯔꯝ ꯀꯌꯥ ꯂꯩꯕꯒꯦ? ꯃꯈꯣꯏꯒꯤ ꯃꯃꯤꯡ ꯑꯝꯁꯨꯡ ꯄꯥꯡꯊꯣꯛꯄꯒꯤ ꯃꯔꯝ ꯄꯤꯌꯨ?",
+    "hint": "A20221213111012205882_281474976739349.wav"
+  },
+  {
+    "quesId": "Q20221213065632723207",
+    "Q_Id": "LC_20",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯨꯍꯣꯡꯕꯒꯤ ꯊꯧꯔꯝ ꯑꯗꯨꯨꯒꯤ ꯅꯨꯃꯤꯠ ꯑꯝꯁꯨꯡ ꯃꯇꯝ ꯀꯔꯝꯅ ꯂꯦꯞꯄꯒꯦ?",
+    "hint": "A20221213111013470102_281474976739350.wav"
+  },
+  {
+    "quesId": "Q20221213065632723841",
+    "Q_Id": "LC_22",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯨꯍꯣꯡꯕꯗ ꯂꯥꯛꯀꯗꯧꯔꯤꯕ ꯃꯤꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯅ ꯐꯝꯍꯟꯕꯒꯦ?",
+    "hint": "A20221213111016034518_281474976739352.wav"
+  },
+  {
+    "quesId": "Q20221213065632724169",
+    "Q_Id": "LC_23",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯨꯍꯣꯡꯕꯗ ꯀꯔꯤ-ꯀꯔꯤ ꯊꯧꯔꯝ ꯄꯥꯡꯊꯣꯛꯄꯒꯦ?",
+    "hint": "A20221213111017092515_281474976739353.wav"
+  },
+  {
+    "quesId": "Q20221213065632724490",
+    "Q_Id": "LC_24",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯨꯍꯣꯡꯕꯒꯤ ꯊꯧꯔꯝ ꯑꯗꯨꯗ ꯀꯔꯤ-ꯀꯔꯤ ꯃꯄꯣꯠ ꯃꯆꯩ ꯆꯣꯕꯒꯦ?",
+    "hint": "A20221213111018350240_281474976739354.wav"
+  },
+  {
+    "quesId": "Q20221213065632724822",
+    "Q_Id": "LC_25",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯨꯍꯣꯡꯕꯒ ꯃꯔꯤ ꯂꯩꯩꯅꯕ ꯊꯧꯔꯝꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯅ ꯄꯥꯡꯊꯣꯛꯄꯒꯦ?",
+    "hint": "A20221213111019603654_281474976739355.wav"
+  },
+  {
+    "quesId": "Q20221213065632725148",
+    "Q_Id": "LC_26",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯨꯍꯣꯡꯕꯒꯤ ꯊꯧꯔꯝ ꯄꯥꯡꯊꯣꯛ ꯑꯕ ꯃꯇꯨꯡ ꯑꯃꯁꯨꯡ ꯃꯃꯥꯡꯗ ꯃꯌꯥꯝꯒꯤ ꯆꯥꯛ ꯁꯤꯟꯕꯔꯥ? ꯀꯔꯤ-ꯀꯔꯤ ꯃꯊꯦꯜ ꯄꯤꯖꯕꯒꯦ?",
+    "hint": "A20221213111021061983_281474976739356.wav"
+  },
+  {
+    "quesId": "Q20221213065632725470",
+    "Q_Id": "LC_27",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯨꯍꯣꯡꯕꯒꯤ ꯆꯥꯟ-ꯊꯛꯟꯕ ꯑꯗꯨ ꯀꯅꯥꯅ ꯁꯤꯟ-ꯂꯥꯡꯕꯒꯦ?",
+    "hint": "A20221213111022324562_281474976739357.wav"
+  },
+  {
+    "quesId": "Q20221213065632725789",
+    "Q_Id": "LC_28",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯨꯍꯣꯡꯕꯒ ꯃꯔꯤ ꯂꯩꯅꯕ ꯑꯇꯣꯞꯄ ꯃꯔꯨ ꯑꯣꯏꯕ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ?",
+    "hint": "A20221213111023590468_281474976739358.wav"
+  },
+  {
+    "quesId": "Q20221213065632726438",
+    "Q_Id": "LC_29",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯤꯕꯒ ꯃꯔꯤ ꯂꯩꯅꯅ  ꯀꯔꯝ-ꯀꯔꯝꯕ ꯊꯧꯔꯝ ꯂꯩꯕꯒꯦ?",
+    "hint": "A20221213111024895276_281474976739360.wav"
+  },
+  {
+    "quesId": "Q20221213065632726759",
+    "Q_Id": "LC_30",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯀꯔꯝꯕ ꯃꯐꯝ ꯑꯃꯁꯨꯡ ꯃꯇꯝꯗ ꯁꯤꯕꯒ ꯃꯔꯤ ꯂꯩꯅꯕ ꯊꯧꯔꯝ ꯑꯗꯨ ꯄꯥꯡꯊꯣꯛꯄꯒꯦ?",
+    "hint": "A20221213111026148659_281474976739361.wav"
+  },
+  {
+    "quesId": "Q20221213065632727076",
+    "Q_Id": "LC_31",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯤꯕꯒ ꯃꯔꯤ ꯂꯩꯅꯅ  ꯀꯔꯝ-ꯀꯔꯝꯕ ꯊꯧꯔꯝ ꯂꯩꯕꯒꯦ? ꯃꯈꯣꯏꯒꯤ ꯃꯃꯤꯡ ꯑꯃꯁꯨꯡ ꯄꯥꯡꯊꯣꯛꯄꯒꯤ ꯃꯔꯝ ꯀꯔꯤꯅꯣ?",
+    "hint": "A20221213111027608060_281474976739362.wav"
+  },
+  {
+    "quesId": "Q20221213065632727397",
+    "Q_Id": "LC_32",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯤꯕꯒ ꯃꯔꯤ ꯂꯩꯅꯕ ꯊꯧꯔꯝ ꯑꯗꯨꯗ ꯀꯅꯥ-ꯀꯅꯥ ꯁꯔꯨꯛ ꯌꯥꯕꯒꯦ?",
+    "hint": "A20221213111028874313_281474976739363.wav"
+  },
+  {
+    "quesId": "Q20221213065632727719",
+    "Q_Id": "LC_33",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯤꯕꯒ ꯃꯔꯤ ꯂꯩꯅꯅ ꯄꯥꯡꯊꯣꯛꯄ ꯊꯔꯝ ꯑꯗꯨꯗ ꯂꯥꯛꯄ ꯃꯤꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯐꯝꯍꯟꯕꯒꯦ?",
+    "hint": "A20221213111030341846_281474976739364.wav"
+  },
+  {
+    "quesId": "Q20221213065632728040",
+    "Q_Id": "LC_34",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯤꯕꯒ ꯃꯔꯤ ꯂꯩꯅꯅ ꯀꯔꯝ-ꯀꯔꯝꯕ ꯊꯧꯔꯝ ꯄꯥꯡꯊꯣꯛꯄꯒꯦ?",
+    "hint": "A20221213111031592526_281474976739365.wav"
+  },
+  {
+    "quesId": "Q20221213065632728359",
+    "Q_Id": "LC_35",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯤꯕꯒ ꯃꯔꯤ ꯂꯩꯅꯕ ꯊꯧꯔꯝ ꯑꯗꯨꯗ ꯀꯔꯤ-ꯀꯔꯤ ꯃꯄꯣꯠ-ꯃꯆꯩ ꯆꯣꯕꯒꯦ?",
+    "hint": "A20221213111032848069_281474976739366.wav"
+  },
+  {
+    "quesId": "Q20221213065632728675",
+    "Q_Id": "LC_36",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯤꯕꯒꯤ ꯑꯔꯣꯏꯕ ꯃꯊꯧ-ꯃꯉꯝ ꯄꯥꯡꯊꯣꯛꯅꯕ ꯀꯅꯥꯅ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯂꯦꯞꯄꯒꯦ?",
+    "hint": "A20221213111034150324_281474976739367.wav"
+  },
+  {
+    "quesId": "Q20221213065632729008",
+    "Q_Id": "LC_37",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯤꯕꯒꯤ ꯊꯧꯔꯝ ꯃꯇꯨꯡ ꯑꯃꯁꯨꯡ ꯃꯃꯥꯡꯗ ꯆꯥꯅꯕ ꯁꯤꯟꯕꯔꯥ?",
+    "hint": "A20221213111035412012_281474976739368.wav"
+  },
+  {
+    "quesId": "Q20221213065632729326",
+    "Q_Id": "LC_38",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯤꯕꯒꯤ ꯊꯧꯔꯝ ꯑꯗꯨꯒ ꯃꯔꯤ-ꯂꯩꯅꯅ ꯆꯥꯅꯕ ꯑꯗꯨ ꯀꯔꯝꯅ ꯁꯤꯟ-ꯂꯥꯡꯕꯒꯦ?",
+    "hint": "A20221213111036674848_281474976739369.wav"
+  },
+  {
+    "quesId": "Q20221213065632729645",
+    "Q_Id": "LC_39",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯤꯕꯒ ꯃꯔꯤ ꯂꯩꯅꯅ ꯑꯇꯣꯞꯄ ꯃꯔꯨ ꯑꯣꯏꯕ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ?",
+    "hint": "A20221213111037930516_281474976739370.wav"
+  },
+  {
+    "quesId": "Q20221213065632729960",
+    "Q_Id": "LC_40",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯀꯔꯝꯕ ꯊꯧꯔꯝꯗ ꯌꯨ ꯌꯦꯟꯕ ꯌꯥꯒꯅꯤ?",
+    "hint": "A20221213111038996347_281474976739371.wav"
+  }
+]

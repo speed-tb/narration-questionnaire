@@ -1,0 +1,922 @@
+[
+  {
+    "quesId": "Q20221213070711217457",
+    "Q_Id": "ED-01",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपका समुदाय उन लोगों को कैसे देखता है जो स्कूल जाते हैं और जो नहीं जाते?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711217982",
+    "Q_Id": "ED-02",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप हमें इस बारे में कुछ बता सकते हैं कि औपचारिक शिक्षा ने आपके समुदाय में कैसे बदलाव लाए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711218345",
+    "Q_Id": "ED-03",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप हमें उन बदलाबों के बारे में बता सकते हैं जो आपने बड़े होने पर शैक्षणिक संस्थानों में देखे थे?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711218681",
+    "Q_Id": "ED-04",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "जब आप छोटे थे तो स्कूलों और कॉलेजों की क्या स्थिति थी और अब वे कैसे हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711219014",
+    "Q_Id": "ED-05",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप हमें अपने राज्य या समुदाय की औपचारिक या स्वदेशी शिक्षा प्रणाली के बारे में कुछ बता सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711219368",
+    "Q_Id": "ED-06",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपकी औपचारिक या स्वदेशी शिक्षा प्रणाली वर्तमान समाज के लिए किस प्रकार से मूल्यवान है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711219701",
+    "Q_Id": "ED-07",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "हम आपकी औपचारिक या स्वदेशी शिक्षा प्रणाली का मूल्यांकन कैसे करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711220028",
+    "Q_Id": "ED-08",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "हमें अपनी शिक्षा प्रणाली में सुधार कैसे करना चाहिए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711220355",
+    "Q_Id": "ED-09",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपने अगली पीढ़ी को स्वदेशी शिक्षा प्रणाली कैसे दी?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711220678",
+    "Q_Id": "ED-10",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आप अपने समुदाय के शिक्षित या विजेताओं से कैसे प्रेरित होते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711221021",
+    "Q_Id": "ED-11",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "शिक्षा प्रणाली आपके समुदाय में शांति और सद्भाव को कैसे बढ़ावा देती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711221347",
+    "Q_Id": "ED-12",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "हमें विस्तार से बताएं कि आपके विचार से कौन से विषय आपके भविष्य के लिए उपयोगी होने वाले हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711221672",
+    "Q_Id": "ED-13",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "गरीबी दूर करने में शिक्षा व्यवस्था की कितनी भूमिका है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711221997",
+    "Q_Id": "ED-14",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "होमवर्क असाइनमेंटस के बारे में आपको क्या पसंद है और क्या नहीं पसंद है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711222319",
+    "Q_Id": "ED-15",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "अधिक प्रभावी ढंग से सीखने के लिए आप क्या कर सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711222638",
+    "Q_Id": "ED-16",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समुदाय में एकता को बढ़ावा देने में शिक्षा की क्या भूमिका है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711222958",
+    "Q_Id": "ED-17",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "अभिनव या रचनात्मकता पर आधारित शिक्षा प्रणाली के परिणामों के बारे में कुछ बताएं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711223281",
+    "Q_Id": "ED-18",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या अधिक प्रेरित करता है: अच्छे या बुरे अंक? क्यों?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711223601",
+    "Q_Id": "ED-19",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या हम मानते हैं कि शिक्षा केवल स्वदेशी पर केंद्रित है और क्यों?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711223922",
+    "Q_Id": "ED-20",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "शिक्षा का एकमात्र उद्देश्य क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711224242",
+    "Q_Id": "ED-21",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ग्रामीण क्षेत्रों में यौन शिक्षा को वर्जित क्यों माना जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711224562",
+    "Q_Id": "ED-22",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "युवाओं को अपने कौशल को सीखने और विकसित करने के लिए क्या प्रेरित करता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711224900",
+    "Q_Id": "ED-23",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपका परिवार शिक्षा में क्या भूमिका निभाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711225223",
+    "Q_Id": "ED-24",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "एक विश्व दृष्टिकोण किसी व्यक्ति की शिक्षा के प्रकार और गुणवत्ता को कैसे प्रभावित करता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711225543",
+    "Q_Id": "ED-25",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "पहली बोर्ड परीक्षा को सबसे महत्वपूर्ण परीक्षाओं में से एक क्यों माना जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711225856",
+    "Q_Id": "ED-26",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "कक्षा में आपको कौन सी गतिविधियाँ सबसे अधिक पसंद हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711226171",
+    "Q_Id": "ED-27",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ऐसी कौन सी शिक्षा उपलब्धियां हैं जिन पर आपको गर्व है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711226485",
+    "Q_Id": "ED-28",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "शिक्षा ने आपके जीवन की गुणवत्ता को कैसे प्रभावित किया है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711226799",
+    "Q_Id": "ED-29",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "शिक्षा ने किस प्रकार आपके सोचने और निर्णय लेने के तरीके में सुधार किया है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711227112",
+    "Q_Id": "ED-30",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आय सृजन में शिक्षा किस तरह भूमिका निभाती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711227423",
+    "Q_Id": "ED-31",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "शिक्षा प्रणाली में स्मार्टफोन और इंटरनेट का क्या प्रभाव है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711227737",
+    "Q_Id": "ED-32",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "स्कूल में लोग पढ़ना और लिखना कैसे सीखते हैं, इसके बारे में कुछ बताएं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711228049",
+    "Q_Id": "ED-33",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "स्कूल में आपको कौन सा विषय सबसे चुनौतीपूर्ण लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711228357",
+    "Q_Id": "ED-34",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "बच्चों को स्कूल से कौन सी चीजें सीखनी चाहिए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711228674",
+    "Q_Id": "ED-35",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके क्षेत्र में सबसे अच्छे स्कूल और कॉलेज कहाँ स्थित हैं? उन्हें अच्छा क्यों माना जाता है? किस बात ने उन्हें दूसरों से बेहतर बनाया?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711229009",
+    "Q_Id": "ED-36",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके क्षेत्र के स्कूल में खेलकूद और शारीरिक गतिविधियों के लिए क्या प्रावधान हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711229330",
+    "Q_Id": "ED-37",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपको क्या लगता है कि सरकार को शिक्षा में क्या भूमिका निभानी चाहिए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711229643",
+    "Q_Id": "ED-38",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "मातृभाषा माध्यम स्कूल में जाने पर बच्चों को किन समस्याओं का सामना करना पड़ता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711229955",
+    "Q_Id": "ED-39",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "छात्रों को स्कूलों और कॉलेजों से कौन से जीवन कौशल सीखने चाहिए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711230268",
+    "Q_Id": "ED-40",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "अंग्रेजी माध्यम के स्कूल जाने पर बच्चों को किन समस्याओं का सामना करना पड़ता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711230582",
+    "Q_Id": "ED-41",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "हम यह कैसे सुनिश्चित करते हैं कि बिना विशेषाधिकार वाले लोगों की गुणवत्तापूर्ण शिक्षा और अवसरों तक समान पहुंच हो?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711230898",
+    "Q_Id": "ED-42",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपको क्या लगता है कि स्कूल आधारित शिक्षा और जीवन कौशल सीखने का एक दूसरे से क्या संबंध है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711231212",
+    "Q_Id": "ED-43",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "स्कूली शिक्षा सामाजिक कौशल विकसित करने में कैसे मदद करती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711231525",
+    "Q_Id": "ED-44",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "स्कूली शिक्षा बच्चे के जीवन को आकार देने में कैसे मदद करती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711231837",
+    "Q_Id": "ED-45",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आप एक शिक्षित व्यक्ति में किन गुणों की अपेक्षा करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711232148",
+    "Q_Id": "ED-46",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "सरकारी स्कूल और निजी स्कूल के गुण और दोष बताएं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711232460",
+    "Q_Id": "ED-47",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "हमें डॉक्टरेट तक पाठ्यक्रम के एक भाग के रूप में स्थानीय भाषा (MIL) को क्यों शामिल करना चाहिए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711232772",
+    "Q_Id": "ED-48",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "पाठ्यचर्या में स्थानीय भाषा (MIL) को शामिल करने से संस्कृति और पहचान को बनाए रखने में कैसे मदद मिलती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711233105",
+    "Q_Id": "ED-51",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "हमारी स्थानीय भाषा और संस्कृति को संरक्षित करने का सबसे अच्छा तरीका क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711233421",
+    "Q_Id": "ED-52",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "महामारी के दौरान कोविड मिथकों को खत्म करने में शिक्षा ने कैसे मदद की?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711233736",
+    "Q_Id": "ED-54",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "नई शिक्षा नीति पर आपका क्या विचार है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711234046",
+    "Q_Id": "ED-56",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने समुदाय में शिक्षा पर कोविड -19 के प्रभाव के बारे में कुछ बताएं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711234361",
+    "Q_Id": "ED-61",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "बहुभाषी कक्षा के क्या लाभ हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711234672",
+    "Q_Id": "ED-62",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने स्कूल के बारे में कुछ खास बातें बताएं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711234984",
+    "Q_Id": "ED-63",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "पिछले कुछ वर्षों में आपके विद्यालय में क्या परिवर्तन हुए हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711235306",
+    "Q_Id": "ED-64",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "अभिभावक शिक्षक की बैठक के बारे में बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711235629",
+    "Q_Id": "ED-65",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "विद्यालय समुदाय की सेवा या योगदान कैसे करता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711235937",
+    "Q_Id": "ED-66",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "शिक्षकों को उनके कक्षा अभ्यास पर चिंतन करने के लिए कैसे प्रोत्साहित किया जाता है और यह बच्चों को सकारात्मक और नकारात्मक कैसे प्रभावित करता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711236259",
+    "Q_Id": "ED-67",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "बड़े होने पर आपने अपने स्कूल या कॉलेजों में जो बदलाव देखे, उनके बारे में कुछ बताएं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711236576",
+    "Q_Id": "ED-69",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "शिक्षकों को उनके योगदान के लिए कैसे पहचाना और सराहा जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711236900",
+    "Q_Id": "ED-70",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "स्कूल और कॉलेज में अपने सहयोगी/स्टाफ के बारे में कुछ बताएं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711237209",
+    "Q_Id": "ED-71",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने राज्य/समुदाय की शिक्षा प्रणाली के बारे में कुछ बताएं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711237520",
+    "Q_Id": "ED-72",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "स्थानीय भाषा के स्कूलों और अंग्रेजी माध्यम के स्कूलों में क्या अंतर हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711237831",
+    "Q_Id": "ED-73",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "शिक्षकों को शिक्षण के अलावा अन्य कौन से आधिकारिक काम सौंपे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711238150",
+    "Q_Id": "ED-74",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "परीक्षा के फायदे और नुकसान के बारे में कुछ बताएं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711238465",
+    "Q_Id": "ED-76",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "पश्चिमी आधारित शिक्षा प्रणाली और स्वदेशी सांस्कृतिक मूल्य प्रणाली के फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711238778",
+    "Q_Id": "ED-77",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके राज्य को निःशक्तजनों की शिक्षा के लिए किस प्रकार के सुधार की आवश्यकता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711239093",
+    "Q_Id": "ED-78",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "एक शिक्षक को एक छात्र के जीवन में क्या भूमिका निभानी चाहिए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711239411",
+    "Q_Id": "ED-80",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "शिक्षकों को स्कूल में बच्चों से कैसे बात करनी चाहिए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711239723",
+    "Q_Id": "ED-81",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "बच्चों को स्कूल में उनकी गलतियों के लिए कैसे फटकार लगाई जानी चाहिए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711240034",
+    "Q_Id": "ED-82",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "कोचिंग सेंटर और निजी ट्यूशन पर आपका क्या विचार है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711240350",
+    "Q_Id": "ED-83",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "शैक्षिक क्षेत्र में स्मार्टफोन और इंटरनेट का क्या प्रभाव है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711240665",
+    "Q_Id": "ED-84",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "स्कूल में क्या 'अच्छा दिन' बनाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711240996",
+    "Q_Id": "ED-85",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आप अपने विद्यालय में 15 अगस्त कैसे मनाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711241316",
+    "Q_Id": "ED-86",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "नौकरी के रूप में पढ़ाने के बारे में आपको क्या पसंद है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711241632",
+    "Q_Id": "ED-87",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "तकनीकी शिक्षण को सरल या कठिन कैसे बनाती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711241944",
+    "Q_Id": "ED-88",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "मिड डे मील पर आपकी क्या राय है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711242260",
+    "Q_Id": "ED-90",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ब्रेक से पहले और ब्रेक के बाद आप छात्रों में क्या अंतर देखते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711242576",
+    "Q_Id": "ED-92",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "लोग कैसे सीखते हैं इसके बारे में कुछ बताएं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711242888",
+    "Q_Id": "ED-94",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "लोग शिक्षकों में कौन से गुण देखते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711243209",
+    "Q_Id": "ED-95",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "वयस्क होने के बाद लोगों को क्या सीखना चाहिए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711243520",
+    "Q_Id": "ED-97",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपको क्या लगता है कि सीखने का एक अच्छा माहौल क्या होगा?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711243830",
+    "Q_Id": "ED-100",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके अनुसार मेधावी छात्र क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711244245",
+    "Q_Id": "ED-102",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ऑफलाइन और ऑनलाइन कक्षाओं के गुण और दोष क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711244590",
+    "Q_Id": "ED-104",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "हमें इंटरनेट पर उपलब्ध शैक्षिक जानकारी पर क्यों भरोसा करना चाहिए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711244920",
+    "Q_Id": "ED-106",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके अनुसार विद्यार्थियों को गणित पढ़ाने का उद्देश्य क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711245240",
+    "Q_Id": "ED-107",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके अनुसार छात्रों को अंग्रेजी पढ़ाने का उद्देश्य क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711245556",
+    "Q_Id": "ED-108",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके अनुसार छात्रों को सामाजिक विज्ञान पढ़ाने का उद्देश्य क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711245869",
+    "Q_Id": "ED-109",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके अनुसार विद्यार्थियों को विज्ञान पढ़ाने का उद्देश्य क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711246184",
+    "Q_Id": "ED-110",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आप स्कूल में पढ़ाने के अलावा और किस तरह की गतिविधियाँ करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711246494",
+    "Q_Id": "ED-111",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "प्रशिक्षण किस प्रकार सीखने से भिन्न है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711246802",
+    "Q_Id": "ED-114",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "स्कूल और कॉलेज में नए छात्रों के प्रवेश के मानदंड और प्रक्रिया के बारे में कुछ बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711247114",
+    "Q_Id": "ED-117",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "यदि आप कर सकते हैं तो आप अपनी कक्षा के बारे में कौन सी तीन चीजें बदल सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711247423",
+    "Q_Id": "ED-118",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "जो छात्र पढ़ाई में कमजोर हैं, उनकी मदद शिक्षकों को कैसे करनी चाहिए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711247731",
+    "Q_Id": "ED-119",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "पढ़ाने और सीखने के दौरान आपके लिए आमने सामने का संवाद कितना महत्वपूर्ण है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711248042",
+    "Q_Id": "ED-120",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "महामारी के दौरान पढ़ाना कितना मुश्किल था?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711248351",
+    "Q_Id": "ED-121",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "स्कूल में पढ़ाने की तुलना में इंटरनेट के माध्यम से पढ़ाने/सीखने का आपका अनुभव कैसा रहा?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711248667",
+    "Q_Id": "ED-125",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "कक्षा में चर्चा और/या छोटे समूह में काम के बारे में आपको सबसे अधिक और कम से कम क्या पसंद है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711248999",
+    "Q_Id": "ED-128",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके विद्यालय में शिक्षण के लिए किस प्रकार के उपकरणों का प्रयोग किया जाता है? इन उपकरणों का क्या प्रयोग है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711249316",
+    "Q_Id": "ED-131",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "स्कूल में शिक्षक, प्रधानाध्यापक, हेडमास्टर और अन्य स्टाफ सदस्य की भूमिका के बारे में कुछ बताएं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711258428",
+    "Q_Id": "ED-137",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "स्कूल और कॉलेज में अपने दोस्तों के बारे में कुछ बताएं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711259158",
+    "Q_Id": "ED-138",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपका परिवार आपकी शिक्षा में क्या भूमिका निभाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711259579",
+    "Q_Id": "ED-142",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "बड़े होने पर शिक्षा ने आपको अपने जीवन में क्या सिखाया है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711259929",
+    "Q_Id": "ED-144",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "शिक्षा में भाषा किस प्रकार महत्वपूर्ण भूमिका निभाती है? (स्थानीय बोली या अंग्रेजी में अध्यापन के अर्थ में)",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711260265",
+    "Q_Id": "ED-146",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपने एक छात्र के रूप में जो विषय/डिग्री ली थी, उसे आपने क्यों चुना?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711260593",
+    "Q_Id": "ED-148",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आप स्कूल/कॉलेज में क्या सीखना चाहते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711260922",
+    "Q_Id": "ED-152",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "इंटरनेट का प्रयोग करने के फायदे और नुकसान क्या हैं? आपके अध्ययन/उत्पादकता पर इसका कितना प्रभाव पड़ा है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711261319",
+    "Q_Id": "ED-160",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपको शिक्षित क्यों किया जा रहा है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711261815",
+    "Q_Id": "ED-162",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपका धर्म आपके शिक्षा जीवन को कैसे प्रभावित करता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711262192",
+    "Q_Id": "ED-163",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आप कितनी भाषाएं बोल सकते हैं? हमें बताएं कि आप प्रत्येक भाषा कैसे सीखते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711262521",
+    "Q_Id": "ED-164",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "परिवार की आर्थिक स्थिति विद्यार्थी की शिक्षा को किस प्रकार प्रभावित करती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711262840",
+    "Q_Id": "ED-167",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "कक्षा/विद्यालय में आपको कौन सी गतिविधियों में सबसे अधिक आनंद आता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711263158",
+    "Q_Id": "ED-168",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आप स्कूल में किस तरह के खेल खेलते हैं? क्या आपको लगता है कि स्कूल आपको पर्याप्त खेल सुविधाएं प्रदान करता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711263479",
+    "Q_Id": "ED-169",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आप स्कूल कैसे जाते हैं? स्कूल पहुंचने तक अपनी दैनिक सुबह की दिनचर्या के बारे में बताएं",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711263797",
+    "Q_Id": "ED-172",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके भविष्य के लिए आपकी क्या योजनाएं हैं?",
+    "hint": ""
+  }
+]

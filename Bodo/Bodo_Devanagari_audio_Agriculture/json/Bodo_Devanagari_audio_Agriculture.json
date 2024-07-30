@@ -1,0 +1,2050 @@
+[
+  {
+    "quesId": "Q20221213070711264110",
+    "Q_Id": "AG_1",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि हारिनि मानसिफोरा मा मा रोखोमनि आबाद मावो ?",
+    "hint": "A20221213100318863610_281474976741093.wav"
+  },
+  {
+    "quesId": "Q20221213070711264470",
+    "Q_Id": "AG_2",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आबाद मावग्रा मानसिफोरखौ मा होन्ना बुङो ? बिथांमोनहा आबाद मावनाय्ाजों लोगोसे गुबुन खामानिबो मावो नामा ? गुबुन खामानिफोरा मा मा ?",
+    "hint": "A20221213100320499297_281474976741094.wav"
+  },
+  {
+    "quesId": "Q20221213070711264921",
+    "Q_Id": "AG_3",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि हारिआव गायजानाय खमैबो मोनबा जाथोनि मैगंनि मुंफोरखौ खोन्था।",
+    "hint": "A20221213100321740899_281474976741095.wav"
+  },
+  {
+    "quesId": "Q20221213070711265273",
+    "Q_Id": "AG_4",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा मा दानाव/बोथोराव बेफोर आबादखौ मावनाय जायो ?",
+    "hint": "A20221213100322999849_281474976741096.wav"
+  },
+  {
+    "quesId": "Q20221213070711265599",
+    "Q_Id": "AG_5",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "माबायदि आदबजों बेफोर मैगंफोरखौ गायनाय जायो ?",
+    "hint": "A20221213100324259383_281474976741097.wav"
+  },
+  {
+    "quesId": "Q20221213070711265918",
+    "Q_Id": "AG_6",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मैगंफोरा देरनो बेसे गोबाव सम लायो ?",
+    "hint": "A20221213100325494879_281474976741098.wav"
+  },
+  {
+    "quesId": "Q20221213070711266231",
+    "Q_Id": "AG_7",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "माबायदि रोखोमनि साबसिन रैखा/जोथोननि गोनांथि जायो। ( जेरै: एमफौ-एनला बुथारनायनि मुलि बाहायनाय, बिजानु-बादामालि बायदिसिना बुथारनायनि मुलि बाहायनाय एबा बेबायदिनो गुबुन राहाफोर)।",
+    "hint": "A20221213100326767462_281474976741099.wav"
+  },
+  {
+    "quesId": "Q20221213070711266550",
+    "Q_Id": "AG_8",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मैगंफोरखौ गुबुननो फानहरनायनि राहाया मा ?",
+    "hint": "A20221213100328010018_281474976741100.wav"
+  },
+  {
+    "quesId": "Q20221213070711266876",
+    "Q_Id": "AG_9",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै संना जायो ?",
+    "hint": "A20221213100329243714_281474976741101.wav"
+  },
+  {
+    "quesId": "Q20221213070711267195",
+    "Q_Id": "AG_10",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि हारिआव गायजानाय खमैबो मोनबा जाथोनि मैगंनि मुंफोरखौ खोन्था।",
+    "hint": "A20221213100330479638_281474976741102.wav"
+  },
+  {
+    "quesId": "Q20221213070711267513",
+    "Q_Id": "AG_11",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा मा दानाव/बोथोराव बेफोर आबादखौ मावनाय जायो ?",
+    "hint": "A20221213100331737911_281474976741103.wav"
+  },
+  {
+    "quesId": "Q20221213070711267835",
+    "Q_Id": "AG_12",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "माबायदि आदबजों बेफोर मैगंफोरखौ गायनाय जायो ?",
+    "hint": "A20221213100332990819_281474976741104.wav"
+  },
+  {
+    "quesId": "Q20221213070711268147",
+    "Q_Id": "AG_13",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मैगंफोरा देरनो बेसे गोबाव सम लायो ?",
+    "hint": "A20221213100334245454_281474976741105.wav"
+  },
+  {
+    "quesId": "Q20221213070711268458",
+    "Q_Id": "AG_14",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "माबायदि रोखोमनि साबसिन रैखा/जोथोननि गोनांथि जायो। ( जेरै: एमफौ-एनला बुथारनायनि मुलि बाहायनाय, बिजानु-बादामालि बायदिसिना बुथारनायनि मुलि बाहायनाय एबा बेबायदिनो गुबुन राहाफोर)।",
+    "hint": "A20221213100335323089_281474976741106.wav"
+  },
+  {
+    "quesId": "Q20221213070711268771",
+    "Q_Id": "AG_15",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "फिथाय-सामथायफोरखौ गुबुननो माबोरै फानहरो ?",
+    "hint": "A20221213100336574475_281474976741107.wav"
+  },
+  {
+    "quesId": "Q20221213070711269103",
+    "Q_Id": "AG_16",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै संना जायो ?",
+    "hint": "A20221213100337834104_281474976741108.wav"
+  },
+  {
+    "quesId": "Q20221213070711269427",
+    "Q_Id": "AG_17",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि हारिआव गायजानाय खमैबो मोनबा जाथोनि फिथाय-सामथायनि मुंफोरखौ खोन्था।",
+    "hint": "A20221213100339068715_281474976741109.wav"
+  },
+  {
+    "quesId": "Q20221213070711269742",
+    "Q_Id": "AG_18",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा मा दानाव/बोथोराव बेफोर फिथायनि आबादखौ मावनाय जायो ?",
+    "hint": "A20221213100340304543_281474976741110.wav"
+  },
+  {
+    "quesId": "Q20221213070711270060",
+    "Q_Id": "AG_19",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "माबायदि आदबजों बेफोर फिथायनि बिफांखौ गायनाय जायो ?",
+    "hint": "A20221213100341568566_281474976741111.wav"
+  },
+  {
+    "quesId": "Q20221213070711270372",
+    "Q_Id": "AG_20",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "फिथाया थायनो बेसे गोबाव सम लायो ?",
+    "hint": "A20221213100342828673_281474976741112.wav"
+  },
+  {
+    "quesId": "Q20221213070711270685",
+    "Q_Id": "AG_21",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "माबायदि रोखोमनि साबसिन रैखा/जोथोननि गोनांथि जायो। ( जेरै: एमफौ-एनला बुथारनायनि मुलि बाहायनाय, बिजानु-बादामालि बायदिसिना बुथारनायनि मुलि बाहायनाय एबा बेबायदिनो गुबुन राहाफोर)।",
+    "hint": "A20221213100344284797_281474976741113.wav"
+  },
+  {
+    "quesId": "Q20221213070711271000",
+    "Q_Id": "AG_22",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ गुबुननो फानहरनायनि मा मा राहा दङ’?",
+    "hint": "A20221213100345586110_281474976741114.wav"
+  },
+  {
+    "quesId": "Q20221213070711271311",
+    "Q_Id": "AG_23",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै संना जायो ?",
+    "hint": "A20221213100346622937_281474976741115.wav"
+  },
+  {
+    "quesId": "Q20221213070711271626",
+    "Q_Id": "AG_24",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि हारिआव गायग्रा मोननै एबा मोनथामसो दाना जाथिय’( सेरियेलस) आाबादनि मुंफोरखौ खोन्था।",
+    "hint": "A20221213100347884147_281474976741116.wav"
+  },
+  {
+    "quesId": "Q20221213070711271940",
+    "Q_Id": "AG_25",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा मा दानाव/बोथोराव दाना जाथिनि आबादखौ मावनाय जायो ?",
+    "hint": "A20221213100349121896_281474976741117.wav"
+  },
+  {
+    "quesId": "Q20221213070711272255",
+    "Q_Id": "AG_26",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "माबायदि आदबजों दाना जाथिनि आबादखौ मावनाय जायो ?",
+    "hint": "A20221213100350350149_281474976741118.wav"
+  },
+  {
+    "quesId": "Q20221213070711272566",
+    "Q_Id": "AG_27",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरो देरनो बेसे गोबाव सम लायो ?",
+    "hint": "A20221213100351608593_281474976741119.wav"
+  },
+  {
+    "quesId": "Q20221213070711272888",
+    "Q_Id": "AG_28",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "माबायदि रोखोमनि साबसिन रैखा/जोथोननि गोनांथि जायो। ( जेरै: एमफौ-एनला बुथारनायनि मुलि बाहायनाय, बिजानु-बादामालि बायदिसिना बुथारनायनि मुलि बाहायनाय एबा बेबायदिनो गुबुन राहाफोर दंबावो नामा )।",
+    "hint": "A20221213100352845483_281474976741120.wav"
+  },
+  {
+    "quesId": "Q20221213070711273202",
+    "Q_Id": "AG_29",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ गुबुननो फानहरनायनि मा मा राहा दङ’?",
+    "hint": "A20221213100354151290_281474976741121.wav"
+  },
+  {
+    "quesId": "Q20221213070711273514",
+    "Q_Id": "AG_30",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै संना जायो ?",
+    "hint": "A20221213100355187314_281474976741122.wav"
+  },
+  {
+    "quesId": "Q20221213070711273826",
+    "Q_Id": "AG_31",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि हारिआव गायग्रा मोननै एबा मोनथामसो गुबुन रोखोमनि आबादफोरा मा मा ?",
+    "hint": "A20221213100356425757_281474976741123.wav"
+  },
+  {
+    "quesId": "Q20221213070711274135",
+    "Q_Id": "AG_32",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बे बिफांफोरखौ मा मा खामानियाव बाहायनाय जायो ?",
+    "hint": "A20221213100357466034_281474976741124.wav"
+  },
+  {
+    "quesId": "Q20221213070711274446",
+    "Q_Id": "AG_33",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "माबायदि आदबजों बे बिफांफोरखौ गायनाय जायो ?",
+    "hint": "A20221213100358700475_281474976741125.wav"
+  },
+  {
+    "quesId": "Q20221213070711274757",
+    "Q_Id": "AG_34",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बिफांफोरा देरनो बेसे गोबाव सम लायो ?",
+    "hint": "A20221213100359936987_281474976741126.wav"
+  },
+  {
+    "quesId": "Q20221213070711275073",
+    "Q_Id": "AG_35",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "माबायदि रोखोमनि साबसिन रैखा/जोथोननि गोनांथि जायो। ( जेरै: एमफौ-एनला बुथारनायनि मुलि बाहायनाय, बिजानु-बादामालि बायदिसिना बुथारनायनि मुलि बाहायनाय एबा बेबायदिनो गुबुन राहाफोर दंबावो नामा )।",
+    "hint": "A20221213100401364842_281474976741127.wav"
+  },
+  {
+    "quesId": "Q20221213070711275384",
+    "Q_Id": "AG_36",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि हारिआव खाइसे आलादा रोखोमनि आबाद मावनाय हुदानि बागै खोन्था।",
+    "hint": "A20221213100402647424_281474976741128.wav"
+  },
+  {
+    "quesId": "Q20221213070711275694",
+    "Q_Id": "AG_37",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "थांनाय बोसोरफोरनि गेजेराव नोंनि हारिनि आबाद मावनाय हुदायाव मा मा सोलायनाय फैदों ?",
+    "hint": "A20221213100403905828_281474976741129.wav"
+  },
+  {
+    "quesId": "Q20221213070711276009",
+    "Q_Id": "AG_38",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि हारिनि जायखि-जाय गुन गोनां/ जाथावना बोसोन/आबादनि सोमोन्दै बिबुंथि, बिनि बाहायनाय आरो आबाद मावनाय हुदानि बागै बुं ?",
+    "hint": "A20221213100405503996_281474976741130.wav"
+  },
+  {
+    "quesId": "Q20221213070711276322",
+    "Q_Id": "AG_39",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि हारिआव मा मा रोखोमनि ज’न्थ्रफोरवौ आबाद मावनायआव बाहायो ?",
+    "hint": "A20221213100406778898_281474976741131.wav"
+  },
+  {
+    "quesId": "Q20221213070711276634",
+    "Q_Id": "AG_40",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोर ज’न्थ्ररवौ मा मा खामानियाव बाहायनाय जायो ?",
+    "hint": "A20221213100408018091_281474976741132.wav"
+  },
+  {
+    "quesId": "Q20221213070711276964",
+    "Q_Id": "AG_41",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आबादनि खामानिखौ मोजाङै सामलायनायाव बेफोर ज’न्थ्रआ मबोरै मदद खालामो।",
+    "hint": "A20221213100409475622_281474976741133.wav"
+  },
+  {
+    "quesId": "Q20221213070711277298",
+    "Q_Id": "AG_42",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि हारिआव आबाद मवनो थाखाय मा मा रोखोनि गोदान बिरोंदामिन (तेकन’लजि) बाहायनाय जायो।",
+    "hint": "A20221213100410876791_281474976741134.wav"
+  },
+  {
+    "quesId": "Q20221213070711277613",
+    "Q_Id": "AG_43",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "माबोरै आरो मा जाहोननि थाखाय बेफोरखौ बाहायनाय जायो ?",
+    "hint": "A20221213100412137529_281474976741135.wav"
+  },
+  {
+    "quesId": "Q20221213070711277926",
+    "Q_Id": "AG_44",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि हारिआव मा मा जुनारवौ हाल एवनाय एबा आबाद मावनायव बाहायो ?",
+    "hint": "A20221213100413413895_281474976741136.wav"
+  },
+  {
+    "quesId": "Q20221213070711278238",
+    "Q_Id": "AG_45",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि हारिआव आबाद मावनाय समाव जुनारनि गोनांथि आरो खामनिनि सोमोन्दै फोरमाय।",
+    "hint": "A20221213100414819876_281474976741137.wav"
+  },
+  {
+    "quesId": "Q20221213070711278551",
+    "Q_Id": "AG_112",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नों नोंनि आबाद आव माबोरै दै होयो?",
+    "hint": "A20221213100416051380_281474976741138.wav"
+  },
+  {
+    "quesId": "Q20221213070711278863",
+    "Q_Id": "AG_113",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नों माबोरै आबाद मावगोन जुदि अखा हायाब्ला?",
+    "hint": "A20221213100417311553_281474976741139.wav"
+  },
+  {
+    "quesId": "Q20221213070711279189",
+    "Q_Id": "AG_114",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नों नोंनि गामिआव माबोरै आबाद मावगोन?",
+    "hint": "A20221213100418549790_281474976741140.wav"
+  },
+  {
+    "quesId": "Q20221213070711279502",
+    "Q_Id": "AG_115",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि बबे आबाद मावनायाव बांसिन दैनि गोनांथि जायो?",
+    "hint": "A20221213100419782167_281474976741141.wav"
+  },
+  {
+    "quesId": "Q20221213070711279813",
+    "Q_Id": "AG_116",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गोजां बोथोराव नों माबोरै आबाद मावो?",
+    "hint": "A20221213100421033798_281474976741142.wav"
+  },
+  {
+    "quesId": "Q20221213070711280126",
+    "Q_Id": "AG_117",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे आबादखौ नों गोजां बोथोराव मावो?",
+    "hint": "A20221213100422327862_281474976741143.wav"
+  },
+  {
+    "quesId": "Q20221213070711280437",
+    "Q_Id": "AG_118",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे आबादखौ नों गासैबो बोथोरावनो मावो?",
+    "hint": "A20221213100423559332_281474976741144.wav"
+  },
+  {
+    "quesId": "Q20221213070711280745",
+    "Q_Id": "AG_119",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आबाद मावनायाव नखरजों माबोरै सोमोन्दो थायो?",
+    "hint": "A20221213100424792251_281474976741145.wav"
+  },
+  {
+    "quesId": "Q20221213070711281080",
+    "Q_Id": "AG_120",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आबाद मावनायनि थाखाय नों मा जन्थ्् बाहायो?",
+    "hint": "A20221213100426020837_281474976741146.wav"
+  },
+  {
+    "quesId": "Q20221213070711281396",
+    "Q_Id": "AG_121",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नों आबाद देरनायनि थाखाय मा हासार बाहायो?",
+    "hint": "A20221213100427235623_281474976741147.wav"
+  },
+  {
+    "quesId": "Q20221213070711281710",
+    "Q_Id": "AG_122",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे आबादनि थाखाय गोबोरखि हासार बाहायनाय जायो?",
+    "hint": "A20221213100428473360_281474976741148.wav"
+  },
+  {
+    "quesId": "Q20221213070711282025",
+    "Q_Id": "AG_123",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि समाजाव सोर ना बोनो?",
+    "hint": "A20221213100429737069_281474976741149.wav"
+  },
+  {
+    "quesId": "Q20221213070711282339",
+    "Q_Id": "AG_124",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि समाजाव सोर दाव फाराम खुलियो?",
+    "hint": "A20221213100713043747_281474976741150.wav"
+  },
+  {
+    "quesId": "Q20221213070711282651",
+    "Q_Id": "AG_125",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि समाजाव सोर जिब जुनार फिसियो?",
+    "hint": "A20221213100714278325_281474976741151.wav"
+  },
+  {
+    "quesId": "Q20221213070711282961",
+    "Q_Id": "AG_126",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि समाजाव सोर बोरमा फिसियो?",
+    "hint": "A20221213100715317124_281474976741152.wav"
+  },
+  {
+    "quesId": "Q20221213070711283273",
+    "Q_Id": "AG_127",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि समाजाव सोर बोरमा मेन्दा फिसियो ",
+    "hint": "A20221213100716568370_281474976741153.wav"
+  },
+  {
+    "quesId": "Q20221213070711283583",
+    "Q_Id": "AG_128",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे गायखेर होग्रा जिबिखौ नों फिसियो?",
+    "hint": "A20221213100717799917_281474976741154.wav"
+  },
+  {
+    "quesId": "Q20221213070711283892",
+    "Q_Id": "AG_129",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नों गायखेर जों मा बानायो?",
+    "hint": "A20221213100718857079_281474976741155.wav"
+  },
+  {
+    "quesId": "Q20221213070711284203",
+    "Q_Id": "AG_130",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नों नोंनि सानफा्मबोनि जिब-जुनारनो मा जाहोय़ो?",
+    "hint": "A20221213100720065318_281474976741156.wav"
+  },
+  {
+    "quesId": "Q20221213070711284519",
+    "Q_Id": "AG_131",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा मैगं फोर‌नोंसोर गायो?",
+    "hint": "A20221213100721149021_281474976741157.wav"
+  },
+  {
+    "quesId": "Q20221213070711284845",
+    "Q_Id": "AG_132",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा गोथां मैगं-थाइगं गायो नों?",
+    "hint": "A20221213100722184024_281474976741158.wav"
+  },
+  {
+    "quesId": "Q20221213070711285164",
+    "Q_Id": "AG_133",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नों बबे मैगं-थाइगंखौ गायो?",
+    "hint": "A20221213100723246059_281474976741159.wav"
+  },
+  {
+    "quesId": "Q20221213070711285476",
+    "Q_Id": "AG_134",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नों नोंनि मावनाय आबादखौ बबे जायगायाव जोनोम?",
+    "hint": "A20221213100724482833_281474976741160.wav"
+  },
+  {
+    "quesId": "Q20221213070711285786",
+    "Q_Id": "AG_135",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे आबादनि थाखाय नों सरकारनिफा्य फैसानि मदद मोनो?",
+    "hint": "A20221213100725723189_281474976741161.wav"
+  },
+  {
+    "quesId": "Q20221213070711286096",
+    "Q_Id": "AG_276",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नों बेदरखौ माबोरै जायो?",
+    "hint": "A20221213100726952175_281474976741162.wav"
+  },
+  {
+    "quesId": "Q20221213070711286407",
+    "Q_Id": "AG_277",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नों गोथां बेदरखौल माबोरै जायो?",
+    "hint": "A20221213100728185572_281474976741163.wav"
+  },
+  {
+    "quesId": "Q20221213070711286716",
+    "Q_Id": "AG_278",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नों नांगौ माबोरै जायो?",
+    "hint": "A20221213100729263737_281474976741164.wav"
+  },
+  {
+    "quesId": "Q20221213070711287024",
+    "Q_Id": "AG_279",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नों माबोरै जौ बिदै बानायो?",
+    "hint": "A20221213100730472343_281474976741165.wav"
+  },
+  {
+    "quesId": "Q20221213070711287333",
+    "Q_Id": "AG_280",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "जौ बिदै बानायनो थाखाय मा मा बुस्तुनि गोनांथि जायो?",
+    "hint": "A20221213100731715109_281474976741166.wav"
+  },
+  {
+    "quesId": "Q20221213070711287644",
+    "Q_Id": "AG_46",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "माइ गायनो थाखाय बाहायनाय गुबुन गुबुन रोखोमनि बेगर फोरा मा मा? बेनि खाबु आरो बेखाबुआ मा?",
+    "hint": "A20221213100733146553_281474976741167.wav"
+  },
+  {
+    "quesId": "Q20221213070711287956",
+    "Q_Id": "AG_47",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा मा गुबुन गुबुन रोखोमनि माइ आबाद मावनाय जायो?",
+    "hint": "A20221213100734401838_281474976741168.wav"
+  },
+  {
+    "quesId": "Q20221213070711288289",
+    "Q_Id": "AG_48",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि माइ आबाद मावनाय जायो? जुदि मोनसेल’ रोखोमनि माइ आबाद मावनाय जायो बेनि सोमोन्दै फोरमाय‌।?",
+    "hint": "A20221213100735869881_281474976741169.wav"
+  },
+  {
+    "quesId": "Q20221213070711288604",
+    "Q_Id": "AG_49",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि माइ आबाद मावनायनि आदबा मा? जुदि मोनसेल’ रोखोमनि माइ आबाद मावनाय जायो, बेनि सोमोन्दै जोंनो फोरमाय‌?",
+    "hint": "A20221213100737335212_281474976741170.wav"
+  },
+  {
+    "quesId": "Q20221213070711288926",
+    "Q_Id": "AG_50",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर गिदिर देरनो थाखाय बेसेबां गोबाव सम नांगौ?",
+    "hint": "A20221213100738587796_281474976741171.wav"
+  },
+  {
+    "quesId": "Q20221213070711289250",
+    "Q_Id": "AG_51",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा रोखोमनि साबसिन रैखाथि आरो जोथोनलानांगौ जायो?(जेरै -पेसथिसाइड आरो गुबुन गुबुन रोखोमनि बुस्तुफोर)।",
+    "hint": "A20221213100740030888_281474976741172.wav"
+  },
+  {
+    "quesId": "Q20221213070711289566",
+    "Q_Id": "AG_52",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ माबोरै गुबुन मानसिफोरनो फानहरनाय जायो?",
+    "hint": "A20221213100741271247_281474976741173.wav"
+  },
+  {
+    "quesId": "Q20221213070711289876",
+    "Q_Id": "AG_53",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ माबोरै संड़ो आरो जायो?",
+    "hint": "A20221213100742328719_281474976741174.wav"
+  },
+  {
+    "quesId": "Q20221213070711290188",
+    "Q_Id": "AG_54",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गगम गायनो थाखाय बाहायनाय गुबुन गुबुन रोखोमनि बेगर फोरा मा मा? बेनि खाबु आरो बेखाबुआ मा?",
+    "hint": "A20221213100743758276_281474976741175.wav"
+  },
+  {
+    "quesId": "Q20221213070711290499",
+    "Q_Id": "AG_55",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि गायनाय गमफोरा मा मा?",
+    "hint": "A20221213100744986353_281474976741176.wav"
+  },
+  {
+    "quesId": "Q20221213070711290809",
+    "Q_Id": "AG_56",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि गम गायनाय जायो? जुदि मोनसेल’ रोखोमनि गम आबाद मावनाय जायोब्ला बेनि सोमोन्दै फोरमाय‌।",
+    "hint": "A20221213100746647792_281474976741177.wav"
+  },
+  {
+    "quesId": "Q20221213070711291123",
+    "Q_Id": "AG_57",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि गम आबाद मावनायनि आदबा मा? जुदि मोनसेल’ रोखोमनि गम आबाद मावोब्ला बेनि सोमोन्दै फोरमाय‌। ",
+    "hint": "A20221213100748084782_281474976741178.wav"
+  },
+  {
+    "quesId": "Q20221213070711291438",
+    "Q_Id": "AG_58",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर गिदिर देरनो थाखाय बेसेबां गोबाव सम नांगौ?",
+    "hint": "A20221213100749140764_281474976741179.wav"
+  },
+  {
+    "quesId": "Q20221213070711291752",
+    "Q_Id": "AG_59",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा रोखोमनि साबसिन रैखाथि आरो जोथोनलानांगौ जायो? (जेरै -पेसथिसाइड आरो गुबुन गुबुन रोखोमनि बुस्तुफोर)।",
+    "hint": "A20221213100750393961_281474976741180.wav"
+  },
+  {
+    "quesId": "Q20221213070711292062",
+    "Q_Id": "AG_60",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै गुबुन मानसिफोरनो फानहरनाय जायो?",
+    "hint": "A20221213100751654673_281474976741181.wav"
+  },
+  {
+    "quesId": "Q20221213070711292369",
+    "Q_Id": "AG_61",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै संड़ो आरो जायो?",
+    "hint": "A20221213100752891572_281474976741182.wav"
+  },
+  {
+    "quesId": "Q20221213070711292678",
+    "Q_Id": "AG_62",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बानलु गायनो थाखाय मा रोखोमनि बेगर बाहायनाय जायो? बेनि खाबु आरो बेखाबुआ मा?",
+    "hint": "A20221213100754355911_281474976741183.wav"
+  },
+  {
+    "quesId": "Q20221213070711293025",
+    "Q_Id": "AG_63",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा मा गुबुन गुबुन रोखोमनि बानलु आबाद मावनाय जायो?",
+    "hint": "A20221213100755591504_281474976741184.wav"
+  },
+  {
+    "quesId": "Q20221213070711293343",
+    "Q_Id": "AG_64",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि बानलु आबाद‌ मावनाय जायो? जुदि मोनसेल’ रोखोमनि बानलु आबाद‌ मावनाय जायो बेनि सोमोन्दैल' फोरमाय‌।",
+    "hint": "A20221213100757188238_281474976741185.wav"
+  },
+  {
+    "quesId": "Q20221213070711293673",
+    "Q_Id": "AG_65",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि बानलु आबाद‌ मावनायनि आदबा मा? जुदि मोनसेल’ रोखोमनि बानलु आबाद‌ मावनाय जायो बेनि सोमोन्दै फोरमाय‌।",
+    "hint": "A20221213100758669080_281474976741186.wav"
+  },
+  {
+    "quesId": "Q20221213070711293990",
+    "Q_Id": "AG_66",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोर गिदिर देरनो थाखाय बेसेबां गोबाव सम नांगौ?",
+    "hint": "A20221213100759921033_281474976741187.wav"
+  },
+  {
+    "quesId": "Q20221213070711294304",
+    "Q_Id": "AG_67",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा रोखोमनि साबसिन रैखाथि आरो जोथोनलानांगौ जायो?(जेरै -पेसथिसाइड आरो गुबुन गुबुन रोखोमनि बुस्तुफोर)",
+    "hint": "A20221213100800954303_281474976741188.wav"
+  },
+  {
+    "quesId": "Q20221213070711294617",
+    "Q_Id": "AG_68",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै गुबुन मानसिफोरनो फानहरनाय जायो?",
+    "hint": "A20221213100802015630_281474976741189.wav"
+  },
+  {
+    "quesId": "Q20221213070711294926",
+    "Q_Id": "AG_69",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै संड़ो आरो जायो?",
+    "hint": "A20221213100803281678_281474976741190.wav"
+  },
+  {
+    "quesId": "Q20221213070711295236",
+    "Q_Id": "AG_70",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "हालदै गायनो थाखाय बाहायनाय गुबुन गुबुन रोखोमनि बेगर फोरा मा? बेनि खाबु आरो बेखाबुआ मा?",
+    "hint": "A20221213100804706223_281474976741191.wav"
+  },
+  {
+    "quesId": "Q20221213070711295549",
+    "Q_Id": "AG_71",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा मा रोखोमनि हालदै फोनाय जायो?",
+    "hint": "A20221213100805917516_281474976741192.wav"
+  },
+  {
+    "quesId": "Q20221213070711295859",
+    "Q_Id": "AG_72",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि हालदै फोनाय जायो? जुदि मोनसेल’ रोखोमनि फोनाय जायोब्ला, बेनि सोमोन्दैल’ जोंनो फोरमाय‌।",
+    "hint": "A20221213100807576290_281474976741193.wav"
+  },
+  {
+    "quesId": "Q20221213070711296170",
+    "Q_Id": "AG_73",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि हालदै फोनायनि आदबा मा? जुदि मोनसेल’ रोखोमनि फोनाय जायोब्ला बेनि सोमोन्दैल’ फोरमाय?",
+    "hint": "A20221213100809060045_281474976741194.wav"
+  },
+  {
+    "quesId": "Q20221213070711296481",
+    "Q_Id": "AG_74",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोर गिदिर देरनो थाखाय बेसेबां गोबाव सम नांगौ?",
+    "hint": "A20221213100810288634_281474976741195.wav"
+  },
+  {
+    "quesId": "Q20221213070711296791",
+    "Q_Id": "AG_75",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा रोखोमनि साबसिन रैखाथि आरो जोथोनलानांगौ जायो?(जेरै -पेसथिसाइड आरो गुबुन गुबुन रोखोमनि बुस्तुफोर)।",
+    "hint": "A20221213100811542355_281474976741196.wav"
+  },
+  {
+    "quesId": "Q20221213070711297125",
+    "Q_Id": "AG_76",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै गुबुन मानसिफोरनो फानहरनाय जायो?",
+    "hint": "A20221213100812769546_281474976741197.wav"
+  },
+  {
+    "quesId": "Q20221213070711297435",
+    "Q_Id": "AG_77",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै संड़ो आरो जायो?",
+    "hint": "A20221213100813999863_281474976741198.wav"
+  },
+  {
+    "quesId": "Q20221213070711297744",
+    "Q_Id": "AG_78",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आलु गायनायनि थाखाय मा मा रोखोमनि बेगर फोर बाहायनाय जायो ? बेनि खाबु आरो बेखाबुआ मा?",
+    "hint": "A20221213100815237019_281474976741199.wav"
+  },
+  {
+    "quesId": "Q20221213070711298056",
+    "Q_Id": "AG_79",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा‌ मा गुबुन गुबुन रोखोमनि आलु गायनाय जायो?",
+    "hint": "A20221213100816464872_281474976741200.wav"
+  },
+  {
+    "quesId": "Q20221213070711298366",
+    "Q_Id": "AG_80",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि आलु गायनाय जायो? जुदि मोनसेल’ रोखोमनि आलु गायनाय जायोब्ला, बेनि सोमोन्दैल’ फोरमाय जोंनो?",
+    "hint": "A20221213100817904119_281474976741201.wav"
+  },
+  {
+    "quesId": "Q20221213070711298679",
+    "Q_Id": "AG_81",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि आलु गायनायनि आदबा मा? जुदि मोनसेल’ रोखोमनि आलु गायनाय जायोब्ला, बेनि सोमोन्दैल’ फोरमाय।",
+    "hint": "A20221213100819408016_281474976741202.wav"
+  },
+  {
+    "quesId": "Q20221213070711298989",
+    "Q_Id": "AG_82",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोर गिदिर देरनो थाखाय बेसेबां गोबाव सम नांगौ?",
+    "hint": "A20221213100820465366_281474976741203.wav"
+  },
+  {
+    "quesId": "Q20221213070711299304",
+    "Q_Id": "AG_83",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा रोखोमनि साबसिन रैखाथि आरो जोथोनलानांगौ जायो?(जेरै -पेसथिसाइड आरो गुबुन गुबुन रोखोमनि बुस्तुफोर)।",
+    "hint": "A20221213100821713635_281474976741204.wav"
+  },
+  {
+    "quesId": "Q20221213070711299621",
+    "Q_Id": "AG_84",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै गुबुन मानसिफोरनो फानहरनाय जायो?",
+    "hint": "A20221213100822972277_281474976741205.wav"
+  },
+  {
+    "quesId": "Q20221213070711299937",
+    "Q_Id": "AG_85",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै संड़ो आरो जायो?",
+    "hint": "A20221213100824206453_281474976741206.wav"
+  },
+  {
+    "quesId": "Q20221213070711300251",
+    "Q_Id": "AG_281",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "जुखाम गायनो थाखाय बाहायनाय गुबुन गुबुन रोखोमनि बेगर फोरा मा मा? बेनि खाबु आरो बेखाबुआ मा?",
+    "hint": "A20221213100825606193_281474976741207.wav"
+  },
+  {
+    "quesId": "Q20221213070711300562",
+    "Q_Id": "AG_282",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा मा गुबुन गुबुन रोखोमनि जुखाम आबाद मावनाय जायो?",
+    "hint": "A20221213100826843721_281474976741208.wav"
+  },
+  {
+    "quesId": "Q20221213070711300881",
+    "Q_Id": "AG_283",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि जुखाम आबाद मावनाय जायो? जुदि मोनसेल’ रोखोमनि जुखाम आबाद मावनाय जायोब्ला बेनि सोमोन्दैल’ जोंनो फोरमाय‌।",
+    "hint": "A20221213100828328020_281474976741209.wav"
+  },
+  {
+    "quesId": "Q20221213070711301194",
+    "Q_Id": "AG_284",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि जुखाम आबाद मावनायनि आदबा मा? जुदि मोनसेल’ रोखोमनि जुखाम आबाद मावनाय जायोब्ला, बेनि सोमोन्दैल’ जोंनो फोरमाय‌।",
+    "hint": "A20221213100829797101_281474976741210.wav"
+  },
+  {
+    "quesId": "Q20221213070711301507",
+    "Q_Id": "AG_285",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर गिदिर देरनो थाखाय बेसेबां गोबाव सम नांगौ?",
+    "hint": "A20221213100831053664_281474976741211.wav"
+  },
+  {
+    "quesId": "Q20221213070711301820",
+    "Q_Id": "AG_286",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा रोखोमनि साबसिन रैखाथि आरो जोथोनलानांगौ जायो?(जेरै -पेसथिसाइड आरो गुबुन गुबुन रोखोमनि बुस्तुफोर)।",
+    "hint": "A20221213100832314568_281474976741212.wav"
+  },
+  {
+    "quesId": "Q20221213070711302129",
+    "Q_Id": "AG_287",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ माबोरै गुबुन मानसिफोरनो फानहरनाय जायो?",
+    "hint": "A20221213100833544428_281474976741213.wav"
+  },
+  {
+    "quesId": "Q20221213070711302549",
+    "Q_Id": "AG_288",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै संड़ो आरो जायो?",
+    "hint": "A20221213100834771691_281474976741214.wav"
+  },
+  {
+    "quesId": "Q20221213070711302868",
+    "Q_Id": "AG_289",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "हायजें गाबनायनि थाखाय बाहायनाय गुबुन गुबुन रोखोमनि बेगर फोरा मा मा? बेनि खाबु आरो बेखाबुआ मा?",
+    "hint": "A20221213100836209231_281474976741215.wav"
+  },
+  {
+    "quesId": "Q20221213070711303181",
+    "Q_Id": "AG_290",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि हायजें फोरा मा मा?",
+    "hint": "A20221213100837450629_281474976741216.wav"
+  },
+  {
+    "quesId": "Q20221213070711303490",
+    "Q_Id": "AG_291",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि हायजें आबाद मावनाय जायो? जुदि मोनसेल’ रोखोमनि हायजें आबाद मावनाय जायोब्ला बेनि सोमोन्दैल’ फोरमाय?",
+    "hint": "A20221213100838930597_281474976741217.wav"
+  },
+  {
+    "quesId": "Q20221213070711303822",
+    "Q_Id": "AG_292",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि हायजें गायनायनि आदबा मा? जुदि मोनसेल’ रोखोमनि हायजें आबाद मावनाय जायोब्ला बेनि सोमोन्दैल’ जोंनो  फोरमाय‌ ।",
+    "hint": "A20221213100840363484_281474976741218.wav"
+  },
+  {
+    "quesId": "Q20221213070711304139",
+    "Q_Id": "AG_293",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोर गिदिर देरनो थाखाय बेसेबां गोबाव सम नांगौ?",
+    "hint": "A20221213100841596878_281474976741219.wav"
+  },
+  {
+    "quesId": "Q20221213070711304456",
+    "Q_Id": "AG_294",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "पेसथिसाइड आरो गुबुन गुबुन रोखोमनि बुस्तुफोर।)",
+    "hint": "A20221213100842833738_281474976741220.wav"
+  },
+  {
+    "quesId": "Q20221213070711304773",
+    "Q_Id": "AG_295",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै गुबुन मानसिफोरनो फानहरनाय जायो?",
+    "hint": "A20221213100844065570_281474976741221.wav"
+  },
+  {
+    "quesId": "Q20221213070711305108",
+    "Q_Id": "AG_296",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै संड़ो आरो जायो?",
+    "hint": "A20221213100845295153_281474976741222.wav"
+  },
+  {
+    "quesId": "Q20221213070711305422",
+    "Q_Id": "AG_297",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि इलाइसि गायनो थाखाय बाहायनाय बेगरफोरा मा मा?",
+    "hint": "A20221213100846728926_281474976741223.wav"
+  },
+  {
+    "quesId": "Q20221213070711305739",
+    "Q_Id": "AG_298",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि इलाइसिखौ माबोरै गायो?",
+    "hint": "A20221213100847967237_281474976741224.wav"
+  },
+  {
+    "quesId": "Q20221213070711306046",
+    "Q_Id": "AG_299",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि इलाइसि आबाद मावनाय जायो? जुदि मोनसेल’ रोखोमनि इलाइसि गायनाय जायोब्ला, बेनि सोमोन्दैल जोंनो फोरमाय‌।",
+    "hint": "A20221213100849472712_281474976741225.wav"
+  },
+  {
+    "quesId": "Q20221213070711306360",
+    "Q_Id": "AG_300",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि इलाइसि गायनायनि आदबा मा? जुदि मोनसेल’ रोखोमनि इलाइसि गायनाय जायो, बेनि सोमोन्दैल’ फोरमाय।",
+    "hint": "A20221213100850922145_281474976741226.wav"
+  },
+  {
+    "quesId": "Q20221213070711306668",
+    "Q_Id": "AG_301",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर गिदिर देरनो थाखाय बेसेबां गोबाव सम नांगौ?",
+    "hint": "A20221213100852181400_281474976741227.wav"
+  },
+  {
+    "quesId": "Q20221213070711306973",
+    "Q_Id": "AG_302",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा रोखोमनि साबसिन रैखाथि आरो जोथोनलानांगौ जायो? जेरै -पेसथिसाइड आरो गुबुन गुबुन रोखोमनि बुस्तुफोर)।",
+    "hint": "A20221213100853393796_281474976742016.wav"
+  },
+  {
+    "quesId": "Q20221213070711307277",
+    "Q_Id": "AG_303",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर गुबुन मानसिफोरनो माबोरै फानहरो जायो?",
+    "hint": "A20221213100854655609_281474976742017.wav"
+  },
+  {
+    "quesId": "Q20221213070711307580",
+    "Q_Id": "AG_304",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै संड़ो आरो जायो?",
+    "hint": "A20221213100855713250_281474976742018.wav"
+  },
+  {
+    "quesId": "Q20221213070711307881",
+    "Q_Id": "AG_305",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसर आबाद मावनो थाखाय गुबुन गुबुन रोखोमनि बेगर फोरा मा मा? बेनि खाबु आरो बेखाबुआ मा?",
+    "hint": "A20221213100857143104_281474976742019.wav"
+  },
+  {
+    "quesId": "Q20221213070711308185",
+    "Q_Id": "AG_306",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि बेसर आबादा मा?",
+    "hint": "A20221213100858420174_281474976742020.wav"
+  },
+  {
+    "quesId": "Q20221213070711308490",
+    "Q_Id": "AG_307",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि बेसर आबाद मावनाय जायो? जुदि मोनसेल’ रोखोमनि मावोब्ला बेनि सोमोन्दै फोरमाय‌?",
+    "hint": "A20221213100859887787_281474976742021.wav"
+  },
+  {
+    "quesId": "Q20221213070711308818",
+    "Q_Id": "AG_308",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि बेसर आबाद मावनायनि आदबा मा? जुदि मोनसेल’ रोखोमनि बेसर आबाद मावनाय जायो, बेनि सोमोन्दै फोरमाय‌।",
+    "hint": "A20221213100901322920_281474976742022.wav"
+  },
+  {
+    "quesId": "Q20221213070711309187",
+    "Q_Id": "AG_309",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर गिदिर देरनो थाखाय बेसेबां गोबाव सम नांगौ?",
+    "hint": "A20221213100902358437_281474976742023.wav"
+  },
+  {
+    "quesId": "Q20221213070711309522",
+    "Q_Id": "AG_310",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा रोखोमनि साबसिन रैखाथि आरो जोथोनलानांगौ जायो?(जेरै -पेसथिसाइड आरो गुबुन गुबुन रोखोमनि बुस्तुफोर)",
+    "hint": "A20221213100903813145_281474976742024.wav"
+  },
+  {
+    "quesId": "Q20221213070711309847",
+    "Q_Id": "AG_311",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर माबोरै गुबुन मानसिफोरनो फानहरो जायो?",
+    "hint": "A20221213100905076422_281474976742025.wav"
+  },
+  {
+    "quesId": "Q20221213070711310164",
+    "Q_Id": "AG_312",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ माबोरै संड़ो आरो जायो?",
+    "hint": "A20221213100906304245_281474976742026.wav"
+  },
+  {
+    "quesId": "Q20221213070711310477",
+    "Q_Id": "AG_86",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि आलुआ आबाद मावनो थाखाय मा रोखोमनि बेगर फोर‌ बाहायनाय जायो? बेनि खाबु आरो बेखाबुआ मा?",
+    "hint": "A20221213100907807470_281474976742027.wav"
+  },
+  {
+    "quesId": "Q20221213070711310793",
+    "Q_Id": "AG_87",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि आलुआ’आ मा मा?",
+    "hint": "A20221213100909036977_281474976742028.wav"
+  },
+  {
+    "quesId": "Q20221213070711311109",
+    "Q_Id": "AG_88",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि आलुआ आबाद मावनाय जायो? जुदि मोनसेल’ रोखोमनि टमेट’ आबाद मावनाय जायो बेनि सोमोन्दै फोरमाय‌।",
+    "hint": "A20221213100910470292_281474976742029.wav"
+  },
+  {
+    "quesId": "Q20221213070711311422",
+    "Q_Id": "AG_89",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि आलु गायनायनि आदबा मा? जुदि मोनसेल’ रोखोमनि गायनाय जायोब्ला बेनि सोमोन्दै फोरमाय‌?",
+    "hint": "A20221213100911930878_281474976742030.wav"
+  },
+  {
+    "quesId": "Q20221213070711311738",
+    "Q_Id": "AG_90",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर गिदिर देरनो थाखाय बेसेबां गोबाव सम नांगौ?",
+    "hint": "A20221213100912966062_281474976742031.wav"
+  },
+  {
+    "quesId": "Q20221213070711312053",
+    "Q_Id": "AG_91",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा रोखोमनि साबसिन रैखाथि आरो जोथोनलानांगौ जायो? (जेरै -पेसथिसाइड आरो गुबुन गुबुन)",
+    "hint": "A20221213100914040725_281474976742032.wav"
+  },
+  {
+    "quesId": "Q20221213070711312365",
+    "Q_Id": "AG_92",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर माबोरै गुबुन मानसिफोरनो फानहरो जायो?",
+    "hint": "A20221213100915296312_281474976742033.wav"
+  },
+  {
+    "quesId": "Q20221213070711312690",
+    "Q_Id": "AG_93",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ माबोरै संड़ो आरो जायो?",
+    "hint": "A20221213100916340095_281474976742034.wav"
+  },
+  {
+    "quesId": "Q20221213070711313020",
+    "Q_Id": "AG_94",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "थालिर गियोनो थाखाय गुबुन गुबुन रोखोमनि बेगर फोरा मा मा? बेनि खाबु आरो बेखाबुआ मा?",
+    "hint": "A20221213100917646286_281474976742035.wav"
+  },
+  {
+    "quesId": "Q20221213070711313336",
+    "Q_Id": "AG_95",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि थालिरा मा मा?",
+    "hint": "A20221213100918896350_281474976742036.wav"
+  },
+  {
+    "quesId": "Q20221213070711313652",
+    "Q_Id": "AG_96",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि थालिर गायनाय जायो? जुदि मोनसेल’ रोखोमनि थालिर गायनाय जायोब्ला, बेनि सोमोन्दै फोरमाय‌?",
+    "hint": "A20221213100920330052_281474976742037.wav"
+  },
+  {
+    "quesId": "Q20221213070711313967",
+    "Q_Id": "AG_97",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि थालिर गायनायनि आदबा मा? जुदि मोनसेल’ रोखोमनि थालिर गायनाय जायोब्ला, बेनि सोमोन्दै फोरमाय‌?",
+    "hint": "A20221213100921762840_281474976742038.wav"
+  },
+  {
+    "quesId": "Q20221213070711314283",
+    "Q_Id": "AG_98",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर गिदिर देरनो थाखाय बेसेबां गोबाव सम नांगौ?",
+    "hint": "A20221213100923017555_281474976742039.wav"
+  },
+  {
+    "quesId": "Q20221213070711314596",
+    "Q_Id": "AG_99",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा रोखोमनि साबसिन रैखाथि आरो जोथोनलानांगौ जायो?(जेरै -पेसथिसाइड आरो गुबुन गुबुन रोखोमनि बुस्तुफोर)",
+    "hint": "A20221213100924055167_281474976742040.wav"
+  },
+  {
+    "quesId": "Q20221213070711314910",
+    "Q_Id": "AG_100",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर माबोरै गुबुन मानसिफोरनो फानहरो जायो?",
+    "hint": "A20221213100925282840_281474976742041.wav"
+  },
+  {
+    "quesId": "Q20221213070711315230",
+    "Q_Id": "AG_101",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ माबोरै संडों आरो जायो?",
+    "hint": "A20221213100926357745_281474976742042.wav"
+  },
+  {
+    "quesId": "Q20221213070711315548",
+    "Q_Id": "AG_102",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नों नोंनि न’आव माबायदि रोखोमनि जिब जुनार फिसियो?",
+    "hint": "A20221213100927585342_281474976742043.wav"
+  },
+  {
+    "quesId": "Q20221213070711315864",
+    "Q_Id": "AG_103",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बिसोरखौ मायाव बाहायो?",
+    "hint": "A20221213100928625846_281474976742044.wav"
+  },
+  {
+    "quesId": "Q20221213070711316177",
+    "Q_Id": "AG_104",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गासैबो अमाफोरा मायनाव फिसाय जायो?",
+    "hint": "A20221213100929684116_281474976742045.wav"
+  },
+  {
+    "quesId": "Q20221213070711316493",
+    "Q_Id": "AG_105",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "माबायदि रोखोमनि जाग्रा होनाय़ जायो?",
+    "hint": "A20221213100930940355_281474976742046.wav"
+  },
+  {
+    "quesId": "Q20221213070711316821",
+    "Q_Id": "AG_106",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "अमाफोरखौ माबोरै जोथोन लानांगौ?",
+    "hint": "A20221213100932170407_281474976742047.wav"
+  },
+  {
+    "quesId": "Q20221213070711317139",
+    "Q_Id": "AG_107",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "अमाफोरनाव मा रोखोमनि बेमार जायो?",
+    "hint": "A20221213100933429196_281474976742048.wav"
+  },
+  {
+    "quesId": "Q20221213070711317455",
+    "Q_Id": "AG_108",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "न’आव अमा फोरा बबे जायगायाव थायो?",
+    "hint": "A20221213100934640247_281474976742049.wav"
+  },
+  {
+    "quesId": "Q20221213070711317768",
+    "Q_Id": "AG_109",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "त’त’ जातनि मानसिफोरा माबोरै खान्थाल गायो?",
+    "hint": "A20221213100935910464_281474976742050.wav"
+  },
+  {
+    "quesId": "Q20221213070711318082",
+    "Q_Id": "AG_110",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंसोर माबोरै खान्थाल गायो?",
+    "hint": "A20221213100936970946_281474976742051.wav"
+  },
+  {
+    "quesId": "Q20221213070711318391",
+    "Q_Id": "AG_143",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "For Kokborok",
+    "hint": "A20221213100938005874_281474976742052.wav"
+  },
+  {
+    "quesId": "Q20221213070711318701",
+    "Q_Id": "AG_144",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "माइ गायनो थाखाय बाहायनाय गुबुन गुबुन रोखोमनि बेगर फोरा मा मा? बेनि खाबु आरो बेखाबुआ मा?",
+    "hint": "A20221213100939458083_281474976742053.wav"
+  },
+  {
+    "quesId": "Q20221213070711319015",
+    "Q_Id": "AG_145",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि माइ फोरा मा मा?",
+    "hint": "A20221213100940713748_281474976742054.wav"
+  },
+  {
+    "quesId": "Q20221213070711319351",
+    "Q_Id": "AG_146",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि माइ आबाद मावनाय जायो? जुदि मोनसेल’ रोखोमनि माइ आबाद मावनाय जायो बेनि सोमोन्दै फोरमाय‌?",
+    "hint": "A20221213100942184089_281474976742055.wav"
+  },
+  {
+    "quesId": "Q20221213070711319671",
+    "Q_Id": "AG_147",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि माइ आबाद मावनायनि आदबा मा? जुदि मोनसेल’ रोखोमनि माइ आबाद मावनाय जायो, बेनि सोमोन्दै फोरमाय‌?",
+    "hint": "A20221213100943618370_281474976742056.wav"
+  },
+  {
+    "quesId": "Q20221213070711319988",
+    "Q_Id": "AG_148",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर गिदिर देरनो थाखाय बेसेबां गोबाव सम नांगौ?",
+    "hint": "A20221213100944646123_281474976742057.wav"
+  },
+  {
+    "quesId": "Q20221213070711320302",
+    "Q_Id": "AG_149",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा रोखोमनि साबसिन रैखाथि आरो जोथोनलानांगौ जायो?(जेरै -पेसथिसाइड आरो गुबुन गुबुन)।",
+    "hint": "A20221213100945945349_281474976742058.wav"
+  },
+  {
+    "quesId": "Q20221213070711320617",
+    "Q_Id": "AG_150",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ माबोरै गुबुन मानसिफोरनो फानहरो?",
+    "hint": "A20221213100946981296_281474976742059.wav"
+  },
+  {
+    "quesId": "Q20221213070711320945",
+    "Q_Id": "AG_151",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ माबोरै संड़ो आरो जायो?",
+    "hint": "A20221213100948016438_281474976742060.wav"
+  },
+  {
+    "quesId": "Q20221213070711321267",
+    "Q_Id": "AG_152",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गम गायनायनि‌ गुबुन गुबुन रोखोमनि बेगर फोरा मा मा? बेनि खाबु आरो बेखाबुआ मा?",
+    "hint": "A20221213100949444485_281474976742061.wav"
+  },
+  {
+    "quesId": "Q20221213070711321585",
+    "Q_Id": "AG_153",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि गम आबाद मावनाया मा?",
+    "hint": "A20221213100950673705_281474976742062.wav"
+  },
+  {
+    "quesId": "Q20221213070711321902",
+    "Q_Id": "AG_154",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि गम आबाद मावनाय जायो? जुदि मोनसेल’ रोखोमनि गम आबाद मावनाय जायो बेनि सोमोन्दै फोरमाय‌?",
+    "hint": "A20221213100952108737_281474976742063.wav"
+  },
+  {
+    "quesId": "Q20221213070711322221",
+    "Q_Id": "AG_155",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि मैला आबाद मावनायनि आदबा मा? जुदि मोनसेल’ रोखोमनि मैदा गायोब्ला, बेनि सोमोन्दै फोरमाय‌?",
+    "hint": "A20221213100953572272_281474976742064.wav"
+  },
+  {
+    "quesId": "Q20221213070711322542",
+    "Q_Id": "AG_156",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर गिदिर जानो थाखाय बेसेबां गोबाव सम नांगौ?",
+    "hint": "A20221213100954650373_281474976742065.wav"
+  },
+  {
+    "quesId": "Q20221213070711322859",
+    "Q_Id": "AG_157",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा रोखोमनि साबसिन रैखाथि आरो जोथोनलानांगौ जायो?(जेरै -पेसथिसाइड आरो गुबुन गुबुन)",
+    "hint": "A20221213100955699731_281474976742066.wav"
+  },
+  {
+    "quesId": "Q20221213070711323178",
+    "Q_Id": "AG_158",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ माबोरै गुबुन मानसिफोरनो फानहरो?",
+    "hint": "A20221213100956931868_281474976742067.wav"
+  },
+  {
+    "quesId": "Q20221213070711323495",
+    "Q_Id": "AG_159",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ माबोरै संड़ो आरो जायो?",
+    "hint": "A20221213100958136001_281474976742068.wav"
+  },
+  {
+    "quesId": "Q20221213070711323809",
+    "Q_Id": "AG_160",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि गम गाबनायनि बेगरफोरा मा मा? बेनि खाबु आरो बेखाबुआ मा?",
+    "hint": "A20221213100959370418_281474976742069.wav"
+  },
+  {
+    "quesId": "Q20221213070711324128",
+    "Q_Id": "AG_161",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा मा रोखोमनि गम आबाद मावनाय जायो?",
+    "hint": "A20221213101000604492_281474976742070.wav"
+  },
+  {
+    "quesId": "Q20221213070711324441",
+    "Q_Id": "AG_162",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि गम आबाद मावनाय जायो? जुदि मोनसेल’ रोखोमनि गम आबाद मावनाय जायो, बेनि सोमोन्दै फोरमाय‌?",
+    "hint": "A20221213101002036186_281474976742071.wav"
+  },
+  {
+    "quesId": "Q20221213070711324753",
+    "Q_Id": "AG_163",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि गम गायनायनि आदबा मा? जुदि मोनसेल’ रोखोमनि गायोब्ला, बिनि सोमोन्दै फोरमाय‌?",
+    "hint": "A20221213101003541802_281474976742072.wav"
+  },
+  {
+    "quesId": "Q20221213070711325088",
+    "Q_Id": "AG_164",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर गिदिर देरनो थाखाय बेसेबां गोबाव नांगौ?",
+    "hint": "A20221213101004578233_281474976742073.wav"
+  },
+  {
+    "quesId": "Q20221213070711325403",
+    "Q_Id": "AG_165",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा रोखोमनि साबसिन रैखाथि आरो जोथोनलानांगौ जायो?(जेरै-पेसथिसाइड आरो गुबुन गुबुन)",
+    "hint": "A20221213101005636019_281474976742074.wav"
+  },
+  {
+    "quesId": "Q20221213070711325719",
+    "Q_Id": "AG_166",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै गुबुन मानसिफोरनो फानहरो?",
+    "hint": "A20221213101006844060_281474976742075.wav"
+  },
+  {
+    "quesId": "Q20221213070711326034",
+    "Q_Id": "AG_167",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ माबोरै संड़ो आरो जायो ?",
+    "hint": "A20221213101007899378_281474976742076.wav"
+  },
+  {
+    "quesId": "Q20221213070711326352",
+    "Q_Id": "AG_168",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन रोखोमनि बेगरफोरा‌ मा सबाय गायनो थाखाय? बेनि खाबु आरो बेखाबुआ मा?",
+    "hint": "A20221213101009356538_281474976742077.wav"
+  },
+  {
+    "quesId": "Q20221213070711326669",
+    "Q_Id": "AG_169",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा मा रोखोमनि सबाय आबाद मावनाय जायो?",
+    "hint": "A20221213101010416991_281474976742078.wav"
+  },
+  {
+    "quesId": "Q20221213070711326983",
+    "Q_Id": "AG_170",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि सबाय आबाद मावनाय जायो?, बेनि सोमोन्दै फोरमाय‌।",
+    "hint": "A20221213101011825463_281474976742079.wav"
+  },
+  {
+    "quesId": "Q20221213070711327301",
+    "Q_Id": "AG_171",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि सबाय आबाद मावनायनि आदबा मा? जुदि मोनसेल’ रोखोमनि सबाय आबाद मावनाय जायो, बेनि सोमोन्दै फोरमाय‌?।",
+    "hint": "A20221213101013271571_281474976742080.wav"
+  },
+  {
+    "quesId": "Q20221213070711327616",
+    "Q_Id": "AG_172",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर गिदिर देरनो थाखाय बेसेबां गोबाव सम नांगौ?",
+    "hint": "A20221213101014309117_281474976742081.wav"
+  },
+  {
+    "quesId": "Q20221213070711327932",
+    "Q_Id": "AG_173",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा रोखोमनि साबसिन रैखाथि आरो जोथोनलानांगौ जायो? जेरै -पेसथिसाइड आरो गुबुन गुबुन रोखोमनि)",
+    "hint": "A20221213101015518104_281474976742082.wav"
+  },
+  {
+    "quesId": "Q20221213070711328247",
+    "Q_Id": "AG_174",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बिसोरखौ माबोरै गुबुन मानसिफोरनो फानहरो?",
+    "hint": "A20221213101016749756_281474976742083.wav"
+  },
+  {
+    "quesId": "Q20221213070711328561",
+    "Q_Id": "AG_175",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ माबोरै संड़ो आरो जायो?",
+    "hint": "A20221213101017804426_281474976742084.wav"
+  },
+  {
+    "quesId": "Q20221213070711328883",
+    "Q_Id": "AG_176",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि बेगर फोरा मा मा खुसेर गायनायनि थाखाय? बेनि खाबु आरो बेखाबुआ मा?",
+    "hint": "A20221213101019260606_281474976742085.wav"
+  },
+  {
+    "quesId": "Q20221213070711329201",
+    "Q_Id": "AG_177",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि खुसेराव मा मा?",
+    "hint": "A20221213101020504017_281474976742086.wav"
+  },
+  {
+    "quesId": "Q20221213070711329512",
+    "Q_Id": "AG_178",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि खुसेर गायनाय जायो? जुदि मोनसेल’ रोखोमनि खुसेर गायनाय जायोब्ला, बेनि सोमोन्दै फोरमाय‌।",
+    "hint": "A20221213101021978529_281474976742087.wav"
+  },
+  {
+    "quesId": "Q20221213070711329826",
+    "Q_Id": "AG_179",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "खुसेर गायनायनि गुबुन गुबुन आदबा मा मा? जुदि मोनसेल’ रोखोमनि खुसेर गायनाय जायोब्ला बेनि सोमोन्दै फोरमाय‌?",
+    "hint": "A20221213101023412905_281474976742088.wav"
+  },
+  {
+    "quesId": "Q20221213070711330142",
+    "Q_Id": "AG_180",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर बेसेबां गोबाव नांगौ गिदिर जानो?",
+    "hint": "A20221213101024651200_281474976742089.wav"
+  },
+  {
+    "quesId": "Q20221213070711330458",
+    "Q_Id": "AG_181",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा रोखोमनि साबसिन रैखाथि आरो जोथोनलानांगौ जायो?(जेरै -पेसथिसाइड आरो गुबुन गुबुन रोखोमनि)",
+    "hint": "A20221213101025908650_281474976742090.wav"
+  },
+  {
+    "quesId": "Q20221213070711330776",
+    "Q_Id": "AG_182",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ माबोरै गुबुन मानसिफोरनो फानहरो?",
+    "hint": "A20221213101027134881_281474976742091.wav"
+  },
+  {
+    "quesId": "Q20221213070711331087",
+    "Q_Id": "AG_183",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ माबोरै संड़ो आरो जायो?",
+    "hint": "A20221213101028390416_281474976742092.wav"
+  },
+  {
+    "quesId": "Q20221213070711331398",
+    "Q_Id": "AG_184",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा रोखोमनि बेगर बाहायनाय जायो गुन आबाद मावनो थाखाय? बेनि खाबु आरो बेखाबुआ मा मा?",
+    "hint": "A20221213101029793452_281474976742093.wav"
+  },
+  {
+    "quesId": "Q20221213070711331710",
+    "Q_Id": "AG_185",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि खुना मा मा?",
+    "hint": "A20221213101031025638_281474976742094.wav"
+  },
+  {
+    "quesId": "Q20221213070711332021",
+    "Q_Id": "AG_186",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि गुन आबाद मावनाय जायो? जुदि मोनसेल’ रोखोमनि गुन आबाद मावोब्ला, बेनि सोमोन्दै फोरमाय‌?",
+    "hint": "A20221213101032527607_281474976742095.wav"
+  },
+  {
+    "quesId": "Q20221213070711332335",
+    "Q_Id": "AG_276",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि खुननि आबाद मावनायनि आदबा मा? जुदि मोनसेल’रोखोमनि गुन आबाद मावोब्ला, बेनि सोमोन्दै फोरमाय‌?",
+    "hint": "A20221213101033962754_281474976742096.wav"
+  },
+  {
+    "quesId": "Q20221213070711332651",
+    "Q_Id": "AG_277",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर बेसेबां गोबाव नांगौ गिदिर जानो?",
+    "hint": "A20221213101035198287_281474976742097.wav"
+  },
+  {
+    "quesId": "Q20221213070711332985",
+    "Q_Id": "AG_278",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा रोखोमनि साबसिन रैखाथि आरो जोथोनलानांगौ जायो?(जेरै -पेसथिसाइड आरो गुबुन गुबुन?)",
+    "hint": "A20221213101036445380_281474976742098.wav"
+  },
+  {
+    "quesId": "Q20221213070711333305",
+    "Q_Id": "AG_279",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै गुबुन मानसिफोरनो फानहरो?",
+    "hint": "A20221213101037695850_281474976742099.wav"
+  },
+  {
+    "quesId": "Q20221213070711333617",
+    "Q_Id": "AG_280",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै संड़ो आरो बाहायो?",
+    "hint": "A20221213101038921739_281474976742100.wav"
+  },
+  {
+    "quesId": "Q20221213070711333927",
+    "Q_Id": "AG_281",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "फाथो गायनो थाखाय बाहायनाय गुबुन गुबुन रोखोमनि बेगर बाहायनायफोरा मा मा? बेफोरनि खाबु आरो बेखाबुआ मा?",
+    "hint": "A20221213101040349959_281474976742101.wav"
+  },
+  {
+    "quesId": "Q20221213070711334241",
+    "Q_Id": "AG_282",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि फाथोफोरा मा मा?",
+    "hint": "A20221213101041615816_281474976742102.wav"
+  },
+  {
+    "quesId": "Q20221213070711334556",
+    "Q_Id": "AG_283",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि बादों आबाद मावनाय जायो? आरो जुदि मोनसेल’ रोखोमनि फाथो गायोब्ला , बिनि सोमोन्दै फोरमाय‌?",
+    "hint": "A20221213101043101336_281474976742103.wav"
+  },
+  {
+    "quesId": "Q20221213070711334874",
+    "Q_Id": "AG_284",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि फाथो गायनाय जायो? जुदि मोनसेल’ रोखोमनि गायनाय जायो, बेनि सोमोन्दै फोरमाय‌?",
+    "hint": "A20221213101044538060_281474976742104.wav"
+  },
+  {
+    "quesId": "Q20221213070711335193",
+    "Q_Id": "AG_285",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर बेसेबां गोबाव सम नांगौ गिदिर जानो?",
+    "hint": "A20221213101045591700_281474976742105.wav"
+  },
+  {
+    "quesId": "Q20221213070711335509",
+    "Q_Id": "AG_286",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मा रोखोमनि साबसिन रैखाथि आरो जोथोनलानांगौ बेसोरखौ?(जेरै -पेसथिसाइड आरो गुबुन गुबुन।)",
+    "hint": "A20221213101046824349_281474976742106.wav"
+  },
+  {
+    "quesId": "Q20221213070711335823",
+    "Q_Id": "AG_287",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै गुबुन मानसिफोरनो फानहरो?",
+    "hint": "A20221213101048066203_281474976742107.wav"
+  },
+  {
+    "quesId": "Q20221213070711336139",
+    "Q_Id": "AG_288",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ माबोरै संड़ो आरो जायो?",
+    "hint": "A20221213101049306338_281474976742108.wav"
+  },
+  {
+    "quesId": "Q20221213070711336451",
+    "Q_Id": "AG_289",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मेस्था गायनो थाखाय मा रोखोमनि बेगर गायनाय जायो? बेनि खाबु आरो बेखाबुआ मा मा?",
+    "hint": "A20221213101050706849_281474976742109.wav"
+  },
+  {
+    "quesId": "Q20221213070711336766",
+    "Q_Id": "AG_290",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि मेसथायि मा मा?",
+    "hint": "A20221213101051977901_281474976742110.wav"
+  },
+  {
+    "quesId": "Q20221213070711337099",
+    "Q_Id": "AG_291",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि मेस्ता गायनाय जायो? जुदि मोनसेल’ रोखोमनि गायनाय जायोब्ला, बेनि सोमोन्दै फोरमाय‌।",
+    "hint": "A20221213101053444522_281474976742111.wav"
+  },
+  {
+    "quesId": "Q20221213070711337413",
+    "Q_Id": "AG_292",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गुबुन गुबुन रोखोमनि मेस्ता आबाद मावनायनि आदबा मा? जुदि मोनसेल’ रोखोमनि आबाद मावोब्ला, बेनि सोमोन्दै फोरमाय?",
+    "hint": "A20221213101054881910_281474976742112.wav"
+  },
+  {
+    "quesId": "Q20221213070711337730",
+    "Q_Id": "AG_293",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर गिदिर देरनो थाखाय बेसेबां गोबाव नांगौ?",
+    "hint": "A20221213101055920346_281474976742113.wav"
+  },
+  {
+    "quesId": "Q20221213070711338040",
+    "Q_Id": "AG_294",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर गिदिर देरनो थाखाय बेसेबां गोबाव नांगौ?",
+    "hint": "A20221213101057130854_281474976742114.wav"
+  },
+  {
+    "quesId": "Q20221213070711338356",
+    "Q_Id": "AG_295",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ माबोरै गुबुन मानसिफोरनो फानहरो?",
+    "hint": "A20221213101058391057_281474976742115.wav"
+  },
+  {
+    "quesId": "Q20221213070711338667",
+    "Q_Id": "AG_296",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ माबोरै संड़ो आरो जायो?",
+    "hint": "A20221213101059617947_281474976742116.wav"
+  },
+  {
+    "quesId": "Q20221213070711338985",
+    "Q_Id": "AG_187",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "For Chokri",
+    "hint": "A20221213101100712157_281474976742117.wav"
+  },
+  {
+    "quesId": "Q20221213070711339301",
+    "Q_Id": "AG_188",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि समाजाव मोनसे से रोखोमनि माइ आबाद मावनाय जायो?",
+    "hint": "A20221213101102108960_281474976742118.wav"
+  },
+  {
+    "quesId": "Q20221213070711339616",
+    "Q_Id": "AG_189",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि माइ आबाद मावनाय जायो? आरो गुबुन गुबुन रोखोमनि माइ आबादा मा?",
+    "hint": "A20221213101103750972_281474976742119.wav"
+  },
+  {
+    "quesId": "Q20221213070711339930",
+    "Q_Id": "AG_190",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "माइक् आबाद मावनायनि आदबखौ फोरमाय? गासैबो रोखोमनि आबाद मावनायनि थाखाय मानसे रोखोमनि आदबखौनो बाहायो नामा? आलादा रोखोमनिब्ला फोरमाय?",
+    "hint": "A20221213101105385311_281474976742120.wav"
+  },
+  {
+    "quesId": "Q20221213070711340246",
+    "Q_Id": "AG_191",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "माखौ रैखा खालामनायनि गुबुन गुबुन रोखोमनि रैखाथि होगा् बुस्तुफोरा मा?",
+    "hint": "A20221213101106835897_281474976742121.wav"
+  },
+  {
+    "quesId": "Q20221213070711340561",
+    "Q_Id": "AG_192",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोर गिदिर जानो बेसेबां गोबाव नांगौ?",
+    "hint": "A20221213101108080851_281474976742122.wav"
+  },
+  {
+    "quesId": "Q20221213070711340888",
+    "Q_Id": "AG_193",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेफोरखौ माबोरै संड़ो आरो जायो?",
+    "hint": "A20221213101109312114_281474976742123.wav"
+  },
+  {
+    "quesId": "Q20221213070711341204",
+    "Q_Id": "AG_194",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आबाद गायजेननायाव बेसेबां महननि माइ गायनो हायो ?बेयो गुबुन फोरोंनो फानजायो नामा?",
+    "hint": "A20221213101110748109_281474976742124.wav"
+  },
+  {
+    "quesId": "Q20221213070711341520",
+    "Q_Id": "AG_195",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नोंनि समाजाव बेसेबां रोखोमनि मुलि आरो मैगं-थाइगं फोरनि आबाद मावनाय जायो? बिसोरनि मुंखौ लिर?",
+    "hint": "A20221213101112225289_281474976742125.wav"
+  },
+  {
+    "quesId": "Q20221213070711341838",
+    "Q_Id": "AG_196",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बबे दानाआव एबा बोथोराव गुबुन गुबुन रोखोमनि मुलि आरो मैगं-थाइगं फोरनि आबाद मावनाय जायो?",
+    "hint": "A20221213101113635019_281474976742126.wav"
+  },
+  {
+    "quesId": "Q20221213070711342153",
+    "Q_Id": "AG_197",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "जोंनो गुबुन गुबुन रोखोमनि मैगं-थाइगं आरो मुलि नि आबाद मावनायनि आदबखौ फोरमाय?",
+    "hint": "A20221213101115107115_281474976742127.wav"
+  },
+  {
+    "quesId": "Q20221213070711342784",
+    "Q_Id": "AG_199",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसेबां गोबावसिन गुबुन गुबुन रोखोमनि मुलि आरो मैगं-थाइगंफोरखौ बाहायो?",
+    "hint": "A20221213101117798036_281474976742129.wav"
+  },
+  {
+    "quesId": "Q20221213070711343098",
+    "Q_Id": "AG_200",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ माबोरै संड़ो आरो जायो?",
+    "hint": "A20221213101119033937_281474976742130.wav"
+  },
+  {
+    "quesId": "Q20221213070711343415",
+    "Q_Id": "AG_201",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ गुबुनफोरनो माबोरै बांनो?",
+    "hint": "A20221213101120243150_281474976742131.wav"
+  },
+  {
+    "quesId": "Q20221213070711343728",
+    "Q_Id": "AG_202",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नों नोंनि न’आव मा रोखोमनि जिबौ जुनार फिसियो?",
+    "hint": "A20221213101121714124_281474976742132.wav"
+  },
+  {
+    "quesId": "Q20221213070711344042",
+    "Q_Id": "AG_203",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बेसोरखौ मा मा खामानियाव बाहायनाय जायो?",
+    "hint": "A20221213101122758284_281474976742133.wav"
+  },
+  {
+    "quesId": "Q20221213070711344355",
+    "Q_Id": "AG_204",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "नों नोंनि न’आव थानाय जिब-जुनारफोरनो मा जागा् मुवा जगायो?",
+    "hint": "A20221213101124187432_281474976742134.wav"
+  },
+  {
+    "quesId": "Q20221213070711344667",
+    "Q_Id": "AG_205",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बे जिब-जुनारफोरा न’आव मा खामानि मावो? बेसोर मा जायो?",
+    "hint": "A20221213101125600691_281474976742135.wav"
+  },
+  {
+    "quesId": "Q20221213070711345112",
+    "Q_Id": "AG_206",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बे जिब-जुनारफोरा जायो नामा?जायोब्ला माब्ला आरो मानो?",
+    "hint": "A20221213101126837725_281474976742136.wav"
+  },
+  {
+    "quesId": "Q20221213070711345442",
+    "Q_Id": "AG_231",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बर’नि थाखायल'",
+    "hint": "A20221213101127893243_281474976742137.wav"
+  }
+]

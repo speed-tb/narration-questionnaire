@@ -1,0 +1,330 @@
+[
+  {
+    "quesId": "Q20221213070711345757",
+    "Q_Id": "LC_1",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समाज में बच्चे के जन्म और नामकरण संस्कार से सम्बन्धित विभिन्न रस्म-रिवाज क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711346072",
+    "Q_Id": "LC_2",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "समान्यतः बच्चे के जन्म व नामकरण संस्कार से सम्बन्धित रस्म-रिवाज कब और किस जगह होता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711346388",
+    "Q_Id": "LC_3",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "बच्चे के जन्म और नामकरण संस्कार से सम्बन्धित कितनी रस्में होती है ? उनके नाम और उद्देश्य क्या है ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711346703",
+    "Q_Id": "LC_4",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "जन्म व नामकरण संस्कार का दिन और समय कैसे निर्धारित होता है ? ",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711347022",
+    "Q_Id": "LC_5",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "जन्म व नामकरण संस्कार में किन-किन को आमंत्रित किया जाता है ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711347335",
+    "Q_Id": "LC_6",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "जन्म व नामकरण संस्कार के दौरान लोग कैसे बैठते है (कोई विशिष्ट दिशा इत्यादि)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711347653",
+    "Q_Id": "LC_7",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "जन्म व नामकरण संस्कार की प्रक्रिया क्या है ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711347967",
+    "Q_Id": "LC_8",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "जन्म व नामकरण संस्कार के लिए किन-किन पदार्थों और वस्तुओं का प्रयोग किया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711348283",
+    "Q_Id": "LC_9",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "बच्चे का नाम कौन रखता है और यह कैसे रखा जाता है ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711348598",
+    "Q_Id": "LC_10",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "जन्म संस्कार कौन करता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711348923",
+    "Q_Id": "LC_11",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या जन्म व नामकरण संस्कार के बाद दावत होती है ? दावत मैं‌ किस प्रकार का भोजन परोसा जाता है ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711349244",
+    "Q_Id": "LC_12",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "जन्म व नामकरण संस्कार की वयवस्था और उसके खर्चे कौन करता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711349560",
+    "Q_Id": "LC_13",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "जन्म व नामकरण संस्कार के बारे में और कोई महत्वपूर्ण बातें जो आप बताना चाहते हो ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711349871",
+    "Q_Id": "LC_41",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "बच्चे होने के पहले साल में आप नवजात को किस तरह का खाना देते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711350182",
+    "Q_Id": "LC_14",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आपके समाज में विवाह से पहले पति-पत्नी मिल सकते है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711350492",
+    "Q_Id": "LC_15",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समाज में‌ पति-पत्नी खोजने की क्या प्रक्रिया है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711350801",
+    "Q_Id": "LC_16",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "जीवनसाथी को खोजने के लिए मुख्य रूप से कौन जिम्मेदार होता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711351113",
+    "Q_Id": "LC_17",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समाज में विवाह से सम्बन्धित कौन-कौन सी विभिन्न रस्म-रिवाज है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711351431",
+    "Q_Id": "LC_18",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "समान्यतः, विवाह से सम्बन्धित रस्म-रिवाज कब और किस जगह होती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711351741",
+    "Q_Id": "LC_19",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "विवाह से सम्बन्धित कितनी रस्में होती है? उनके नाम व उद्देश्य क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711352053",
+    "Q_Id": "LC_20",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "वैवाहिक रस्मों का दिन व समय कैसे निर्धारित होता है? ",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711352365",
+    "Q_Id": "LC_21",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "वैवाहिक रस्मों का दिन व समय कैसे निर्धारित होता है? ",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711352676",
+    "Q_Id": "LC_22",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "वैवाहिक रस्मों के दौरान लोग कैसे बैठते है (कोई विशिष्ट दिशा इत्यादि)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711353017",
+    "Q_Id": "LC_23",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "वैवाहिक रस्मों की प्रक्रिया क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711353336",
+    "Q_Id": "LC_24",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "वैवाहिक रस्मों के लिए किन-किन पदार्थों व वस्तुओं का प्रयोग किया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711353648",
+    "Q_Id": "LC_25",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "शादी समारोह के दौरान अनुष्ठान कैसे किए जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711353960",
+    "Q_Id": "LC_26",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या वैवाहिक रस्मों के बाद, पहले या उसी समय दावत होती है ? दावत में किस प्रकार का भोजन परोसा जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711354274",
+    "Q_Id": "LC_27",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "विवाह समारोहों के दौरान दावत/भोजन कैसे तैयार किया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711354588",
+    "Q_Id": "LC_28",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "वैवाहिक रस्मों के बारे में और कोई महत्वपूर्ण बातें जो आप बताना चाहते हो ? ",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711355217",
+    "Q_Id": "LC_29",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "तुम्हारे समाज मे अंतिम संस्कार से सम्बन्धित विभिन्न रस्म-रिवाज क्या है? ",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711355531",
+    "Q_Id": "LC_30",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "समान्यतः, अंतिम संस्कार से सम्बन्धित रस्म-रिवाज कब और किस जगह होता है",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711355842",
+    "Q_Id": "LC_31",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "अंतिम संस्कार से सम्बन्धित कितनी रस्में होती है ? उनके नाम और उद्देश्य क्या है ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711356156",
+    "Q_Id": "LC_32",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "मृत्यु से संबंधित समारोहों में कौन सभी भाग लेते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711356472",
+    "Q_Id": "LC_33",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "अंतिम संस्कार के दौरान लोग कैसे बैठते है (कोई विशेष दिशा इत्यादि)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711356783",
+    "Q_Id": "LC_34",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "अंतिम संस्कार से संबंधित विभिन्न रस्में कौन सी हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711357118",
+    "Q_Id": "LC_35",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "अंतिम संस्कार के लिए किन-किन पदार्थों और वस्तुओं का प्रयोग किया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711357431",
+    "Q_Id": "LC_36",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "यह कैसे तय होता है कि मृत्यु से संबंधित रस्में कौन करेगा? (शिशु, बच्चे, वृद्ध लोगों के मामले में)",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711357747",
+    "Q_Id": "LC_37",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "अंतिम संस्कार के बाद, पहले या उसके दौरान आप किस प्रकार का भोजन परोसते हैं? ",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711358061",
+    "Q_Id": "LC_38",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "अंतिम संस्कार के दौरान भोजन की व्यवस्था और तैयारी कैसे की जाती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711358378",
+    "Q_Id": "LC_39",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "अंतिम संस्कार के बारे में और कोई महत्वपूर्ण बातें जो आप बताना चाहते हो ? ",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711358689",
+    "Q_Id": "LC_40",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "वे कौन से समारोह हैं जहां आप शराब परोस सकते हैं?",
+    "hint": ""
+  }
+]

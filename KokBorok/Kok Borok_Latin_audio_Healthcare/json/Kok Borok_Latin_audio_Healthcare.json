@@ -1,0 +1,154 @@
+[
+  {
+    "quesId": "Q20230328110215657680",
+    "Q_Id": "HLT_1",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Kamio manthokmani bithirog bwswk joratwi kaham chini sakni bagwi?",
+    "hint": "A20230328111209701642_281474976755726.wav"
+  },
+  {
+    "quesId": "Q20230328110215658022",
+    "Q_Id": "HLT_2",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Kamio manthok mani bithi no tamni bagwi chwng macha eba maphul?",
+    "hint": "A20230328111209976667_281474976755727.wav"
+  },
+  {
+    "quesId": "Q20230328110215658374",
+    "Q_Id": "HLT_3",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Bohokni mai gole rwna bagwi kamaio bo manthokmani bithirogno chwng ma cha? O bithirogno bahai khe swnamjak tei bahai khe chajak?",
+    "hint": "A20230328111210326658_281474976755728.wav"
+  },
+  {
+    "quesId": "Q20230328110215658711",
+    "Q_Id": "HLT_4",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Kamio manthok mani bithirogno chawi nini sak baithang bobo hai wng jak?",
+    "hint": "A20230328111210591669_281474976755729.wav"
+  },
+  {
+    "quesId": "Q20230328110215659045",
+    "Q_Id": "HLT_5",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Tei bobo hai bithirog kamio manthok, bo samwngo chuk ,bahai khe o bithirog swnam jak tei tamni bagwi?",
+    "hint": "A20230328111210881793_281474976755730.wav"
+  },
+  {
+    "quesId": "Q20230328110215659382",
+    "Q_Id": "HLT_6",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Nwng lumwi tongkha hwnwi bahai khe sai man nai? Kamio manthok mani bithirog bai bahai khe kulum sare rwi man nai?",
+    "hint": "A20230328111211169143_281474976755731.wav"
+  },
+  {
+    "quesId": "Q20230328110215659708",
+    "Q_Id": "HLT_7",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Nwng kuchuk kongrai manjak phuru bobo hai wngjak? Kamio manthok mani bithirog bai bahai khe hamrwi man?",
+    "hint": "A20230328111211478661_281474976755732.wav"
+  },
+  {
+    "quesId": "Q20230328110215660094",
+    "Q_Id": "HLT_8",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini kwsa no bahai khe hamrw? Nini sago kisisa kwsarog chakhe kamio manthok mani bithirog bai bahai khe hamrw? tei o bithi rog bahai khe swnamjak?",
+    "hint": "A20230328111211848411_281474976755733.wav"
+  },
+  {
+    "quesId": "Q20230328110215660783",
+    "Q_Id": "HLT_11",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini bwkhwnai no tamo bai su age jora o?",
+    "hint": "A20230328111212384993_281474976755735.wav"
+  },
+  {
+    "quesId": "Q20230328110215661129",
+    "Q_Id": "HLT_12",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini bwkhanai kokmani, khokpwi wngmani,thwk wngmani tei khwnai phurmani-rog no hamrw na bagwi, bahai khe nini bwkhwnai no naikol age jora o?",
+    "hint": "A20230328111212690191_281474976755736.wav"
+  },
+  {
+    "quesId": "Q20230328110215661456",
+    "Q_Id": "HLT_13",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Sak-sakhrubma-rogno bo bithi bai hamrw lai agi jora o?",
+    "hint": "A20230328111212958799_281474976755737.wav"
+  },
+  {
+    "quesId": "Q20230328110215661803",
+    "Q_Id": "HLT_14",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Bahan-sakhrubma-rogno bo bithi bai hamrw lai agi jora o?",
+    "hint": "A20230328111213269923_281474976755738.wav"
+  },
+  {
+    "quesId": "Q20230328110215662128",
+    "Q_Id": "HLT_15",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Bu-wa samarogno bo bithi bai hamrw lai agi jora o?",
+    "hint": "A20230328111213571762_281474976755739.wav"
+  },
+  {
+    "quesId": "Q20230328110215662450",
+    "Q_Id": "HLT_16",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Khorok samano bo bithi bai hamrw lai agi jora o?",
+    "hint": "A20230328111213826195_281474976755740.wav"
+  },
+  {
+    "quesId": "Q20230328110215662776",
+    "Q_Id": "HLT_17",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": " Bwrwirog rom maya wngwi bohok sagwi tong phuru bo bithi bai hamrw lai agi jora o?",
+    "hint": "A20230328111214085950_281474976755741.wav"
+  },
+  {
+    "quesId": "Q20230328110215663102",
+    "Q_Id": "HLT_18",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Covid-19 ni katena bagwi bobo hai yapri najak kami rogo?",
+    "hint": "A20230328111214371403_281474976755742.wav"
+  },
+  {
+    "quesId": "Q20230328110215663427",
+    "Q_Id": "HLT_19",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Bu-wa bahai khe hulai age jora o?",
+    "hint": "A20230328111214602735_281474976755743.wav"
+  },
+  {
+    "quesId": "Q20230328110215663772",
+    "Q_Id": "HLT_20",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Bu-wa sokphuru, wani bermar wng phuru, hama hamya najgwi tong phuru bo bithi bai hamrw lai agi jora o?",
+    "hint": "A20230328111214887869_281474976755744.wav"
+  },
+  {
+    "quesId": "Q20230328110215664129",
+    "Q_Id": "HLT_21",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Norokni hoda o hamya naina kwrwng de tong? Hamya naina phai phuru bono tamo yaphar jak?",
+    "hint": "A20230328111215148650_281474976755745.wav"
+  }
+]

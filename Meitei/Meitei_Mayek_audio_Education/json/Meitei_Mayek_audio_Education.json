@@ -1,0 +1,922 @@
+[
+  {
+    "quesId": "Q20221213065632542345",
+    "Q_Id": "ED-01",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯥꯏꯔꯤꯡ ꯇꯝꯕ ꯃꯤ ꯑꯃꯕꯨ ꯀꯔꯝꯕ ꯃꯤꯠꯌꯦꯡ ꯌꯦꯡꯕꯒꯦ?",
+    "hint": "A20230211074605270563_281474976737188.wav"
+  },
+  {
+    "quesId": "Q20221213065632542945",
+    "Q_Id": "ED-02",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯐꯨꯔꯨꯞꯇ ꯂꯥꯏꯔꯤꯛ ꯇꯝꯕꯗꯒꯤ ꯀꯔꯝꯕ ꯑꯑꯣꯟꯕ ꯄꯨꯔꯛꯏ ꯍꯥꯏꯕ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ?",
+    "hint": "A20230211074605681262_281474976737189.wav"
+  },
+  {
+    "quesId": "Q20221213065632543339",
+    "Q_Id": "ED-03",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯃꯐꯝꯁꯤꯗ ꯃꯍꯩ ꯂꯣꯏꯁꯪ ꯂꯥꯛꯄꯗꯒꯤ ꯀꯔꯤ ꯈꯦꯠꯅꯕ ꯂꯥꯛꯑꯕꯒꯦ ?",
+    "hint": "A20230211074606092640_281474976737190.wav"
+  },
+  {
+    "quesId": "Q20221213065632543696",
+    "Q_Id": "ED-04",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯧꯖꯤꯛꯀꯤ ꯁ꯭ꯀꯨꯜ ꯀꯣꯂꯦꯖꯀ ꯅꯈꯣꯏꯅ ꯑꯉꯥꯡ ꯑꯣꯏꯔꯤꯉꯩꯒ ꯀꯔꯤ ꯈꯦꯠꯟꯕꯒꯦ?",
+    "hint": "A20230211074606487076_281474976737191.wav"
+  },
+  {
+    "quesId": "Q20221213065632544039",
+    "Q_Id": "ED-05",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯐꯨꯔꯨꯞꯁꯤꯗ ꯂꯩꯔꯤꯕ ꯃꯍꯩ ꯇꯝꯐꯝꯁꯪ ꯁꯤꯡꯒꯤ ꯃꯔꯝꯗ ꯈꯔ ꯍꯥꯏꯌꯨ ?",
+    "hint": "A20230211074606897708_281474976737192.wav"
+  },
+  {
+    "quesId": "Q20221213065632544374",
+    "Q_Id": "ED-06",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯅ ꯇꯝꯃꯤꯕ ꯂꯥꯏꯔꯤꯛ ꯑꯗꯨ ꯁꯃꯥꯖꯗ ꯀꯔꯤ ꯀꯥꯟꯅꯕ ꯄꯤꯕꯒꯦ ?",
+    "hint": "A20230211074607431762_281474976737193.wav"
+  },
+  {
+    "quesId": "Q20221213065632544704",
+    "Q_Id": "ED-07",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯍꯧꯁꯥꯒꯤ ꯂꯧ-ꯁꯤꯡꯒ ꯍꯧꯖꯤꯛ ꯂꯩꯔꯤꯕ ꯃꯍꯩ ꯇꯝꯕꯒꯤ ꯃꯑꯣꯡꯁꯤꯒ ꯀꯔꯤꯗ ꯈꯦꯠꯅꯒꯅꯤ ?",
+    "hint": "A20230211074607831370_281474976737194.wav"
+  },
+  {
+    "quesId": "Q20221213065632545056",
+    "Q_Id": "ED-08",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯩꯈꯣꯏꯒꯤ ꯑꯦꯖꯨꯀꯦꯁꯟ ꯁꯤꯁꯇꯦꯝ ꯑꯁꯤ ꯀꯔꯝ ꯍꯥꯏꯅ ꯐꯒꯠꯍꯟꯒꯅꯤ ?",
+    "hint": "A20230211074608235123_281474976737195.wav"
+  },
+  {
+    "quesId": "Q20221213065632545394",
+    "Q_Id": "ED-09",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯍꯧꯁꯥꯒꯤ ꯑꯣꯏꯕ ꯂꯧꯁꯤꯡꯁꯤꯡ ꯑꯗꯨ ꯃꯈꯥꯊꯪꯕ ꯑꯉꯥꯡꯁꯤꯡꯗ ꯀꯃꯥꯏꯢꯅ ꯄꯤꯊꯒꯅꯤ ?",
+    "hint": "A20230211074608617549_281474976737196.wav"
+  },
+  {
+    "quesId": "Q20221213065632545726",
+    "Q_Id": "ED-10",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯍꯩ-ꯃꯁꯤꯡ ꯇꯝꯂꯤꯕ ꯑꯉꯥꯡꯁꯤꯡ ꯑꯃꯗꯤ ꯃꯀꯣꯛ ꯊꯣꯡꯂꯛꯄ ꯑꯉꯥꯡꯁꯤꯡꯕꯨ ꯀꯔꯝ ꯍꯥꯏꯅ ꯄꯨꯛꯅꯤꯡ ꯊꯧꯒꯠꯀꯅꯤ ?",
+    "hint": "A20230211074609007548_281474976737197.wav"
+  },
+  {
+    "quesId": "Q20221213065632546057",
+    "Q_Id": "ED-11",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯦꯖꯨꯀꯦꯁꯟ ꯁꯤꯁꯇꯦꯝꯅ ꯐꯨꯔꯨꯞ ꯑꯃꯗ ꯑꯃꯒ ꯑꯃꯒ ꯅꯨꯡꯁꯤ ꯆꯥꯅꯅ ꯂꯩꯃꯤꯅꯅꯕ ꯀꯔꯤ ꯄꯥꯎꯇꯥꯛ ꯄꯤꯕꯒꯦ ?",
+    "hint": "A20230211074609455398_281474976737198.wav"
+  },
+  {
+    "quesId": "Q20221213065632546392",
+    "Q_Id": "ED-12",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯀꯔꯝꯕ ꯁꯕꯖꯦꯛ ꯂꯧꯕꯅ ꯅꯪꯒꯤ ꯇꯨꯡꯒꯤ ꯄꯨꯟꯁꯤꯗ ꯀꯔꯤ ꯀꯔꯝꯕ ꯀꯥꯟꯅꯕ ꯄꯤꯔꯛꯀꯅꯤ ꯍꯥꯏꯕ ꯈꯔ ꯍꯥꯏꯌꯨ ?",
+    "hint": "A20230211074609916319_281474976737199.wav"
+  },
+  {
+    "quesId": "Q20221213065632546720",
+    "Q_Id": "ED-13",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯦꯖꯨꯀꯦꯁꯟ ꯁꯤꯁꯇꯦꯝꯅ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯂꯥꯏꯔꯕ ꯍꯥꯏꯕ ꯑꯁꯤ ꯃꯥꯡꯍꯟꯕ ꯉꯝꯒꯅꯤ ?",
+    "hint": "A20230211074610373358_281474976737200.wav"
+  },
+  {
+    "quesId": "Q20221213065632547056",
+    "Q_Id": "ED-14",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯣꯝ ꯋꯥꯔ꯭ꯛ ꯇꯧꯕꯗ ꯄꯥꯝꯕ ꯄꯥꯝꯗꯕ ꯂꯩꯕꯔꯥ ? ",
+    "hint": "A20230211074610729456_281474976737201.wav"
+  },
+  {
+    "quesId": "Q20221213065632547386",
+    "Q_Id": "ED-15",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯄꯨꯛꯅꯤꯡ ꯆꯪꯅ ꯂꯥꯏꯔꯤꯛ ꯍꯦꯟꯅ ꯄꯥꯅꯕ ꯀꯔꯤ ꯇꯧꯒꯗꯒꯦ ?",
+    "hint": "A20230211074611130971_281474976737202.wav"
+  },
+  {
+    "quesId": "Q20221213065632547715",
+    "Q_Id": "ED-16",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯍꯩ ꯃꯁꯤꯡꯅ ꯅꯈꯣꯏꯒꯤ ꯐꯨꯔꯨꯞꯇ ꯑꯃꯒ ꯑꯃꯒ ꯅꯨꯡꯁꯤꯅꯅꯕ ꯀꯔꯝꯕ ꯊꯧꯗꯥꯡ ꯂꯧꯕꯒꯦ ?",
+    "hint": "A20230211074710278568_281474976737203.wav"
+  },
+  {
+    "quesId": "Q20221213065632548044",
+    "Q_Id": "ED-17",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯦꯖꯨꯀꯦꯁꯟ ꯁꯤꯁꯇꯦꯝꯗ ꯃꯈꯜ ꯃꯈꯜꯒꯤ ꯑꯣꯏꯅ ꯋꯥꯈꯜ ꯄꯨꯊꯣꯛꯑꯒ ꯂꯥꯏꯔꯤꯛ ꯇꯥꯛꯄꯗ ꯀꯔꯤ ꯀꯥꯟꯅꯕ ꯐꯪꯒꯗꯒꯦ ?",
+    "hint": "A20230211074611579730_281474976737204.wav"
+  },
+  {
+    "quesId": "Q20221213065632548432",
+    "Q_Id": "ED-18",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯥꯔ꯭ꯛ ꯌꯥꯝꯅ ꯐꯪꯕꯒ ꯃꯥꯔ꯭ꯛ ꯌꯥꯝꯅ ꯐꯪꯗꯕꯒ ꯀꯔꯝꯕꯅ ꯍꯦꯟꯅ ꯄꯨꯛꯅꯤꯡ ꯊꯧꯒꯠꯂꯤ ꯑꯃꯁꯨꯡ  ꯀꯔꯤꯒꯤꯅꯣ ?",
+    "hint": "A20230211074611992513_281474976737205.wav"
+  },
+  {
+    "quesId": "Q20221213065632548776",
+    "Q_Id": "ED-19",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯍꯧꯁꯥꯒꯤ ꯑꯣꯏꯕ ꯂꯧꯁꯤꯡ ꯇꯥꯛꯄꯗ ꯍꯦꯟꯅ ꯃꯥꯏ ꯑꯣꯟꯁꯤꯟꯕ ꯗꯔꯀꯥꯔ ꯇꯥꯕ꯭ꯔꯥ ꯍꯥꯏꯅ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20230211074612385445_281474976737206.wav"
+  },
+  {
+    "quesId": "Q20221213065632549130",
+    "Q_Id": "ED-20",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯦꯖꯨꯀꯦꯁꯟꯒꯤ ꯃꯔꯨ ꯑꯣꯏꯕ ꯊꯧꯗꯥꯡ ꯑꯁꯤ ꯀꯔꯤꯅꯣ ? ",
+    "hint": "A20230211074612772107_281474976737207.wav"
+  },
+  {
+    "quesId": "Q20221213065632549462",
+    "Q_Id": "ED-21",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯈꯨꯡꯒꯪꯒꯤ ꯃꯐꯝ ꯑꯌꯥꯝꯗ ꯁꯦꯛ꯭ꯁ ꯑꯦꯖꯨꯀꯦꯁꯟꯒꯤ ꯃꯔꯝꯗ ꯇꯥꯛꯄꯗ ꯏꯀꯥꯏꯅꯔꯤꯕ ꯑꯁꯤ ꯀꯔꯤ ꯃꯔꯝꯒꯤꯅꯣ  ?",
+    "hint": "A20230211074613156986_281474976737208.wav"
+  },
+  {
+    "quesId": "Q20221213065632549789",
+    "Q_Id": "ED-22",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯏꯟꯈꯠꯂꯛꯂꯤꯕ ꯑꯉꯥꯡꯁꯤꯡꯗ ꯃꯈꯣꯢꯒꯤ ꯂꯧꯁꯤꯡ ꯍꯦꯟꯒꯠꯅꯕ ꯀꯔꯤꯅ ꯄꯨꯛꯅꯤꯡ ꯊꯧꯒꯠꯄꯒꯦ ?",
+    "hint": "A20230211074613564914_281474976737209.wav"
+  },
+  {
+    "quesId": "Q20221213065632550114",
+    "Q_Id": "ED-23",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯥꯏꯔꯤꯛ ꯇꯝꯕꯗ ꯏꯃꯨꯡ ꯑꯃꯅ ꯀꯔꯝꯕ ꯊꯧꯗꯥꯡ ꯂꯧꯕꯒꯦ ?",
+    "hint": "A20230211074613964926_281474976737210.wav"
+  },
+  {
+    "quesId": "Q20221213065632550440",
+    "Q_Id": "ED-24",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯤ ꯑꯃꯒꯤ ꯋꯥꯈꯜꯂꯣꯟꯅ ꯃꯍꯥꯛꯅ ꯇꯝꯃꯛꯄ ꯃꯍꯩ-ꯃꯁꯤꯡ ꯑꯗꯨꯒꯤ ꯃꯔꯝꯗ ꯀꯔꯤ ꯇꯥꯛꯄꯒꯦ ?",
+    "hint": "A20230211074614358939_281474976737211.wav"
+  },
+  {
+    "quesId": "Q20221213065632550770",
+    "Q_Id": "ED-25",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯦꯇ꯭ꯔꯤꯛ ꯄꯩꯈꯥ ꯑꯁꯤ ꯌꯥꯝꯅ ꯂꯨꯕ ꯄꯩꯈꯥꯅꯤ ꯍꯥꯏꯅ ꯂꯧꯅꯔꯤꯕ ꯀꯔꯤꯒꯤꯅꯣ ?",
+    "hint": "A20230211074614803876_281474976737212.wav"
+  },
+  {
+    "quesId": "Q20221213065632551116",
+    "Q_Id": "ED-26",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯀ꯭ꯂꯥꯁꯔꯨꯝꯗ ꯇꯧꯕ ꯀꯔꯝꯅ ꯍꯦꯟꯅ ꯅꯨꯡꯉꯥꯏꯕꯒꯦ ?",
+    "hint": "A20230211074615205421_281474976737213.wav"
+  },
+  {
+    "quesId": "Q20221213065632551445",
+    "Q_Id": "ED-27",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯥꯏꯔꯤꯛ ꯇꯝꯕꯗ ꯑꯩ ꯁꯤꯃ ꯇꯧꯔꯦ ꯍꯥꯏꯅ ꯆꯥꯎꯊꯣꯛꯆꯕ ꯀꯔꯝꯕ ꯃꯤꯠꯀꯨꯞꯇ ꯐꯥꯎꯈꯤꯕꯒꯦ ?",
+    "hint": "A20230211074615619031_281474976737214.wav"
+  },
+  {
+    "quesId": "Q20221213065632551770",
+    "Q_Id": "ED-28",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯍꯥꯛꯀꯤ ꯑꯦꯖꯨꯀꯦꯁꯟ ꯁꯤꯁꯇꯦꯝꯅ ꯅꯪꯒꯤ ꯄꯨꯟꯗꯤꯗ ꯀꯔꯤ ꯑꯑꯣꯟꯕ ꯄꯨꯔꯛꯏ ?",
+    "hint": "A20230211074616017798_281474976737215.wav"
+  },
+  {
+    "quesId": "Q20221213065632552094",
+    "Q_Id": "ED-29",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯦꯖꯨꯀꯦꯁꯟ ꯁꯤꯁꯇꯦꯝꯅ ꯅꯪꯅ ꯂꯧꯔꯤꯕ ꯋꯥꯈꯜ ꯑꯃꯁꯨꯡ ꯊꯧꯗꯥꯡꯕꯨ ꯀꯗꯥꯏꯐꯧ ꯌꯧꯅ ꯐꯒꯠꯍꯟꯕꯒꯦ ?",
+    "hint": "A20230211074616401935_281474976737216.wav"
+  },
+  {
+    "quesId": "Q20221213065632552417",
+    "Q_Id": "ED-30",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯦꯖꯨꯀꯦꯁꯟ ꯁꯤꯁꯇꯦꯝꯅ ꯀꯗꯥꯏꯐꯧ ꯌꯧꯅ ꯅꯪꯒꯤ ꯏꯟꯀꯝ ꯂꯥꯛꯄꯗ ꯃꯇꯦꯡ ꯄꯥꯡꯕꯒꯦ ?",
+    "hint": "A20230211074616806459_281474976737217.wav"
+  },
+  {
+    "quesId": "Q20221213065632552739",
+    "Q_Id": "ED-31",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯦꯖꯨꯀꯦꯁꯟ ꯁꯤꯁꯇꯦꯝꯗ ꯁ꯭ꯃꯥꯔ꯭ꯠ ꯐꯣꯟ ꯑꯃꯁꯨꯡ ꯏꯟꯇꯔꯅꯦꯠꯅ  ꯀꯔꯝꯕ ꯊꯧꯗꯥꯡ ꯂꯧꯕꯒꯦ ?",
+    "hint": "A20230211074617203356_281474976737218.wav"
+  },
+  {
+    "quesId": "Q20221213065632553080",
+    "Q_Id": "ED-32",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯤꯑꯣꯏ ꯑꯃꯅ ꯁ꯭ꯀꯨꯜꯗ ꯂꯥꯏꯔꯤꯛ ꯄꯥꯕ ꯑꯃꯁꯨꯡ ꯏꯕ ꯀꯔꯝ ꯍꯥꯏꯅ ꯇꯝꯃꯤ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20230211074617595860_281474976737219.wav"
+  },
+  {
+    "quesId": "Q20221213065632553408",
+    "Q_Id": "ED-33",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁ꯭ꯀꯨꯜꯗ ꯀꯥ ꯍꯦꯟꯅ ꯂꯨꯕ ꯁꯕꯖꯦꯛ꯭ꯇ ꯑꯁꯤ ꯀꯔꯝꯕꯅꯦꯅ ꯂꯧꯢ ?",
+    "hint": "A20230211074617986442_281474976737220.wav"
+  },
+  {
+    "quesId": "Q20221213065632553736",
+    "Q_Id": "ED-34",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯉꯥꯡꯁꯤꯡꯅ ꯃꯍꯩꯇꯝꯐꯝꯁꯪ ꯁꯤꯡꯗꯒꯤ ꯀꯔꯤ ꯇꯝꯒꯗꯒꯦ ? ",
+    "hint": "A20230211074618390605_281474976737221.wav"
+  },
+  {
+    "quesId": "Q20221213065632554064",
+    "Q_Id": "ED-35",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯃꯐꯝꯁꯤꯗ ꯂꯩꯔꯤꯕ ꯁ꯭ꯀꯨꯜ ꯀꯣꯂꯦꯖꯦꯁ ꯑꯁꯤ ꯑꯇꯣꯞꯄ ꯃꯐꯝꯗ ꯂꯩꯔꯤꯕꯁꯤꯡꯗꯒꯤ  ꯍꯦꯟꯅ ꯐꯩ ꯈꯜꯂꯤꯕꯁꯤ ꯀꯔꯤꯒꯤꯅꯣ ?",
+    "hint": "A20230211074618793197_281474976737222.wav"
+  },
+  {
+    "quesId": "Q20221213065632554397",
+    "Q_Id": "ED-36",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯃꯐꯝꯁꯤꯗ ꯂꯩꯔꯤꯕ ꯁ꯭ꯀꯨꯜꯁꯤꯡꯁꯤꯗ ꯁꯥꯟꯅꯕꯒꯤꯗꯃꯛꯇ ꯀꯔꯤ ꯊꯧꯗꯥꯡ ꯂꯧꯕꯒꯦ ?",
+    "hint": "A20230211074619178552_281474976737223.wav"
+  },
+  {
+    "quesId": "Q20221213065632554725",
+    "Q_Id": "ED-37",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯔꯀꯥꯔꯅ ꯑꯦꯖꯨꯀꯦꯁꯟꯒꯤꯗꯃꯛꯇ ꯀꯔꯝ ꯀꯔꯝꯕ ꯊꯕꯛ ꯄꯥꯢꯈꯠꯄ ꯌꯥꯕꯒꯦ ?",
+    "hint": "A20230211074619585391_281474976737224.wav"
+  },
+  {
+    "quesId": "Q20221213065632555049",
+    "Q_Id": "ED-38",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯉꯥꯡ ꯑꯃꯅ ꯃꯃꯥꯂꯣꯟꯗ ꯇꯥꯛꯄ ꯁ꯭ꯀꯨꯜ ꯑꯃꯗ ꯆꯪꯕ ꯀꯥꯟꯗ ꯀꯔꯝꯕ ꯑꯋꯥꯕ ꯃꯥꯌꯣꯛꯅꯒꯅꯤ ?",
+    "hint": "A20230211074620045923_281474976737225.wav"
+  },
+  {
+    "quesId": "Q20221213065632555377",
+    "Q_Id": "ED-39",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯥꯇ꯭ꯔ ꯑꯃꯅ ꯀꯣꯂꯦꯖ ꯑꯃꯁꯨꯡ ꯁ꯭ꯀꯨꯜꯗꯒꯤ ꯀꯔꯤ ꯄꯨꯟꯁꯤꯔꯣꯜ ꯇꯝꯒꯗꯒꯦ ?",
+    "hint": "A20230211074620437794_281474976737226.wav"
+  },
+  {
+    "quesId": "Q20221213065632555701",
+    "Q_Id": "ED-40",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯉꯥꯡ ꯑꯃꯅ ꯏꯪꯂꯤꯁ ꯃꯦꯗꯤꯌꯝ ꯁ꯭ꯀꯨꯜꯗ ꯆꯠꯄꯗ ꯀꯔꯤ ꯑꯋꯥꯕ ꯃꯥꯌꯣꯛꯅꯕꯒꯦ ?",
+    "hint": "A20230211074620845050_281474976737227.wav"
+  },
+  {
+    "quesId": "Q20221213065632556023",
+    "Q_Id": "ED-41",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯉꯥꯡ ꯈꯨꯗꯤꯡꯃꯛ ꯀ꯭ꯋꯥꯂꯤꯇꯤ ꯏꯖꯨꯀꯦꯁꯟ ꯐꯪꯅꯅꯕ ꯀꯔꯤ ꯇꯧꯕ ꯗꯔꯀꯥꯔ ꯇꯥꯕꯒꯦ ?",
+    "hint": "A20230211074621250710_281474976737228.wav"
+  },
+  {
+    "quesId": "Q20221213065632556346",
+    "Q_Id": "ED-42",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁ꯭ꯀꯨꯜ ꯑꯦꯖꯨꯀꯦꯁꯟꯒ ꯄꯨꯟꯁꯤꯔꯣꯜꯒ ꯀꯔꯤꯗ ꯃꯔꯤ ꯂꯩꯅꯕꯒꯦ ?",
+    "hint": "A20230211074621646576_281474976737229.wav"
+  },
+  {
+    "quesId": "Q20221213065632556674",
+    "Q_Id": "ED-43",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁ꯭ꯀꯨꯜ ꯑꯦꯖꯨꯀꯦꯁꯟꯅ ꯁꯃꯥꯖꯀꯤ ꯑꯣꯏꯕ ꯍꯧꯅ ꯂꯣꯟꯆꯠ ꯀꯔꯤ ꯇꯥꯛꯄꯒꯦ ?",
+    "hint": "A20230211074622051975_281474976737230.wav"
+  },
+  {
+    "quesId": "Q20221213065632557020",
+    "Q_Id": "ED-44",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁ꯭ꯀꯨꯜ ꯑꯦꯖꯨꯀꯦꯁꯟꯅ ꯑꯉꯥꯡ ꯑꯃꯒꯤ ꯄꯨꯟꯁꯤꯕꯨ ꯀꯔꯝ ꯍꯥꯏꯅ ꯁꯦꯝꯕꯒꯦ ?",
+    "hint": "A20230211074622457148_281474976737231.wav"
+  },
+  {
+    "quesId": "Q20221213065632557352",
+    "Q_Id": "ED-45",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯥꯏꯔꯤꯛ ꯇꯝꯕ ꯃꯤ ꯑꯃꯒꯤ ꯃꯒꯨꯟ ꯀꯔꯤ ꯀꯔꯤ ꯑꯣꯏꯒꯗꯒꯦ ꯍꯥꯏꯅ ꯈꯟꯕꯒꯦ ?",
+    "hint": "A20230211074622852228_281474976737232.wav"
+  },
+  {
+    "quesId": "Q20221213065632557677",
+    "Q_Id": "ED-46",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯒꯣꯕ꯭ꯔꯟꯃꯦꯟ꯭ꯇ ꯁ꯭ꯀꯨꯜ ꯑꯃꯗꯤ ꯄ꯭ꯔꯥꯢꯕꯦꯠ ꯁ꯭ꯀꯨꯂꯒꯤ ꯑꯐ ꯐꯠꯇ ꯈꯔ ꯍꯥꯏꯌꯨ ?",
+    "hint": "A20230211074623247225_281474976737233.wav"
+  },
+  {
+    "quesId": "Q20221213065632558003",
+    "Q_Id": "ED-47",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯦꯝ ꯑꯥꯏ ꯑꯦꯜ ꯍꯥꯏꯕꯁꯤ ꯁ꯭ꯀꯨꯜꯗꯒꯤ ꯍꯧꯔꯒ ꯗꯣꯛꯇꯔꯦꯠ ꯐꯥꯎꯕ ꯍꯥꯞꯄꯒꯤ ꯀꯔꯤ ꯗꯔꯀꯥꯔ ꯂꯩꯕꯒꯦ ?",
+    "hint": "A20230211074623646228_281474976737234.wav"
+  },
+  {
+    "quesId": "Q20221213065632558327",
+    "Q_Id": "ED-48",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁ꯭ꯀꯨꯜꯒꯤ ꯀꯔꯤꯀꯨꯂꯝꯗ ꯑꯦꯝ ꯑꯥꯏ ꯑꯦꯜ ꯍꯥꯞꯄꯅ ꯃꯐꯝ ꯑꯗꯨꯒꯤ ꯆꯠꯅ ꯄꯊꯥꯞ ꯀꯔꯝ ꯍꯥꯏꯅ ꯇꯥꯛꯀꯗꯒꯦ ?",
+    "hint": "A20230211074624167627_281474976737235.wav"
+  },
+  {
+    "quesId": "Q20221213065632558658",
+    "Q_Id": "ED-51",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯩꯈꯣꯏꯒꯤ ꯂꯣꯜ ꯑꯃꯁꯨꯡ ꯀꯜꯆꯔ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯌꯣꯛꯀꯗꯒꯦ ?",
+    "hint": "A20230211074624566300_281474976737236.wav"
+  },
+  {
+    "quesId": "Q20221213065632558987",
+    "Q_Id": "ED-52",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯀꯣꯕꯤꯗꯀꯤ ꯃꯔꯝꯗ ꯊꯣꯛꯂꯛꯄ ꯇꯣꯛꯉꯥꯁꯤꯡ ꯑꯗꯨ ꯑꯦꯖꯨꯀꯦꯁꯟꯅ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯥꯖꯍꯟꯗꯒꯦ ?",
+    "hint": "A20230211074624984749_281474976737237.wav"
+  },
+  {
+    "quesId": "Q20221213065632559313",
+    "Q_Id": "ED-54",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯦꯁꯅꯦꯜ ꯑꯦꯖꯨꯀꯦꯁꯅꯦꯜ ꯄꯣꯂꯤꯁꯤꯒꯤ ꯃꯔꯝꯗ ꯀꯔꯤ ꯋꯥꯈꯜꯂꯣꯟ ꯊꯝꯕꯤꯕꯒꯦ ?",
+    "hint": "A20230211074625387333_281474976737238.wav"
+  },
+  {
+    "quesId": "Q20221213065632559634",
+    "Q_Id": "ED-56",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯀꯣꯚꯤꯗ ꯅꯥꯏꯟꯇꯤꯟꯅ ꯏꯖꯎꯀꯦꯁꯟ ꯁꯤꯁꯇꯦꯝꯗ ꯀꯔꯤ ꯀꯔꯤ ꯑꯋꯥꯕ ꯄꯤꯕꯒꯦ ꯍꯥꯏꯕꯗꯨ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20230211074625784294_281474976737239.wav"
+  },
+  {
+    "quesId": "Q20221213065632559957",
+    "Q_Id": "ED-61",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯜꯇꯤꯂꯤꯡꯒꯨꯋꯦꯜ ꯀꯂꯥꯁꯔꯨꯝꯅ ꯀꯔꯤ ꯀꯥꯟꯅꯕ ꯄꯤꯕꯒꯦ ?",
+    "hint": "A20230211074626184383_281474976737240.wav"
+  },
+  {
+    "quesId": "Q20221213065632560281",
+    "Q_Id": "ED-62",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯁ꯭ꯀꯨꯜꯒꯤ ꯃꯔꯝꯗ ꯇꯣꯞ ꯇꯣꯞꯄ ꯃꯒꯨꯟ ꯈꯔ ꯍꯥꯏꯌꯨ ?",
+    "hint": "A20230211074626579383_281474976737241.wav"
+  },
+  {
+    "quesId": "Q20221213065632560604",
+    "Q_Id": "ED-63",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯁ꯭ꯀꯨꯜꯗ ꯍꯧꯈꯤꯕ ꯆꯍꯤ ꯀꯌꯥ ꯑꯁꯤꯗ ꯀꯔꯤ ꯀꯔꯤ ꯑꯑꯣꯟꯕ ꯂꯩꯕꯒꯦ ?",
+    "hint": "A20230211074626986060_281474976737242.wav"
+  },
+  {
+    "quesId": "Q20221213065632560939",
+    "Q_Id": "ED-64",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯥꯇ꯭ꯔꯒꯤ ꯃꯃꯥ ꯃꯄꯥꯁꯤꯡꯒ ꯑꯣꯖꯥꯒ ꯎꯟꯅꯕꯒꯤ ꯃꯑꯣꯡ ꯑꯗꯨ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20230211074627390907_281474976737243.wav"
+  },
+  {
+    "quesId": "Q20221213065632561270",
+    "Q_Id": "ED-65",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁ꯭ꯀꯨꯜꯅ ꯐꯨꯔꯨꯞ ꯑꯃꯗ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯀꯥꯟꯅꯕ ꯄꯤꯕꯒꯦ ?",
+    "hint": "A20230211074627785688_281474976737244.wav"
+  },
+  {
+    "quesId": "Q20221213065632561601",
+    "Q_Id": "ED-66",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯣꯖꯥꯁꯤꯡꯅ ꯀ꯭ꯂꯥꯁꯔꯨꯝꯗ ꯂꯥꯏꯔꯤꯛ ꯇꯥꯛꯄꯒꯤ ꯃꯑꯣꯡ ꯑꯃꯁꯨꯡ ꯃꯈꯣꯏꯒꯤ ꯄꯣꯖꯤꯇꯤꯚ ꯑꯃꯁꯨꯡ ꯅꯦꯒꯦꯇꯤꯚ ꯏꯝꯄꯦꯛ ꯀꯔꯤ ꯂꯩꯕꯒꯦ ?",
+    "hint": "A20230211074628244418_281474976737245.wav"
+  },
+  {
+    "quesId": "Q20221213065632561932",
+    "Q_Id": "ED-67",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯁ꯭ꯀꯨꯜꯒ ꯀꯣꯂꯦꯖꯀꯗ ꯀꯔꯤ ꯑꯑꯣꯟꯕ ꯄꯣꯔꯛꯏ ꯍꯥꯢꯕ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20230211074628627332_281474976737246.wav"
+  },
+  {
+    "quesId": "Q20221213065632562260",
+    "Q_Id": "ED-69",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯐꯕ ꯑꯣꯖꯥꯁꯤꯡ ꯀꯔꯝ ꯍꯥꯏꯅ ꯈꯟꯕꯒꯦ ꯑꯃꯁꯨꯡ ꯃꯈꯣꯏꯕꯨ ꯄꯨꯛꯅꯤꯡ ꯀꯔꯝ ꯍꯥꯢꯅ ꯊꯧꯒꯠꯄꯒꯦ ?",
+    "hint": "A20230211074629030653_281474976737247.wav"
+  },
+  {
+    "quesId": "Q20221213065632562584",
+    "Q_Id": "ED-70",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯁ꯭ꯀꯨꯜ ꯅꯠꯇ꯭ꯔꯒ ꯀꯣꯂꯦꯖꯗ ꯊꯕꯛ ꯇꯧꯃꯤꯟꯅꯕꯁꯤꯡꯒꯤ ꯃꯔꯝꯗ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20230211074629434877_281474976737248.wav"
+  },
+  {
+    "quesId": "Q20221213065632562904",
+    "Q_Id": "ED-71",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯁ꯭ꯇꯦꯠꯀꯤ ꯑꯣꯏꯅ ꯑꯦꯖꯨꯀꯦꯁꯟ ꯁꯤꯁꯇꯦꯝꯒꯤ ꯃꯔꯝꯗ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20230211074629831472_281474976737249.wav"
+  },
+  {
+    "quesId": "Q20221213065632563228",
+    "Q_Id": "ED-72",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯩꯇꯩꯂꯣꯟꯗ ꯇꯥꯛꯄ ꯁ꯭ꯀꯨꯜꯒ ꯏꯪꯂꯤꯁꯇ ꯇꯥꯛꯄ ꯁ꯭ꯀꯨꯜꯒ ꯀꯔꯤꯗ ꯈꯦꯠꯅꯕꯒꯦ ? ",
+    "hint": "A20230211074630237330_281474976737250.wav"
+  },
+  {
+    "quesId": "Q20221213065632563550",
+    "Q_Id": "ED-73",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯥꯏꯔꯤꯛ ꯇꯥꯛꯄ ꯅꯠꯇꯕ ꯑꯣꯖꯥꯁꯤꯡꯗ ꯑꯇꯩ ꯑꯇꯣꯄꯄ ꯀꯔꯤ ꯊꯕꯛ ꯁꯤꯟꯅꯕꯒꯦ ?",
+    "hint": "A20230211074630633498_281474976737251.wav"
+  },
+  {
+    "quesId": "Q20221213065632563874",
+    "Q_Id": "ED-74",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯄꯔꯤꯈꯥ ꯇꯧꯕꯒꯤ ꯀꯥꯟꯅꯕ ꯑꯃꯁꯨꯡ ꯀꯥꯟꯅꯗꯕ ꯍꯥꯢꯕꯤꯌꯨ ?",
+    "hint": "A20230211074631029708_281474976737252.wav"
+  },
+  {
+    "quesId": "Q20221213065632564197",
+    "Q_Id": "ED-76",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯋꯦꯁꯇꯔ꯭ꯟ ꯕꯦꯖ ꯏꯗꯨꯀꯦꯁꯟ ꯁꯤꯁꯇꯦꯝꯒ ꯃꯍꯧꯁꯥꯒꯤ ꯑꯣꯏꯕ ꯑꯦꯖꯨꯀꯦꯁꯟ ꯁꯤꯁꯇꯦꯝꯒ ꯀꯥꯟꯅꯕ ꯀꯥꯟꯅꯗꯕ ꯀꯔꯤꯅꯣ ?",
+    "hint": "A20230211074631439257_281474976737253.wav"
+  },
+  {
+    "quesId": "Q20221213065632564516",
+    "Q_Id": "ED-77",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯩꯈꯣꯏꯒꯤ ꯁ꯭ꯇꯦꯠꯇ ꯃꯤꯃꯥꯟꯅꯗꯕꯁꯤꯡꯒꯤ ꯑꯣꯏꯅ ꯃꯍꯩꯃꯁꯤꯡꯒꯤ ꯊꯥꯛ ꯑꯁꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯐꯒꯠꯍꯟꯒꯅꯤ ?",
+    "hint": "A20230211074631844507_281474976737254.wav"
+  },
+  {
+    "quesId": "Q20221213065632564851",
+    "Q_Id": "ED-78",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯣꯖꯥ ꯑꯃꯅ ꯁꯥꯇ꯭ꯔ ꯑꯃꯒꯤ ꯄꯨꯟꯁꯤꯗ ꯀꯔꯝꯕ ꯊꯧꯗꯥꯡ ꯂꯧꯒꯅꯤ ?",
+    "hint": "A20230211074632243749_281474976737255.wav"
+  },
+  {
+    "quesId": "Q20221213065632565178",
+    "Q_Id": "ED-80",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯣꯖꯥꯅ ꯁꯥꯇ꯭ꯔ ꯁꯤꯡꯒ ꯃꯍꯩ ꯂꯣꯏꯁꯡꯁꯤꯡꯗ ꯀꯔꯝꯅ ꯋꯥꯔꯤ ꯁꯥꯅꯒꯅꯤ ?",
+    "hint": "A20230211074632646159_281474976737256.wav"
+  },
+  {
+    "quesId": "Q20221213065632565502",
+    "Q_Id": "ED-81",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯍꯩꯂꯣꯏꯁꯪꯁꯤꯡꯗ ꯁꯥꯇ꯭ꯔꯁꯤꯡꯅ ꯑꯔꯥꯟꯕ ꯑꯃ ꯇꯧꯕꯗ ꯀꯔꯝꯅ ꯆꯨꯝꯊꯣꯛꯀꯅꯤ ?",
+    "hint": "A20230211074633029606_281474976737257.wav"
+  },
+  {
+    "quesId": "Q20221213065632565830",
+    "Q_Id": "ED-82",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯉꯥꯡꯁꯤꯡꯅ ꯍꯧꯖꯤꯛ ꯇ꯭ꯌꯨꯁꯟ ꯆꯠꯅꯔꯤꯕꯁꯤꯗ ꯀꯔꯤ ꯍꯥꯏꯅꯤꯡꯕꯒꯦ ?",
+    "hint": "A20230211074633434387_281474976737258.wav"
+  },
+  {
+    "quesId": "Q20221213065632566152",
+    "Q_Id": "ED-83",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁ꯭ꯃꯥꯔ꯭ꯠ ꯐꯣꯟ ꯑꯃꯁꯨꯡ ꯏꯟꯇꯔꯅꯦꯠꯅ ꯑꯦꯖꯨꯀꯦꯁꯟ ꯁꯤꯁꯇꯦꯝꯗ ꯀꯗꯥꯏꯐꯥꯎ ꯌꯧꯅ ꯃꯇꯦꯡ ꯄꯥꯡꯕꯒꯦ ?",
+    "hint": "A20230211074633843169_281474976737259.wav"
+  },
+  {
+    "quesId": "Q20221213065632566478",
+    "Q_Id": "ED-84",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯉꯁꯤ ꯑꯁꯤ ꯁ꯭ꯀꯨꯜꯗ ꯅꯨꯡꯉꯥꯏꯕ ꯅꯨꯃꯤꯠꯅꯤ ꯍꯥꯏꯕꯁꯤ ꯀꯩꯅ ꯑꯣꯏꯍꯟꯕꯒꯦ ?",
+    "hint": "A20230211074634246620_281474976737260.wav"
+  },
+  {
+    "quesId": "Q20221213065632566808",
+    "Q_Id": "ED-85",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁ꯭ꯀꯨꯜꯗ ꯐꯤꯐ꯭ꯇꯤꯟ ꯑꯣꯒꯁ꯭ꯠ ꯀꯔꯝ ꯍꯥꯏꯅ ꯄꯥꯡꯊꯣꯛꯄꯒꯦ ?",
+    "hint": "A20230211074634642884_281474976737261.wav"
+  },
+  {
+    "quesId": "Q20221213065632567132",
+    "Q_Id": "ED-86",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯣꯖꯥ ꯑꯣꯏꯕꯒꯤ ꯁꯤꯟꯐꯝ ꯑꯁꯤꯗ ꯑꯄꯥꯝꯕ ꯀꯔꯤ ꯌꯥꯎꯕꯒꯦ ?",
+    "hint": "A20230211074635157005_281474976737262.wav"
+  },
+  {
+    "quesId": "Q20221213065632567455",
+    "Q_Id": "ED-87",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯥꯏꯔꯤꯛ ꯇꯥꯛꯄꯗ ꯇꯦꯛꯅꯣꯂꯣꯖꯤꯅ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯂꯥꯏꯍꯟꯕꯒꯦ ꯑꯃꯁꯨꯡ ꯂꯨꯍꯟꯕꯒꯦ ?",
+    "hint": "A20230211074635567720_281474976737263.wav"
+  },
+  {
+    "quesId": "Q20221213065632567776",
+    "Q_Id": "ED-88",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯤꯗ ꯗꯦ ꯃꯤꯜꯒꯤ ꯃꯇꯥꯡꯗ ꯀꯔꯤ ꯍꯥꯏꯅꯤꯡꯕꯒꯦ ?",
+    "hint": "A20230211074635955445_281474976737264.wav"
+  },
+  {
+    "quesId": "Q20221213065632568099",
+    "Q_Id": "ED-90",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯥꯇ꯭ꯔꯁꯤꯡꯗ ꯕ꯭ꯔꯦꯛ ꯊꯥꯔꯕ ꯃꯇꯨꯡ ꯑꯃꯁꯨꯡ ꯊꯥꯗ꯭ꯔꯤꯉꯥꯏꯗ ꯀꯔꯤ ꯈꯦꯠꯅꯕ ꯎꯕꯒꯦ ?",
+    "hint": "A20230211074636353215_281474976737265.wav"
+  },
+  {
+    "quesId": "Q20221213065632568423",
+    "Q_Id": "ED-92",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯤꯑꯣꯢꯕꯅ ꯃꯍꯩ ꯃꯁꯤꯡ ꯇꯝꯓꯟꯕ ꯍꯥꯏꯕꯁꯤꯗ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20230211074636730911_281474976737266.wav"
+  },
+  {
+    "quesId": "Q20221213065632568746",
+    "Q_Id": "ED-94",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯤꯁꯤꯡꯅ ꯑꯣꯖꯥ ꯑꯃꯗ ꯀꯔꯝꯕ ꯃꯒꯨꯟ ꯌꯦꯡꯕꯒꯦ ?",
+    "hint": "A20230211074637135212_281474976737267.wav"
+  },
+  {
+    "quesId": "Q20221213065632569086",
+    "Q_Id": "ED-95",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯩꯈꯣꯏꯅ ꯆꯍꯤ ꯌꯥꯝꯃꯛꯑ ꯀꯥꯟꯗ ꯀꯔꯤ ꯇꯝꯕ ꯇꯥꯏ ?",
+    "hint": "A20230211074637533052_281474976737268.wav"
+  },
+  {
+    "quesId": "Q20221213065632569407",
+    "Q_Id": "ED-97",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯐꯕ ꯃꯍꯩꯒꯤꯗꯃꯛꯇ ꯑꯦꯟꯚꯥꯏꯔꯟꯃꯦꯟ꯭ꯇ  ꯑꯁꯤ ꯀꯌꯥꯝ ꯃꯔꯨ ꯑꯣꯏ ?",
+    "hint": "A20230211074637943602_281474976737269.wav"
+  },
+  {
+    "quesId": "Q20221213065632569725",
+    "Q_Id": "ED-100",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯍꯥꯛꯀꯤ ꯋꯥꯈꯜꯗ ꯑꯐꯕ ꯁꯥꯇ꯭ꯔ ꯍꯥꯏꯕꯁꯤ ꯀꯔꯝꯕꯕꯨ ꯑꯣꯏꯒꯅꯤ ?",
+    "hint": "A20230211074638336336_281474976737270.wav"
+  },
+  {
+    "quesId": "Q20221213065632570045",
+    "Q_Id": "ED-102",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯣꯐꯂꯥꯏꯟ ꯑꯃꯁꯨꯡ ꯑꯣꯟ ꯂꯥꯏꯟ ꯀ꯭ꯂꯥꯁꯦꯁꯀꯤ ꯀꯥꯟꯅꯕ ꯑꯃꯁꯨꯡ ꯀꯥꯟꯅꯗꯕ ꯑꯁꯤ ꯀꯔꯤꯅꯣ ? ",
+    "hint": "A20230211074638730421_281474976737271.wav"
+  },
+  {
+    "quesId": "Q20221213065632570363",
+    "Q_Id": "ED-104",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯏꯟꯇꯔꯅꯦꯠꯇ ꯐꯪꯉꯤꯕ ꯑꯦꯖꯨꯀꯦꯁꯟꯒꯤ ꯑꯣꯏꯕ ꯏꯟꯐꯣꯔꯃꯦꯁꯟꯁꯤꯡ ꯑꯁꯤꯗ ꯑꯩꯈꯣꯏ ꯀꯔꯤꯒꯤꯗꯃꯛꯇ ꯊꯥꯖꯗꯧꯔꯤꯕꯅꯣ ?",
+    "hint": "A20230211074639127020_281474976737272.wav"
+  },
+  {
+    "quesId": "Q20221213065632570684",
+    "Q_Id": "ED-106",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯍꯥꯛꯀꯤ ꯋꯥꯈꯜꯗ ꯑꯉꯥꯡꯁꯤꯡꯗ ꯑꯪꯀ ꯇꯥꯛꯏꯕꯁꯤꯒꯤ ꯀꯥꯟꯅꯕ ꯀꯔꯤꯅꯣ ? ",
+    "hint": "A20230211074639536436_281474976737273.wav"
+  },
+  {
+    "quesId": "Q20221213065632571006",
+    "Q_Id": "ED-107",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯍꯥꯛꯀꯤ ꯋꯥꯈꯜꯗ ꯑꯉꯥꯡꯁꯤꯡꯗ ꯏꯪꯂꯤꯁ ꯇꯥꯛꯏꯕ ꯑꯁꯤꯒꯤ ꯀꯥꯟꯅꯕ ꯀꯔꯤꯅꯣ ?",
+    "hint": "A20230211074639943288_281474976737274.wav"
+  },
+  {
+    "quesId": "Q20221213065632571325",
+    "Q_Id": "ED-108",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯍꯥꯛꯀꯤ ꯋꯥꯈꯜꯗ ꯑꯉꯥꯡꯁꯤꯡꯗ ꯁꯣꯁꯤꯌꯦꯜ ꯁꯥꯏꯟ꯭ꯁ ꯇꯥꯛꯏꯕꯁꯤꯒꯤ ꯀꯥꯟꯅꯕ ꯀꯔꯤꯅꯣ ?",
+    "hint": "A20230211074640336600_281474976737275.wav"
+  },
+  {
+    "quesId": "Q20221213065632571646",
+    "Q_Id": "ED-109",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯍꯥꯛꯀꯤ ꯋꯥꯈꯜꯗ ꯑꯉꯥꯡꯁꯤꯡꯗ ꯁꯥꯏꯟ꯭ꯁ ꯇꯥꯛꯏꯕꯁꯤꯒꯤ ꯀꯥꯟꯅꯕ ꯀꯔꯤꯅꯣ ?",
+    "hint": "A20230211074640730781_281474976737276.wav"
+  },
+  {
+    "quesId": "Q20221213065632571964",
+    "Q_Id": "ED-110",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁ꯭ꯀꯨꯜꯗ ꯂꯥꯏꯔꯤꯛ ꯇꯥꯛꯄ ꯅꯠꯇꯕ ꯑꯇꯣꯞꯄ ꯀꯔꯤ ꯀꯔꯤ ꯇꯧꯕꯒꯦ ?",
+    "hint": "A20230211074641129942_281474976737277.wav"
+  },
+  {
+    "quesId": "Q20221213065632572281",
+    "Q_Id": "ED-111",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯇ꯭ꯔꯦꯅꯤꯡ ꯍꯥꯏꯕꯁꯤꯒ ꯂꯔꯅꯤꯡ ꯍꯥꯏꯕꯁꯤꯒ ꯀꯔꯤ ꯈꯦꯠꯅꯕꯒꯦ ?",
+    "hint": "A20230211074641536422_281474976737278.wav"
+  },
+  {
+    "quesId": "Q20221213065632572603",
+    "Q_Id": "ED-114",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁ꯭ꯀꯨꯜ ꯑꯃꯁꯨꯡ ꯀꯣꯂꯦꯖꯗ ꯑꯅꯧꯕ ꯑꯉꯥꯡ ꯃꯤꯡ ꯆꯟꯕꯗ ꯀꯔꯤ ꯀꯔꯤ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20230211074641924566_281474976737279.wav"
+  },
+  {
+    "quesId": "Q20221213065632572934",
+    "Q_Id": "ED-117",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯪꯒꯤ ꯀ꯭ꯂꯥꯁꯇ ꯍꯣꯡꯍꯟꯅꯤꯡꯕ ꯊꯕꯛ ꯑꯍꯨꯝ ꯍꯥꯏꯌꯨ ?",
+    "hint": "A20230211074642303962_281474976737280.wav"
+  },
+  {
+    "quesId": "Q20221213065632573264",
+    "Q_Id": "ED-118",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯣꯜꯂꯕ ꯁꯥꯇ꯭ꯔꯁꯤꯡꯗ ꯑꯣꯖꯥꯁꯤꯡꯅ ꯀꯔꯝ ꯍꯥꯏꯅ ꯃꯇꯦꯡ ꯄꯥꯡꯒꯗꯒꯦ ?",
+    "hint": "A20230211074642699714_281474976737281.wav"
+  },
+  {
+    "quesId": "Q20221213065632573587",
+    "Q_Id": "ED-119",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯗꯣꯝꯒꯤ ꯑꯣꯏꯅ ꯂꯥꯏꯔꯤꯛ ꯇꯥꯛꯄ ꯑꯃꯁꯨꯡ ꯇꯝꯕꯗ ꯃꯥꯏ ꯃꯥꯏ ꯑꯣꯟꯁꯤꯟꯅꯔꯒ ꯋꯥ ꯉꯥꯡꯅꯕ ꯍꯥꯏꯕ ꯑꯁꯤ ꯀꯌꯥꯝꯃꯨꯛ ꯃꯔꯨ ꯑꯣꯏꯕꯒꯦ ?",
+    "hint": "A20230211074643109558_281474976737282.wav"
+  },
+  {
+    "quesId": "Q20221213065632573910",
+    "Q_Id": "ED-120",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯄꯦꯟꯗꯦꯃꯤꯛ ꯃꯇꯝꯗ ꯂꯥꯏꯔꯤꯛ ꯇꯥꯛꯄꯗ ꯀꯌꯥꯝꯃꯨꯛ ꯋꯥꯈꯤꯕꯒꯦ ?",
+    "hint": "A20230211074643492635_281474976737283.wav"
+  },
+  {
+    "quesId": "Q20221213065632574229",
+    "Q_Id": "ED-121",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯣꯝꯅ ꯏꯟꯇꯔꯅꯦꯠꯇ ꯂꯥꯏꯔꯤꯛ ꯇꯥꯛꯄꯒ ꯑꯃꯁꯨꯡ ꯁ꯭ꯀꯨꯜꯗ ꯂꯥꯏꯔꯤꯛ ꯇꯥꯛꯄꯒꯒꯤ ꯈꯦꯠꯅꯕ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20230211074643889681_281474976737284.wav"
+  },
+  {
+    "quesId": "Q20221213065632574549",
+    "Q_Id": "ED-125",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯀ꯭ꯂꯥꯁꯇ ꯈꯟꯅ ꯅꯩꯅꯕ ꯅꯠꯇ꯭ꯔꯒ ꯃꯤ ꯈꯔ ꯄꯨꯜꯂꯒ ꯊꯕꯛ ꯇꯧꯕꯒꯤ ꯃꯔꯝꯗ ꯅꯪꯅ ꯑꯄꯥꯝꯕ ꯑꯃꯁꯨꯡ ꯄꯥꯝꯗꯕ ꯈꯔ ꯍꯥꯏꯌꯨ ?",
+    "hint": "A20230211074644343875_281474976737285.wav"
+  },
+  {
+    "quesId": "Q20221213065632574868",
+    "Q_Id": "ED-128",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁ꯭ꯀꯨꯜꯗ ꯂꯥꯏꯔꯤꯛ ꯇꯥꯛꯄꯗ ꯀꯔꯤ ꯀꯔꯤ ꯃꯈꯜ ꯃꯊꯦꯜꯒꯤ ꯄꯣꯠ-ꯆꯩ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ? ꯍꯥꯏꯔꯤꯕ ꯄꯣꯠ-ꯆꯩꯁꯤꯡ ꯑꯗꯨ ꯀꯩꯗ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ?",
+    "hint": "A20230211074644870474_281474976737286.wav"
+  },
+  {
+    "quesId": "Q20221213065632575190",
+    "Q_Id": "ED-131",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁ꯭ꯀꯨꯜꯗ ꯂꯩꯔꯤꯕ ꯑꯣꯖꯥꯁꯤꯡ ꯄ꯭ꯔꯤꯟꯁꯤꯄꯜ ꯑꯃꯗꯤ ꯍꯦꯗꯃꯥꯁꯇꯔ ꯑꯃꯁꯨꯡ ꯑꯇꯩ ꯑꯇꯣꯞꯄ ꯂꯩꯔꯤꯕ ꯃꯤꯑꯣꯏꯁꯤꯡꯒꯤ ꯊꯧꯗꯥꯡ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20230211074645362680_281474976737287.wav"
+  },
+  {
+    "quesId": "Q20221213065632626875",
+    "Q_Id": "ED-137",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁ꯭ꯀꯨꯜꯒꯤ ꯅꯃꯥꯟꯅꯕꯤ-ꯅꯃꯥꯟꯅꯕ ꯑꯃꯁꯨꯡ ꯀꯣꯂꯦꯖꯀꯤ ꯅꯃꯥꯟꯅꯕ-ꯅꯃꯥꯟꯅꯕꯤꯁꯤꯡꯒꯤ ꯃꯔꯝꯗ ꯈꯔ ꯍꯥꯏꯌꯨ ?",
+    "hint": "A20230211074645774922_281474976737288.wav"
+  },
+  {
+    "quesId": "Q20221213065632627726",
+    "Q_Id": "ED-138",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯪꯒꯤ ꯏꯃꯨꯡꯅ ꯅꯪꯒꯤ ꯂꯥꯏꯔꯤꯛ-ꯂꯥꯏꯁꯨ ꯇꯝꯕꯗ ꯀꯔꯤ ꯊꯧꯗꯥꯡ ꯂꯧꯕꯒꯦ ?",
+    "hint": "A20230211074646198476_281474976737289.wav"
+  },
+  {
+    "quesId": "Q20221213065632628161",
+    "Q_Id": "ED-142",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯍꯥꯛꯀꯤ ꯄꯨꯟꯁꯤꯗ ꯑꯦꯖꯨꯀꯦꯁꯟꯅ ꯀꯔꯤ ꯇꯥꯛꯄꯒꯦ ?",
+    "hint": "A20230211074646673804_281474976737290.wav"
+  },
+  {
+    "quesId": "Q20221213065632628514",
+    "Q_Id": "ED-144",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯣꯟ ꯍꯥꯏꯕꯁꯤꯟ ꯑꯦꯖꯨꯀꯦꯁꯟꯗ ꯀꯔꯝꯕ ꯃꯔꯨ ꯑꯣꯏꯕ ꯊꯧꯗꯥꯡ ꯂꯧꯕꯒꯦ ?",
+    "hint": "A20230211074647096437_281474976737291.wav"
+  },
+  {
+    "quesId": "Q20221213065632628881",
+    "Q_Id": "ED-146",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯍꯥꯛꯅ ꯁꯕꯖꯦꯛ ꯑꯗꯨ ꯈꯜꯂꯤꯕ ꯃꯔꯝ ꯀꯔꯤꯒꯤꯅꯣ ?",
+    "hint": "A20230211074647500848_281474976737292.wav"
+  },
+  {
+    "quesId": "Q20221213065632629228",
+    "Q_Id": "ED-148",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯍꯥꯛꯅ ꯁ꯭ꯀꯨꯜ ꯅꯠꯇ꯭ꯔꯒ ꯀꯣꯂꯦꯖꯗ ꯀꯔꯤ ꯇꯝꯅꯤꯡꯉꯤ ?",
+    "hint": "A20230211074647863009_281474976737293.wav"
+  },
+  {
+    "quesId": "Q20221213065632629576",
+    "Q_Id": "ED-152",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯏꯟꯇꯔꯅꯦꯠꯀꯤ ꯀꯥꯟꯅꯕ ꯑꯃꯁꯨꯡ ꯀꯥꯟꯅꯗꯕ ꯑꯁꯤ ꯀꯔꯤꯅꯣ? ꯏꯟꯇꯔꯅꯦꯠꯅ ꯀꯗꯥꯐꯥꯎ ꯌꯧꯅ ꯑꯩꯈꯣꯏꯒꯤ ꯂꯥꯏꯔꯤꯛ ꯇꯝꯕꯗ ꯃꯇꯦꯡ ꯄꯥꯡꯕꯒꯦ ? ",
+    "hint": "A20230211074648351935_281474976737294.wav"
+  },
+  {
+    "quesId": "Q20221213065632629920",
+    "Q_Id": "ED-160",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯍꯥꯛꯅ ꯂꯥꯏꯔꯤꯛ ꯇꯝꯂꯤꯕꯁꯤ ꯀꯔꯤꯒꯤꯅꯣ ?",
+    "hint": "A20230211074648707623_281474976737295.wav"
+  },
+  {
+    "quesId": "Q20221213065632630262",
+    "Q_Id": "ED-162",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯍꯥꯛꯅ ꯂꯥꯏꯔꯤꯛ ꯇꯝꯕꯗ ꯅꯪꯒꯤ ꯙꯔꯃꯅ ꯀꯔꯤ ꯑꯁꯣꯛꯄ ꯄꯤꯕꯒꯦ ?",
+    "hint": "A20230211074649114437_281474976737296.wav"
+  },
+  {
+    "quesId": "Q20221213065632630602",
+    "Q_Id": "ED-163",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯍꯥꯛ ꯂꯣꯟ ꯀꯌꯥ ꯉꯥꯡꯕ ꯉꯝꯕꯒꯦ ꯑꯃꯁꯨꯡ ꯂꯣꯟꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝ ꯍꯥꯑꯏꯅ ꯇꯝꯕꯒꯦ ?",
+    "hint": "A20230211074649586820_281474976737297.wav"
+  },
+  {
+    "quesId": "Q20221213065632630939",
+    "Q_Id": "ED-164",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯏꯃꯨꯡ ꯑꯃꯒꯤ ꯄꯩꯁꯥ-ꯅꯨꯡꯁꯥꯒꯤ ꯐꯤꯃꯕꯝꯅ ꯁꯥꯇ꯭ꯔ ꯑꯃꯒꯤ ꯃꯍꯩ-ꯃꯁꯤꯡ ꯇꯝꯕꯗ ꯀꯗꯥꯏ ꯐꯥꯎ ꯁꯣꯛꯍꯟꯕꯒꯦ ?",
+    "hint": "A20230211074650004946_281474976737298.wav"
+  },
+  {
+    "quesId": "Q20221213065632631279",
+    "Q_Id": "ED-167",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁ꯭ꯀꯨꯜ ꯅꯠꯇ꯭ꯔꯒ ꯀ꯭ꯂꯥꯁꯔꯨꯝꯗ ꯀꯔꯝꯕ ꯑꯦꯛꯇꯤꯕꯤꯇꯤ ꯇꯧꯕꯗ ꯅꯨꯡꯉꯥꯏꯕꯒꯦ ?",
+    "hint": "A20230211074650426457_281474976737299.wav"
+  },
+  {
+    "quesId": "Q20221213065632631613",
+    "Q_Id": "ED-168",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯁ꯭ꯛꯨꯜꯗ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯁ꯭ꯄꯣꯔꯇ꯭ꯁ ꯁꯥꯟꯕꯒꯦ ꯑꯃꯗꯤ ꯁ꯭ꯀꯨꯜꯗ ꯁ꯭ꯄꯣꯔꯇ꯭ꯁꯀꯤ ꯐꯦꯁꯤꯂꯤꯇꯤ ꯃꯔꯥꯡ ꯀꯥꯏꯅ ꯂꯩꯕꯔꯥ ?",
+    "hint": "A20230211074650896576_281474976737300.wav"
+  },
+  {
+    "quesId": "Q20221213065632631952",
+    "Q_Id": "ED-169",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯍꯥꯛ ꯁ꯭ꯀꯨꯜ ꯀꯔꯤꯗ ꯆꯠꯀꯒꯦ ?",
+    "hint": "A20230211074651260421_281474976737301.wav"
+  },
+  {
+    "quesId": "Q20221213065632632288",
+    "Q_Id": "ED-172",
+    "Domain": "Education",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯍꯥꯛꯀꯤ ꯇꯨꯡꯒꯤ ꯄꯨꯟꯁꯤꯒꯤꯗꯃꯛꯇ ꯀꯔꯤ ꯈꯜꯂꯤꯕꯒꯦ ?",
+    "hint": "A20230211074651668531_281474976737302.wav"
+  }
+]

@@ -1,0 +1,762 @@
+[
+  {
+    "quesId": "Q20221213070711358998",
+    "Q_Id": "ST_1",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How will linguistics help in developing a corpora from actual written and spoken text varieties?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711359317",
+    "Q_Id": "ST_2",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How is  language corpora developed in the areas of language technology?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711359630",
+    "Q_Id": "ST_3",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Why is their a need to develop corpora for various type of language to address the need of linguistic at large?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711359941",
+    "Q_Id": "ST_4",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "In what ways speech technology serves as a means for developing speech databases?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711360251",
+    "Q_Id": "ST_5",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What comprises contextual speech database?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711360562",
+    "Q_Id": "ST_6",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How are text in raw speech corpora presented? ",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711360884",
+    "Q_Id": "ST_7",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Why is there a need to transcribe spoken texts to generate spoken corpora?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711361505",
+    "Q_Id": "ST_9",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you tell us the need for designing special text corpora?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711361951",
+    "Q_Id": "ST_10",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What is the role of dialect corpora? How does it help to identify the total number of speech vareities used in the country?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711362325",
+    "Q_Id": "ST_11",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How is  the process of comparable corpora developed?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711362702",
+    "Q_Id": "ST_12",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What are the basic activities of the central bodies to maintain the databases?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711363125",
+    "Q_Id": "ST_13",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What is required for deloping devices of language technology?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711363603",
+    "Q_Id": "ST_14",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you mention the importance of digital literacy?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711363980",
+    "Q_Id": "ST_15",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you tell us the importance  of computational linguistics?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711364334",
+    "Q_Id": "ST_16",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you mention  the type of analysis on a natural language data? ",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711364673",
+    "Q_Id": "ST_17",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How does a speech sound gets recognise by the machine?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711365037",
+    "Q_Id": "ST_18",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What are the ways in which a text can be processed with various stages of linguistics analysis?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711365378",
+    "Q_Id": "ST_19",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you tell us the process of sentence splitting ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711365720",
+    "Q_Id": "ST_20",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What is the process involve in part of speech tagging?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711366042",
+    "Q_Id": "ST_21",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you mention the role of Morph analysis?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711366364",
+    "Q_Id": "ST_22",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How is syntactic analysis of words done?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711366680",
+    "Q_Id": "ST_23",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What process is involve in Syntactic parsing?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711367005",
+    "Q_Id": "ST_24",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Why is National Digital Literay Mission initiated? ",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711367333",
+    "Q_Id": "ST_25",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How does a speaker of a langauge puts the words toegther to form a sentence?What property of language describes that sentence and phraces have no limit or fixed length?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711367660",
+    "Q_Id": "ST_26",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What constitutes learning a language? How is knowledge of langauge put into use?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711367981",
+    "Q_Id": "ST_27",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you tell us  the difference between phonetics and phonology?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711368297",
+    "Q_Id": "ST_28",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How are speech sound organs and cavities  used for the production of speech sounds?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711368723",
+    "Q_Id": "ST_29",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you mention the use of IPA ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711369229",
+    "Q_Id": "ST_30",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Is there any design properties of a language?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711369640",
+    "Q_Id": "ST_31",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What do you mean by morphemes? Can you give the importance of morpheme?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711370040",
+    "Q_Id": "ST_32",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you mention the difference between pulmonic and non-pulmonic sounds.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711370438",
+    "Q_Id": "ST_33",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How is the vowel sound produced using the vocal organs?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711370895",
+    "Q_Id": "ST_34",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How are transcriptions carried out from one language to another using linguistic method?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711371276",
+    "Q_Id": "ST_35",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How  do you use PRAAT for analysis and synthesis of speech?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711371611",
+    "Q_Id": "ST_36 (Scientific Research)",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What is the purpose of conducting scientific research in a planned manner?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711371961",
+    "Q_Id": "ST_37",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What are the necessary elements before beginning a scientific research?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711372294",
+    "Q_Id": "ST_38",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How are the classification of scientific research helpful in designing the structure of the research?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711372617",
+    "Q_Id": "ST_39",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How is the observational data collection technique different from experimental technique?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711372952",
+    "Q_Id": "ST_40",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What are the mediums in which the scientific research can be applied?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711373273",
+    "Q_Id": "ST_41",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Tell us the classification of scientific research according to its descriptive or analytical method?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711373587",
+    "Q_Id": "ST_42",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you explain the importance of case report and case series in descriptive method of research?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711373900",
+    "Q_Id": "ST_43",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "In what ways do you think  analytical scientific research is different from desriptve method?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711374212",
+    "Q_Id": "ST_44",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How is observational reserach more attractive than other research studies?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711374526",
+    "Q_Id": "ST_45",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What is the pupose of cohort research in both observational and experimental studies?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711374834",
+    "Q_Id": "ST_46",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you mention the importance of Case-control studies and Cross sectional studies?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711375140",
+    "Q_Id": "ST_47",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What does interventional research mean?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711375450",
+    "Q_Id": "ST_48",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How is clinical research carried out within a control group in a clinical case?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711375761",
+    "Q_Id": "ST_49",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Tell us the importance of clinical research?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711376073",
+    "Q_Id": "ST_50",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How is randomisation and blinding method aplied in clinical research?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711376390",
+    "Q_Id": "ST_51General",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What are the uses of water? Can you tell us the process of filtration?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711376701",
+    "Q_Id": "ST_52",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What is the usage of chlorination and bleaching in water purification?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711377033",
+    "Q_Id": "ST_53",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you tell us the need for water conservation?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711377347",
+    "Q_Id": "ST_54",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How can we show that air is moving?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711377657",
+    "Q_Id": "ST_55",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you mention importance of oxygen in our live?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711377976",
+    "Q_Id": "ST_56",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What is deforestation? What happens when we burn forest and fossil fuel?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711378283",
+    "Q_Id": "ST_57",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Why does north and south pole of a magnet attract?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711378587",
+    "Q_Id": "ST_58",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What are the different types of metal? What different tools do you make from metals?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711378896",
+    "Q_Id": "ST_59",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What are the different types of matter?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711379209",
+    "Q_Id": "ST_60",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What is non-metal? Where do you use them?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711379519",
+    "Q_Id": "ST_61",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How does evaporation lead to rainfall?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711379831",
+    "Q_Id": "ST_62",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How is steam produced?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711380142",
+    "Q_Id": "ST_63",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What is the life-cycle process?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711380451",
+    "Q_Id": "ST_64",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What is rain water-harvesting?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711380763",
+    "Q_Id": "ST_65",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How does mobile phone work?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711381106",
+    "Q_Id": "ST_66",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How do you charge your mobile phone?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711381421",
+    "Q_Id": "ST_67",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What do you watch in you-tube channels?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711381731",
+    "Q_Id": "ST_68",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Do you have any other charging device other than electricity?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711382045",
+    "Q_Id": "ST_69",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What different power source do you use to light your bulbs?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711382353",
+    "Q_Id": "ST_70",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How is solar energy produced?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711382662",
+    "Q_Id": "ST_71",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How are different power sources set-up?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711382977",
+    "Q_Id": "ST_72",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What are the sources of drinking water?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711383292",
+    "Q_Id": "ST_73",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Why should we boil water before drinking?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711383597",
+    "Q_Id": "ST_74",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How do we generate electricity from solar energy?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711383906",
+    "Q_Id": "ST_75",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": " What are the kinds of problem that you face with your mobile and how do you fix it?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711384215",
+    "Q_Id": "ST_76",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How do you access the different shopping apps?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711384522",
+    "Q_Id": "ST_77",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What all do you do with your mobile phone?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711384848",
+    "Q_Id": "ST_78",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Why does electricity cuts off when there is heavy rainfall?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711385165",
+    "Q_Id": "ST_79",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "what are the different accessorise that you get with television?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711385473",
+    "Q_Id": "ST_80",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "how do you recharge your set-top box for your television?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711385779",
+    "Q_Id": "ST_81",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How do you use your phone camera and under what condition do you use it?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711386085",
+    "Q_Id": "ST_82",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How do you stay connected with people before mobile phones?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711386393",
+    "Q_Id": "ST_83",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How many hours of battery charge does an inverter helps in generating electricity?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711386698",
+    "Q_Id": "ST_84",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What are the traditional methods of grinding food?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711387003",
+    "Q_Id": "ST_85",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How do you keep time?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711387304",
+    "Q_Id": "ST_86",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What are the usage of sunlight?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711387612",
+    "Q_Id": "ST_87",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How are rainbows formed?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711387919",
+    "Q_Id": "ST_88",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Why does earthquake occur?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711388225",
+    "Q_Id": "ST_89",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How does thunder and lightening occur?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711388528",
+    "Q_Id": "ST_90",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How do you breathe? what are the different organs used in breathing?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711388849",
+    "Q_Id": "ST_91",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What are living and non-living things?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711389186",
+    "Q_Id": "ST_92",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Describe some of the living things around you.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711389501",
+    "Q_Id": "ST_93",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Describe some of the non-living things around you.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711389817",
+    "Q_Id": "ST_94",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How do our reflection form?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711390133",
+    "Q_Id": "ST_95",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "What are the different organs in our digestive system?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711390446",
+    "Q_Id": "ST_96",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "How do we start a vehicle?",
+    "hint": ""
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "quesId": "Q20221213070711420208",
+    "Q_Id": "CLT_1",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "How is the administration of your village function?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711420516",
+    "Q_Id": "CLT_2",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Who are the people associated with the administration of a village? What are his/her roles and duties?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711420845",
+    "Q_Id": "CLT_3",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "What is the role of village development committee?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711421168",
+    "Q_Id": "CLT_4",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tell us about the traditions and lifestyle of your community.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711421477",
+    "Q_Id": "CLT_5",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "How is the customary court function in your village?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711421782",
+    "Q_Id": "CLT_6",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Who is the head of the customary court of your community? What are his/her roles and duties?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711422086",
+    "Q_Id": "CLT_7",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Describe about the traditional dress of your community?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711422393",
+    "Q_Id": "CLT_8",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tell us about the design of the most important shawl of your community?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711422698",
+    "Q_Id": "CLT_9",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "What are some of the traditional ornaments, costumes and jewellery of your community?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711423009",
+    "Q_Id": "CLT_10",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "What are the main occupations of your community?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711423314",
+    "Q_Id": "CLT_11",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "What is the food culture of your community?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711423618",
+    "Q_Id": "CLT_12",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tell us about some of the most popular foods items of your community.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711423924",
+    "Q_Id": "CLT_13",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "What are the various steps and process involved in cultivation?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711424230",
+    "Q_Id": "CLT_14",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Is there any festival related to cultivation of your community? How are they celebrated?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711424537",
+    "Q_Id": "CLT_15",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "What is the most important festival of your community? How do that celebrate?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711424863",
+    "Q_Id": "CLT_16",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tell us something about the traditional dances of your community.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711425177",
+    "Q_Id": "CLT_17",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tell us something about the marriage culture of your community.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711425486",
+    "Q_Id": "CLT_18",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tell us about the traditional art of weaving of your community.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711425793",
+    "Q_Id": "CLT_19",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tell us about some of the famous art and handicraft, woodcarving and pottery produced by your community.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711426099",
+    "Q_Id": "CLT_20",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "What are different types of bamboo and cane products made by your community?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711426409",
+    "Q_Id": "CLT_21",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tell us about some of the famous folk songs of your community.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711426716",
+    "Q_Id": "CLT_22",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tell us about musical instruments used by your community.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711427021",
+    "Q_Id": "CLT_23",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "How is the oral history of your community passed down?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711427326",
+    "Q_Id": "CLT_24",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tell us about the origin of the name of your community.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711427637",
+    "Q_Id": "CLT_25",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tell us one short folk story of your community.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711427943",
+    "Q_Id": "CLT_26",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tell us about the traditional religion or beliefs of your community.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711428254",
+    "Q_Id": "CLT_27",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tell us about the traditional method of fishing of your community?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711428559",
+    "Q_Id": "CLT_28",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "What are the traditional weapons and tools used in hunting?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711428880",
+    "Q_Id": "CLT_29",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tell us about setting a traditional trap to catch animals and birds.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711429203",
+    "Q_Id": "CLT_30",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Is traditional hunting still practice in your village? What are the rules and regulations of hunting in your village?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711429514",
+    "Q_Id": "CLT_31",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "What kind of ornaments do you use in your community and how are they made ?",
+    "hint": ""
+  }
+]

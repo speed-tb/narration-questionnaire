@@ -1,0 +1,466 @@
+[
+  {
+    "quesId": "Q20221213070711390755",
+    "Q_Id": "OH_2",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What is your family’s cultural background? Do your mother and father come from the same caste or tribe or from different castes / tribes? Please describe in detail your caste and cultural background",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711391072",
+    "Q_Id": "OH_3",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What is your family’s religious background? Was religion observed in your home? If religion was observed in your home, how was it observed? Describe the daily / weekly / regular religious rituals that you follow",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711391386",
+    "Q_Id": "OH_6",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Describe your current relationship with your language(s). Do you feel a strong cultural connection to any of the languages that you speak?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711391694",
+    "Q_Id": "OH_7",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Describe in detail the community (or communities) you grew up in. Was it urban or rural?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711392002",
+    "Q_Id": "OH_8",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Other than your own cultural group, what other cultural groups lived in your community? Other groups can include people from different religions, ethnicities, castes, tribes, etc.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711392312",
+    "Q_Id": "OH_9",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Does your family originate from the place you grew up, or from a different place? What do you know about that place? Have you ever visited it?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711392622",
+    "Q_Id": "OH_10",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What do you remember about your grandparents? Tell us something about them",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711393027",
+    "Q_Id": "OH_11",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Did you grow up hearing about any of your early ancestors whom you never met? What did you hear about them? Tell us something about that",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711393355",
+    "Q_Id": "OH_12",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Have you lived through any major historical events? Describe how you and your family were affected by these events.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711393668",
+    "Q_Id": "OH_13",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What were your family’s economic circumstances? Do you remember any times when your family faced economic difficulties? Please describe.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711393988",
+    "Q_Id": "OH_14",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What skills and activities did you learn while you were growing up? Who taught you these skills? Skills and activities can include fishing, hunting, farming, cooking, carpentry, crafts, weaving, specific sports, and many other important things. Tell us something about what you learnt and how it is done.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711394308",
+    "Q_Id": "OH_16",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Describe your sibling(s) and your interactions with them when you were young. Were you very close in age? Did you attend school together?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711394623",
+    "Q_Id": "OH_17",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What did you do in your spare time during your adolescence? Disucss in detail",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711394931",
+    "Q_Id": "OH_18",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What are some of the foods you ate when you were growing up? Discuss in detail.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711395241",
+    "Q_Id": "OH_20",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What occupation(s) did you want to pursue when you were a child? Why?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711395548",
+    "Q_Id": "OH_21",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Describe your current occupation. Where do you work?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711395855",
+    "Q_Id": "OH_22",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Describe how you chose your occupation. Do you wish to stay in this occupation? Why?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711396165",
+    "Q_Id": "OH_23",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What are some of the difficulties related to your job/employment?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711396473",
+    "Q_Id": "OH_24",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What festivals does your family celebrate in a normal year? Tell us about these in detail.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711396781",
+    "Q_Id": "OH_25",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you describe some of your local friends? What kinds of activities do you do together?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711397112",
+    "Q_Id": "OH_26",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "If you are in a relationship, how did you meet your current partner (husband, wife, boyfriend, girlfriend, significant other)? What brought you together?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711397424",
+    "Q_Id": "OH_27",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Are you married? If so, describe your wedding celebration? If not, describe the marriage ceremony of someone you know",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711397733",
+    "Q_Id": "OH_29",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What types of sports, games and pastimes have you been involved with in your life?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711398038",
+    "Q_Id": "OH_30",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "How do you maintain your level of health?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711398339",
+    "Q_Id": "OH_31",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What are your favorite foods that are unique to your culture or region? Tell us about these in detail.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711398647",
+    "Q_Id": "OH_32",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Describe your personality. What are some of your strengths?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711398954",
+    "Q_Id": "OH_33",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What things in your life are the most important to you right now?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711399264",
+    "Q_Id": "OH_34",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What qualities do you look for in your friendships and relationships?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711399571",
+    "Q_Id": "OH_35",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Are there any cultural or humanitarian causes that are important to you? Please describe.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711399877",
+    "Q_Id": "OH_36",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What are your immediate goals for the future?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711400188",
+    "Q_Id": "OH_37",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What are your long-term goals for yourself and your family?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711400492",
+    "Q_Id": "OH_39",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "How have you changed since your childhood? How has your community changed since your childhood?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711400792",
+    "Q_Id": "OH_40",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What aspects of your language do you find unique?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711401129",
+    "Q_Id": "OH_41",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "How do different generations of your community interact with their language?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711401436",
+    "Q_Id": "OH_42",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What changes do you think might happen to your culture and language in the near future?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711401742",
+    "Q_Id": "OH_43",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What is your advice for future generations?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711402054",
+    "Q_Id": "OH_45",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "In which places and during which events do you hear stories told in your language?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711402360",
+    "Q_Id": "OH_46",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Tell me a folktale that you remember hearing as a child or adolescent?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711402670",
+    "Q_Id": "OH_47",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Are there any particular authors or storytellers in your language who are important to you? Please describe.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711402977",
+    "Q_Id": "OH_48",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Please describe the traditional music of your culture. What instruments are used?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711403286",
+    "Q_Id": "OH_51",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What other musical styles did you grow up listening to?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711403596",
+    "Q_Id": "OH_52",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "When do you listen to music in your daily life, and how do you access it? Do you listen to musicians in person, or do you listen to recorded music?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711403911",
+    "Q_Id": "OH_54",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What are some foods from your culture that you highly recommend?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711404224",
+    "Q_Id": "OH_56",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Describe the traditional clothing of your culture.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711404530",
+    "Q_Id": "OH_57",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What clothing and clothing styles did you grow up with?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711404864",
+    "Q_Id": "OH_58",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Do you currently wear any traditional clothes? Please describe if you wear them everyday or for specific occasions. If on specific occasions, which occasions?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711405186",
+    "Q_Id": "OH_59",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Describe any pieces of clothing that hold a particular significance to you.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711405609",
+    "Q_Id": "OH_61",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "How are the different genders of your community expected to conduct themselves?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711405929",
+    "Q_Id": "OH_63",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Describe a typical day in your life (this year).",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711406236",
+    "Q_Id": "OH_64",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Describe your appearance and choice in clothing for daily activities.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711406541",
+    "Q_Id": "OH_65",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What are your preferred methods of transport? Do you enjoy traveling ? How do you get to work?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711406848",
+    "Q_Id": "OH_66",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Describe the architecture of your area, as well as the traditional architecture of your culture.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711407153",
+    "Q_Id": "OH_67",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Describe the physical geography of your area.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711407457",
+    "Q_Id": "OH_68",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Describe the kinds of animals that live in your area.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711407764",
+    "Q_Id": "OH_69",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Describe the kinds of plants that live in your area.",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711408071",
+    "Q_Id": "OH_70",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What big technological advancements have you experienced? Which have been the most meaningful to you and why?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711408378",
+    "Q_Id": "OH_71",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "What are your preferred modes of communication? How have methods of communication changed during your life?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711408681",
+    "Q_Id": "OH_72",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "Is there any other information that you would like to share about your daily life?",
+    "hint": ""
+  }
+]

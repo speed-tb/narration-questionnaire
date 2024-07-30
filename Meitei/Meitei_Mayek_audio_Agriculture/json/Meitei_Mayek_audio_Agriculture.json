@@ -1,0 +1,1666 @@
+[
+  {
+    "quesId": "Q20221213065632632714",
+    "Q_Id": "AG_1",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯟ ꯀꯔꯝ-ꯀꯔꯝꯕ ꯄꯣꯠ-ꯆꯩ ꯊꯥꯕꯒꯦ?",
+    "hint": "A20221213105637556936_281474976737303.wav"
+  },
+  {
+    "quesId": "Q20221213065632633069",
+    "Q_Id": "AG_2",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯄꯣꯠ-ꯆꯩ ꯊꯥꯔꯤꯕ ꯃꯤꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯤ ꯀꯧꯕꯒꯦ? ꯑꯃꯁꯨꯡ ꯃꯈꯣꯏ ꯄꯣꯠ-ꯆꯩ ꯊꯥꯕ ꯅꯠꯇꯅ  ꯑꯇꯩ ꯑꯇꯣꯞꯄ ꯀꯔꯤ ꯊꯕꯡ ꯇꯧꯕꯒꯦ? ",
+    "hint": "A20221213105639009721_281474976737304.wav"
+  },
+  {
+    "quesId": "Q20221213065632633419",
+    "Q_Id": "AG_3",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯗ ꯊꯥꯕ ꯍꯦꯟꯖꯥꯡ ꯅꯥꯄꯤ ꯃꯉꯥꯒꯤ ꯃꯃꯤꯡ ꯍꯥꯏꯌꯨ?",
+    "hint": "A20221213105640262971_281474976737305.wav"
+  },
+  {
+    "quesId": "Q20221213065632633749",
+    "Q_Id": "AG_4",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯥꯏꯔꯤꯕ ꯍꯦꯟꯖꯥꯡꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯊꯥꯗ ꯑꯃꯗꯤ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯊꯥꯕꯒꯦ?",
+    "hint": "A20221213105641528430_281474976737306.wav"
+  },
+  {
+    "quesId": "Q20221213065632634075",
+    "Q_Id": "AG_5",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯦꯟꯖꯥꯡ-ꯅꯥꯄꯤꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯍꯥꯏꯅ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105642579431_281474976737307.wav"
+  },
+  {
+    "quesId": "Q20221213065632634400",
+    "Q_Id": "AG_6",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯦꯟꯖꯥꯡ-ꯅꯥꯄꯤꯁꯤꯡ ꯑꯗꯨ ꯃꯄꯨꯡ ꯐꯥꯕꯗ ꯃꯇꯝ ꯀꯌꯥꯝ ꯆꯪꯕꯒꯦ?",
+    "hint": "A20221213105643842904_281474976737308.wav"
+  },
+  {
+    "quesId": "Q20221213065632634721",
+    "Q_Id": "AG_7",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯦꯟꯖꯥꯡ-ꯅꯥꯄꯤ ꯑꯗꯨ ꯐꯅꯅꯕ ꯀꯔꯤ ꯑꯈꯟꯅꯕ ꯃꯆꯥꯛ ꯆꯪꯕꯒꯦ  ?",
+    "hint": "A20221213105645104016_281474976737309.wav"
+  },
+  {
+    "quesId": "Q20221213065632635045",
+    "Q_Id": "AG_8",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯦꯟꯖꯥꯡ-ꯅꯥꯄꯤꯁꯤꯡ ꯑꯗꯨꯨ ꯃꯤꯁꯤꯡꯗ ꯀꯔꯝ ꯍꯥꯏꯅ ꯌꯣꯟꯕꯒꯦ?",
+    "hint": "A20221213105646402947_281474976737310.wav"
+  },
+  {
+    "quesId": "Q20221213065632635366",
+    "Q_Id": "AG_9",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯥꯏꯔꯤꯕ ꯍꯦꯟꯖꯥꯡ-ꯅꯥꯄꯤꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝ ꯍꯥꯏꯅ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯁꯨꯡ ꯆꯥꯕꯒꯦ?",
+    "hint": "A20221213105647668624_281474976737311.wav"
+  },
+  {
+    "quesId": "Q20221213065632635690",
+    "Q_Id": "AG_10",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯗ ꯊꯥꯕ ꯍꯩ-ꯔꯥ ꯃꯈꯜ ꯃꯉꯥꯈꯛꯀꯤ ꯃꯃꯤꯡ ꯍꯥꯏꯌꯨ?",
+    "hint": "A20221213105648923812_281474976737312.wav"
+  },
+  {
+    "quesId": "Q20221213065632636015",
+    "Q_Id": "AG_11",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯥꯏꯔꯤꯕ ꯍꯩꯁꯤꯡ ꯑꯁꯤ ꯀꯔꯝꯕ ꯊꯥꯗ ꯑꯃꯗꯤ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯊꯥꯕꯒꯦ?",
+    "hint": "A20221213105650182005_281474976737313.wav"
+  },
+  {
+    "quesId": "Q20221213065632636338",
+    "Q_Id": "AG_12",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯩ-ꯁꯤꯡ ꯑꯁꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯥꯕꯒꯦ?",
+    "hint": "A20221213105651232694_281474976737314.wav"
+  },
+  {
+    "quesId": "Q20221213065632636662",
+    "Q_Id": "AG_13",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯩꯁꯤꯡ ꯑꯁꯤ ꯃꯨꯟꯕꯗ ꯀꯌꯥꯝ ꯀꯨꯏꯟ ꯆꯣꯕꯒꯦ?",
+    "hint": "A20221213105652484894_281474976737315.wav"
+  },
+  {
+    "quesId": "Q20221213065632637006",
+    "Q_Id": "AG_14",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯩꯁꯤꯡ ꯑꯁꯤ ꯊꯥꯕꯗ ꯀꯔꯝꯕ ꯑꯈꯟꯅꯕ ꯄꯣꯠ-ꯆꯩ ꯆꯪꯕꯒꯦ",
+    "hint": "A20221213105653739905_281474976737316.wav"
+  },
+  {
+    "quesId": "Q20221213065632637354",
+    "Q_Id": "AG_15",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯩꯁꯤꯡ  ꯑꯁꯤ ꯃꯤꯁꯤꯡꯗ  ꯀꯔꯝ ꯍꯥꯏꯅ  ꯌꯣꯟꯕꯒꯦ?",
+    "hint": "A20221213105654792453_281474976737317.wav"
+  },
+  {
+    "quesId": "Q20221213065632637679",
+    "Q_Id": "AG_16",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯩꯁꯤꯡ ꯑꯁꯤ ꯀꯔꯝ ꯍꯥꯏꯅ  ꯊꯣꯡꯕꯒꯦ ꯑꯃꯁꯨꯡ ꯆꯥꯕꯒꯦ?",
+    "hint": "A20221213105656085277_281474976737318.wav"
+  },
+  {
+    "quesId": "Q20221213065632638002",
+    "Q_Id": "AG_17",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯅ ꯊꯥꯕ ꯆꯦꯡ ꯑꯃꯗꯤ ꯍꯋꯥꯏ-ꯆꯦꯡꯋꯥꯏ ꯃꯈꯜ ꯑꯅꯤ ꯑꯍꯨꯝꯒꯤ ꯃꯃꯤꯡ ꯍꯥꯏꯌꯨ ?",
+    "hint": "A20221213105657349873_281474976737319.wav"
+  },
+  {
+    "quesId": "Q20221213065632638329",
+    "Q_Id": "AG_18",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯥꯏꯔꯤꯕ ꯆꯦꯡ ꯑꯃꯗꯤ ꯍꯋꯥꯏ ꯆꯦꯡꯋꯥꯏ ꯑꯗꯨ ꯀꯔꯝꯕ ꯊꯥꯗ ꯑꯃꯗꯤ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105658608991_281474976737320.wav"
+  },
+  {
+    "quesId": "Q20221213065632638651",
+    "Q_Id": "AG_19",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯋꯥꯏ ꯆꯦꯡ-ꯋꯥꯏ ꯑꯃꯗꯤ ꯆꯦꯡ ꯃꯈꯜꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105659871940_281474976737321.wav"
+  },
+  {
+    "quesId": "Q20221213065632638975",
+    "Q_Id": "AG_20",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯈꯣꯏꯁꯤꯡ ꯑꯗꯨ ꯃꯨꯟꯕꯗ ꯀꯌꯥꯝ ꯀꯨꯏꯅ ꯆꯣꯕꯒꯦ?",
+    "hint": "A20221213105701122176_281474976737322.wav"
+  },
+  {
+    "quesId": "Q20221213065632639300",
+    "Q_Id": "AG_21",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯈꯣꯏꯁꯤꯡ ꯑꯗꯨ ꯊꯥꯕꯗ ꯀꯔꯝꯕ ꯃꯔꯨꯑꯣꯏꯕ ꯄꯣꯠ-ꯆꯩ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20221213105702379080_281474976737323.wav"
+  },
+  {
+    "quesId": "Q20221213065632639628",
+    "Q_Id": "AG_22",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯈꯣꯏꯁꯤꯡ ꯑꯗꯨꯨ ꯃꯤꯉꯣꯟꯗ ꯀꯔꯝꯅ ꯌꯣꯟꯕꯒꯦ?",
+    "hint": "A20221213105703439190_281474976737324.wav"
+  },
+  {
+    "quesId": "Q20221213065632639951",
+    "Q_Id": "AG_23",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯈꯣꯏꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯅ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯁꯨꯡ ꯆꯥꯕꯒꯦ?",
+    "hint": "A20221213105704736763_281474976737325.wav"
+  },
+  {
+    "quesId": "Q20221213065632640276",
+    "Q_Id": "AG_24",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯅ ꯄꯥꯛꯇꯛꯅꯅ ꯊꯥꯕ ꯄꯣꯠ-ꯆꯩ ꯑꯅꯤ ꯑꯍꯨꯝꯒꯤ ꯃꯃꯤꯡ ꯍꯥꯏꯌꯨ ?",
+    "hint": "A20221213105705989593_281474976737326.wav"
+  },
+  {
+    "quesId": "Q20221213065632640601",
+    "Q_Id": "AG_25",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯥꯏꯔꯤꯕ ꯄꯣꯠ-ꯆꯩꯁꯤꯡ ꯑꯁꯤ ꯀꯔꯝꯕ ꯊꯥꯗ ꯑꯃꯁꯨꯡ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105707255694_281474976737327.wav"
+  },
+  {
+    "quesId": "Q20221213065632641041",
+    "Q_Id": "AG_26",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯥꯏꯔꯤꯕ ꯄꯣꯠ-ꯆꯩꯁꯤꯡ  ꯑꯁꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯥꯕꯒꯦ?",
+    "hint": "A20221213105708509139_281474976737328.wav"
+  },
+  {
+    "quesId": "Q20221213065632641382",
+    "Q_Id": "AG_27",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯈꯣꯏ ꯑꯁꯤ ꯃꯨꯟꯕꯗ ꯀꯌꯥꯝ ꯀꯨꯏꯅ ꯆꯪꯕꯒꯦ?",
+    "hint": "A20221213105709565382_281474976737329.wav"
+  },
+  {
+    "quesId": "Q20221213065632641707",
+    "Q_Id": "AG_28",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯈꯣꯏꯁꯤꯡ ꯑꯗꯨ ꯊꯥꯕꯗ ꯀꯔꯤ-ꯀꯔꯝꯕ ꯃꯔꯨ ꯑꯣꯏꯕ ꯄꯣꯠ-ꯆꯩ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20221213105710831606_281474976737330.wav"
+  },
+  {
+    "quesId": "Q20221213065632642031",
+    "Q_Id": "AG_29",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯈꯣꯏꯁꯤꯡ ꯑꯗꯨꯨ ꯃꯤꯉꯣꯟꯗ ꯀꯔꯝ ꯍꯥꯏꯅ ꯌꯣꯟꯕꯒꯦ?",
+    "hint": "A20221213105712082038_281474976737331.wav"
+  },
+  {
+    "quesId": "Q20221213065632642351",
+    "Q_Id": "AG_30",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯈꯣꯏꯁꯤꯡ ꯑꯗꯨ ꯀꯃꯥꯏꯅ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯁꯨꯡ ꯆꯥꯕꯒꯦ?",
+    "hint": "A20221213105713334316_281474976737332.wav"
+  },
+  {
+    "quesId": "Q20221213065632642669",
+    "Q_Id": "AG_31",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯅ ꯊꯥꯕ ꯎ ꯃꯉꯥꯒꯤ ꯃꯃꯤꯡ ꯍꯥꯏꯌꯨ ?",
+    "hint": "A20221213105714431660_281474976737333.wav"
+  },
+  {
+    "quesId": "Q20221213065632642986",
+    "Q_Id": "AG_32",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯥꯏꯔꯤꯕ ꯎ ꯃꯉꯥ ꯑꯁꯤ ꯀꯔꯤ ꯀꯔꯤꯗ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ? ",
+    "hint": "A20221213105715682186_281474976737334.wav"
+  },
+  {
+    "quesId": "Q20221213065632643303",
+    "Q_Id": "AG_33",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯎ ꯃꯉꯥ ꯑꯁꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯥꯕꯒꯦ?",
+    "hint": "A20221213105716735502_281474976737335.wav"
+  },
+  {
+    "quesId": "Q20221213065632643622",
+    "Q_Id": "AG_34",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯎ-ꯁꯤꯡ ꯑꯗꯨ ꯃꯄꯨꯡ ꯐꯥꯕꯗ ꯀꯌꯥꯝ ꯀꯨꯏꯅ ꯆꯪꯕꯒꯦ?",
+    "hint": "A20221213105717989533_281474976737336.wav"
+  },
+  {
+    "quesId": "Q20221213065632643945",
+    "Q_Id": "AG_35",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯎꯁꯤꯡ ꯑꯗꯨ ꯊꯥꯕꯗ ꯀꯔꯝꯕ ꯑꯈꯟꯅꯕ ꯄꯣꯠ-ꯆꯩ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20221213105719251653_281474976737337.wav"
+  },
+  {
+    "quesId": "Q20221213065632644268",
+    "Q_Id": "AG_36",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯧꯎ-ꯁꯤꯡꯎꯕꯒꯤ ꯂꯝꯗ ꯅꯈꯣꯏꯒꯤ ꯑꯣꯏꯕ ꯇꯣꯞ ꯇꯧꯞꯄ ꯃꯒꯨꯟ ꯑꯃ ꯍꯥꯏꯌꯨ ?",
+    "hint": "A20221213105720510854_281474976737338.wav"
+  },
+  {
+    "quesId": "Q20221213065632644594",
+    "Q_Id": "AG_37",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯧꯈꯤꯕ ꯃꯃꯥꯡ ꯆꯍꯤ ꯈꯔ ꯑꯁꯤꯗ ꯂꯧꯎ-ꯁꯤꯡꯎꯕꯒꯤ ꯂꯝꯗ ꯀꯔꯤ ꯈꯦꯟꯅꯕ ꯂꯥꯛꯄꯒꯦ ?",
+    "hint": "A20221213105721769398_281474976737339.wav"
+  },
+  {
+    "quesId": "Q20221213065632644918",
+    "Q_Id": "AG_38",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯧꯎ-ꯁꯤꯡꯎꯕꯒꯤ ꯃꯔꯝꯗ ꯋꯥꯍꯩ ꯀꯔ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20221213105723023428_281474976737340.wav"
+  },
+  {
+    "quesId": "Q20221213065632645244",
+    "Q_Id": "AG_39",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯧꯎ-ꯁꯤꯡꯎꯕꯗ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯃꯁꯤꯟ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ?",
+    "hint": "A20221213105724314317_281474976737341.wav"
+  },
+  {
+    "quesId": "Q20221213065632645565",
+    "Q_Id": "AG_40",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯥꯏꯔꯤꯕ ꯃꯁꯤꯟꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯤ ꯀꯔꯤꯗ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ?",
+    "hint": "A20221213105725565125_281474976737342.wav"
+  },
+  {
+    "quesId": "Q20221213065632645884",
+    "Q_Id": "AG_41",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯁꯤꯟꯁꯤꯡ ꯑꯗꯨꯟ ꯂꯧꯎ-ꯁꯤꯡꯎꯕꯗ ꯀꯔꯝꯍꯥꯏꯅ ꯃꯇꯦꯡ ꯄꯥꯡꯕꯒꯦ ?",
+    "hint": "A20221213105726818193_281474976737343.wav"
+  },
+  {
+    "quesId": "Q20221213065632646203",
+    "Q_Id": "AG_42",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯧꯎ-ꯁꯤꯡꯎꯕꯗ ꯑꯇꯣꯞꯄ ꯀꯔꯤ ꯇꯦꯛꯅꯣꯂꯣꯖꯤ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ?",
+    "hint": "A20221213105728074431_281474976737344.wav"
+  },
+  {
+    "quesId": "Q20221213065632646521",
+    "Q_Id": "AG_43",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯥꯏꯔꯤꯕ ꯇꯦꯛꯅꯣꯂꯣꯖꯤꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯑꯃꯁꯨꯡ ꯀꯔꯤꯒꯤꯗꯃꯛꯇ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ?",
+    "hint": "A20221213105729335868_281474976737345.wav"
+  },
+  {
+    "quesId": "Q20221213065632646841",
+    "Q_Id": "AG_44",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯧꯎ-ꯁꯤꯡꯎꯕꯗ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯁꯥ ꯁꯤꯖꯟꯅꯕꯒꯦ?",
+    "hint": "A20221213105730584364_281474976737346.wav"
+  },
+  {
+    "quesId": "Q20221213065632647183",
+    "Q_Id": "AG_45",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯧꯎ-ꯁꯤꯡꯎꯕꯗ ꯁꯤꯖꯤꯟꯅꯒꯗꯧꯔꯤꯕ ꯁꯥ ꯑꯗꯨꯒꯤ ꯃꯊꯧ ꯑꯃꯗꯤ ꯃꯗꯨꯅ ꯀꯌꯥꯃꯨꯛ ꯌꯧꯅ ꯀꯥꯅꯅꯕꯒꯦ ꯍꯥꯏꯕꯗꯨ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20221213105732035900_281474976737347.wav"
+  },
+  {
+    "quesId": "Q20221213065632647515",
+    "Q_Id": "AG_112",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯊꯥꯔꯤꯕ ꯄꯣꯠ-ꯆꯩ ꯑꯗꯨꯗ ꯏꯁꯤꯡ  ꯀꯃꯥꯏꯅ ꯊꯥꯗꯕꯒꯦ ?",
+    "hint": "A20221213105733284814_281474976737348.wav"
+  },
+  {
+    "quesId": "Q20221213065632647845",
+    "Q_Id": "AG_113",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯣꯡ ꯇꯥꯗꯕ ꯃꯇꯝꯗ ꯂꯊꯥꯔꯤꯕ ꯄꯣꯠ-ꯆꯩꯁꯤꯡ ꯑꯗꯨꯗ ꯏꯁꯤꯡ ꯀꯃꯥꯢꯅ ꯐꯪꯍꯟꯕꯒꯦ?",
+    "hint": "A20221213105734580510_281474976737349.wav"
+  },
+  {
+    "quesId": "Q20221213065632648164",
+    "Q_Id": "AG_114",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯣꯈꯣꯏꯒꯤ ꯈꯨꯟ ꯑꯁꯤꯗ ꯀꯔꯤ-ꯀꯔꯤ ꯄꯣꯠ-ꯆꯩ ꯊꯥꯕꯒꯦ?",
+    "hint": "A20221213105735831461_281474976737350.wav"
+  },
+  {
+    "quesId": "Q20221213065632648565",
+    "Q_Id": "AG_115",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯊꯥꯔꯤꯕ ꯄꯣꯠ-ꯆꯩꯁꯤꯡ ꯑꯗꯨꯗ ꯏꯁꯤꯡ ꯀꯔꯝꯕꯅ ꯍꯦꯟꯅ ꯆꯪꯕꯒꯦ ꯑꯃꯁꯨꯡ ꯀꯔꯝꯕꯅ ꯍꯦꯟ ꯆꯪꯗꯕꯒꯦ ?",
+    "hint": "A20221213105737088780_281474976737351.wav"
+  },
+  {
+    "quesId": "Q20221213065632649140",
+    "Q_Id": "AG_116",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯏꯟꯊꯝꯊꯥꯗ ꯀꯔꯝꯕ ꯃꯅꯥ-ꯃꯁꯤꯡ ꯊꯥꯒꯦ?",
+    "hint": "A20221213105738141260_281474976737352.wav"
+  },
+  {
+    "quesId": "Q20221213065632649536",
+    "Q_Id": "AG_117",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯣꯡ ꯆꯨꯕ ꯃꯇꯝꯗ ꯀꯔꯝꯕ ꯃꯅꯥ-ꯃꯁꯤꯡ ꯊꯥꯒꯦ ?",
+    "hint": "A20221213105739193554_281474976737353.wav"
+  },
+  {
+    "quesId": "Q20221213065632649887",
+    "Q_Id": "AG_118",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯆꯍꯤ ꯆꯨꯞꯄꯒꯤ ꯑꯣꯏꯅ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯃꯅꯥ-ꯃꯁꯤꯡ ꯊꯥꯕꯒꯦ?",
+    "hint": "A20221213105740443150_281474976737354.wav"
+  },
+  {
+    "quesId": "Q20221213065632650219",
+    "Q_Id": "AG_119",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯏꯃꯨꯡꯗ ꯂꯩꯔꯤꯕ ꯃꯤꯑꯣꯏꯁꯤꯡꯗ ꯂꯧꯎ-ꯁꯤꯡꯎꯕꯒꯤ ꯊꯕꯛ ꯑꯗꯨ ꯀꯔꯝ ꯍꯥꯏꯅ ꯈꯥꯏꯗꯣꯛꯅꯕꯒꯦ ?",
+    "hint": "A20221213105741700856_281474976737355.wav"
+  },
+  {
+    "quesId": "Q20221213065632650548",
+    "Q_Id": "AG_120",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯧꯎ-ꯁꯤꯡꯎꯕꯒꯤ ꯊꯕꯛꯇ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯃꯁꯤꯟ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ?",
+    "hint": "A20221213105742964699_281474976737356.wav"
+  },
+  {
+    "quesId": "Q20221213065632650872",
+    "Q_Id": "AG_121",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯄꯣꯠ ꯆꯩ ꯊꯥꯕꯗ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯍꯥꯔ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ?",
+    "hint": "A20221213105744253450_281474976737357.wav"
+  },
+  {
+    "quesId": "Q20221213065632651195",
+    "Q_Id": "AG_122",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯟꯊꯤ ꯑꯁꯤ ꯍꯥꯔ ꯑꯣꯏꯅ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯄꯣꯠ-ꯆꯩ ꯊꯥꯕꯗ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ?",
+    "hint": "A20221213105745517700_281474976737358.wav"
+  },
+  {
+    "quesId": "Q20221213065632651514",
+    "Q_Id": "AG_123",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤꯗ ꯉꯥ ꯐꯥꯕ ꯑꯁꯤ ꯀꯅꯥꯅ ꯐꯥꯏ ?",
+    "hint": "A20221213105746584735_281474976737359.wav"
+  },
+  {
+    "quesId": "Q20221213065632651836",
+    "Q_Id": "AG_124",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯄꯣꯜꯇ꯭ꯔꯤ ꯐꯥꯔꯃꯤꯡꯗꯤ ꯀꯅꯥꯅ ꯇꯧꯕꯒꯦ ?",
+    "hint": "A20221213105747637493_281474976737360.wav"
+  },
+  {
+    "quesId": "Q20221213065632652159",
+    "Q_Id": "AG_125",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯥ-ꯁꯟ ꯂꯣꯏꯕꯒꯤ ꯊꯕꯛꯇꯤ ꯀꯅꯥꯅ ꯇꯧꯕꯒꯦ ?",
+    "hint": "A20221213105748694131_281474976737361.wav"
+  },
+  {
+    "quesId": "Q20221213065632652482",
+    "Q_Id": "AG_126",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤꯗ ꯍꯥꯃꯦꯡ ꯂꯣꯏꯕꯒꯤ ꯊꯕꯛꯇꯤ ꯀꯅꯥꯟ ꯇꯧꯕꯒꯦ?",
+    "hint": "A20221213105749957375_281474976737362.wav"
+  },
+  {
+    "quesId": "Q20221213065632652813",
+    "Q_Id": "AG_127",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤꯗ ꯌꯥꯎ ꯂꯣꯏꯕꯒꯤ ꯊꯕꯛꯇꯤ ꯀꯅꯥꯟ ꯇꯧꯕꯒꯦ?",
+    "hint": "A20221213105751213380_281474976737363.wav"
+  },
+  {
+    "quesId": "Q20221213065632653142",
+    "Q_Id": "AG_128",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯪꯒꯣꯝ ꯁꯨꯝꯕ ꯌꯥꯕ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯁꯥ ꯂꯣꯏꯕꯒꯦ ?",
+    "hint": "A20221213105752515645_281474976737364.wav"
+  },
+  {
+    "quesId": "Q20221213065632653490",
+    "Q_Id": "AG_129",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯡꯒꯣꯝ ꯗꯨꯅ ꯀꯔꯤ ꯀꯔꯤ ꯁꯦꯝꯕꯒꯦ?",
+    "hint": "A20221213105753570889_281474976737365.wav"
+  },
+  {
+    "quesId": "Q20221213065632653816",
+    "Q_Id": "AG_130",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯡꯒꯣꯝ ꯄꯤꯕ ꯁꯟ ꯑꯗꯨꯗ ꯀꯔꯤ ꯄꯤꯖꯕꯒꯦ?",
+    "hint": "A20221213105754832247_281474976737366.wav"
+  },
+  {
+    "quesId": "Q20221213065632654137",
+    "Q_Id": "AG_131",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯍꯋꯥꯏ-ꯆꯦꯡꯋꯥꯏ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105755892861_281474976737367.wav"
+  },
+  {
+    "quesId": "Q20221213065632654469",
+    "Q_Id": "AG_132",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯀꯔꯤ ꯀꯔꯤ ꯍꯦꯟꯖꯥꯡ ꯅꯥꯄꯤ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105756951961_281474976737368.wav"
+  },
+  {
+    "quesId": "Q20221213065632654809",
+    "Q_Id": "AG_133",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯀꯔꯝꯕ ꯍꯦꯟꯖꯥꯡ ꯅꯥꯄꯤ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105758003068_281474976737369.wav"
+  },
+  {
+    "quesId": "Q20221213065632655129",
+    "Q_Id": "AG_134",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯈꯥꯎꯔꯛꯄ ꯃꯍꯩ-ꯃꯔꯣꯡꯁꯤꯡ ꯑꯗꯨ ꯀꯗꯥꯏꯗ ꯊꯝꯕꯒꯦ ?",
+    "hint": "A20221213105759250761_281474976737370.wav"
+  },
+  {
+    "quesId": "Q20221213065632655447",
+    "Q_Id": "AG_135",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "governmentꯇꯒꯤ ꯀꯔꯝꯕ crop insurance ꯐꯪꯕꯒꯦ ?",
+    "hint": "A20221213105800502006_281474976737371.wav"
+  },
+  {
+    "quesId": "Q20221213065632655765",
+    "Q_Id": "AG_276",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯥ ꯑꯗꯨ ꯀꯔꯝꯍꯥꯏꯅ preserve ꯇꯧꯗꯨꯅ ꯊꯝꯕꯒꯦ ?",
+    "hint": "A20221213105801604186_281474976737372.wav"
+  },
+  {
+    "quesId": "Q20221213065632656084",
+    "Q_Id": "AG_277",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯅꯥ-ꯃꯁꯤꯡ ꯑꯍꯤꯡꯕ ꯑꯗꯨ ꯀꯔꯝ ꯍꯥꯏꯅ preserve ꯇꯧꯔꯒ ꯊꯝꯃꯤ ?",
+    "hint": "A20221213105802856266_281474976737373.wav"
+  },
+  {
+    "quesId": "Q20221213065632656405",
+    "Q_Id": "AG_278",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯉꯥ ꯀꯔꯝ ꯍꯑꯏꯅ preserve ꯇꯧꯔꯒ ꯊꯝꯃꯤ ?",
+    "hint": "A20221213105803910097_281474976737374.wav"
+  },
+  {
+    "quesId": "Q20221213065632656722",
+    "Q_Id": "AG_279",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯌꯨꯉꯧ ꯀꯔꯝ ꯍꯥꯏꯅ ꯁꯨꯡꯕꯒꯦ?",
+    "hint": "A20221213105804961649_281474976737375.wav"
+  },
+  {
+    "quesId": "Q20221213065632657066",
+    "Q_Id": "AG_280",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯌꯨꯉꯧ ꯁꯨꯡꯕꯗ ꯀꯔꯤ-ꯀꯔꯤ ꯃꯆꯥꯛ ꯆꯪꯉꯤ? ",
+    "hint": "A20221213105806017351_281474976737376.wav"
+  },
+  {
+    "quesId": "Q20221213065632657396",
+    "Q_Id": "AG_46",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯐꯧ ꯊꯥꯅꯕ ꯃꯔꯨ ꯃꯈꯜ ꯀꯌꯥ ꯂꯩꯕꯒꯦ ? ꯃꯈꯣꯏꯒꯤ ꯀꯥꯟꯅꯕ ꯑꯃꯁꯨꯡ ꯀꯥꯟꯅꯗꯕ ꯀꯔꯤꯅꯣ ?",
+    "hint": "A20221213105807280006_281474976737377.wav"
+  },
+  {
+    "quesId": "Q20221213065632657718",
+    "Q_Id": "AG_47",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯐꯧ ꯃꯈꯜ ꯀꯌꯥ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105808334701_281474976737378.wav"
+  },
+  {
+    "quesId": "Q20221213065632658034",
+    "Q_Id": "AG_48",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯐꯧ ꯃꯈꯜꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯊꯥꯗ ꯑꯃꯁꯨꯡ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯊꯥꯕꯒꯦ ? ꯑꯃꯗꯤ ꯃꯈꯜ ꯑꯃꯈꯤꯇꯪ ꯊꯥꯕ ꯇꯥꯔꯒꯗꯤ ꯃꯗꯨꯒꯤ ꯃꯔꯝꯗ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20221213105809794879_281474976737379.wav"
+  },
+  {
+    "quesId": "Q20221213065632658357",
+    "Q_Id": "AG_49",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯐꯧ ꯃꯈꯜꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105810893538_281474976737380.wav"
+  },
+  {
+    "quesId": "Q20221213065632658675",
+    "Q_Id": "AG_50",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯐꯧ ꯑꯗꯨ ꯃꯨꯟꯕꯗ ꯃꯇꯝ ꯀꯌꯥꯝ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20221213105811949228_281474976737381.wav"
+  },
+  {
+    "quesId": "Q20221213065632658995",
+    "Q_Id": "AG_51",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯐꯧ ꯑꯗꯨ ꯐꯅꯅꯕ ꯀꯔꯤ ꯀꯔꯤ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ?",
+    "hint": "A20221213105813210750_281474976737382.wav"
+  },
+  {
+    "quesId": "Q20221213065632659321",
+    "Q_Id": "AG_52",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯐꯧ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯃꯤꯉꯣꯟꯗ ꯌꯣꯟꯕꯒꯦ ?",
+    "hint": "A20221213105814475560_281474976737383.wav"
+  },
+  {
+    "quesId": "Q20221213065632659640",
+    "Q_Id": "AG_53",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯆꯦꯡ ꯑꯗꯨ ꯀꯔꯝ ꯍꯥꯏꯅ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯁꯨꯡ ꯆꯥꯕꯒꯦ ?",
+    "hint": "A20221213105815736206_281474976737384.wav"
+  },
+  {
+    "quesId": "Q20221213065632659960",
+    "Q_Id": "AG_54",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯆꯨꯖꯥꯛ ꯊꯥꯅꯕ ꯀꯔꯤ ꯀꯔꯤ ꯃꯈꯜꯒꯤ ꯃꯔꯨ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ꯃꯈꯣꯏꯒꯤ ꯀꯥꯟꯅꯕ ꯑꯃꯁꯨꯡ ꯀꯥꯟꯅꯗꯕ ꯀꯔꯤ ꯀꯔꯤ ꯂꯩꯕꯒꯦ ?",
+    "hint": "A20221213105816993244_281474976737385.wav"
+  },
+  {
+    "quesId": "Q20221213065632660280",
+    "Q_Id": "AG_55",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯆꯨꯖꯥꯛ ꯃꯈꯜ ꯀꯌꯥ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105818055058_281474976737386.wav"
+  },
+  {
+    "quesId": "Q20221213065632660595",
+    "Q_Id": "AG_56",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯥꯏꯔꯤꯕ ꯆꯨꯖꯥꯛꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯊꯥꯗ ꯑꯃꯗꯤ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯊꯥꯕꯒꯦ",
+    "hint": "A20221213105819308491_281474976737387.wav"
+  },
+  {
+    "quesId": "Q20221213065632660928",
+    "Q_Id": "AG_57",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯆꯎꯖꯥꯛ ꯃꯈꯜꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105820594309_281474976737388.wav"
+  },
+  {
+    "quesId": "Q20221213065632661248",
+    "Q_Id": "AG_58",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯆꯨꯖꯥꯛꯁꯤꯡ ꯑꯗꯨ ꯃꯨꯟꯕꯗ ꯀꯌꯥꯝ ꯀꯨꯏꯅ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20221213105821654197_281474976737389.wav"
+  },
+  {
+    "quesId": "Q20221213065632661584",
+    "Q_Id": "AG_59",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯊꯥꯔꯤꯕ ꯆꯨꯖꯥꯛꯁꯤꯡ ꯑꯗꯨ ꯐꯅꯅꯕ ꯀꯔꯤ ꯀꯔꯤ ꯇꯧꯕꯒꯦ ?",
+    "hint": "A20221213105822905846_281474976737390.wav"
+  },
+  {
+    "quesId": "Q20221213065632661908",
+    "Q_Id": "AG_60",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯆꯨꯖꯥꯛꯁꯤꯡ ꯑꯗꯨ ꯃꯤꯗ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯌꯣꯟꯕꯒꯦ ?",
+    "hint": "A20221213105824157622_281474976737391.wav"
+  },
+  {
+    "quesId": "Q20221213065632662225",
+    "Q_Id": "AG_61",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯆꯨꯖꯥꯛ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯗꯤ ꯆꯥꯕꯒꯦ ?",
+    "hint": "A20221213105825408317_281474976737392.wav"
+  },
+  {
+    "quesId": "Q20221213065632662539",
+    "Q_Id": "AG_62",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯣꯔꯣꯛ ꯊꯥꯅꯅꯕ ꯃꯣꯔꯣꯛ ꯃꯔꯨ ꯃꯈꯜ ꯀꯌꯥ ꯂꯩꯕꯒꯦ ꯃꯈꯣꯏꯒꯤ ꯀꯥꯟꯅꯕ ꯑꯃꯁꯨꯉ ꯀꯥꯟꯅꯗꯕ ꯀꯔꯤꯅꯣ ?",
+    "hint": "A20221213105826670802_281474976737393.wav"
+  },
+  {
+    "quesId": "Q20221213065632662855",
+    "Q_Id": "AG_63",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯣꯔꯣꯛ ꯃꯈꯜ ꯀꯌꯥ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105827723488_281474976737394.wav"
+  },
+  {
+    "quesId": "Q20221213065632663171",
+    "Q_Id": "AG_64",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯣꯔꯣꯛꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯊꯥꯗ ꯑꯝꯗꯤ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105829018135_281474976737395.wav"
+  },
+  {
+    "quesId": "Q20221213065632663495",
+    "Q_Id": "AG_65",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯣꯔꯣꯛꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105830081017_281474976737396.wav"
+  },
+  {
+    "quesId": "Q20221213065632663814",
+    "Q_Id": "AG_66",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯣꯔꯣꯛꯁꯤꯡ ꯑꯗꯨ ꯃꯨꯜꯂꯛꯄꯗ ꯃꯇꯝ ꯀꯌꯥꯝ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20221213105831339044_281474976737397.wav"
+  },
+  {
+    "quesId": "Q20221213065632664130",
+    "Q_Id": "AG_67",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯊꯥꯔꯤꯕ ꯃꯣꯔꯣꯛꯁꯤꯡ ꯑꯗꯨ ꯐꯅꯅꯕ ꯀꯔꯤ ꯀꯔꯤ ꯇꯧꯕꯒꯦ ?",
+    "hint": "A20221213105832593806_281474976737398.wav"
+  },
+  {
+    "quesId": "Q20221213065632664448",
+    "Q_Id": "AG_68",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯣꯔꯣꯛꯁꯤꯡ ꯑꯗꯨ ꯃꯤꯉꯣꯟꯗ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯌꯣꯟꯕꯒꯦ ?",
+    "hint": "A20221213105833855627_281474976737399.wav"
+  },
+  {
+    "quesId": "Q20221213065632664764",
+    "Q_Id": "AG_69",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯣꯔꯣꯛ ꯑꯁꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯗꯤ ꯆꯥꯕꯒꯦ ?",
+    "hint": "A20221213105835110462_281474976737400.wav"
+  },
+  {
+    "quesId": "Q20221213065632665094",
+    "Q_Id": "AG_70",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯆꯨ ꯊꯥꯅꯅꯕ ꯃꯆꯨꯒꯤ ꯃꯔꯨ ꯀꯌꯥ ꯂꯩꯕꯒꯦ ꯑꯝꯗꯤ ꯃꯈꯣꯏꯒꯤ ꯀꯥꯟꯅꯕ ꯑꯃꯗꯤ ꯀꯥꯟꯅꯗꯕ ꯀꯔꯤ ꯀꯔꯤ ꯂꯩꯕꯒꯦ ?",
+    "hint": "A20221213105836368856_281474976737401.wav"
+  },
+  {
+    "quesId": "Q20221213065632665413",
+    "Q_Id": "AG_71",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯆꯨ ꯃꯈꯜ ꯀꯌꯥ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105837417121_281474976737402.wav"
+  },
+  {
+    "quesId": "Q20221213065632665728",
+    "Q_Id": "AG_72",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯥꯏꯔꯤꯕ ꯃꯆꯨꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯊꯥꯗ ꯑꯃꯗꯤ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105838708086_281474976737403.wav"
+  },
+  {
+    "quesId": "Q20221213065632666046",
+    "Q_Id": "AG_73",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯆꯨꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105839769957_281474976737404.wav"
+  },
+  {
+    "quesId": "Q20221213065632666361",
+    "Q_Id": "AG_74",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯆꯨꯄꯥꯝꯕꯤ ꯑꯗꯨ ꯃꯄꯨꯡ ꯐꯥꯕꯗ ꯀꯌꯥꯝ ꯀꯨꯏꯅ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20221213105841023535_281474976737405.wav"
+  },
+  {
+    "quesId": "Q20221213065632666678",
+    "Q_Id": "AG_75",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯆꯨ ꯄꯥꯟꯕꯤ ꯑꯗꯨ ꯐꯅꯅꯕ ꯀꯔꯤ ꯀꯔꯤ ꯇꯧꯕꯒꯦ ?",
+    "hint": "A20221213105842079745_281474976737406.wav"
+  },
+  {
+    "quesId": "Q20221213065632666993",
+    "Q_Id": "AG_76",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯥꯏꯔꯤꯕ ꯃꯆꯨꯁꯤꯡ ꯑꯗꯨ ꯃꯤꯉꯣꯟꯗ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯌꯧꯟꯕꯒꯦ ?",
+    "hint": "A20221213105843331935_281474976737407.wav"
+  },
+  {
+    "quesId": "Q20221213065632667310",
+    "Q_Id": "AG_77",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯆꯨꯁꯤ ꯀꯃꯥꯏꯅ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯗꯤ ꯆꯥꯕꯒꯦ ?",
+    "hint": "A20221213105844387222_281474976737408.wav"
+  },
+  {
+    "quesId": "Q20221213065632667629",
+    "Q_Id": "AG_78",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯂꯨ ꯊꯥꯅꯅꯕ ꯑꯂꯨꯒꯤ ꯃꯈꯜ ꯀꯌꯥ ꯂꯩꯕꯒꯦ ꯑꯝꯗꯤ ꯃꯈꯣꯏꯒꯤ ꯀꯥꯟꯅꯕ ꯑꯃꯗꯤ ꯀꯥꯟꯅꯗꯕ ꯀꯔꯤ ꯀꯔꯤ ꯂꯩꯕꯒꯦ ?",
+    "hint": "A20221213105845651375_281474976737409.wav"
+  },
+  {
+    "quesId": "Q20221213065632667947",
+    "Q_Id": "AG_79",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯂꯨ ꯃꯈꯜ ꯀꯌꯥ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105846711593_281474976737410.wav"
+  },
+  {
+    "quesId": "Q20221213065632668263",
+    "Q_Id": "AG_80",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯥꯏꯔꯤꯕ ꯑꯂꯨꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯊꯥꯗ ꯑꯃꯗꯤ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105848011104_281474976737411.wav"
+  },
+  {
+    "quesId": "Q20221213065632668584",
+    "Q_Id": "AG_81",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯂꯨꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105849062812_281474976737412.wav"
+  },
+  {
+    "quesId": "Q20221213065632668920",
+    "Q_Id": "AG_82",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯂꯨꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯇꯥꯟꯕ ꯌꯥꯕꯒꯦ ?",
+    "hint": "A20221213105850320726_281474976737413.wav"
+  },
+  {
+    "quesId": "Q20221213065632669246",
+    "Q_Id": "AG_83",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯊꯥꯔꯤꯕ ꯑꯂꯨꯁꯤꯡ ꯑꯗꯨ ꯐꯅꯅꯕ ꯀꯔꯤ ꯀꯔꯤ ꯇꯧꯕꯒꯦ ?",
+    "hint": "A20221213105851573770_281474976737414.wav"
+  },
+  {
+    "quesId": "Q20221213065632669564",
+    "Q_Id": "AG_84",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯂꯨꯁꯤꯡ ꯑꯗꯨ ꯑꯇꯣꯞꯄ ꯃꯤꯗ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯌꯣꯟꯕꯒꯦ ?",
+    "hint": "A20221213105852824557_281474976737415.wav"
+  },
+  {
+    "quesId": "Q20221213065632669882",
+    "Q_Id": "AG_85",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯂꯨ ꯑꯁꯤ ꯀꯃꯥꯏꯅ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯗꯤ ꯆꯥꯕꯒꯦ ?",
+    "hint": "A20221213105853880422_281474976737416.wav"
+  },
+  {
+    "quesId": "Q20221213065632670208",
+    "Q_Id": "AG_281",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯤꯂꯦꯠ ꯃꯈꯜ ꯀꯌꯥ ꯂꯩꯕꯒꯦ ꯃꯈꯣꯏꯒꯤ ꯀꯥꯟꯅꯕ ꯑꯃꯁꯨꯡ ꯀꯥꯟꯅꯗꯕ ꯀꯔꯤ ꯀꯔꯤꯅꯣ ?",
+    "hint": "A20221213105855141531_281474976737417.wav"
+  },
+  {
+    "quesId": "Q20221213065632670525",
+    "Q_Id": "AG_282",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯤꯂꯦꯠ ꯃꯈꯜ ꯀꯌꯥ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105856194438_281474976737418.wav"
+  },
+  {
+    "quesId": "Q20221213065632670842",
+    "Q_Id": "AG_283",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯤꯂꯦꯠ ꯑꯁꯤ ꯀꯔꯝꯕ ꯊꯥꯗ ꯑꯝꯗꯤ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105857498768_281474976737419.wav"
+  },
+  {
+    "quesId": "Q20221213065632671161",
+    "Q_Id": "AG_284",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯤꯂꯦꯠ ꯍꯥꯏꯕꯁꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105858559499_281474976737420.wav"
+  },
+  {
+    "quesId": "Q20221213065632671477",
+    "Q_Id": "AG_285",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯤꯂꯦꯠ ꯑꯁꯤ ꯃꯨꯟꯕꯗꯃꯇꯝ ꯀꯌꯥꯃꯨꯛ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20221213105859806759_281474976737421.wav"
+  },
+  {
+    "quesId": "Q20221213065632671798",
+    "Q_Id": "AG_286",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯤꯂꯦꯠ ꯊꯥꯕꯗ ꯀꯔꯤ ꯑꯈꯟꯅꯕ ꯄꯣꯠ-ꯆꯩ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ?",
+    "hint": "A20221213105901063158_281474976737422.wav"
+  },
+  {
+    "quesId": "Q20221213065632672118",
+    "Q_Id": "AG_287",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯤꯂꯦꯠ ꯑꯁꯤ ꯑꯇꯣꯞꯄ ꯃꯤꯗ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯌꯣꯟꯕꯒꯦ ?",
+    "hint": "A20221213105902313564_281474976737423.wav"
+  },
+  {
+    "quesId": "Q20221213065632672433",
+    "Q_Id": "AG_288",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯤꯂꯦꯠ ꯑꯁꯤ ꯀꯔꯝꯕ ꯃꯑꯧꯡꯗ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯗꯤ ꯆꯥꯕꯒꯦ ?",
+    "hint": "A20221213105903570127_281474976737424.wav"
+  },
+  {
+    "quesId": "Q20221213065632672750",
+    "Q_Id": "AG_289",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯤꯡ ꯊꯥꯅꯕꯒꯤ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯃꯔꯨ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ꯑꯃꯗꯤ ꯃꯈꯣꯏꯒꯤ ꯀꯥꯟꯅꯕ ꯑꯃꯁꯨꯉ ꯀꯥꯟꯅꯗꯕ ꯀꯔꯤꯅꯣ ?",
+    "hint": "A20221213105905042920_281474976737425.wav"
+  },
+  {
+    "quesId": "Q20221213065632673085",
+    "Q_Id": "AG_290",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯤꯡ ꯃꯈꯜ ꯀꯌꯥ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105906138141_281474976737426.wav"
+  },
+  {
+    "quesId": "Q20221213065632673399",
+    "Q_Id": "AG_291",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯤꯡ ꯃꯈꯜꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯊꯥꯗ ꯑꯝꯗꯤ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105907390285_281474976737427.wav"
+  },
+  {
+    "quesId": "Q20221213065632673713",
+    "Q_Id": "AG_292",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯤꯡ ꯃꯈꯜꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105908648612_281474976737428.wav"
+  },
+  {
+    "quesId": "Q20221213065632674024",
+    "Q_Id": "AG_293",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯂꯣꯛꯄ ꯌꯥꯕꯒꯦ ?",
+    "hint": "A20221213105909899662_281474976737429.wav"
+  },
+  {
+    "quesId": "Q20221213065632674336",
+    "Q_Id": "AG_294",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯤꯡ ꯑꯗꯨ ꯊꯥꯕꯗ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯑꯈꯟꯅꯕ ꯄꯣꯠ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ?",
+    "hint": "A20221213105911153635_281474976737430.wav"
+  },
+  {
+    "quesId": "Q20221213065632674645",
+    "Q_Id": "AG_295",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯤꯡꯁꯤꯡ ꯑꯗꯨ ꯑꯇꯣꯞꯄ ꯃꯤꯗ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯌꯣꯟꯕꯒꯦ ?",
+    "hint": "A20221213105912410914_281474976737431.wav"
+  },
+  {
+    "quesId": "Q20221213065632674954",
+    "Q_Id": "AG_296",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯁꯨꯡ ꯆꯥꯕꯒꯦ ?",
+    "hint": "A20221213105913664839_281474976737432.wav"
+  },
+  {
+    "quesId": "Q20221213065632675261",
+    "Q_Id": "AG_297",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯏꯂꯥꯏꯆꯤ ꯄꯥꯛ ꯁꯟꯅ ꯊꯥꯅꯅꯕ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯏꯂꯥꯏꯆꯤ ꯃꯔꯨ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ꯑꯃꯗꯤ ꯃꯈꯣꯏꯒꯤ ꯀꯥꯟꯅꯕ ꯑꯝꯁꯨꯡ ꯀꯥꯟꯅꯗꯕ ꯀꯔꯤ ꯀꯔꯤꯅꯣ ?",
+    "hint": "A20221213105915136356_281474976737433.wav"
+  },
+  {
+    "quesId": "Q20221213065632675572",
+    "Q_Id": "AG_298",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯏꯂꯥꯏꯆꯤ ꯃꯈꯜ ꯀꯌꯥ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105916232147_281474976737434.wav"
+  },
+  {
+    "quesId": "Q20221213065632675885",
+    "Q_Id": "AG_299",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯏꯂꯥꯏꯆꯤ ꯑꯗꯨ ꯀꯔꯝꯕ ꯊꯥꯗ ꯑꯝꯗꯤ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105917482496_281474976737435.wav"
+  },
+  {
+    "quesId": "Q20221213065632676197",
+    "Q_Id": "AG_300",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯏꯂꯥꯏꯆꯤ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213105918733889_281474976737436.wav"
+  },
+  {
+    "quesId": "Q20221213065632676513",
+    "Q_Id": "AG_301",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯏꯂꯥꯏꯆꯤ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯂꯣꯛꯄ ꯌꯥꯕꯒꯦ ?",
+    "hint": "A20221213105919992559_281474976737437.wav"
+  },
+  {
+    "quesId": "Q20221213065632676847",
+    "Q_Id": "AG_302",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯄꯥꯝꯕꯤ ꯑꯗꯨ ꯊꯥꯕꯗ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯑꯈꯟꯅꯕ ꯄꯣꯠ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ?",
+    "hint": "A20221213110913150757_281474976739208.wav"
+  },
+  {
+    "quesId": "Q20221213065632677204",
+    "Q_Id": "AG_303",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯄꯥꯝꯕꯤ ꯑꯗꯨ ꯃꯤ ꯑꯇꯣꯞꯄ ꯃꯤꯗ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯌꯣꯟꯕꯒꯦ ?",
+    "hint": "A20221213110914407612_281474976739209.wav"
+  },
+  {
+    "quesId": "Q20221213065632677528",
+    "Q_Id": "AG_304",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯄꯥꯝꯕꯤ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯗꯤ ꯆꯥꯕꯒꯦ ?",
+    "hint": "A20221213110915666925_281474976739210.wav"
+  },
+  {
+    "quesId": "Q20221213065632677845",
+    "Q_Id": "AG_305",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯪꯒꯥꯝ ꯊꯥꯅꯅꯕ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯍꯪꯒꯥꯝ ꯃꯔꯨ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ꯑꯃꯗꯤ ꯃꯈꯣꯏꯒꯤ ꯀꯥꯟꯅꯕ ꯑꯃꯗꯤ ꯀꯥꯅꯅꯗꯕ ꯀꯔꯤꯅꯣ ?",
+    "hint": "A20221213110916961407_281474976739211.wav"
+  },
+  {
+    "quesId": "Q20221213065632678166",
+    "Q_Id": "AG_306",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯪꯒꯥꯝ ꯃꯈꯜ ꯀꯌꯥ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213110918022013_281474976739212.wav"
+  },
+  {
+    "quesId": "Q20221213065632678484",
+    "Q_Id": "AG_307",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯥꯏꯔꯤꯕ ꯍꯪꯒꯥꯝꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯊꯥꯗ ꯑꯃꯗꯤ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213110919277116_281474976739213.wav"
+  },
+  {
+    "quesId": "Q20221213065632678803",
+    "Q_Id": "AG_308",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯪꯒꯥꯝ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213110920331414_281474976739214.wav"
+  },
+  {
+    "quesId": "Q20221213065632679124",
+    "Q_Id": "AG_309",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯪꯒꯥꯝ ꯑꯗꯨ ꯆꯥꯎꯕꯗ ꯃꯇꯝ ꯀꯌꯥꯝ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20221213110921589476_281474976739215.wav"
+  },
+  {
+    "quesId": "Q20221213065632679448",
+    "Q_Id": "AG_310",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯪꯒꯥꯝ ꯑꯗꯨ ꯊꯥꯕꯗ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯑꯈꯟꯅꯕ ꯄꯣꯠ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ?",
+    "hint": "A20221213110922850312_281474976739216.wav"
+  },
+  {
+    "quesId": "Q20221213065632679768",
+    "Q_Id": "AG_311",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯪꯒꯥꯝ ꯑꯗꯨ ꯃꯤ ꯑꯇꯣꯞꯄꯗ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯌꯣꯟꯕꯒꯦ ?",
+    "hint": "A20221213110924100560_281474976739217.wav"
+  },
+  {
+    "quesId": "Q20221213065632680086",
+    "Q_Id": "AG_312",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯪꯒꯥꯝ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯗꯤ ꯆꯥꯕꯒꯦ ?",
+    "hint": "A20221213110925348673_281474976739218.wav"
+  },
+  {
+    "quesId": "Q20221213065632680408",
+    "Q_Id": "AG_86",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯂꯨ ꯊꯥꯅꯅꯕ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯃꯔꯨ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ꯑꯝꯗꯤ ꯃꯈꯣꯏꯒꯤ ꯀꯥꯟꯅꯕ ꯑꯃꯁꯨꯡ ꯀꯥꯟꯅꯗꯕ ꯀꯔꯤꯅꯣ ?",
+    "hint": "A20221213110926650632_281474976739219.wav"
+  },
+  {
+    "quesId": "Q20221213065632680728",
+    "Q_Id": "AG_87",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯂꯨ ꯃꯈꯜ ꯀꯌꯥ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213110927707010_281474976739220.wav"
+  },
+  {
+    "quesId": "Q20221213065632681062",
+    "Q_Id": "AG_88",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯂꯨꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯊꯥꯗ ꯑꯃꯗꯤ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213110928964114_281474976739221.wav"
+  },
+  {
+    "quesId": "Q20221213065632681384",
+    "Q_Id": "AG_89",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯂꯨꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213110930216505_281474976739222.wav"
+  },
+  {
+    "quesId": "Q20221213065632681704",
+    "Q_Id": "AG_90",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯂꯨꯁꯤꯡ ꯑꯗꯨ ꯃꯇꯝ ꯀꯌꯥꯝ ꯂꯩꯔꯕ ꯃꯇꯨꯡꯗ ꯇꯥꯟꯕ ꯌꯥꯕꯒꯦ ?",
+    "hint": "A20221213110931469838_281474976739223.wav"
+  },
+  {
+    "quesId": "Q20221213065632682018",
+    "Q_Id": "AG_91",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯂꯨꯁꯤꯡ ꯑꯗꯨ ꯊꯥꯕꯗ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯑꯈꯟꯅꯕ ꯄꯣꯠ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20221213110932730286_281474976739224.wav"
+  },
+  {
+    "quesId": "Q20221213065632682335",
+    "Q_Id": "AG_92",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯂꯨꯁꯤꯡ ꯑꯗꯨ ꯃꯤ ꯑꯇꯣꯞꯄ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯌꯣꯟꯕꯒꯦ ?",
+    "hint": "A20221213110933979637_281474976739225.wav"
+  },
+  {
+    "quesId": "Q20221213065632682651",
+    "Q_Id": "AG_93",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯂꯨ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯗꯤ ꯆꯥꯕꯒꯦ ?",
+    "hint": "A20221213110935230302_281474976739226.wav"
+  },
+  {
+    "quesId": "Q20221213065632682967",
+    "Q_Id": "AG_94",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯐꯣꯏ ꯊꯥꯅꯅꯕ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯃꯔꯨ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ꯑꯝꯗꯤ ꯃꯈꯣꯏꯒꯤ ꯀꯥꯟꯅꯕ ꯑꯃꯁꯨꯡ ꯀꯥꯟꯅꯗꯕ ꯀꯔꯤꯅꯣ ?",
+    "hint": "A20221213110936644658_281474976739227.wav"
+  },
+  {
+    "quesId": "Q20221213065632683285",
+    "Q_Id": "AG_95",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯐꯣꯏ ꯃꯈꯜ ꯀꯌꯥ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213110937702774_281474976739228.wav"
+  },
+  {
+    "quesId": "Q20221213065632683603",
+    "Q_Id": "AG_96",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯐꯣꯏ ꯃꯈꯜꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯊꯥꯗ ꯑꯃꯗꯤ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213110938955562_281474976739229.wav"
+  },
+  {
+    "quesId": "Q20221213065632683918",
+    "Q_Id": "AG_97",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯐꯣꯏ ꯃꯈꯜꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20221213110940209675_281474976739230.wav"
+  },
+  {
+    "quesId": "Q20221213065632684236",
+    "Q_Id": "AG_98",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯐꯣꯏ ꯑꯗꯨ ꯃꯨꯟꯕꯗ ꯃꯇꯝ ꯀꯌꯥꯝ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20221213110941472115_281474976739231.wav"
+  },
+  {
+    "quesId": "Q20221213065632684552",
+    "Q_Id": "AG_99",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯐꯣꯏ ꯑꯗꯨ ꯊꯥꯕꯗ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯑꯈꯟꯅꯕ ꯄꯣꯠ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ?",
+    "hint": "A20221213110942725961_281474976739232.wav"
+  },
+  {
+    "quesId": "Q20221213065632684877",
+    "Q_Id": "AG_100",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯐꯣꯏ ꯑꯗꯨ ꯃꯤ ꯑꯇꯣꯞꯄ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯌꯣꯟꯕꯒꯦ ?",
+    "hint": "A20221213110943981365_281474976739233.wav"
+  },
+  {
+    "quesId": "Q20221213065632685199",
+    "Q_Id": "AG_101",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯐꯣꯏ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯆꯥꯕꯒꯦ ?",
+    "hint": "A20221213110945039022_281474976739234.wav"
+  },
+  {
+    "quesId": "Q20221213065632685514",
+    "Q_Id": "AG_102",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯌꯨꯝꯗ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯁꯥ ꯊꯝꯕꯒꯦ ?",
+    "hint": "A20221213110946134735_281474976739235.wav"
+  },
+  {
+    "quesId": "Q20221213065632685830",
+    "Q_Id": "AG_103",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯥꯏꯔꯤꯕ ꯁꯥꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯤꯒꯤꯗꯃꯛꯇ ꯊꯝꯕꯅꯣ ?",
+    "hint": "A20221213110947384253_281474976739236.wav"
+  },
+  {
+    "quesId": "Q20221213065632686144",
+    "Q_Id": "AG_104",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯣꯛ ꯃꯌꯥꯝ ꯑꯁꯤ ꯀꯔꯤꯒꯤꯗꯃꯛꯇꯅꯣ ?",
+    "hint": "A20221213110948435707_281474976739237.wav"
+  },
+  {
+    "quesId": "Q20221213065632686458",
+    "Q_Id": "AG_105",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯣꯛꯀꯤ ꯃꯆꯤꯟꯖꯥꯛ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯁꯦꯝꯕꯒꯦ ꯑꯃꯗꯤ ꯄꯤꯖꯕꯒꯦ ?",
+    "hint": "A20221213110949695911_281474976739238.wav"
+  },
+  {
+    "quesId": "Q20221213065632686774",
+    "Q_Id": "AG_106",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯣꯛꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯁꯦꯟꯅꯕꯒꯦ ?",
+    "hint": "A20221213110950749672_281474976739239.wav"
+  },
+  {
+    "quesId": "Q20221213065632687085",
+    "Q_Id": "AG_107",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯣꯛꯇ ꯀꯔꯤ ꯀꯔꯤ ꯂꯩꯅꯥ ꯅꯥꯕꯒꯦ ?",
+    "hint": "A20221213110951806543_281474976739240.wav"
+  },
+  {
+    "quesId": "Q20221213065632687404",
+    "Q_Id": "AG_108",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯌꯨꯝꯗ ꯑꯣꯛ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯐꯝꯗ ꯊꯝꯕꯒꯦ ?",
+    "hint": "A20221213110953063513_281474976739241.wav"
+  },
+  {
+    "quesId": "Q20221213065632688661",
+    "Q_Id": "AG_144",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯐꯧ ꯊꯥꯅꯕ ꯃꯔꯨ ꯃꯈꯜ ꯀꯌꯥ ꯂꯩꯕꯒꯦ ? ꯃꯈꯣꯏꯒꯤ ꯀꯥꯟꯅꯕ ꯑꯃꯁꯨꯡ ꯀꯥꯟꯅꯗꯕ ꯀꯔꯤꯅꯣ ?",
+    "hint": "A20230211074700867379_281474976737377.wav"
+  },
+  {
+    "quesId": "Q20221213065632689003",
+    "Q_Id": "AG_145",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯐꯧ ꯃꯈꯜ ꯀꯌꯥ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20230211074701230378_281474976737378.wav"
+  },
+  {
+    "quesId": "Q20221213065632689322",
+    "Q_Id": "AG_146",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯐꯧ ꯃꯈꯜꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯊꯥꯗ ꯑꯃꯁꯨꯡ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯊꯥꯕꯒꯦ ? ꯑꯃꯗꯤ ꯃꯈꯜ ꯑꯃꯈꯤꯇꯪ ꯊꯥꯕ ꯇꯥꯔꯕꯗꯤ ꯃꯗꯨꯒꯤ ꯃꯔꯝꯗ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20230211074701752907_281474976737379.wav"
+  },
+  {
+    "quesId": "Q20221213065632689652",
+    "Q_Id": "AG_147",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯐꯧ ꯃꯈꯜꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20230211074702104833_281474976737380.wav"
+  },
+  {
+    "quesId": "Q20221213065632689973",
+    "Q_Id": "AG_148",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯦꯟꯖꯥꯡ-ꯅꯥꯄꯤꯁꯤꯡ ꯑꯗꯨ ꯃꯄꯨꯡ ꯐꯥꯕꯗ ꯃꯇꯝ ꯀꯌꯥꯝ ꯆꯪꯕꯒꯦ?",
+    "hint": "A20230211074652229725_281474976737308.wav"
+  },
+  {
+    "quesId": "Q20221213065632690290",
+    "Q_Id": "AG_149",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯦꯟꯖꯥꯡ-ꯅꯥꯄꯤ ꯑꯗꯨ ꯐꯅꯅꯕ ꯀꯔꯤ ꯑꯈꯟꯅꯕ ꯃꯆꯥꯛ ꯆꯪꯕꯒꯦ  ?",
+    "hint": "A20230211074652641287_281474976737309.wav"
+  },
+  {
+    "quesId": "Q20221213065632690613",
+    "Q_Id": "AG_150",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯦꯟꯖꯥꯡ-ꯅꯥꯄꯤꯁꯤꯡ ꯑꯗꯨꯨ ꯃꯤꯁꯤꯡꯗ ꯀꯔꯝ ꯍꯥꯏꯅ ꯌꯣꯟꯕꯒꯦ?",
+    "hint": "A20230211074653056829_281474976737310.wav"
+  },
+  {
+    "quesId": "Q20221213065632690929",
+    "Q_Id": "AG_151",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯥꯏꯔꯤꯕ ꯍꯦꯟꯖꯥꯡ-ꯅꯥꯄꯤꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝ ꯍꯥꯏꯅ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯁꯨꯡ ꯆꯥꯕꯒꯦ?",
+    "hint": "A20230211074653485098_281474976737311.wav"
+  },
+  {
+    "quesId": "Q20221213065632692661",
+    "Q_Id": "AG_156",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯩꯁꯤꯡ ꯑꯁꯤ ꯃꯨꯟꯕꯗ ꯀꯌꯥꯝ ꯀꯨꯏꯅ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20230211074653996726_281474976737315.wav"
+  },
+  {
+    "quesId": "Q20221213065632692998",
+    "Q_Id": "AG_157",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯩꯁꯤꯡ ꯑꯁꯤ ꯊꯥꯕꯗ ꯀꯔꯝꯕ ꯑꯈꯟꯅꯕ ꯄꯣꯠ-ꯆꯩ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20230211074654413139_281474976737316.wav"
+  },
+  {
+    "quesId": "Q20221213065632693324",
+    "Q_Id": "AG_158",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯩꯁꯤꯡ ꯑꯁꯤ ꯃꯤꯁꯤꯡꯗ ꯀꯔꯝꯕ ꯍꯥꯏꯅ ꯌꯣꯟꯕꯒꯦ ?",
+    "hint": "A20230211074654767148_281474976737317.wav"
+  },
+  {
+    "quesId": "Q20221213065632693644",
+    "Q_Id": "AG_159",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯩꯁꯤꯡ ꯑꯁꯤ ꯀꯔꯝ ꯍꯥꯏꯅ  ꯊꯣꯡꯕꯒꯦ ꯑꯃꯁꯨꯡ ꯆꯥꯕꯒꯦ?",
+    "hint": "A20230211074655180752_281474976737318.wav"
+  },
+  {
+    "quesId": "Q20221213065632693958",
+    "Q_Id": "AG_160",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯆꯨꯖꯥꯛ ꯊꯥꯅꯕ ꯀꯔꯤ ꯀꯔꯤ ꯃꯈꯜꯒꯤ ꯃꯔꯨ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ꯃꯈꯣꯏꯒꯤ ꯀꯥꯟꯅꯕ ꯑꯃꯁꯨꯡ ꯀꯥꯟꯅꯗꯕ ꯀꯔꯤ ꯂꯩꯕꯒꯦ ?",
+    "hint": "A20230211074704056674_281474976737385.wav"
+  },
+  {
+    "quesId": "Q20221213065632694277",
+    "Q_Id": "AG_161",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯆꯨꯖꯥꯛ ꯃꯈꯜ ꯀꯌꯥ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20230211074704461830_281474976737386.wav"
+  },
+  {
+    "quesId": "Q20221213065632694593",
+    "Q_Id": "AG_162",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯥꯏꯔꯤꯕ ꯃꯆꯨꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯊꯥꯗ ꯑꯃꯗꯤ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯊꯥꯕꯒꯦ ?",
+    "hint": "A20230211074704887935_281474976737387.wav"
+  },
+  {
+    "quesId": "Q20221213065632695228",
+    "Q_Id": "AG_164",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯈꯣꯏꯁꯤꯡ ꯑꯗꯨ ꯃꯨꯟꯕꯗ ꯀꯌꯥꯝ ꯀꯨꯏꯅ ꯆꯪꯕꯒꯦ?",
+    "hint": "A20230211074655685436_281474976737322.wav"
+  },
+  {
+    "quesId": "Q20221213065632695540",
+    "Q_Id": "AG_165",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯑꯣꯏꯁꯤꯡ ꯑꯗꯨ ꯊꯥꯕꯗ ꯀꯔꯝꯕ ꯃꯔꯨ ꯑꯣꯏꯕ ꯄꯣꯠ-ꯆꯩ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20230211074656135219_281474976737323.wav"
+  },
+  {
+    "quesId": "Q20221213065632695854",
+    "Q_Id": "AG_166",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯈꯣꯏꯁꯤꯡ ꯑꯗꯨꯨ ꯃꯤꯉꯣꯟꯗ ꯀꯔꯝꯅ ꯌꯣꯟꯕꯒꯦ?",
+    "hint": "A20230211074656489123_281474976737324.wav"
+  },
+  {
+    "quesId": "Q20221213065632696169",
+    "Q_Id": "AG_167",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯈꯣꯏꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯅ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯁꯨꯡ ꯆꯥꯕꯒꯦ?",
+    "hint": "A20230211074656910185_281474976737325.wav"
+  },
+  {
+    "quesId": "Q20221213065632698036",
+    "Q_Id": "AG_172",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯈꯣꯢ ꯑꯁꯤ ꯃꯨꯟꯕꯗ ꯀꯌꯥꯝ ꯀꯨꯏꯅ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20230211074657374387_281474976737329.wav"
+  },
+  {
+    "quesId": "Q20221213065632698365",
+    "Q_Id": "AG_173",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯈꯣꯏꯁꯤꯡ ꯑꯗꯨ ꯊꯥꯕꯗ ꯀꯔꯤ ꯀꯔꯝꯕꯃꯔꯨ ꯑꯣꯏꯕ ꯄꯣꯠ-ꯆꯩ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20230211074657791652_281474976737330.wav"
+  },
+  {
+    "quesId": "Q20221213065632698689",
+    "Q_Id": "AG_174",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯈꯣꯏꯁꯤꯡ ꯑꯗꯨꯨ ꯃꯤꯉꯣꯟꯗ ꯀꯔꯝ ꯍꯥꯏꯅ ꯌꯣꯟꯕꯒꯦ?",
+    "hint": "A20230211074658184161_281474976737331.wav"
+  },
+  {
+    "quesId": "Q20221213065632699012",
+    "Q_Id": "AG_175",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯈꯣꯏꯁꯤꯡ ꯑꯗꯨ ꯀꯃꯥꯏꯅ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯁꯨꯡ ꯆꯥꯕꯒꯦ?",
+    "hint": "A20230211074658593018_281474976737332.wav"
+  },
+  {
+    "quesId": "Q20221213065632700606",
+    "Q_Id": "AG_180",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯎꯁꯤꯡ ꯑꯗꯨ ꯃꯄꯨꯡ ꯐꯥꯕꯗ ꯀꯌꯥꯝ ꯀꯨꯏꯅ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20230211074659122271_281474976737336.wav"
+  },
+  {
+    "quesId": "Q20221213065632700930",
+    "Q_Id": "AG_181",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯎꯁꯤꯡ ꯑꯗꯨ ꯊꯥꯕꯗ ꯀꯔꯝꯕ ꯑꯈꯟꯅꯕ ꯄꯣꯠ-ꯆꯩ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20230211074659537810_281474976737337.wav"
+  },
+  {
+    "quesId": "Q20221213065632701255",
+    "Q_Id": "AG_182",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯐꯧ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯃꯤꯉꯣꯟꯗ ꯌꯣꯟꯕꯒꯦ ?",
+    "hint": "A20230211074703233149_281474976737383.wav"
+  },
+  {
+    "quesId": "Q20221213065632701575",
+    "Q_Id": "AG_183",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯆꯦꯡ ꯑꯗꯨ ꯀꯔꯝ ꯍꯥꯏꯅ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯁꯨꯡ ꯆꯥꯕꯒꯦ ?",
+    "hint": "A20230211074703634262_281474976737384.wav"
+  },
+  {
+    "quesId": "Q20221213065632703161",
+    "Q_Id": "AG_277",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯐꯧ ꯑꯗꯨ ꯃꯨꯟꯕꯗ ꯃꯇꯝ ꯀꯌꯥꯝ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20230211074702467637_281474976737381.wav"
+  },
+  {
+    "quesId": "Q20221213065632703478",
+    "Q_Id": "AG_278",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯐꯧ ꯑꯗꯨ ꯐꯅꯅꯕ ꯀꯔꯤ ꯀꯔꯤ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ?",
+    "hint": "A20230211074702824491_281474976737382.wav"
+  },
+  {
+    "quesId": "Q20221213065632703795",
+    "Q_Id": "AG_279",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯆꯨꯖꯥꯛꯁꯤꯡ ꯑꯗꯨ ꯃꯤꯗ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯌꯣꯟꯕꯒꯦ ?",
+    "hint": "A20230211074706280653_281474976737391.wav"
+  },
+  {
+    "quesId": "Q20221213065632704112",
+    "Q_Id": "AG_280",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯆꯨꯖꯥꯛ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯗꯤ ꯆꯥꯕꯒꯦ ?",
+    "hint": "A20230211074706794340_281474976737392.wav"
+  },
+  {
+    "quesId": "Q20221213065632705713",
+    "Q_Id": "AG_285",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯆꯨꯖꯥꯛꯁꯤꯡ ꯑꯗꯨ ꯃꯨꯟꯕꯗ ꯀꯌꯥꯝ ꯀꯨꯏꯅ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20230211074705272931_281474976737389.wav"
+  },
+  {
+    "quesId": "Q20221213065632706022",
+    "Q_Id": "AG_286",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯊꯥꯔꯤꯕ ꯆꯨꯖꯥꯛꯁꯤꯡ ꯑꯗꯨ ꯐꯅꯅꯕ ꯀꯔꯤ ꯀꯔꯤ ꯇꯧꯕꯒꯦ ?",
+    "hint": "A20230211074705689528_281474976737390.wav"
+  },
+  {
+    "quesId": "Q20221213065632706335",
+    "Q_Id": "AG_287",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯣꯔꯣꯛꯁꯤꯡ ꯑꯗꯨ ꯃꯤꯉꯣꯟꯗ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯌꯣꯟꯕꯒꯦ ?",
+    "hint": "A20230211074708153065_281474976737399.wav"
+  },
+  {
+    "quesId": "Q20221213065632706650",
+    "Q_Id": "AG_288",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯣꯔꯣꯛ ꯑꯁꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯗꯤ ꯆꯥꯕꯒꯦ ?",
+    "hint": "A20230211074708672449_281474976737400.wav"
+  },
+  {
+    "quesId": "Q20221213065632708274",
+    "Q_Id": "AG_293",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯣꯔꯣꯛꯁꯤꯡ ꯑꯗꯨ ꯃꯨꯜꯂꯛꯄꯗ ꯃꯇꯝ ꯀꯌꯥꯝ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20230211074707317842_281474976737397.wav"
+  },
+  {
+    "quesId": "Q20221213065632708604",
+    "Q_Id": "AG_294",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯊꯥꯔꯤꯕ ꯃꯣꯔꯣꯛꯁꯤꯡ ꯑꯗꯨ ꯐꯅꯅꯕ ꯀꯔꯤ ꯀꯔꯤ ꯇꯧꯕꯒꯦ ?",
+    "hint": "A20230211074707733198_281474976737398.wav"
+  },
+  {
+    "quesId": "Q20221213065632708951",
+    "Q_Id": "AG_295",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯍꯥꯔꯔꯤꯕ ꯃꯆꯨꯁꯤꯡ ꯑꯗꯨ ꯃꯤꯉꯣꯟꯗ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯌꯣꯟꯕꯒꯦ ?",
+    "hint": "A20230211074709233860_281474976737407.wav"
+  },
+  {
+    "quesId": "Q20221213065632709289",
+    "Q_Id": "AG_296",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯆꯨꯁꯤ ꯀꯃꯥꯏꯅ ꯊꯣꯡꯕꯒꯦ ꯑꯃꯗꯤ ꯆꯥꯕꯒꯦ ?",
+    "hint": "A20230211074709636748_281474976737408.wav"
+  }
+]

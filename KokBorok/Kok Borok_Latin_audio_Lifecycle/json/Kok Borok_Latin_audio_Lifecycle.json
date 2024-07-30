@@ -1,0 +1,338 @@
+[
+  {
+    "quesId": "Q20230328110215592241",
+    "Q_Id": "LC_1",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Chwrai achaiwi phai khe bobo hai juda juda panda-rog khlai jak norokni hodao?",
+    "hint": "A20230328111112310938_281474976755455.wav"
+  },
+  {
+    "quesId": "Q20230328110215592582",
+    "Q_Id": "LC_2",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Bobo hai jora tei jaga-rogo chwrai achaima sal palaina bagwi chongwi nahar jak?",
+    "hint": "A20230328111112630602_281474976755456.wav"
+  },
+  {
+    "quesId": "Q20230328110215592934",
+    "Q_Id": "LC_3",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Chwrai achaimano rwgwi panda kaibwswk tong, aborogni mwng tei tamo ni bagwi?",
+    "hint": "A20230328111112949735_281474976755457.wav"
+  },
+  {
+    "quesId": "Q20230328110215593281",
+    "Q_Id": "LC_4",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Chwrai achaima salno palai na bagwi sal bai jora no bobo hai khe chongwi nahar jak?",
+    "hint": "A20230328111113205558_281474976755458.wav"
+  },
+  {
+    "quesId": "Q20230328110215593616",
+    "Q_Id": "LC_5",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Achaima sal palai phru sabo sabo rogno ring jak?",
+    "hint": "A20230328111113442463_281474976755459.wav"
+  },
+  {
+    "quesId": "Q20230328110215593938",
+    "Q_Id": "LC_6",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Achaima sal palaima jora o achokmwng ni raida rogde tong?",
+    "hint": "A20230328111113722075_281474976755460.wav"
+  },
+  {
+    "quesId": "Q20230328110215594273",
+    "Q_Id": "LC_7",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Achai sal palaimwng ni raida bwtangrog bobo hai?",
+    "hint": "A20230328111113961562_281474976755461.wav"
+  },
+  {
+    "quesId": "Q20230328110215594599",
+    "Q_Id": "LC_8",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Bobo hai manwi-khwirog samwngo nang kuk achaima sal palai phru?",
+    "hint": "A20230328111114230026_281474976755462.wav"
+  },
+  {
+    "quesId": "Q20230328110215594945",
+    "Q_Id": "LC_9",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Chwraino mung pharnai sabo tei bobo hai khe pharjak?",
+    "hint": "A20230328111114500253_281474976755463.wav"
+  },
+  {
+    "quesId": "Q20230328110215595279",
+    "Q_Id": "LC_10",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Achaima salni panda no twidul nai sabo?",
+    "hint": "A20230328111114817509_281474976755464.wav"
+  },
+  {
+    "quesId": "Q20230328110215595627",
+    "Q_Id": "LC_11",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Chwrai achai mani yagulo chamwngrogde yaphar jak bobo hai chamwngrog yaphar jak?",
+    "hint": "A20230328111115101332_281474976755465.wav"
+  },
+  {
+    "quesId": "Q20230328110215595998",
+    "Q_Id": "LC_12",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Achaima sal ni panda no palai phro bebak nangmani jugal nai sabo?",
+    "hint": "A20230328111115366155_281474976755466.wav"
+  },
+  {
+    "quesId": "Q20230328110215596383",
+    "Q_Id": "LC_13",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Nangkuk mani kokrogde tong kho chwrai achai mano twiwi, sawi de mano?",
+    "hint": "A20230328111115627913_281474976755467.wav"
+  },
+  {
+    "quesId": "Q20230328110215596730",
+    "Q_Id": "LC_41",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Bobo chamwng yapharjak chwraino maituk mani jora o?",
+    "hint": "A20230328111115937622_281474976755468.wav"
+  },
+  {
+    "quesId": "Q20230328110215597066",
+    "Q_Id": "LC_14",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Hiksognwi hwnjaknairog bobo hai khe malai tei koksalai borog kaijakya ni swkang?",
+    "hint": "A20230328111116220071_281474976755469.wav"
+  },
+  {
+    "quesId": "Q20230328110215597388",
+    "Q_Id": "LC_15",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Norokni hodao logesong bobo hai khe rutukjak?",
+    "hint": "A20230328111116453519_281474976755470.wav"
+  },
+  {
+    "quesId": "Q20230328110215597715",
+    "Q_Id": "LC_16",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Sabo logesong rutuk na bagwi barja nahar?",
+    "hint": "A20230328111116692206_281474976755471.wav"
+  },
+  {
+    "quesId": "Q20230328110215598041",
+    "Q_Id": "LC_17",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Norokni hodao kailai panda no rwgwi kaibwswk panda tong?",
+    "hint": "A20230328111116952781_281474976755472.wav"
+  },
+  {
+    "quesId": "Q20230328110215598392",
+    "Q_Id": "LC_18",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Bo jora tei bo jagao kailai panda khlaijak?",
+    "hint": "A20230328111117220382_281474976755473.wav"
+  },
+  {
+    "quesId": "Q20230328110215598727",
+    "Q_Id": "LC_19",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Norokni hodao kailai panda no rwgwi kaibwswk panda tong? Aborogni mwng tamo tei tamo ni bagwi?",
+    "hint": "A20230328111117497488_281474976755474.wav"
+  },
+  {
+    "quesId": "Q20230328110215599067",
+    "Q_Id": "LC_20",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Kailai panda khlai na bagwi bobo hai khe sal bai jora no chongwi nahar jak?",
+    "hint": "A20230328111117767748_281474976755475.wav"
+  },
+  {
+    "quesId": "Q20230328110215599399",
+    "Q_Id": "LC_21",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Kailai panda jora o saborog ringjak?",
+    "hint": "A20230328111117997392_281474976755476.wav"
+  },
+  {
+    "quesId": "Q20230328110215599764",
+    "Q_Id": "LC_22",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Kailai pandani jorao achokmwng ni raida rog de tong?",
+    "hint": "A20230328111118248960_281474976755477.wav"
+  },
+  {
+    "quesId": "Q20230328110215600110",
+    "Q_Id": "LC_23",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Kailai mani jorao bobo hai mwtai-rwg raida rog khlai jak?",
+    "hint": "A20230328111118610653_281474976755478.wav"
+  },
+  {
+    "quesId": "Q20230328110215600466",
+    "Q_Id": "LC_24",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Kailai pandao bobo hai manwi-khwnwi rog samwng o nang kuk?",
+    "hint": "A20230328111118915492_281474976755479.wav"
+  },
+  {
+    "quesId": "Q20230328110215600808",
+    "Q_Id": "LC_25",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Bobo hai khe mwtai-rwgjak raid rog khlai jak kailai mani jora o?",
+    "hint": "A20230328111119198568_281474976755480.wav"
+  },
+  {
+    "quesId": "Q20230328110215601153",
+    "Q_Id": "LC_26",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Kailai panda jorao bophro chamwng yaphar, jak pandani swkang de eba pandani yagulo de? Bobo hai chamwngrog yaphar jak?",
+    "hint": "A20230328111119542722_281474976755481.wav"
+  },
+  {
+    "quesId": "Q20230328110215601479",
+    "Q_Id": "LC_27",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Bobo hai khe chamwng jugal jak kailai panda jora o?",
+    "hint": "A20230328111119777428_281474976755482.wav"
+  },
+  {
+    "quesId": "Q20230328110215601803",
+    "Q_Id": "LC_28",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Kailaimwng no twiwi tei bo nangkuk mani kokrogde tong kho kisa sawi de mano?",
+    "hint": "A20230328111120070775_281474976755483.wav"
+  },
+  {
+    "quesId": "Q20230328110215602134",
+    "Q_Id": "LC_42",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Hamjwk kwtal bai chamrwi kwtal bobo hai khe lamsok jak norokni hodao?",
+    "hint": "A20230328111120352913_281474976755484.wav"
+  },
+  {
+    "quesId": "Q20230328110215602476",
+    "Q_Id": "LC_29",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Thwimwng no rwgwi bobo hai panda rog khlai jak norokni hoda o?",
+    "hint": "A20230328111120621843_281474976755485.wav"
+  },
+  {
+    "quesId": "Q20230328110215602804",
+    "Q_Id": "LC_30",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Thwimwng ni panda eba khakham-ma panda bophru tei bojagao khlaijak?",
+    "hint": "A20230328111120890437_281474976755486.wav"
+  },
+  {
+    "quesId": "Q20230328110215603130",
+    "Q_Id": "LC_31",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Thwimwngno rwgwi kaibwswk panda khlai jak, aborogni mwng tamo tei tamni bagwi?",
+    "hint": "A20230328111121166242_281474976755487.wav"
+  },
+  {
+    "quesId": "Q20230328110215603460",
+    "Q_Id": "LC_32",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Khakham-ma panda o saborog kuthum phai?",
+    "hint": "A20230328111121407431_281474976755488.wav"
+  },
+  {
+    "quesId": "Q20230328110215603816",
+    "Q_Id": "LC_33",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Khakham-ma pandao achokmwng ni raida-rog de tong?",
+    "hint": "A20230328111121668625_281474976755489.wav"
+  },
+  {
+    "quesId": "Q20230328110215604164",
+    "Q_Id": "LC_34",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Thwi mwng no rwgwi bobo hai mwtai-rwgjak raida rok khlai jak?",
+    "hint": "A20230328111122057465_281474976755490.wav"
+  },
+  {
+    "quesId": "Q20230328110215604506",
+    "Q_Id": "LC_35",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Thwi mwng no rwgwi eba thwilai mani jora o bobo hai mwnwi-khwnwi rog samwngo nang kuk?",
+    "hint": "A20230328111122365038_281474976755491.wav"
+  },
+  {
+    "quesId": "Q20230328110215604843",
+    "Q_Id": "LC_36",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Khakham-ma panda no twidulnai borok bobo hai khe chongwi najak. Romdi absa-kwlwi, chwrai, okra phano thwiwi tong khe?",
+    "hint": "A20230328111122653262_281474976755492.wav"
+  },
+  {
+    "quesId": "Q20230328110215605193",
+    "Q_Id": "LC_37",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Khakham-ma pandao bophro chamwng yapharjak panda swkang de eba panda ni yagulo  de?",
+    "hint": "A20230328111122966398_281474976755493.wav"
+  },
+  {
+    "quesId": "Q20230328110215605534",
+    "Q_Id": "LC_38",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Khakham-ma pandni chamwngrogno bahai khe jugal jak?",
+    "hint": "A20230328111123273803_281474976755494.wav"
+  },
+  {
+    "quesId": "Q20230328110215605863",
+    "Q_Id": "LC_39",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Tei bobo hai nangkuk mani kok rog sana muchung thwi mwng no twiwi?",
+    "hint": "A20230328111123584696_281474976755495.wav"
+  },
+  {
+    "quesId": "Q20230328110215606186",
+    "Q_Id": "LC_40",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "Bobo hai panda rogo chuak bagwi nunglai man?",
+    "hint": "A20230328111123837853_281474976755496.wav"
+  }
+]

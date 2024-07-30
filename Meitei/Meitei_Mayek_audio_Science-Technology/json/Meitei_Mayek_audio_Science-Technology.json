@@ -1,0 +1,770 @@
+[
+  {
+    "quesId": "Q20221213065632730276",
+    "Q_Id": "ST_1",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯤꯛꯒꯨꯏ꯭ꯁꯇꯤꯡꯁꯅ written ꯑꯃꯗꯤ spoken text ꯀꯌꯥ ꯑꯃꯒꯤ corpora ꯁꯦꯝꯒꯠꯄꯗ ꯀꯗꯥꯏꯐꯧ ꯌꯧꯟ ꯃꯇꯪꯡ ꯄꯥꯛꯒꯅꯤ?",
+    "hint": "A20221213111040460009_281474976739372.wav"
+  },
+  {
+    "quesId": "Q20221213065632730598",
+    "Q_Id": "ST_2",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Language Technology-ꯒꯤ ꯂꯝꯗ language corpora-ꯑꯁꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯛꯗ ꯁꯦꯝꯒꯠꯄꯒꯦ? ",
+    "hint": "A20221213111041725567_281474976739373.wav"
+  },
+  {
+    "quesId": "Q20221213065632730910",
+    "Q_Id": "ST_3",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯤꯡꯒꯨꯨꯏ꯭ꯁꯇꯤꯛ꯭ꯁ-ꯀꯤ ꯃꯔꯨ ꯑꯣꯏꯕꯁꯦ  ꯇꯥꯛꯅꯅꯕ ꯀꯔꯤꯒꯤꯗꯃꯛꯇ ꯂꯩꯔꯤꯕ ꯂꯣꯟꯁꯤꯡꯁꯤꯒꯤ corpora developed- ꯇꯧꯕ ꯃꯊꯧ ꯇꯥꯔꯤꯕꯅꯣ? ",
+    "hint": "A20221213111043191658_281474976739374.wav"
+  },
+  {
+    "quesId": "Q20221213065632731225",
+    "Q_Id": "ST_4",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "speech technology-ꯁꯤꯛꯁꯤꯅ speech database- ꯁꯤꯡ ꯁꯦꯝꯕꯗ ꯀꯔꯤ ꯃꯇꯦꯡ ꯄꯥꯡꯕꯒꯦ? ",
+    "hint": "A20221213111044496102_281474976739375.wav"
+  },
+  {
+    "quesId": "Q20221213065632731536",
+    "Q_Id": "ST_5",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Contextual speech database-ꯍꯥꯏꯕꯁꯤꯗ ꯀꯔꯤ ꯌꯥꯎꯕꯒꯦ? ",
+    "hint": "A20221213111045748076_281474976739376.wav"
+  },
+  {
+    "quesId": "Q20221213065632731847",
+    "Q_Id": "ST_6",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Raw speech corpora-ꯗ text-ꯁꯤꯡ ꯑꯁꯤ ꯀꯔꯝꯍꯥꯏꯅ ꯎꯠꯄꯒꯦ? ",
+    "hint": "A20221213111047009722_281474976739377.wav"
+  },
+  {
+    "quesId": "Q20221213065632732155",
+    "Q_Id": "ST_7",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "spoken text-ꯑꯁꯤ transcribe ꯇꯧꯔꯒ spoken corpora-ꯗ ꯑꯣꯟꯊꯣꯛꯄꯒꯤ ꯀꯔꯤ ꯃꯊꯧ ꯇꯥꯕꯅꯣ?",
+    "hint": "A20221213111048265481_281474976739378.wav"
+  },
+  {
+    "quesId": "Q20221213065632732467",
+    "Q_Id": "ST_8",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "annotated verison-ꯍꯥꯏꯔꯤꯕ corpus-ꯑꯁꯤꯗ ꯀꯔꯤ ꯌꯥꯎꯕꯒꯦ? Annotated corpra ꯑꯁꯤꯅ ꯂꯣꯟ ꯑꯃ ꯅꯩꯅꯕꯗ ꯀꯔꯝꯅ ꯃꯇꯦꯡ ꯄꯥꯡꯕꯒꯦ? ",
+    "hint": "A20221213111049723649_281474976739379.wav"
+  },
+  {
+    "quesId": "Q20221213065632732776",
+    "Q_Id": "ST_9",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "special text corpora-ꯑꯁꯤ design-ꯇꯧꯕꯗ ꯀꯔꯤ ꯀꯥꯟꯅꯒꯗꯒꯦ? ",
+    "hint": "A20221213111050990285_281474976739380.wav"
+  },
+  {
+    "quesId": "Q20221213065632733114",
+    "Q_Id": "ST_10",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "dialect corpora-ꯒꯤ ꯊꯧꯗꯥꯡ ꯑꯁꯤ ꯀꯔꯤꯅꯣ? ꯃꯁꯤꯅ speech variety-ꯑꯃꯒꯤ ꯃꯁꯤꯡ ꯑꯁꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ identify ꯇꯧꯕ ꯉꯝꯍꯟꯒꯦ?",
+    "hint": "A20221213111052464646_281474976739381.wav"
+  },
+  {
+    "quesId": "Q20221213065632733436",
+    "Q_Id": "ST_11",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "comparable corpora-ꯍꯥꯏꯕꯁꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯁꯦꯝꯕꯒꯦ? ",
+    "hint": "A20221213111053724553_281474976739382.wav"
+  },
+  {
+    "quesId": "Q20221213065632733760",
+    "Q_Id": "ST_12",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "data-base-ꯑꯁꯤ maintain-ꯇꯧꯔꯒ ꯊꯝꯅꯅꯕ central body-ꯁꯤꯡꯁꯤꯅ ꯀꯔꯤ ꯊꯧꯗꯥꯡ ꯂꯧꯕꯒꯦ?",
+    "hint": "A20221213111055024239_281474976739383.wav"
+  },
+  {
+    "quesId": "Q20221213065632734077",
+    "Q_Id": "ST_13",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "language technology-ꯑꯃ developed-ꯇꯧꯅꯅꯕ ꯀꯔꯤ ꯃꯆꯥꯛ ꯆꯪꯕꯒꯦ?",
+    "hint": "A20221213111056282986_281474976739384.wav"
+  },
+  {
+    "quesId": "Q20221213065632734396",
+    "Q_Id": "ST_14",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "digital literacy-ꯍꯥꯏꯕꯁꯤꯒꯤ ꯃꯔꯨꯨꯨ ꯑꯣꯏꯕ ꯍꯥꯏꯕꯤꯌꯨ?",
+    "hint": "A20221213111057537126_281474976739385.wav"
+  },
+  {
+    "quesId": "Q20221213065632734714",
+    "Q_Id": "ST_15",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "computational linguistics-ꯀꯤ ꯃꯔꯨ ꯑꯣꯏꯕ ꯍꯥꯏꯕꯤꯌꯨ?",
+    "hint": "A20221213111058789587_281474976739386.wav"
+  },
+  {
+    "quesId": "Q20221213065632735029",
+    "Q_Id": "ST_16",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "natural language data-ꯑꯃ analyse-ꯇꯧꯕꯗ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ analysis ꯆꯪꯕꯒꯦ?",
+    "hint": "A20221213111100049045_281474976739387.wav"
+  },
+  {
+    "quesId": "Q20221213065632735346",
+    "Q_Id": "ST_17",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "machine-ꯅ speech sound ꯑꯁꯤ ꯀꯔꯝꯅ ꯈꯪꯕꯒꯦ?",
+    "hint": "A20221213111101298423_281474976739388.wav"
+  },
+  {
+    "quesId": "Q20221213065632735663",
+    "Q_Id": "ST_18",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "text-ꯑꯃ linguistic analysis ꯃꯌꯥꯝ ꯁꯤꯖꯤꯟꯅꯔꯒ ꯀꯔꯝꯅ process-ꯇꯧꯕ ꯌꯥꯕꯒꯦ?",
+    "hint": "A20221213111102558682_281474976739389.wav"
+  },
+  {
+    "quesId": "Q20221213065632735982",
+    "Q_Id": "ST_19",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "sentence splitting-ꯒꯤ process ꯍꯥꯏꯕꯤꯌꯨ?",
+    "hint": "A20221213111103816779_281474976739390.wav"
+  },
+  {
+    "quesId": "Q20221213065632736413",
+    "Q_Id": "ST_20",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "parts of speech tagging-ꯗ ꯀꯔꯤ-ꯀꯔꯤ process ꯌꯥꯎꯕꯒꯦ?",
+    "hint": "A20221213111105114018_281474976739391.wav"
+  },
+  {
+    "quesId": "Q20221213065632736744",
+    "Q_Id": "ST_21",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "morph analysis-ꯀꯤ ꯃꯔꯨ ꯑꯣꯏꯕ ꯊꯧꯗꯥꯡ ꯍꯥꯏꯕꯤꯌꯨ?",
+    "hint": "A20221213111106361926_281474976739392.wav"
+  },
+  {
+    "quesId": "Q20221213065632737080",
+    "Q_Id": "ST_22",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯋꯥꯍꯩ ꯑꯃꯒꯤ syntactic analysis ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯇꯧꯕꯒꯦ?",
+    "hint": "A20221213111107631819_281474976739393.wav"
+  },
+  {
+    "quesId": "Q20221213065632737400",
+    "Q_Id": "ST_23",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "syntactic parsing-ꯗ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯒꯤ process ꯆꯪꯕꯒꯦ? ",
+    "hint": "A20221213111108888702_281474976739394.wav"
+  },
+  {
+    "quesId": "Q20221213065632737719",
+    "Q_Id": "ST_24",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "national digital literary mission ꯑꯁꯤ ꯀꯔꯤꯒꯤꯗꯝꯛꯇ ꯇꯧꯔꯤꯕꯅꯣ? ",
+    "hint": "A20221213111110146754_281474976739395.wav"
+  },
+  {
+    "quesId": "Q20221213065632738037",
+    "Q_Id": "ST_25",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯣꯟ ꯑꯃꯒꯤ speaker-ꯑꯃꯅ ꯋꯥꯍꯩ ꯁꯤꯡ ꯄꯨꯟꯖꯜꯂꯒ ꯋꯥꯍꯩ ꯄꯔꯦꯡ ꯑꯃ ꯀꯔꯝꯅ ꯁꯦꯝꯕꯒꯦ?",
+    "hint": "A20221213111111402548_281474976739396.wav"
+  },
+  {
+    "quesId": "Q20221213065632738355",
+    "Q_Id": "ST_26",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯣꯟ ꯑꯃ ꯇꯝꯕ ꯍꯥꯏꯕꯁꯤ ꯀꯔꯝꯅ ꯇꯝꯕꯒꯦ? ꯂꯣꯟꯗꯨꯒꯤ knowledge ꯑꯗꯨ ꯑꯩꯈꯣꯏꯅ ꯀꯃꯥꯏꯅ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ?",
+    "hint": "A20221213111112662056_281474976739397.wav"
+  },
+  {
+    "quesId": "Q20221213065632738671",
+    "Q_Id": "ST_27",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "phonetics-ꯑꯃꯗꯤ phonology-ꯒꯤ ꯈꯦꯠꯟꯕ ꯑꯁꯤ ꯀꯔꯤꯅꯣ ꯍꯥꯏꯕꯤꯌꯨ?",
+    "hint": "A20221213111113956170_281474976739398.wav"
+  },
+  {
+    "quesId": "Q20221213065632738990",
+    "Q_Id": "ST_28",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯋꯥꯍꯩ ꯑꯃꯒꯤ ꯈꯣꯟꯊꯣꯛ ꯑꯁꯤ ꯄꯨꯊꯣꯛꯄꯗ ꯑꯏꯈꯣꯏꯒꯤ ꯂꯩꯔꯤꯕ sound organ-ꯑꯗꯨꯒ cavity-ꯁꯤꯡ ꯑꯁꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ?",
+    "hint": "A20221213111115412834_281474976739399.wav"
+  },
+  {
+    "quesId": "Q20221213065632739308",
+    "Q_Id": "ST_29",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "IPA ꯁꯤꯖꯟꯅꯕꯒꯤ ꯃꯑꯣꯡ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ?",
+    "hint": "A20221213111116666452_281474976739400.wav"
+  },
+  {
+    "quesId": "Q20221213065632739625",
+    "Q_Id": "ST_30",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯣꯟ ꯑꯃꯒꯤ design properties ꯂꯩꯕ꯭ꯔꯥ?",
+    "hint": "A20221213111117925356_281474976739401.wav"
+  },
+  {
+    "quesId": "Q20221213065632739947",
+    "Q_Id": "ST_31",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "morphemes ꯍꯥꯏꯕꯁꯤ ꯀꯔꯤꯅꯣ? ꯃꯈꯣꯏꯅ ꯃꯔꯨ ꯑꯣꯏꯔꯤꯕꯁꯤ ꯀꯔꯤꯒꯤꯅꯣ?",
+    "hint": "A20221213111119187124_281474976739402.wav"
+  },
+  {
+    "quesId": "Q20221213065632740269",
+    "Q_Id": "ST_32",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "pulmonic-ꯈꯣꯟꯊꯣꯛ ꯑꯗꯨꯒ non-pulmonic-ꯈꯣꯟꯊꯣꯛ-ꯀꯤ ꯈꯦꯠꯅꯕ ꯑꯁꯤ ꯀꯔꯤꯅꯣ?",
+    "hint": "A20221213111120448195_281474976739403.wav"
+  },
+  {
+    "quesId": "Q20221213065632740586",
+    "Q_Id": "ST_33",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "vocal organs ꯑꯁꯤꯅ vowel-ꯒꯤ ꯈꯣꯟꯊꯣꯡ ꯑꯁꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯄꯨꯊꯣꯛꯄꯒꯦ?",
+    "hint": "A20221213111121711133_281474976739404.wav"
+  },
+  {
+    "quesId": "Q20221213065632740920",
+    "Q_Id": "ST_34",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "linguistics method-ꯁꯤꯖꯤꯟꯅꯔꯒ ꯂꯣꯟ ꯑꯃꯗꯒꯤ-ꯑꯃꯗ transcription ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯇꯧꯕꯒꯦ?",
+    "hint": "A20221213111122967564_281474976739405.wav"
+  },
+  {
+    "quesId": "Q20221213065632741241",
+    "Q_Id": "ST_35",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯈꯣꯟꯊꯣꯛ ꯑꯃꯒꯤ analysis-ꯑꯁꯤ ꯇꯧꯟꯅꯕ PRAAT-ꯑꯁꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ?",
+    "hint": "A20221213111124271075_281474976739406.wav"
+  },
+  {
+    "quesId": "Q20221213065632741562",
+    "Q_Id": "ST_36 (Scientific Research)",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "scientific research-ꯑꯁꯤ ꯐꯖꯅ planning-ꯇꯧꯔꯒ ꯇꯧꯕꯒꯤ ꯃꯊꯧ ꯇꯥꯔꯤꯕ ꯀꯔꯤꯒꯤꯅꯣ? ",
+    "hint": "A20221213111125526648_281474976739407.wav"
+  },
+  {
+    "quesId": "Q20221213065632741883",
+    "Q_Id": "ST_37",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "scientific research ꯍꯧꯗ꯭ꯔꯤꯉꯩꯗ ꯀꯔꯤ-ꯀꯔꯤ ꯃꯆꯥꯛ ꯆꯪꯕꯒꯦ?",
+    "hint": "A20221213111126781965_281474976739408.wav"
+  },
+  {
+    "quesId": "Q20221213065632742197",
+    "Q_Id": "ST_38",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "research ꯑꯃꯒꯤ structure design-ꯇꯧꯕꯗ scientific research-ꯅ ꯀꯗꯥꯏꯐꯥꯎ  ꯌꯧꯅ ꯃꯇꯦꯡ ꯄꯥꯡꯕꯒꯦ? ",
+    "hint": "A20221213111128236147_281474976739409.wav"
+  },
+  {
+    "quesId": "Q20221213065632742511",
+    "Q_Id": "ST_39",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "observational data collection technique ꯍꯥꯏꯕꯁꯤꯒ experimental technique ꯍꯥꯏꯕꯁꯤꯒ ꯀꯔꯤꯗ ꯈꯦꯠꯅꯕꯒꯦ?",
+    "hint": "A20221213111129495449_281474976739410.wav"
+  },
+  {
+    "quesId": "Q20221213065632742823",
+    "Q_Id": "ST_40",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "scientific research ꯑꯁꯤ ꯀꯔꯝ-ꯀꯔꯝꯕ ꯍꯤꯔꯝꯗ ꯇꯧꯕ ꯌꯥꯕꯒꯦ? ",
+    "hint": "A20221213111130753294_281474976739411.wav"
+  },
+  {
+    "quesId": "Q20221213065632743138",
+    "Q_Id": "ST_41",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "description ꯅꯠꯇ꯭ꯔꯒ analytical method-ꯑꯁꯤ scientific research-ꯀꯤꯗꯝꯛꯇ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯈꯟꯗꯣꯛꯄꯒꯦ?",
+    "hint": "A20221213111132208991_281474976739412.wav"
+  },
+  {
+    "quesId": "Q20221213065632743455",
+    "Q_Id": "ST_42",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "research-ꯀꯤ descriptive method-ꯇꯥ case report ꯑꯃꯗꯤ case risk-ꯀꯤ ꯃꯔꯨꯑꯣꯏꯕꯁꯤ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ?",
+    "hint": "A20221213111133661685_281474976739413.wav"
+  },
+  {
+    "quesId": "Q20221213065632743772",
+    "Q_Id": "ST_43",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "analytical scientific research ꯑꯃꯗꯤ descriptive method ꯑꯁꯤ ꯀꯔꯤꯗ ꯈꯦꯠꯟꯕꯒꯦ?",
+    "hint": "A20221213111134959458_281474976739414.wav"
+  },
+  {
+    "quesId": "Q20221213065632744089",
+    "Q_Id": "ST_44",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "observational research ꯍꯥꯏꯕꯁꯤꯅ ꯑꯇꯣꯞꯄ research study-ꯁꯤꯡꯗꯒꯤ ꯀꯗꯥꯐꯧ ꯌꯧꯅ ꯄꯨꯛꯅꯤꯛꯡ ꯆꯤꯡꯖꯟꯕꯒꯦ?",
+    "hint": "A20221213111136219892_281474976739415.wav"
+  },
+  {
+    "quesId": "Q20221213065632744404",
+    "Q_Id": "ST_45",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "observational ꯑꯃꯁꯨꯡ experimental studies-ꯗ cohort research ꯍꯥꯏꯕꯁꯤꯒꯤ ꯊꯧꯗꯥꯡ ꯀꯔꯤꯅꯣ?",
+    "hint": "A20221213111137479577_281474976739416.wav"
+  },
+  {
+    "quesId": "Q20221213065632744718",
+    "Q_Id": "ST_46",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "case control studies ꯑꯃꯗꯤ cross sectional studies-ꯀꯤ ꯃꯔꯨ ꯑꯣꯏꯕ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ?",
+    "hint": "A20221213111138741950_281474976739417.wav"
+  },
+  {
+    "quesId": "Q20221213065632745062",
+    "Q_Id": "ST_47",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "interventional research ꯍꯥꯏꯕꯁꯤ ꯀꯔꯤꯅꯣ?",
+    "hint": "A20221213111139993841_281474976739418.wav"
+  },
+  {
+    "quesId": "Q20221213065632745381",
+    "Q_Id": "ST_48",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "clinical test ꯑꯃꯗ clinical research ꯍꯥꯏꯕꯁꯤ ꯀꯔꯝꯅ ꯄꯥꯡꯊꯣꯛꯄꯒꯦ?",
+    "hint": "A20221213111141247712_281474976739419.wav"
+  },
+  {
+    "quesId": "Q20221213065632745700",
+    "Q_Id": "ST_49",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "clinical research-ꯀꯤ ꯃꯔꯨ ꯑꯣꯏꯕ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ?",
+    "hint": "A20221213111142307777_281474976739420.wav"
+  },
+  {
+    "quesId": "Q20221213065632746015",
+    "Q_Id": "ST_50",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "clinical research-ꯇꯥ randomisation ꯑꯃꯗꯤ blinding method ꯑꯁꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ?",
+    "hint": "A20221213111143567285_281474976739421.wav"
+  },
+  {
+    "quesId": "Q20221213065632746328",
+    "Q_Id": "ST_51General",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯏꯁꯤꯡꯒꯤ ꯁꯤꯖꯤꯟꯅꯐꯝ ꯑꯁꯤ ꯀꯔꯤꯅꯣ? ꯏꯁꯤꯡꯒꯤ filtration process ꯑꯗꯨꯒꯤ ꯃꯔꯝꯗ ꯍꯥꯏꯕꯤꯌꯨ? ",
+    "hint": "A20221213111144863096_281474976739422.wav"
+  },
+  {
+    "quesId": "Q20221213065632746642",
+    "Q_Id": "ST_52",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯏꯁꯤꯡ purification ꯇꯧꯕꯗ chlorination ꯑꯃꯁꯨꯛ bleaching ꯑꯁꯤꯒꯤ ꯁꯤꯖꯤꯟꯅꯐꯝ ꯀꯔꯤꯅꯣ?",
+    "hint": "A20221213111146128531_281474976739423.wav"
+  },
+  {
+    "quesId": "Q20221213065632746956",
+    "Q_Id": "ST_53",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "water conservation-ꯒꯤ ꯃꯔꯨ ꯑꯣꯏꯕ ꯑꯁꯤ ꯀꯔꯤꯅꯣ?",
+    "hint": "A20221213111147392206_281474976739424.wav"
+  },
+  {
+    "quesId": "Q20221213065632747277",
+    "Q_Id": "ST_54",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯨꯡꯁꯤꯠ ꯑꯁꯤ ꯂꯦꯡꯉꯤ ꯍꯥꯏꯕꯁꯤ ꯑꯩꯈꯣꯏꯅ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯎꯠꯄ ꯌꯥꯒꯅꯤ?",
+    "hint": "A20221213111148651080_281474976739425.wav"
+  },
+  {
+    "quesId": "Q20221213065632747592",
+    "Q_Id": "ST_55",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "oxygen-ꯅ ꯑꯩꯈꯣꯏꯒꯤ ꯄꯨꯟꯁꯤꯗ ꯃꯔꯨ ꯑꯣꯏꯕ ꯊꯧꯗꯥꯡ ꯂꯧꯏ ꯍꯥꯏꯕꯁꯤ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ?",
+    "hint": "A20221213111149903774_281474976739426.wav"
+  },
+  {
+    "quesId": "Q20221213065632747906",
+    "Q_Id": "ST_56",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "deforestation ꯍꯥꯏꯕꯁꯤ ꯀꯔꯤꯅꯣ? ꯑꯩꯈꯣꯏꯅ ꯖꯪꯒꯜ ꯑꯃꯁꯨꯡ fossil fuel ꯃꯌꯥꯝ ꯃꯩ ꯊꯥꯕꯗ ꯀꯔꯤ ꯊꯣꯛꯀꯗꯒꯦ?",
+    "hint": "A20221213111151165822_281474976739427.wav"
+  },
+  {
+    "quesId": "Q20221213065632748227",
+    "Q_Id": "ST_57",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "magnet-ꯀꯤ north-pole-ꯒ south-pole-ꯒ attract ꯇꯧꯅꯔꯤꯕ ꯑꯁꯤ ꯀꯔꯤꯒꯤꯅꯣ?",
+    "hint": "A20221213111152423396_281474976739428.wav"
+  },
+  {
+    "quesId": "Q20221213065632748540",
+    "Q_Id": "ST_58",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "metals-ꯃꯈꯜꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯤꯅꯣ? Metal-ꯁꯤꯡ ꯑꯁꯤꯅ ꯀꯔꯝ-ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯈꯨꯠꯂꯥꯏ ꯁꯦꯝꯕ ꯌꯥꯕꯒꯦ?",
+    "hint": "A20221213111153678925_281474976739429.wav"
+  },
+  {
+    "quesId": "Q20221213065632748867",
+    "Q_Id": "ST_59",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "matter ꯃꯈꯜ ꯀꯌꯥ ꯂꯩꯕꯒꯦ?",
+    "hint": "A20221213111154778418_281474976739430.wav"
+  },
+  {
+    "quesId": "Q20221213065632749191",
+    "Q_Id": "ST_60",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "non-metal ꯍꯥꯏꯕꯁꯤ ꯀꯔꯤꯅꯣ? ꯑꯩꯈꯣꯏꯅ ꯃꯈꯣꯏ ꯑꯁꯤ ꯀꯗꯥꯏꯗ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ?",
+    "hint": "A20221213111156036424_281474976739431.wav"
+  },
+  {
+    "quesId": "Q20221213065632749511",
+    "Q_Id": "ST_61",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "evaporation-ꯅ ꯅꯣꯡ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯆꯨꯍꯟꯕꯒꯦ?",
+    "hint": "A20221213111157286417_281474976739432.wav"
+  },
+  {
+    "quesId": "Q20221213065632749825",
+    "Q_Id": "ST_62",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "steam ꯑꯁꯤ ꯑꯔꯝꯅ ꯄꯨꯊꯣꯛꯄꯒꯦ? ",
+    "hint": "A20221213111158343548_281474976739433.wav"
+  },
+  {
+    "quesId": "Q20221213065632750144",
+    "Q_Id": "ST_63",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "life cycle-ꯒꯤ process ꯑꯁꯤ ꯀꯔꯤꯅꯣ ?",
+    "hint": "A20221213111159397985_281474976739434.wav"
+  },
+  {
+    "quesId": "Q20221213065632750461",
+    "Q_Id": "ST_64",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "rain water harvesting ꯍꯥꯏꯕꯁꯤ ꯀꯔꯤꯅꯣ?",
+    "hint": "A20221213111200659766_281474976739435.wav"
+  },
+  {
+    "quesId": "Q20221213065632750781",
+    "Q_Id": "ST_65",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "mobile phone-ꯑꯁꯤ ꯀꯔꯝꯅ ꯃꯊꯧ ꯇꯧꯕꯒꯦ?",
+    "hint": "A20221213111201921108_281474976739436.wav"
+  },
+  {
+    "quesId": "Q20221213065632751096",
+    "Q_Id": "ST_66",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "mobile phone ꯀꯔꯝꯅ charge ꯇꯧꯕꯒꯦ?",
+    "hint": "A20221213111203016915_281474976739437.wav"
+  },
+  {
+    "quesId": "Q20221213065632751413",
+    "Q_Id": "ST_67",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "you-tube channel ꯁꯤꯡꯗ ꯀꯔꯤ ꯌꯦꯡꯕꯒꯦ? ",
+    "hint": "A20221213111204071728_281474976739438.wav"
+  },
+  {
+    "quesId": "Q20221213065632751731",
+    "Q_Id": "ST_68",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯩ ꯅꯠꯇꯅ ꯑꯇꯩ ꯑꯇꯣꯞꯄ mobile charge ꯇꯧꯕ ꯌꯥꯕ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯄꯣꯠ ꯂꯩꯕꯒꯦ?",
+    "hint": "A20221213111205339834_281474976739439.wav"
+  },
+  {
+    "quesId": "Q20221213065632752045",
+    "Q_Id": "ST_69",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯩ ꯊꯥꯟꯅꯅꯕ ꯑꯇꯣꯞꯄ ꯀꯔꯝꯕ power source  ꯁꯤꯖꯤꯟꯅꯕꯒꯦ? ",
+    "hint": "A20221213111206591595_281474976739440.wav"
+  },
+  {
+    "quesId": "Q20221213065632752359",
+    "Q_Id": "ST_70",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "solar energy-ꯑꯁꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯄꯨꯊꯣꯛꯄꯒꯦ? ",
+    "hint": "A20221213111207840561_281474976739441.wav"
+  },
+  {
+    "quesId": "Q20221213065632752672",
+    "Q_Id": "ST_71",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "power source ꯃꯌꯥꯝ ꯑꯁꯤ ꯀꯔꯝꯅ ꯁꯦꯝꯒꯠꯄꯒꯦ? ",
+    "hint": "A20221213111209089024_281474976739442.wav"
+  },
+  {
+    "quesId": "Q20221213065632753002",
+    "Q_Id": "ST_72",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯏꯁꯤꯡ ꯊꯛꯄꯒꯤ sources ꯑꯁꯤ ꯀꯔꯤ-ꯀꯔꯤꯅꯣ?",
+    "hint": "A20221213111210342900_281474976739443.wav"
+  },
+  {
+    "quesId": "Q20221213065632753313",
+    "Q_Id": "ST_73",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯊꯛꯇ꯭ꯔꯤꯉꯩꯗ ꯏꯁꯤꯡ ꯀꯔꯤꯒꯤꯗꯃꯛꯇ ꯂꯨꯝꯒꯗꯧꯔꯤꯕꯅꯣ? ",
+    "hint": "A20221213111211404373_281474976739444.wav"
+  },
+  {
+    "quesId": "Q20221213065632753628",
+    "Q_Id": "ST_74",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "solar energy-ꯗꯒꯤ electricity (ꯃꯩ) ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯁꯨꯡꯕꯒꯦ? ",
+    "hint": "A20221213111212712047_281474976739445.wav"
+  },
+  {
+    "quesId": "Q20221213065632753941",
+    "Q_Id": "ST_75",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "mobile phone-ꯗ ꯀꯔꯝꯕ ꯅꯨꯉꯥꯏꯇꯕ ꯂꯥꯛꯄꯒꯦ ꯑꯗꯨꯒ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯁꯦꯝꯕꯒꯦ? ",
+    "hint": "A20221213111213969763_281474976739446.wav"
+  },
+  {
+    "quesId": "Q20221213065632754254",
+    "Q_Id": "ST_76",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯄꯣꯠ ꯂꯩꯕꯒꯤ apps ꯃꯌꯥꯝꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯐꯪꯕꯒꯦ? ",
+    "hint": "A20221213111215230512_281474976739447.wav"
+  },
+  {
+    "quesId": "Q20221213065632754570",
+    "Q_Id": "ST_77",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "mobile phone-ꯗ ꯀꯔꯤ-ꯀꯔꯤ ꯇꯧꯕꯒꯦ? ",
+    "hint": "A20221213111216286556_281474976739448.wav"
+  },
+  {
+    "quesId": "Q20221213065632754990",
+    "Q_Id": "ST_78",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯣꯡ ꯀꯟꯅ ꯆꯨꯔꯀꯥꯟꯗ ꯃꯩ ꯃꯨꯠꯂꯤꯕ ꯑꯁꯤ ꯀꯔꯤꯒꯤꯅꯣ? ",
+    "hint": "A20221213111217541292_281474976739449.wav"
+  },
+  {
+    "quesId": "Q20221213065632755367",
+    "Q_Id": "ST_79",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "t.v-ꯒ ꯂꯣꯏꯟꯅ ꯑꯇꯩ ꯑꯇꯣꯞꯄ ꯀꯔꯤ-ꯀꯔꯤ ꯐꯪꯕꯒꯦ?",
+    "hint": "A20221213111218790468_281474976739450.wav"
+  },
+  {
+    "quesId": "Q20221213065632755784",
+    "Q_Id": "ST_80",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "t.v-ꯒꯤ set-up box ꯑꯗꯨ ꯀꯔꯝꯅ recharge ꯇꯧꯕꯒꯦ? ",
+    "hint": "A20221213111220042046_281474976739451.wav"
+  },
+  {
+    "quesId": "Q20221213065632756148",
+    "Q_Id": "ST_81",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "camera-ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯑꯃꯗꯤ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ?",
+    "hint": "A20221213111221303938_281474976739452.wav"
+  },
+  {
+    "quesId": "Q20221213065632756483",
+    "Q_Id": "ST_82",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "mobile phone-ꯂꯥꯡꯇ꯭ꯔꯤꯉꯩꯗ ꯅꯣꯏ ꯃꯁꯦꯟ ꯀꯔꯝꯅ ꯄꯥꯎ ꯐꯥꯎꯅꯕꯒꯦ? ",
+    "hint": "A20221213111222614720_281474976739453.wav"
+  },
+  {
+    "quesId": "Q20221213065632756822",
+    "Q_Id": "ST_83",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "inverter ꯑꯃꯅ ꯄꯨꯉ ꯀꯌꯥ ꯃꯩ ꯊꯥꯟꯕ ꯌꯥꯕꯒꯦ? ",
+    "hint": "A20221213111223670386_281474976739454.wav"
+  },
+  {
+    "quesId": "Q20221213065632757171",
+    "Q_Id": "ST_84",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯊꯥꯏꯅ ꯃꯃꯥꯡꯉꯩꯗ ꯆꯦꯡ-ꯆꯥꯛ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯇꯛꯑꯝꯕꯒꯦ?",
+    "hint": "A20221213111224924521_281474976739455.wav"
+  },
+  {
+    "quesId": "Q20221213065632757499",
+    "Q_Id": "ST_85",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯃꯇꯝ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯊꯤꯕꯒꯦ? ",
+    "hint": "A20221213111225986368_281474976739456.wav"
+  },
+  {
+    "quesId": "Q20221213065632757818",
+    "Q_Id": "ST_86",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯨꯡꯁꯥ ꯑꯁꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ? ",
+    "hint": "A20221213111227239939_281474976739457.wav"
+  },
+  {
+    "quesId": "Q20221213065632758140",
+    "Q_Id": "ST_87",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "rainbow (ꯆꯨꯃꯊꯥꯛ) ꯑꯁꯤ ꯀꯔꯝꯕ ꯃꯇꯝꯗ ꯊꯣꯛꯂꯛꯏ? ",
+    "hint": "A20221213111228294131_281474976740093.wav"
+  },
+  {
+    "quesId": "Q20221213065632758454",
+    "Q_Id": "ST_88",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯌꯨꯍꯥ-ꯍꯥꯔꯤꯕ ꯀꯔꯤꯒꯤꯅꯣ?",
+    "hint": "A20221213111229358975_281474976740094.wav"
+  },
+  {
+    "quesId": "Q20221213065632758768",
+    "Q_Id": "ST_89",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯣꯡ ꯑꯈꯥꯛ ꯑꯔꯥꯎ ꯑꯁꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯇꯧꯕꯒꯦ? ",
+    "hint": "A20221213111230606809_281474976740095.wav"
+  },
+  {
+    "quesId": "Q20221213065632759086",
+    "Q_Id": "ST_90",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯣꯔ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯍꯣꯟꯕꯒꯦ? ꯁꯣꯔ ꯍꯣꯟꯕꯗ ꯀꯔꯝ-ꯀꯔꯝꯕ organ ꯁꯤꯖꯤꯟꯅꯩ?",
+    "hint": "A20221213111231912706_281474976740096.wav"
+  },
+  {
+    "quesId": "Q20221213065632759403",
+    "Q_Id": "ST_91",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯖꯤꯕ-ꯄꯥꯅꯕ ꯑꯃꯗꯤ ꯄꯥꯟꯗꯕ (living and non-living thing) ꯍꯥꯏꯕꯁꯤ ꯀꯔꯤꯅꯣ? ",
+    "hint": "A20221213111233173905_281474976740097.wav"
+  },
+  {
+    "quesId": "Q20221213065632759716",
+    "Q_Id": "ST_92",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯪꯒꯤ ꯑꯀꯣꯏꯕꯗ ꯂꯩꯕ ꯖꯤꯕ-ꯄꯥꯟꯕ ꯈꯔ ꯍꯥꯏꯌꯨ?",
+    "hint": "A20221213111234427543_281474976740098.wav"
+  },
+  {
+    "quesId": "Q20221213065632760027",
+    "Q_Id": "ST_93",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯪꯒꯤ ꯑꯀꯣꯏꯕꯗ ꯂꯩꯕ ꯖꯤꯕ ꯄꯥꯟꯗꯕ ꯈꯔ ꯍꯥꯏꯌꯨ? ",
+    "hint": "A20221213111235684151_281474976740099.wav"
+  },
+  {
+    "quesId": "Q20221213065632760348",
+    "Q_Id": "ST_94",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯩꯈꯣꯏ ꯏꯁꯥꯒꯤ ꯃꯃꯤ ꯑꯁꯤ ꯀꯔꯝꯅ ꯇꯥꯕꯒꯦ? ",
+    "hint": "A20221213111236936506_281474976740100.wav"
+  },
+  {
+    "quesId": "Q20221213065632760665",
+    "Q_Id": "ST_95",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯑꯩꯈꯣꯏꯒꯤ digestive system-ꯗ ꯔꯀꯝ-ꯀꯔꯝꯕ organ ꯌꯥꯎꯕꯒꯦ? ",
+    "hint": "A20221213111238199274_281474976740101.wav"
+  },
+  {
+    "quesId": "Q20221213065632761003",
+    "Q_Id": "ST_96",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯒꯥꯔꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ start (ꯍꯧꯍꯟꯕ) ꯇꯧꯕꯒꯦ? ? ",
+    "hint": "A20221213111239251917_281474976740102.wav"
+  }
+]

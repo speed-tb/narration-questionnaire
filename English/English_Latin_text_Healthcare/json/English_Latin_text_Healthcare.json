@@ -1,0 +1,162 @@
+[
+  {
+    "quesId": "Q20221213070711409023",
+    "Q_Id": "HLT_1",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "What do you think about benefits of the traditional medicine?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711409342",
+    "Q_Id": "HLT_2",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Why do you use traditional medicines ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711409653",
+    "Q_Id": "HLT_3",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Which traditional medicine or herbs do you use for indigestion? what is the process of making such medicine and how do take it?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711409965",
+    "Q_Id": "HLT_4",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Tell us a situation from your own experience of using traditonal medicine? ",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711410275",
+    "Q_Id": "HLT_5",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "What are the other traditional medicines (that you know which are) used in different purposes? What are the processes of making those medicines and their purposes?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711410596",
+    "Q_Id": "HLT_6",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "How do you know when you have fever? How do you treat fever using traditional medicine?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711410910",
+    "Q_Id": "HLT_7",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "How do you feel when you get cold and cough? How do you treat it using traditional medicine?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711411220",
+    "Q_Id": "HLT_8",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "How do you cure wounds ? Do you prefer any traditional medicines to cure minor wounds ? if you use how do you prepapre those medicines ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711411528",
+    "Q_Id": "HLT_9",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "How do you care for your health to be healthy?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711411835",
+    "Q_Id": "HLT_11",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "What traditional products do you use for hair care?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711412142",
+    "Q_Id": "HLT_12",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "What are the natural products that you use for hair related problems(hair fall/dandruff/lice infection/grayng of hair)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711412447",
+    "Q_Id": "HLT_13",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "What traditional remedies do you use to relieve body pain?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711412765",
+    "Q_Id": "HLT_14",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "What traditional remedies do you use to relieve muscle pain?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711413114",
+    "Q_Id": "HLT_15",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "What traditional remedies do you use to relieve tooth ache?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711413423",
+    "Q_Id": "HLT_16",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "What traditional remedies do you use to relieve head ache?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711413729",
+    "Q_Id": "HLT_17",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "What traditional remedies do you use to relieve mensural pain/cramp?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711414032",
+    "Q_Id": "HLT_18",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "What traditional remedies do you use to protect from Covid 19?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711414339",
+    "Q_Id": "HLT_19",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "What traditional products do you use for teeth care?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711414647",
+    "Q_Id": "HLT_20",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "What are the natural products that you use for teeth related problems (teeth decay,  misalignment, gum disease, bad breath, sensitivity, root infection, enamel erosion, etc)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711414956",
+    "Q_Id": "HLT_21",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "Do you have traditional healthcare practitioners in your community? What ailments do they provide for treatment?",
+    "hint": ""
+  }
+]

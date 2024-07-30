@@ -1,0 +1,250 @@
+[
+  {
+    "quesId": "Q20230328110215670078",
+    "Q_Id": "CLT_1",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini kami o bobo hai raida bai twidul jagwi tong eba chole wi tong? Romdi luku, moyal, hoda omo hairog de tong?",
+    "hint": "A20230328111220230436_281474976755762.wav"
+  },
+  {
+    "quesId": "Q20230328110215670400",
+    "Q_Id": "CLT_2",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Kami hamkhraino naikol nairog sabo? Borog ni khlai thai tamo?",
+    "hint": "A20230328111220496943_281474976755763.wav"
+  },
+  {
+    "quesId": "Q20230328110215670722",
+    "Q_Id": "CLT_3",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Kami hamkhrai ni adongrogni khlai thai tamo?",
+    "hint": "A20230328111220748546_281474976755764.wav"
+  },
+  {
+    "quesId": "Q20230328110215671041",
+    "Q_Id": "CLT_4",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini kami eba hodani tongmwng chamwngrogno twiwi sawi de mano?",
+    "hint": "A20230328111221010317_281474976755765.wav"
+  },
+  {
+    "quesId": "Q20230328110215671365",
+    "Q_Id": "CLT_5",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Kamio luku gang khamani bobo hai khe samwng khlai jak?",
+    "hint": "A20230328111221261232_281474976755766.wav"
+  },
+  {
+    "quesId": "Q20230328110215671689",
+    "Q_Id": "CLT_6",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Norogni luku gango joto ni slai achokthai kuchugo manai bo sabo? Boni khlai thai tamo?",
+    "hint": "A20230328111221566213_281474976755767.wav"
+  },
+  {
+    "quesId": "Q20230328110215672056",
+    "Q_Id": "CLT_7",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini hoda hukumu ni kan-mwng tei chum-mwng no twiwi kisa swk sawi de mano?",
+    "hint": "A20230328111221908833_281474976755768.wav"
+  },
+  {
+    "quesId": "Q20230328110215672381",
+    "Q_Id": "CLT_8",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini hodani nangkuk mani rigwnai design/bumul rog bahai abono sawi de mano?",
+    "hint": "A20230328111222179736_281474976755769.wav"
+  },
+  {
+    "quesId": "Q20230328110215672706",
+    "Q_Id": "CLT_9",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini hodani kanjaknai wakhum eba chumjaknai abotwirog tamo tamo tong?",
+    "hint": "A20230328111222451321_281474976755770.wav"
+  },
+  {
+    "quesId": "Q20230328110215673038",
+    "Q_Id": "CLT_10",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini hodao bobo hai samwngrogno tangwi chalai kuk?",
+    "hint": "A20230328111222718654_281474976755771.wav"
+  },
+  {
+    "quesId": "Q20230328110215673357",
+    "Q_Id": "CLT_11",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini hodani chamwngrog bobo hai?",
+    "hint": "A20230328111222994340_281474976755772.wav"
+  },
+  {
+    "quesId": "Q20230328110215673670",
+    "Q_Id": "CLT_12",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini hodao joto ni slai chajakuk tongmani abotwi chamwngrog tamo?",
+    "hint": "A20230328111223284247_281474976755773.wav"
+  },
+  {
+    "quesId": "Q20230328110215673981",
+    "Q_Id": "CLT_13",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Maithai-mwithai kaina phru tamo tamo samwngrog ma khlai nai?",
+    "hint": "A20230328111223566533_281474976755774.wav"
+  },
+  {
+    "quesId": "Q20230328110215674292",
+    "Q_Id": "CLT_14",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Maithai-mwithai kaimani bai gwdaljak abotwi ter rog de tong nini hoda o? Tei bahai khe o ter-rogno palai jak?",
+    "hint": "A20230328111223863804_281474976755775.wav"
+  },
+  {
+    "quesId": "Q20230328110215674607",
+    "Q_Id": "CLT_15",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Joto ni slai nangkuk mani eba palai jak kuk mani ter-rog tamo nini hodao? tei aborogno bahai khe palai jak?",
+    "hint": "A20230328111224134720_281474976755776.wav"
+  },
+  {
+    "quesId": "Q20230328110215674922",
+    "Q_Id": "CLT_16",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini hodani hukumu no rwgwi mwsa jak mani abotwi mwsa-mwng rogno twiwi sawi de mano?",
+    "hint": "A20230328111224419199_281474976755777.wav"
+  },
+  {
+    "quesId": "Q20230328110215675234",
+    "Q_Id": "CLT_17",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Norokni hodao kailai mwngni hukumu raidano twiwi sawi de mano?",
+    "hint": "A20230328111224760559_281474976755778.wav"
+  },
+  {
+    "quesId": "Q20230328110215675543",
+    "Q_Id": "CLT_18",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Norokni hodao bahai khe ri-taklai abono twiwi sawi de mano?",
+    "hint": "A20230328111225074842_281474976755779.wav"
+  },
+  {
+    "quesId": "Q20230328110215675881",
+    "Q_Id": "CLT_19",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini hodao manthok kuk mani manwi romdi yakbai swnamjak mani manwi, buphangbai swnamjak mani manwi, ha ni manwi abono twirogno twiwi kisa sa di?",
+    "hint": "A20230328111225401836_281474976755780.wav"
+  },
+  {
+    "quesId": "Q20230328110215676205",
+    "Q_Id": "CLT_20",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Wa tei waruk ni swnamjak manwi rog tamo tamo manthok norokni hodao?",
+    "hint": "A20230328111225685959_281474976755781.wav"
+  },
+  {
+    "quesId": "Q20230328110215676522",
+    "Q_Id": "CLT_21",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini hodani age ni rwchamwng eba hukumu mukumu ni rwchamwngrogno twiwi sawi de mano?",
+    "hint": "A20230328111225957104_281474976755782.wav"
+  },
+  {
+    "quesId": "Q20230328110215676836",
+    "Q_Id": "CLT_22",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Norokni hoda o bobo hai tamjaknai manwirogno tamlai sawi de mano?",
+    "hint": "A20230328111226274638_281474976755783.wav"
+  },
+  {
+    "quesId": "Q20230328110215677165",
+    "Q_Id": "CLT_23",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini hoda no twiwi bahai khe laibuma sajagwi eba yaphar jagwi phai?",
+    "hint": "A20230328111226634643_281474976755784.wav"
+  },
+  {
+    "quesId": "Q20230328110215677487",
+    "Q_Id": "CLT_24",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Norokni hodani bwmwng bobo hai khe mwng achok kha abono sawi de mano?",
+    "hint": "A20230328111226908770_281474976755785.wav"
+  },
+  {
+    "quesId": "Q20230328110215677804",
+    "Q_Id": "CLT_25",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Norokni hodani kaisa bathongkhe kerang kothoma sawi khna rwdi?",
+    "hint": "A20230328111227252246_281474976755786.wav"
+  },
+  {
+    "quesId": "Q20230328110215678134",
+    "Q_Id": "CLT_26",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Norokni hodao bo tongkwthar no yachagwi phai kha ageni simi tabok swk jora abono twiwi sawi de mano?",
+    "hint": "A20230328111227567337_281474976755787.wav"
+  },
+  {
+    "quesId": "Q20230328110215678459",
+    "Q_Id": "CLT_27",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Age jora o bahai khe a romlai norokni hoda o?",
+    "hint": "A20230328111227845988_281474976755788.wav"
+  },
+  {
+    "quesId": "Q20230328110215678797",
+    "Q_Id": "CLT_28",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Bobo hai manwi rog bai mwi-chomna thanglai age?",
+    "hint": "A20230328111228153330_281474976755789.wav"
+  },
+  {
+    "quesId": "Q20230328110215679122",
+    "Q_Id": "CLT_29",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Sirisiti ni simi bobo hai khwirog thon lai wi tok eba malmatarog romwi phailai?",
+    "hint": "A20230328111228468145_281474976755790.wav"
+  },
+  {
+    "quesId": "Q20230328110215679452",
+    "Q_Id": "CLT_30",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Tabok bo de age hai mwi rom lai wi tong kho khwirog thon laiwi? Mwi romlaina bagwi raida bojak de tong?",
+    "hint": "A20230328111228755228_281474976755791.wav"
+  },
+  {
+    "quesId": "Q20230328110215679793",
+    "Q_Id": "CLT_31",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "Bobo kanmwng romdi wakhum eba kotok-mala rogno kanlai nini hodao tei bahai khe aborogno swnamjak?",
+    "hint": "A20230328111229026717_281474976755792.wav"
+  }
+]

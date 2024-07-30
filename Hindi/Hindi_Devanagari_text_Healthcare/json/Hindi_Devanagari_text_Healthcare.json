@@ -1,0 +1,162 @@
+[
+  {
+    "quesId": "Q20221213070711409023",
+    "Q_Id": "HLT_1",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "पारंपरिक चिकित्सा के लाभों के बारे में आप क्या सोचते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711409342",
+    "Q_Id": "HLT_2",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "आप पारंपरिक दवाओं का उपयोग क्यों करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711409653",
+    "Q_Id": "HLT_3",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "अपच के लिए आप किस पारंपरिक औषधि या जड़ी-बूटी का उपयोग करते हैं? ऐसी दवा बनाने की प्रक्रिया क्या है और इसे कैसे लेते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711409965",
+    "Q_Id": "HLT_4",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "पारंपरिक चिकित्सा के उपयोग के अपने स्वयं के अनुभव से हमें एक स्थिति बताएं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711410275",
+    "Q_Id": "HLT_5",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "अन्य पारंपरिक दवाएं (जो आप जानते हैं कि कौन सी हैं) विभिन्न प्रयोजनों में उपयोग की जाती हैं? उन दवाओं और उनके उद्देश्यों को बनाने की प्रक्रिया क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711410596",
+    "Q_Id": "HLT_6",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "आपको कैसे पता चलेगा कि आपको बुखार है? आप पारंपरिक चिकित्सा का उपयोग करके बुखार का इलाज कैसे करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711410910",
+    "Q_Id": "HLT_7",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "सर्दी-खांसी होने पर आपको कैसा महसूस होता है? पारंपरिक चिकित्सा का उपयोग करके आप इसका इलाज कैसे करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711411220",
+    "Q_Id": "HLT_8",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "आप घावों को कैसे ठीक करते हैं? क्या आप मामूली घावों को ठीक करने के लिए कोई पारंपरिक दवा पसंद करते हैं? यदि आप उपयोग करते हैं तो आप उन दवाओं को कैसे तैयार करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711411528",
+    "Q_Id": "HLT_9",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "स्वस्थ रहने के लिए आप अपने स्वास्थ्य की देखभाल कैसे करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711411835",
+    "Q_Id": "HLT_11",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "बालों की देखभाल के लिए आप किन पारंपरिक उत्पादों का उपयोग करती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711412142",
+    "Q_Id": "HLT_12",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "बालों से संबंधित समस्याओं (बालों का झड़ना / रूसी / जूँ का संक्रमण / बालों का सफेद होना) के लिए आप किन प्राकृतिक उत्पादों का उपयोग करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711412447",
+    "Q_Id": "HLT_13",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "शरीर के दर्द को दूर करने के लिए आप किन पारंपरिक उपचारों का उपयोग करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711412765",
+    "Q_Id": "HLT_14",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "मांसपेशियों के दर्द को दूर करने के लिए आप किन पारंपरिक उपायों का उपयोग करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711413114",
+    "Q_Id": "HLT_15",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "दांत दर्द से राहत पाने के लिए आप किन पारंपरिक उपायों का इस्तेमाल करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711413423",
+    "Q_Id": "HLT_16",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "सिर दर्द से राहत पाने के लिए आप किन पारंपरिक उपायों का इस्तेमाल करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711413729",
+    "Q_Id": "HLT_17",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "मासिक धर्म के दर्द/ऐंठन से राहत पाने के लिए आप किन पारंपरिक उपायों का उपयोग करती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711414032",
+    "Q_Id": "HLT_18",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "कोविड 19 से बचाव के लिए आप किन पारंपरिक उपायों का उपयोग करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711414339",
+    "Q_Id": "HLT_19",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "दांतों की देखभाल के लिए आप किन पारंपरिक उत्पादों का उपयोग करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711414647",
+    "Q_Id": "HLT_20",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "दांतों से संबंधित समस्याओं (दांतों की सड़न, गलत संरेखण, मसूड़ों की बीमारी, सांसों की बदबू, संवेदनशीलता, जड़ संक्रमण, इनेमल क्षरण, आदि) के लिए आप किन प्राकृतिक उत्पादों का उपयोग करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711414956",
+    "Q_Id": "HLT_21",
+    "Domain": "Healthcare",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आपके समुदाय में पारंपरिक स्वास्थ्य चिकित्सक हैं? वे उपचार के लिए कौन सी बीमारियाँ प्रदान करते हैं?",
+    "hint": ""
+  }
+]

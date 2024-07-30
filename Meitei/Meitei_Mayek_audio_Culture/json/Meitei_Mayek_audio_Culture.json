@@ -1,0 +1,250 @@
+[
+  {
+    "quesId": "Q20221213065632792962",
+    "Q_Id": "CLT_1",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯈꯨꯟꯒꯤ ꯑꯣꯏꯅ ꯋꯥꯌꯦꯟ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯂꯦꯕꯒꯦ ?",
+    "hint": "A20221214054741690691_281474976740197.wav"
+  },
+  {
+    "quesId": "Q20221213065632793309",
+    "Q_Id": "CLT_2",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯋꯥꯌꯦꯟ ꯇꯧꯅꯕ ꯀꯔꯝ ꯀꯔꯝꯕ ꯃꯤ ꯂꯩꯕꯒꯦ? ꯃꯈꯣꯏꯒꯤ ꯃꯊꯧꯗꯥꯡ ꯑꯃꯗꯤ ꯀꯩ ꯊꯕꯛ ꯇꯧꯒꯗꯒꯦ ꯍꯥꯏꯕ ꯑꯗꯨ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20221214054743145618_281474976740198.wav"
+  },
+  {
+    "quesId": "Q20221213065632793635",
+    "Q_Id": "CLT_3",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯈꯨꯟꯒꯤ ꯆꯥꯎꯈꯠꯅꯕ ꯁꯦꯝꯕ ꯀꯥꯡꯂꯨꯞ ꯑꯗꯨꯒꯤ ꯃꯊꯧꯗꯥꯡ ꯀꯔꯤꯅꯣ ?",
+    "hint": "A20221214054744377502_281474976740199.wav"
+  },
+  {
+    "quesId": "Q20221213065632793963",
+    "Q_Id": "CLT_4",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯐꯨꯔꯨꯞꯀꯤ ꯑꯣꯏꯕ ꯆꯠꯅ-ꯄꯊꯥꯞ ꯑꯃꯗꯤ ꯂꯩꯕꯒꯤ ꯃꯔꯝꯗ ꯋꯥꯍꯩ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20221214054745589169_281474976740200.wav"
+  },
+  {
+    "quesId": "Q20221213065632794284",
+    "Q_Id": "CLT_5",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯈꯨꯟꯒꯤ ꯑꯣꯏꯅ ꯊꯥꯏꯅꯗꯒꯤ ꯂꯩꯔꯛꯂꯕ ꯋꯥꯌꯦꯟꯕꯒꯤ  ꯃꯑꯣꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯃꯊꯧ ꯇꯧꯕꯒꯦ ?",
+    "hint": "A20221214054747020171_281474976740201.wav"
+  },
+  {
+    "quesId": "Q20221213065632794605",
+    "Q_Id": "CLT_6",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯈꯨꯟꯒꯤ ꯑꯣꯏꯅ ꯋꯥꯌꯦꯟꯕꯒꯤ ꯊꯕꯛ ꯑꯗꯨꯒꯤ ꯃꯀꯣꯛ ꯀꯅꯥꯅ ꯑꯣꯏꯕꯒꯦ? ꯃꯍꯥꯛꯀꯤ ꯃꯊꯧ ꯀꯔꯤꯅꯣ ?",
+    "hint": "A20221214054748419706_281474976740202.wav"
+  },
+  {
+    "quesId": "Q20221213065632794929",
+    "Q_Id": "CLT_7",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯅꯥꯠꯀꯤ ꯑꯣꯏꯕ ꯐꯤꯖꯦꯠꯀꯤ ꯃꯔꯝꯗ ꯋꯥꯍꯩ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20221214054749720954_281474976740203.wav"
+  },
+  {
+    "quesId": "Q20221213065632795250",
+    "Q_Id": "CLT_8",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯅꯥꯠꯀꯤ ꯑꯣꯏꯕ ꯐꯤꯗ ꯌꯥꯎꯔꯤꯕ ꯍꯛꯄꯒꯤ ꯃꯑꯣꯡ ꯑꯗꯨꯒꯤ ꯃꯔꯝꯗ ꯋꯥꯍꯩ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20221214054751182274_281474976740204.wav"
+  },
+  {
+    "quesId": "Q20221213065632795575",
+    "Q_Id": "CLT_9",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯅꯥꯠꯀꯤ ꯑꯣꯏꯕ ꯁꯅꯥꯂꯨꯄꯥ ꯑꯃꯗꯤ ꯐꯤꯖꯦꯠ ꯆꯥꯛꯆꯥꯒꯤ ꯃꯔꯝꯗ ꯈꯔ ꯍꯥꯏꯌꯨ ?",
+    "hint": "A20221214054752436193_281474976740205.wav"
+  },
+  {
+    "quesId": "Q20221213065632795896",
+    "Q_Id": "CLT_10",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯐꯨꯔꯎꯞꯇ ꯑꯌꯥꯝꯕꯅ ꯀꯔꯤ ꯀꯔꯤ ꯊꯕꯛ ꯇꯧꯅꯕꯒꯦ ?",
+    "hint": "A20221214054753695979_281474976740206.wav"
+  },
+  {
+    "quesId": "Q20221213065632796216",
+    "Q_Id": "CLT_11",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯐꯨꯔꯨꯞꯀꯤ ꯑꯣꯏꯅ ꯀꯔꯝꯕ ꯆꯤꯟꯖꯥꯛ ꯆꯥꯕꯒꯦ ?",
+    "hint": "A20221214054754946231_281474976740207.wav"
+  },
+  {
+    "quesId": "Q20221213065632796537",
+    "Q_Id": "CLT_12",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯐꯨꯔꯨꯞꯀꯤ ꯑꯣꯏꯅ ꯌꯥꯝꯅ ꯃꯃꯤꯡ ꯆꯠꯄ ꯆꯤꯟꯖꯥꯛ ꯈꯔꯒꯤ ꯃꯃꯤꯡ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20221214054756179149_281474976740208.wav"
+  },
+  {
+    "quesId": "Q20221213065632796874",
+    "Q_Id": "CLT_13",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯧ ꯈꯥꯎꯕ ꯑꯃꯗꯤ ꯄꯣꯠꯆꯩ ꯍꯦꯛꯄ ꯇꯧꯕꯗ ꯀꯔꯤ ꯀꯔꯤ ꯃꯊꯧ ꯆꯪꯕꯒꯦ ?",
+    "hint": "A20221214054757435443_281474976740209.wav"
+  },
+  {
+    "quesId": "Q20221213065632797206",
+    "Q_Id": "CLT_14",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯂꯧ ꯈꯥꯎꯕꯒ ꯃꯔꯤ ꯂꯩꯅꯕ ꯊꯧꯔꯝ ꯄꯥꯡꯊꯣꯛꯄꯔꯥ ?  ꯍꯥꯏꯔꯤꯕ ꯊꯧꯔꯝ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯄꯥꯡꯊꯣꯛꯄꯒꯦ ?",
+    "hint": "A20221214054758674105_281474976740210.wav"
+  },
+  {
+    "quesId": "Q20221213065632797529",
+    "Q_Id": "CLT_15",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯐꯨꯔꯨꯞꯀꯤ ꯑꯧꯟ ꯈ꯭ꯋꯥꯏꯗꯒꯤ ꯃꯔꯨ ꯑꯣꯏꯅ ꯄꯥꯡꯊꯣꯛꯄ ꯀꯨꯝꯍꯩ ꯑꯗꯨ ꯀꯔꯤꯅꯣ ? ꯍꯥꯏꯔꯤꯕ ꯀꯨꯝꯍꯩ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯄꯥꯡꯊꯣꯛꯄꯒꯦ ? ",
+    "hint": "A20221214054800149080_281474976740211.wav"
+  },
+  {
+    "quesId": "Q20221213065632797851",
+    "Q_Id": "CLT_16",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯑꯣꯏꯕ ꯅꯥꯠꯀꯤ ꯑꯣꯏꯕ ꯖꯒꯣꯏꯒꯤ ꯃꯔꯝꯗ ꯈꯔ ꯍꯥꯏꯌꯨ ?",
+    "hint": "A20221214054801413698_281474976740212.wav"
+  },
+  {
+    "quesId": "Q20221213065632798290",
+    "Q_Id": "CLT_17",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯐꯨꯔꯨꯞꯇ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯂꯨꯍꯣꯡꯕꯒꯦ ?",
+    "hint": "A20221214054802638858_281474976740213.wav"
+  },
+  {
+    "quesId": "Q20221213065632798623",
+    "Q_Id": "CLT_18",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯐꯨꯔꯨꯞꯇ ꯐꯤꯁꯥ-ꯂꯣꯟꯁꯥ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯇꯧꯕꯒꯦ ꯍꯥꯏꯕ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20221214054803901306_281474976740214.wav"
+  },
+  {
+    "quesId": "Q20221213065632798946",
+    "Q_Id": "CLT_19",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯐꯨꯔꯨꯞꯀꯤ ꯑꯣꯏꯅ ꯀꯔꯝ ꯀꯔꯝꯕ ꯈꯨꯠ-ꯁꯥ ꯍꯩꯕꯒꯤ ꯄꯣꯠꯊꯣꯛ ꯄꯨꯊꯣꯛꯄꯒꯦ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20221214054805161118_281474976740215.wav"
+  },
+  {
+    "quesId": "Q20221213065632799267",
+    "Q_Id": "CLT_20",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯋꯥ ꯑꯃꯁꯨꯡ ꯂꯤꯅ ꯁꯥꯕ ꯄꯣꯠꯊꯣꯛ ꯈꯔꯒꯤ ꯃꯔꯝꯗ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20221214054806415171_281474976740216.wav"
+  },
+  {
+    "quesId": "Q20221213065632799587",
+    "Q_Id": "CLT_21",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯐꯨꯔꯨꯞꯀꯤ ꯈꯨꯟꯅꯨꯡ ꯏꯁꯩꯒꯤ ꯃꯔꯝꯗ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20221214054807620921_281474976740217.wav"
+  },
+  {
+    "quesId": "Q20221213065632799907",
+    "Q_Id": "CLT_22",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯀꯔꯝꯕ ꯃꯈꯜꯒꯤ ꯃ꯭ꯌꯨꯖꯤꯀꯦꯜ ꯏꯟ꯭ꯁꯇ꯭ꯔꯨꯃꯦꯟꯠ ꯂꯩꯕꯒꯦ ?",
+    "hint": "A20221214054808885998_281474976740218.wav"
+  },
+  {
+    "quesId": "Q20221213065632800227",
+    "Q_Id": "CLT_23",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯊꯥꯏꯅꯒꯤ ꯑꯣꯏꯕ ꯋꯥꯔꯤꯁꯤꯡꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯃꯈꯥ ꯇꯥꯕ ꯁꯤꯡꯗ ꯈꯪꯍꯟꯕꯒꯦ ?",
+    "hint": "A20221214054810125929_281474976740219.wav"
+  },
+  {
+    "quesId": "Q20221213065632800547",
+    "Q_Id": "CLT_24",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯐꯨꯔꯨꯞꯀꯤ ꯃꯃꯤꯡ ꯑꯃꯗꯤ ꯍꯧꯔꯛꯐꯝꯒꯤ ꯃꯔꯝꯗ  ꯋꯥꯍꯩ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20221214054811380556_281474976740220.wav"
+  },
+  {
+    "quesId": "Q20221213065632800868",
+    "Q_Id": "CLT_25",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯪꯅ ꯈꯪꯖꯕ ꯐꯨꯡꯒꯥ ꯋꯥꯔꯤ ꯑꯃꯒꯤ ꯋꯥꯔꯤ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20221214054812633128_281474976740221.wav"
+  },
+  {
+    "quesId": "Q20221213065632801195",
+    "Q_Id": "CLT_26",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯊꯥꯏꯅꯗꯒꯤ ꯂꯩꯔꯛꯂꯕ ꯂꯥꯏꯅꯤꯡ ꯂꯥꯏꯁꯣꯟꯒꯤ ꯃꯔꯝꯗ ꯋꯥꯍꯩ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20221214054813843387_281474976740222.wav"
+  },
+  {
+    "quesId": "Q20221213065632801519",
+    "Q_Id": "CLT_27",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯐꯨꯔꯨꯞꯀꯤ ꯑꯣꯏꯅ ꯉꯥ ꯐꯥꯕꯒꯤ ꯃꯑꯣꯡ ꯑꯁꯤꯒꯤ ꯃꯔꯝꯗ ꯋꯥꯍꯩ ꯈꯔ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20221214054815099557_281474976740223.wav"
+  },
+  {
+    "quesId": "Q20221213065632801845",
+    "Q_Id": "CLT_28",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯥꯗꯥꯟꯕꯗ ꯀꯔꯤ ꯀꯔꯤ ꯈꯨꯠꯂꯥꯏ ꯁꯤꯖꯤꯟꯅꯔꯝꯕꯒꯦ ?",
+    "hint": "A20221214054816329108_281474976740224.wav"
+  },
+  {
+    "quesId": "Q20221213065632802162",
+    "Q_Id": "CLT_29",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯁꯥ ꯑꯃꯁꯨꯡ ꯎꯆꯦꯛꯁꯤꯡ ꯑꯁꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯐꯥꯕꯒꯦ ?",
+    "hint": "A20221214054817584392_281474976740225.wav"
+  },
+  {
+    "quesId": "Q20221213065632802481",
+    "Q_Id": "CLT_30",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯈꯨꯟꯗ ꯍꯧꯖꯤꯛ ꯐꯥꯎꯕ ꯁꯥꯗꯥꯟꯕꯒꯤ ꯊꯕꯛ ꯑꯁꯤ ꯇꯧꯔꯤꯕꯔꯥ? ꯁꯥꯗꯥꯟꯕ ꯑꯁꯤꯒꯤ ꯅꯤꯌꯣꯝ ꯑꯃꯗꯤ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯇꯧꯒꯗꯒꯦ ꯍꯥꯏꯕꯗꯨ ꯍꯥꯏꯕꯤꯌꯨ ?",
+    "hint": "A20221214054819058617_281474976740226.wav"
+  },
+  {
+    "quesId": "Q20221213065632802804",
+    "Q_Id": "CLT_31",
+    "Domain": "Culture",
+    "Elicitation Method": "Narration",
+    "sentence": "ꯅꯈꯣꯏꯒꯤ ꯐꯨꯔꯨꯞꯀꯤ ꯑꯣꯏꯅ ꯀꯔꯤ ꯀꯔꯤ ꯂꯤꯛ-ꯀꯣꯟ ꯁꯤꯖꯤꯟꯅꯕꯒꯦ ? ꯍꯥꯏꯔꯤꯕ ꯂꯤꯛ-ꯀꯣꯟꯁꯤꯡ ꯑꯗꯨ ꯀꯔꯝꯕ ꯃꯑꯣꯡꯗ ꯁꯥꯕꯒꯦ ? ",
+    "hint": "A20221214054820515297_281474976740227.wav"
+  }
+]

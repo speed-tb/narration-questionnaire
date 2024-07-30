@@ -1,0 +1,466 @@
+[
+  {
+    "quesId": "Q20221213070711390755",
+    "Q_Id": "OH_2",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके परिवार की सांस्कृतिक पृष्ठभूमि क्या है? (क्या आपके माता और पिता एक ही जाति या विभिन्न जातियों से आते हैं?) कृपया विस्तार से वर्णन करें।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711391072",
+    "Q_Id": "OH_3",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके परिवार की धार्मिक पृष्ठभूमि क्या है? क्या आपके घर में धर्म का पालन किया गया था? अगर आपके घर में धर्म का पालन किया जाता था, तो उसका पालन कैसे किया जाता था? उन दैनिक या साप्ताहिक या नियमित धार्मिक अनुष्ठानों के बारे में बताएं जिनका आप पालन करते हैं",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711391386",
+    "Q_Id": "OH_6",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "अपनी भाषा(ओं) के साथ अपने वर्तमान सामन्जस्य के बारे में बताएैं। क्या आप अपने द्वारा बोली जाने वाली किसी भी भाषा के साथ एक मजबूत सांस्कृतिक संबंध महसूस करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711391694",
+    "Q_Id": "OH_7",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "उस समुदाय (या समुदायों) के बारे में बताएैं जिसमें आप पले-बढ़े हैं। क्या वह शहरी था या ग्रामीण?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711392002",
+    "Q_Id": "OH_8",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके अपने सांस्कृतिक समूह के अलावा, आपके समुदाय में और कौन से सांस्कृतिक समूह रहते थे? अन्य समूहों में विभिन्न धर्मों, जातियों, जनजातियों आदि के लोग शामिल हो सकते हैं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711392312",
+    "Q_Id": "OH_9",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आपके परिवार की उत्पत्ति उस जगह से हुई है जहाँ आप पले-बढ़े हैं, या किसी दूसरी जगह से? आप उस जगह के बारे में क्या जानते हैं? क्या आप कभी वहाँ गए है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711392622",
+    "Q_Id": "OH_10",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आपको अपने दादा-दादी के बारे में क्या याद है? उनके बारे में हमें कुछ बताएं",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711393027",
+    "Q_Id": "OH_11",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप अपने किसी ऐसे पूर्वज के बारे में सुनकर बड़े हुए हैं जिनसे आप कभी नहीं मिले? आपने उनके बारे में क्या सुना? इसके बारे में हमें कुछ बताएं",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711393355",
+    "Q_Id": "OH_12",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप किसी बड़ी ऐतिहासिक घटना से गुजरे हैं? बताइए कि आप और आपका परिवार इन घटनाओं से कैसे प्रभावित हुए।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711393668",
+    "Q_Id": "OH_13",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके परिवार की आर्थिक परिस्थितियाँ क्या थीं? क्या आपको कोई ऐसा समय याद है जब आपके परिवार को आर्थिक कठिनाइयों का सामना करना पड़ा हो? कृपया बताइए।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711393988",
+    "Q_Id": "OH_14",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "जब आप बड़े हो रहे थे तब आपने कौन से हुनर और गतिविधियाँ सीखीं? आपको ये हुनर ​​किसने सिखाया? हुनर और गतिविधियों में मछली पकड़ना, शिकार करना, खेती करना, खाना बनाना, बढ़ईगीरी, शिल्प, बुनाई, विशेष खेल और कई अन्य महत्वपूर्ण चीजें शामिल हो सकती हैं। आपने क्या सीखा और इसे कैसे किया जाता है, इसके बारे में हमें कुछ बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711394308",
+    "Q_Id": "OH_16",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "जब आप छोटे थे तब अपने भाई-बहनों और उनके साथ अपनी बातचीत के बारे में बताएैं। क्या आप उम्र में काफी करीब थे? क्या आप एक साथ स्कूल गए थे?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711394623",
+    "Q_Id": "OH_17",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आप अपनी किशोरावस्था के दौरान अपने खाली समय में क्या करते थे? विस्तार से बताएं",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711394931",
+    "Q_Id": "OH_18",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "जब आप बड़े हो रहे थे तब आप क्या - क्या खाना खाते थे? विस्तार मे बताएं",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711395241",
+    "Q_Id": "OH_20",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "जब आप बच्चे थे तब आप किस व्यवसाय (व्यवसायों) को अपनाना चाहते थे? क्यों?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711395548",
+    "Q_Id": "OH_21",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने वर्तमान व्यवसाय के बारे में बताएैं। आप कहा काम करते हैं ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711395855",
+    "Q_Id": "OH_22",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "बताएं कि आपने अपना काम कैसे चुना। क्या आप इस काम में बने रहना चाहते हैं? क्यों?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711396165",
+    "Q_Id": "OH_23",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आपकी नौकरी/रोजगार से संबंधित कुछ कठिनाइयाँ क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711396473",
+    "Q_Id": "OH_24",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आपका परिवार एक सामान्य वर्ष में कौन से त्यौहार मनाता है? इनके बारे में हमें विस्तार से बताएं",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711396781",
+    "Q_Id": "OH_25",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप अपने कुछ स्थानीय मित्रों के बारे में बता सकते हैं? आप एक साथ किस प्रकार की गतिविधियाँ करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711397112",
+    "Q_Id": "OH_26",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "यदि आप एक रिश्ते में हैं, तो आप अपने वर्तमान साथी (पति, पत्नी, प्रेमी, प्रेमिका, जरूरी अन्य) से कैसे मिले? आपको क्या साथ लाया?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711397424",
+    "Q_Id": "OH_27",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप शादीशुदा हैं? अगर हां, तो अपने विवाह समारोह के बारे में बताएं। अगर नहीं, तो अपने किसी जानने वाले के विवाह समारोह के बारे में बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711397733",
+    "Q_Id": "OH_29",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आप अपने जीवन में किस प्रकार के खेल और मनोरंजन से जुड़े रहे हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711398038",
+    "Q_Id": "OH_30",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आप अपने स्वास्थ्य के स्तर को कैसे बनाए रखते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711398339",
+    "Q_Id": "OH_31",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके पसंदीदा खाने के पदार्थ कौन से हैं जो आपकी संस्कृति या क्षेत्र के लिए सबसे अलग हैं? इनके बारे में हमें विस्तार से बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711398647",
+    "Q_Id": "OH_32",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने व्यक्तित्व के बारे में कुछ बताएं। आपकी कुछ विशेषताएं क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711398954",
+    "Q_Id": "OH_33",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "अभी आपके लिए आपके जीवन में कौन सी चीजें सबसे महत्वपूर्ण हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711399264",
+    "Q_Id": "OH_34",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आप अपनी दोस्ती और रिश्तों में क्या गुण देखते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711399571",
+    "Q_Id": "OH_35",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या कोई सांस्कृतिक या मानवीय कारण हैं जो आपके लिए महत्वपूर्ण हैं? कृपया विस्तार में बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711399877",
+    "Q_Id": "OH_36",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "भविष्य के लिए आपके अभी के लक्ष्य क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711400188",
+    "Q_Id": "OH_37",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने और अपने परिवार के लिए आपके लम्बे समय के लक्ष्य क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711400492",
+    "Q_Id": "OH_39",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आप बचपन से कैसे बदल गए हैं? आपका समुदाय आपके बचपन से कैसे बदल गया है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711400792",
+    "Q_Id": "OH_40",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आपकी भाषा के कौन से पहलू आपको अद्वितीय लगते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711401129",
+    "Q_Id": "OH_41",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समुदाय की विभिन्न पीढ़ियां अपनी भाषा के साथ कैसे पेश आते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711401436",
+    "Q_Id": "OH_42",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आपको क्या लगता है कि निकट भविष्य में आपकी संस्कृति और भाषा में क्या परिवर्तन हो सकते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711401742",
+    "Q_Id": "OH_43",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आने वाली पीढ़ियों के लिए आपकी क्या सलाह है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711402054",
+    "Q_Id": "OH_45",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आप अपनी भाषा में किन-किन जगहों पर और किन-किन आयोजनों के दौरान कही गई कहानियाँ सुनते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711402360",
+    "Q_Id": "OH_46",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "मुझे कोई ऐसी लोककथा बताईए जिसे आपने बचपन में या किशोरावस्था में सुना हो।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711402670",
+    "Q_Id": "OH_47",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आपकी भाषा में कोई विशेष लेखक या कहानीकार हैं जो आपके लिए महत्वपूर्ण हैं? कृपया विस्तार में बताएं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711402977",
+    "Q_Id": "OH_48",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "कृपया अपनी संस्कृति के पारंपरिक संगीत का वर्णन करें। किन उपकरणों का उपयोग किया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711403286",
+    "Q_Id": "OH_51",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आप किन अन्य संगीत शैलियों को सुनकर बड़े हुए हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711403596",
+    "Q_Id": "OH_52",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आप अपने दैनिक जीवन में संगीत कब सुनते हैं, और आप इसे कैसे एक्सेस करते हैं? क्या आप संगीतकारों को व्यक्तिगत रूप से सुनते हैं, या आप रिकॉर्ड किया गया संगीत सुनते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711403911",
+    "Q_Id": "OH_54",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आपकी संस्कृति के कुछ खाने के पदार्थ क्या हैं जिनकी आप अत्यधिक अनुशंसा करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711404224",
+    "Q_Id": "OH_56",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "अपनी संस्कृति के पारंपरिक कपड़ो के बारे में बताऐं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711404530",
+    "Q_Id": "OH_57",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आप किन कपड़ों और कपड़ों की शैलियों के साथ बड़े हुए हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711404864",
+    "Q_Id": "OH_58",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या आप वर्तमान में कोई पारंपरिक कपड़े पहनते हैं? कृपया बताऐं कि क्या आप उन्हें रोज़ पहनते हैं या विशेष अवसरों के लिए। यदि विशेष अवसरों पर, किन अवसरों पर?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711405186",
+    "Q_Id": "OH_59",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "कपड़ों के किसी भी टुकड़े के बारे में बताऐं जो आपके लिए विशेष महत्व रखता है।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711405609",
+    "Q_Id": "OH_61",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समुदाय के अलग-अलग लिंगों के लोगों से कैसे व्यवहार करने की अपेक्षा की जाती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711405929",
+    "Q_Id": "OH_63",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने जीवन के एक आम दिन का वर्णन करें।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711406236",
+    "Q_Id": "OH_64",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "दैनिक गतिविधियों के लिए कपड़ों में अपने रूपरंग और पसंद के बारे में बताऐं।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711406541",
+    "Q_Id": "OH_65",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "परिवहन के आपके पसंदीदा तरीके क्या हैं? क्या आपको यात्रा करने में मज़ा आता है? आप काम पर कैसे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711406848",
+    "Q_Id": "OH_66",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने क्षेत्र की वास्तुकला के साथ-साथ अपनी संस्कृति की पारंपरिक वास्तुकला के बारे में बताइए।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711407153",
+    "Q_Id": "OH_67",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने क्षेत्र के भौतिक भूगोल के बारे में बताइए।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711407457",
+    "Q_Id": "OH_68",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने क्षेत्र में रहने वाले जानवरों के प्रकार के बारे में बताइए।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711407764",
+    "Q_Id": "OH_69",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने क्षेत्र में रहने वाले पौधों के प्रकारों के बारे में बताइए।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711408071",
+    "Q_Id": "OH_70",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "आपने कौन सी बड़ी तकनीकी प्रगति का अनुभव किया है? आपके लिए सबसे अधिक अर्थपूर्ण कौन सा रहा है और क्यों?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711408378",
+    "Q_Id": "OH_71",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "संचार के आपके पसंदीदा तरीके क्या हैं? आपके जीवन के दौरान संचार के तरीके कैसे बदल गए हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711408681",
+    "Q_Id": "OH_72",
+    "Domain": "General-Oral-History",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या कोई अन्य जानकारी है जो आप अपने दैनिक जीवन के बारे में बताना चाहेंगे?",
+    "hint": ""
+  }
+]

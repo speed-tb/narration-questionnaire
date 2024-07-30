@@ -1,0 +1,130 @@
+[
+  {
+    "quesId": "Q20221213070711415261",
+    "Q_Id": "SPR_1",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you tell us something about the origin of Polo (Sagol Kangjei)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711415564",
+    "Q_Id": "SPR_2",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "What are the traditional games of your community? ",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711415869",
+    "Q_Id": "SPR_3",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Is there a game similar to rugby? What is it called and how it is played?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711416173",
+    "Q_Id": "SPR_4",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you explain how exercise/sports make us healthy?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711416483",
+    "Q_Id": "SPR_5",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "What games do you play ? What are the rules of those games?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711416786",
+    "Q_Id": "SPR_6",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you tell us about your childhood days games ? Can you share a memorable incident of your childhood days games ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711417120",
+    "Q_Id": "SPR_7",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you explain the benefits of the indoor and outdoor games?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711417436",
+    "Q_Id": "SPR_8",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Give the name of any game related to wrestling? Who performs the game?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711417746",
+    "Q_Id": "SPR_9",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Give the name of any traditional board game? If so, how is the game played and who plays the game?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711418050",
+    "Q_Id": "SPR_10",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "What is the name of the game played with marble? What are the rules for playing marble?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711418354",
+    "Q_Id": "SPR_11",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you tell us the name of the game played with stone? How is it played?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711418661",
+    "Q_Id": "SPR_12",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Is there a specific game related to climbing of bamboo tree or banana stem in your community? ",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711418967",
+    "Q_Id": "SPR_13",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Give names of the game using sticks? How is it played?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711419279",
+    "Q_Id": "SPR_14",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Give the name of any indoor game in your community? How is it played?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711419588",
+    "Q_Id": "SPR_15",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "What is the name of the game related to Boat Race? When and how is it played?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711419896",
+    "Q_Id": "SPR_16",
+    "Domain": "Sports",
+    "Elicitation Method": "Narration",
+    "sentence": "Can you tell us some benefits of Yoga? ",
+    "hint": ""
+  }
+]

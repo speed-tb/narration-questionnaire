@@ -1,0 +1,770 @@
+[
+  {
+    "quesId": "Q20230328110215606513",
+    "Q_Id": "ST_1",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Linguistics bwswk joratwi chuba kha, suijak tei sajagwi tongmani kokthairogno kwbang rutugwi khe kari thani?",
+    "hint": "A20230328111124108783_281474976755497.wav"
+  },
+  {
+    "quesId": "Q20230328110215606839",
+    "Q_Id": "ST_2",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Bobo hai khe language corpora develop wngkha language technology ni area o?",
+    "hint": "A20230328111124379910_281474976755498.wav"
+  },
+  {
+    "quesId": "Q20230328110215607168",
+    "Q_Id": "ST_3",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Tamni bagwi dalbidal kokrogni bagwi language corpora develop khaina nang kha?",
+    "hint": "A20230328111124687252_281474976755499.wav"
+  },
+  {
+    "quesId": "Q20230328110215607496",
+    "Q_Id": "ST_4",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "bobo hai khe speech technology samwng khlai kha speech database no kuchugo twlangna bagwi?",
+    "hint": "A20230328111125070336_281474976755500.wav"
+  },
+  {
+    "quesId": "Q20230328110215607841",
+    "Q_Id": "ST_5",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Contextual speech database o tamo tamo tong?",
+    "hint": "A20230328111125347256_281474976755501.wav"
+  },
+  {
+    "quesId": "Q20230328110215608172",
+    "Q_Id": "ST_6",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Raw speech corpora o text bobo hai khe phunuk jak?",
+    "hint": "A20230328111125660339_281474976755502.wav"
+  },
+  {
+    "quesId": "Q20230328110215608530",
+    "Q_Id": "ST_7",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Spoken corpora no generate khlai na bagwi, tamni bagwi spoken text no tanscribe khlai na nang?",
+    "hint": "A20230328111125921940_281474976755503.wav"
+  },
+  {
+    "quesId": "Q20230328110215608866",
+    "Q_Id": "ST_8",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Corpus ni annotated version o tamo tong? Bwswk joratwi annotated corpora language no chubawi mankha?",
+    "hint": "A20230328111126238135_281474976755504.wav"
+  },
+  {
+    "quesId": "Q20230328110215609402",
+    "Q_Id": "ST_9",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Special text corpora no tamni bagwi design khaina nang sawi de mano?",
+    "hint": "A20230328111126510539_281474976755505.wav"
+  },
+  {
+    "quesId": "Q20230328110215609736",
+    "Q_Id": "ST_10",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Dialect corpora ni samwng tamo, kaisa country o bahai khe kok kwbangma sajagwi tongmani pherlaimwng no sinirwi man?",
+    "hint": "A20230328111126833153_281474976755506.wav"
+  },
+  {
+    "quesId": "Q20230328110215610064",
+    "Q_Id": "ST_11",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Comparable corpora bahai khe develop wngkha?",
+    "hint": "A20230328111127074628_281474976755507.wav"
+  },
+  {
+    "quesId": "Q20230328110215610387",
+    "Q_Id": "ST_12",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Databases no maintain khlai na bagwi central bodies rogni activities tamo?",
+    "hint": "A20230328111127352351_281474976755508.wav"
+  },
+  {
+    "quesId": "Q20230328110215610707",
+    "Q_Id": "ST_13",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Language technology device no develop khlai na bagwi tamo nang?",
+    "hint": "A20230328111127658945_281474976755509.wav"
+  },
+  {
+    "quesId": "Q20230328110215611033",
+    "Q_Id": "ST_14",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Digital literacy bwswk jora twi nangwi tong aborogno sawi de mano?",
+    "hint": "A20230328111127927469_281474976755510.wav"
+  },
+  {
+    "quesId": "Q20230328110215611356",
+    "Q_Id": "ST_15",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Computational linguistics ni nangkuk marog tamo abono sadi?",
+    "hint": "A20230328111128281207_281474976755511.wav"
+  },
+  {
+    "quesId": "Q20230328110215611677",
+    "Q_Id": "ST_16",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Natural language data o pot kaibwswk tong sawi de mano?",
+    "hint": "A20230328111128513440_281474976755512.wav"
+  },
+  {
+    "quesId": "Q20230328110215612040",
+    "Q_Id": "ST_17",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Kok samani khorangno bahai khe machine sini wi man?",
+    "hint": "A20230328111128768550_281474976755513.wav"
+  },
+  {
+    "quesId": "Q20230328110215612395",
+    "Q_Id": "ST_18",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Tamo khe text process khaiwi man podretpot stages ni linguistics analysis o?",
+    "hint": "A20230328111129080932_281474976755514.wav"
+  },
+  {
+    "quesId": "Q20230328110215612722",
+    "Q_Id": "ST_19",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Kok bwtang bahai khe bakjagwi man sawi de mano?",
+    "hint": "A20230328111129313821_281474976755515.wav"
+  },
+  {
+    "quesId": "Q20230328110215613044",
+    "Q_Id": "ST_20",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Part of speech tagging o tamo tamo gwdal jak tong?",
+    "hint": "A20230328111129571143_281474976755516.wav"
+  },
+  {
+    "quesId": "Q20230328110215613369",
+    "Q_Id": "ST_21",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Morph analysis ni role tamo nwng sawi de mano?",
+    "hint": "A20230328111129802246_281474976755517.wav"
+  },
+  {
+    "quesId": "Q20230328110215613693",
+    "Q_Id": "ST_22",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Syntactic analysis ni kokthai bahai khe khwlai jak?",
+    "hint": "A20230328111130102630_281474976755518.wav"
+  },
+  {
+    "quesId": "Q20230328110215614021",
+    "Q_Id": "ST_23",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Syntactic parsing o tamo tamo khlai na nang?",
+    "hint": "A20230328111130329490_281474976755519.wav"
+  },
+  {
+    "quesId": "Q20230328110215614344",
+    "Q_Id": "ST_24",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Tamni bagwi National Digital Literay Mission sogsa jak?",
+    "hint": "A20230328111130686108_281474976755520.wav"
+  },
+  {
+    "quesId": "Q20230328110215614671",
+    "Q_Id": "ST_25",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Sakni kokni kokthai no bahai khe kokbwtang swnamwi man nai, nwng kok sama ni kokbwtangno bwswk joratwi phologwi man eba phologwi manya de?",
+    "hint": "A20230328111131033023_281474976755521.wav"
+  },
+  {
+    "quesId": "Q20230328110215614988",
+    "Q_Id": "ST_26",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Kok no swrwngwi nwng tamo man? Kok no rwngwi bahai khe nwng samwngo thepa nai?",
+    "hint": "A20230328111131296085_281474976755522.wav"
+  },
+  {
+    "quesId": "Q20230328110215615304",
+    "Q_Id": "ST_27",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Phonetics bai phonology boro pherlai sawi de mano?",
+    "hint": "A20230328111131595558_281474976755523.wav"
+  },
+  {
+    "quesId": "Q20230328110215615637",
+    "Q_Id": "ST_28",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Bahai khe speech sound organ bai cavities samwng o bedokjak kok ni khorang kari phru?",
+    "hint": "A20230328111131868017_281474976755524.wav"
+  },
+  {
+    "quesId": "Q20230328110215615988",
+    "Q_Id": "ST_29",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "IPA bo samwngo chuk?",
+    "hint": "A20230328111132192366_281474976755525.wav"
+  },
+  {
+    "quesId": "Q20230328110215616314",
+    "Q_Id": "ST_30",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Language o design properties rog de tong?",
+    "hint": "A20230328111132422143_281474976755526.wav"
+  },
+  {
+    "quesId": "Q20230328110215616643",
+    "Q_Id": "ST_31",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Morphemes tamono hin? Morphemes tamoni bagwi samwng nang abono sadi?",
+    "hint": "A20230328111132736737_281474976755527.wav"
+  },
+  {
+    "quesId": "Q20230328110215616969",
+    "Q_Id": "ST_32",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Pulmonic bai non-pulmonic ni khorang boro pherlai sadi?",
+    "hint": "A20230328111133047923_281474976755528.wav"
+  },
+  {
+    "quesId": "Q20230328110215617299",
+    "Q_Id": "ST_33",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Bahai khe sarithai khorang kari jagwi tong chini vocal ongarns ni bising twi?",
+    "hint": "A20230328111133392711_281474976755529.wav"
+  },
+  {
+    "quesId": "Q20230328110215617613",
+    "Q_Id": "ST_34",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Linguistics method ni bising twi bahai khe sakni kok bai buini kokno transcribe khaijagwi tong?",
+    "hint": "A20230328111133656701_281474976755530.wav"
+  },
+  {
+    "quesId": "Q20230328110215617927",
+    "Q_Id": "ST_35",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "PRAAT no bahai khe samwngo phwnang jak kokni khorangno sini sokna bagwi?",
+    "hint": "A20230328111133915041_281474976755531.wav"
+  },
+  {
+    "quesId": "Q20230328110215618262",
+    "Q_Id": "ST_36 (Scientific Research)",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Scientific research tamni bagwi khlai jak?",
+    "hint": "A20230328111134171373_281474976755532.wav"
+  },
+  {
+    "quesId": "Q20230328110215618588",
+    "Q_Id": "ST_37",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Scientific research khlaina swkang puila nangkuk mani elements rog tamo?",
+    "hint": "A20230328111134485842_281474976755533.wav"
+  },
+  {
+    "quesId": "Q20230328110215618914",
+    "Q_Id": "ST_38",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Reaseach structure no design khlaina bagwi scientific research ni bedekrog bwswk jora twi chuba wi man kha?",
+    "hint": "A20230328111134763852_281474976755534.wav"
+  },
+  {
+    "quesId": "Q20230328110215619240",
+    "Q_Id": "ST_39",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Observational data collection ni technique bai experimental technique boro pher lai?",
+    "hint": "A20230328111135034787_281474976755535.wav"
+  },
+  {
+    "quesId": "Q20230328110215619569",
+    "Q_Id": "ST_40",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Tamo medium bai scientific research khai thani o applied khaiwi man?",
+    "hint": "A20230328111135339941_281474976755536.wav"
+  },
+  {
+    "quesId": "Q20230328110215619915",
+    "Q_Id": "ST_41",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "descriptive eba analytical method ni classification of scientific research no twiwi sawi de mano?",
+    "hint": "A20230328111135612317_281474976755537.wav"
+  },
+  {
+    "quesId": "Q20230328110215620244",
+    "Q_Id": "ST_42",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "descriptive method of research ni case report bai case series no twiwi aborogni nang kuk marogno twiwi sawi de mano?",
+    "hint": "A20230328111135931958_281474976755538.wav"
+  },
+  {
+    "quesId": "Q20230328110215620571",
+    "Q_Id": "ST_43",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "analytical scientific research bai desriptve method ni pherlaimwng rogno tamo uasok sawi de mano?",
+    "hint": "A20230328111136252209_281474976755539.wav"
+  },
+  {
+    "quesId": "Q20230328110215620902",
+    "Q_Id": "ST_44",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "observational reserach bahai khe research studies ni slai hamkuk?",
+    "hint": "A20230328111136512764_281474976755540.wav"
+  },
+  {
+    "quesId": "Q20230328110215621229",
+    "Q_Id": "ST_45",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Tamni bagwi observational bai experimental studies o cohort research nang?",
+    "hint": "A20230328111136782616_281474976755541.wav"
+  },
+  {
+    "quesId": "Q20230328110215621582",
+    "Q_Id": "ST_46",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Case-control studies bai Cross sectional studies ni nang kuk marogno twiwi sadi?",
+    "hint": "A20230328111137053448_281474976755542.wav"
+  },
+  {
+    "quesId": "Q20230328110215621914",
+    "Q_Id": "ST_47",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Interventional research abo tamo?",
+    "hint": "A20230328111137381124_281474976755543.wav"
+  },
+  {
+    "quesId": "Q20230328110215622237",
+    "Q_Id": "ST_48",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Kaisa khajak bodol ni clinical caes o bahai clinical research khlai man?",
+    "hint": "A20230328111137651697_281474976755544.wav"
+  },
+  {
+    "quesId": "Q20230328110215622561",
+    "Q_Id": "ST_49",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Clinical research ni importance rog tamo abono twiwi sadi?",
+    "hint": "A20230328111137896768_281474976755545.wav"
+  },
+  {
+    "quesId": "Q20230328110215622879",
+    "Q_Id": "ST_50",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Clinical research o randomistion bai blinding method bahai khe samwngo bedok jak?",
+    "hint": "A20230328111138166431_281474976755546.wav"
+  },
+  {
+    "quesId": "Q20230328110215623193",
+    "Q_Id": "ST_51General",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Twi bai chwng tamo khlai? Twino chwng bahai khe sake wi na?",
+    "hint": "A20230328111138443685_281474976755547.wav"
+  },
+  {
+    "quesId": "Q20230328110215623505",
+    "Q_Id": "ST_52",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Twi kwchwng khlai na bagwi chlorination bai bleaching no tamni bagwi chwng twi o ma dal?",
+    "hint": "A20230328111138707939_281474976755548.wav"
+  },
+  {
+    "quesId": "Q20230328110215623833",
+    "Q_Id": "ST_53",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Tamni bagwi chwng twi no khati na nang?",
+    "hint": "A20230328111138958399_281474976755549.wav"
+  },
+  {
+    "quesId": "Q20230328110215624178",
+    "Q_Id": "ST_54",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Bahai khe chwng nobar no kobonwi tongo hwnwi phunuk man-nai?",
+    "hint": "A20230328111139273711_281474976755550.wav"
+  },
+  {
+    "quesId": "Q20230328110215624504",
+    "Q_Id": "ST_55",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Tamni bagwi chwng oxygen nang chini langma o?",
+    "hint": "A20230328111139503481_281474976755551.wav"
+  },
+  {
+    "quesId": "Q20230328110215624827",
+    "Q_Id": "ST_56",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Bolong hokmani eba buphang tanmani tamno hin? Chwng bolong soksa khe tamo wngnai?",
+    "hint": "A20230328111139771124_281474976755552.wav"
+  },
+  {
+    "quesId": "Q20230328110215625157",
+    "Q_Id": "ST_57",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "North pole bai south pole ni chumbuk tamni bagwi kwpha?",
+    "hint": "A20230328111140051214_281474976755553.wav"
+  },
+  {
+    "quesId": "Q20230328110215625467",
+    "Q_Id": "ST_58",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Sor dal bwswk tong? Sor bai chwng tamo tamo manwi swnamwi man?",
+    "hint": "A20230328111140314040_281474976755554.wav"
+  },
+  {
+    "quesId": "Q20230328110215625777",
+    "Q_Id": "ST_59",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Manwi dal bwswk tong?",
+    "hint": "A20230328111140668310_281474976755555.wav"
+  },
+  {
+    "quesId": "Q20230328110215626091",
+    "Q_Id": "ST_60",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Sor ni manwi wngya no tamo hin nai? Bo jagao o manwi rog samwngo thepa jak?",
+    "hint": "A20230328111140936929_281474976755556.wav"
+  },
+  {
+    "quesId": "Q20230328110215626400",
+    "Q_Id": "ST_61",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Twi khamchwi bahai khe watwi tubu wi phai?",
+    "hint": "A20230328111141176852_281474976755557.wav"
+  },
+  {
+    "quesId": "Q20230328110215626707",
+    "Q_Id": "ST_62",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Twi khamchwi bahai khe wngwi man?",
+    "hint": "A20230328111141424859_281474976755558.wav"
+  },
+  {
+    "quesId": "Q20230328110215627014",
+    "Q_Id": "ST_63",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Langma bobo hai khe kitingwi tong?",
+    "hint": "A20230328111141653452_281474976755559.wav"
+  },
+  {
+    "quesId": "Q20230328110215627326",
+    "Q_Id": "ST_64",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Watwi twi thum mano tamo hinjak?",
+    "hint": "A20230328111141883634_281474976755560.wav"
+  },
+  {
+    "quesId": "Q20230328110215627637",
+    "Q_Id": "ST_65",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Mobile phone bahai khe samwng khlai?",
+    "hint": "A20230328111142121306_281474976755561.wav"
+  },
+  {
+    "quesId": "Q20230328110215627981",
+    "Q_Id": "ST_66",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Mobile phone no bahai khe charge khlai?",
+    "hint": "A20230328111142362826_281474976755562.wav"
+  },
+  {
+    "quesId": "Q20230328110215628311",
+    "Q_Id": "ST_67",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "You-tube channels o nwng tamo rogno nai kuk?",
+    "hint": "A20230328111142593269_281474976755563.wav"
+  },
+  {
+    "quesId": "Q20230328110215628632",
+    "Q_Id": "ST_68",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Current no karwi tei bobo hai khe charge khlai?",
+    "hint": "A20230328111142867201_281474976755564.wav"
+  },
+  {
+    "quesId": "Q20230328110215628959",
+    "Q_Id": "ST_69",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini bulbs no tamo tamo bai mwchwng?",
+    "hint": "A20230328111143175049_281474976755565.wav"
+  },
+  {
+    "quesId": "Q20230328110215629295",
+    "Q_Id": "ST_70",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Solar energy no bahai khe kari jak?",
+    "hint": "A20230328111143425095_281474976755566.wav"
+  },
+  {
+    "quesId": "Q20230328110215629604",
+    "Q_Id": "ST_71",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Juda juda power sources ni bagwi bahai khe setup khlai jak?",
+    "hint": "A20230328111143733401_281474976755567.wav"
+  },
+  {
+    "quesId": "Q20230328110215629913",
+    "Q_Id": "ST_72",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Twi nungjak nai manthok rwna bagwi tamo khlai jak kha?",
+    "hint": "A20230328111143967221_281474976755568.wav"
+  },
+  {
+    "quesId": "Q20230328110215630225",
+    "Q_Id": "ST_73",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Twi nungna swkang tamni bagwi chwng twino muthung na nang?",
+    "hint": "A20230328111144206755_281474976755569.wav"
+  },
+  {
+    "quesId": "Q20230328110215630554",
+    "Q_Id": "ST_74",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Sal ni pohor bai bahai khe chwng chwngpherang karii man?",
+    "hint": "A20230328111144478714_281474976755570.wav"
+  },
+  {
+    "quesId": "Q20230328110215630868",
+    "Q_Id": "ST_75",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini mobile o bobo twi jwngjal rog sok phai tei abono bahai khe swnamwi na phi?",
+    "hint": "A20230328111144797824_281474976755571.wav"
+  },
+  {
+    "quesId": "Q20230328110215631181",
+    "Q_Id": "ST_76",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Dalbidal shopping apps rogno nwng bahai khe samwngo phwnang?",
+    "hint": "A20230328111145114424_281474976755572.wav"
+  },
+  {
+    "quesId": "Q20230328110215631497",
+    "Q_Id": "ST_77",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Norokni mobile phone bai norok tamo khlai?",
+    "hint": "A20230328111145394898_281474976755573.wav"
+  },
+  {
+    "quesId": "Q20230328110215631848",
+    "Q_Id": "ST_78",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Watwi doroma khe phaimani jora o tamni bagwi chwng pherang chwngrwya khlai jak?",
+    "hint": "A20230328111145704872_281474976755574.wav"
+  },
+  {
+    "quesId": "Q20230328110215632189",
+    "Q_Id": "ST_79",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini TV ni loge tei tamo tamo manwi rog man?",
+    "hint": "A20230328111145944339_281474976755575.wav"
+  },
+  {
+    "quesId": "Q20230328110215632554",
+    "Q_Id": "ST_80",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini TV ni set-top box no bahai khe research khlai?",
+    "hint": "A20230328111146297627_281474976755576.wav"
+  },
+  {
+    "quesId": "Q20230328110215632891",
+    "Q_Id": "ST_81",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini phone ni camera no bahai khe samwngo phnang tei bobo hai jora o?",
+    "hint": "A20230328111146574807_281474976755577.wav"
+  },
+  {
+    "quesId": "Q20230328110215633229",
+    "Q_Id": "ST_82",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Mobile phone kwrwi ni swkang borokrog bai bahai khe tongwi phailai eba malai-lai phailai?",
+    "hint": "A20230328111146854402_281474976755578.wav"
+  },
+  {
+    "quesId": "Q20230328110215633567",
+    "Q_Id": "ST_83",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Inverter no dam bwswk charge khlai khe chwngpherang manwi man-nai?",
+    "hint": "A20230328111147116259_281474976755579.wav"
+  },
+  {
+    "quesId": "Q20230328110215633893",
+    "Q_Id": "ST_84",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Sirisiti ni jora o norokni hodao bahai khe mai sukrwi phailai?",
+    "hint": "A20230328111147382418_281474976755580.wav"
+  },
+  {
+    "quesId": "Q20230328110215634213",
+    "Q_Id": "ST_85",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Bwswk jora twi nwng jora no rwkthar?",
+    "hint": "A20230328111147651896_281474976755581.wav"
+  },
+  {
+    "quesId": "Q20230328110215634534",
+    "Q_Id": "ST_86",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Sal ni pohor no bobo jagao samwng phwnwng jak?",
+    "hint": "A20230328111147906732_281474976755582.wav"
+  },
+  {
+    "quesId": "Q20230328110215634858",
+    "Q_Id": "ST_87",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Bobo hai khe chokheleng pasa?",
+    "hint": "A20230328111148137115_281474976755658.wav"
+  },
+  {
+    "quesId": "Q20230328110215635177",
+    "Q_Id": "ST_88",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Tamni bagwi bangla phai?",
+    "hint": "A20230328111148371947_281474976755659.wav"
+  },
+  {
+    "quesId": "Q20230328110215635496",
+    "Q_Id": "ST_89",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Bobo hai khe pherang kog?",
+    "hint": "A20230328111148701220_281474976755660.wav"
+  },
+  {
+    "quesId": "Q20230328110215635833",
+    "Q_Id": "ST_90",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Nwng bahai khe hama sosa? Nwng hama sosa mani jorao bo bwsak ni manwi samwng khlai?",
+    "hint": "A20230328111149058479_281474976755661.wav"
+  },
+  {
+    "quesId": "Q20230328110215636173",
+    "Q_Id": "ST_91",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Kwthang bai kwthwi manwi rogno tamo hin?",
+    "hint": "A20230328111149309008_281474976755662.wav"
+  },
+  {
+    "quesId": "Q20230328110215636511",
+    "Q_Id": "ST_92",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini gana-gini o nugwi tong mani kwthang manwi-rogno twiwi kisa sadi?",
+    "hint": "A20230328111149588766_281474976755663.wav"
+  },
+  {
+    "quesId": "Q20230328110215636844",
+    "Q_Id": "ST_93",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Nini gana-gini o nugwi tong mani kwthwi manwi-rogno twiwi kisa sadi?",
+    "hint": "A20230328111149862473_281474976755664.wav"
+  },
+  {
+    "quesId": "Q20230328110215637183",
+    "Q_Id": "ST_94",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Chini mangpli bahai khe nukjak eba pasa?",
+    "hint": "A20230328111150137989_281474976755665.wav"
+  },
+  {
+    "quesId": "Q20230328110215637516",
+    "Q_Id": "ST_95",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Chwng chama ni jora o bo bwsak ni manwi tamo samwng khlai?",
+    "hint": "A20230328111150454809_281474976755666.wav"
+  },
+  {
+    "quesId": "Q20230328110215637843",
+    "Q_Id": "ST_96",
+    "Domain": "Science-Technology",
+    "Elicitation Method": "Narration",
+    "sentence": "Malkhung no chwng bahai khe chalok na cheng?",
+    "hint": "A20230328111150699308_281474976755667.wav"
+  }
+]

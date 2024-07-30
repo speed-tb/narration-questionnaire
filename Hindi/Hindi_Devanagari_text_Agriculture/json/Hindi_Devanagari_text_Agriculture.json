@@ -1,0 +1,2050 @@
+[
+  {
+    "quesId": "Q20221213070711264110",
+    "Q_Id": "AG_1",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समाज के लोग किस प्रकार की फसलें उगाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711264470",
+    "Q_Id": "AG_2",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "फसल उगाने वाले लोगों को क्या कहा जाता है? क्या वे केवल फसल उगाते हैं या वे अन्य गतिविधियों में भी लगे हुए हैं? वे किस तरह की अन्य गतिविधियों में लगे हुए हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711264921",
+    "Q_Id": "AG_3",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने समाज में उगाई जाने वाली कम से कम 5 सब्जियों के नाम बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711265273",
+    "Q_Id": "AG_4",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ये सब्जियां किन महीनों / मौसमों में उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711265599",
+    "Q_Id": "AG_5",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन सब्जियों को उगाने की प्रक्रिया क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711265918",
+    "Q_Id": "AG_6",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711266231",
+    "Q_Id": "AG_7",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711266550",
+    "Q_Id": "AG_8",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711266876",
+    "Q_Id": "AG_9",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711267195",
+    "Q_Id": "AG_10",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने समाज में उगाए जाने वाले कम से कम 5 फलों के नाम बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711267513",
+    "Q_Id": "AG_11",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ये फल किन महीनों / मौसमों में उगाए जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711267835",
+    "Q_Id": "AG_12",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन फलों को उगाने की प्रक्रिया क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711268147",
+    "Q_Id": "AG_13",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711268458",
+    "Q_Id": "AG_14",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711268771",
+    "Q_Id": "AG_15",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711269103",
+    "Q_Id": "AG_16",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711269427",
+    "Q_Id": "AG_17",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने समाज में उगाए जाने वाले 2-3 अनाजों के नाम बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711269742",
+    "Q_Id": "AG_18",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ये अनाज किन महीनों / मौसमों में उगाए जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711270060",
+    "Q_Id": "AG_19",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन अनाजों को उगाने की प्रक्रिया क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711270372",
+    "Q_Id": "AG_20",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711270685",
+    "Q_Id": "AG_21",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711271000",
+    "Q_Id": "AG_22",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711271311",
+    "Q_Id": "AG_23",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711271626",
+    "Q_Id": "AG_24",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने समाज में उगाई जाने वाली 2-3 अन्य फसलों के नाम बताएं",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711271940",
+    "Q_Id": "AG_25",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ये फसलें किन महीनों / मौसमों में उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711272255",
+    "Q_Id": "AG_26",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन फसलों को उगाने की प्रक्रिया क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711272566",
+    "Q_Id": "AG_27",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711272888",
+    "Q_Id": "AG_28",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711273202",
+    "Q_Id": "AG_29",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711273514",
+    "Q_Id": "AG_30",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711273826",
+    "Q_Id": "AG_31",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने समाज में उगाए गए कम से कम 5 पेड़ों के नाम बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711274135",
+    "Q_Id": "AG_32",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन पेड़ों का क्या उपयोग हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711274446",
+    "Q_Id": "AG_33",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन पेड़ों को उगाने की प्रक्रिया क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711274757",
+    "Q_Id": "AG_34",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711275073",
+    "Q_Id": "AG_35",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711275384",
+    "Q_Id": "AG_36",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "हमें अपने समाज में कृषि पद्धति की कुछ अनूठी विशेषताओं के बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711275694",
+    "Q_Id": "AG_37",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "पिछले कुछ वर्षों में आपके समाज की कृषि पद्धति में क्या परिवर्तन हुए हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711276009",
+    "Q_Id": "AG_38",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "हमें अपने समाज में कृषि, इसकी प्रासंगिकता और कृषि पद्धतियों के बारे में कोई अन्य रोचक/प्रासंगिक जानकारी/टिप्पणियां दीजिए",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711276322",
+    "Q_Id": "AG_39",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समाज में कृषि में किस प्रकार की मशीनों का उपयोग किया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711276634",
+    "Q_Id": "AG_40",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन मशीनों का क्या उपयोग हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711276964",
+    "Q_Id": "AG_41",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे आपके समाज में कृषि गतिविधियों के बेहतर प्रबंधन में कैसे मदद करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711277298",
+    "Q_Id": "AG_42",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समाज में खेती और कृषि के लिए किस प्रकार की अन्य तकनीकों का उपयोग किया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711277613",
+    "Q_Id": "AG_43",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उनका उपयोग कैसे और किस उद्देश्य के लिए किया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711277926",
+    "Q_Id": "AG_44",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समाज में खेती में किस प्रकार के जानवरों का उपयोग किया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711278238",
+    "Q_Id": "AG_45",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "अपने समाज में खेती में पशुओं की भूमिका और प्रासंगिकता के बारे में कुछ बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711278551",
+    "Q_Id": "AG_112",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आप अपनी फसलों की सिंचाई कैसे करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711278863",
+    "Q_Id": "AG_113",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "जब वर्षा नहीं होती है तब आप फसलों की सिचाई कैसे करते हैं ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711279189",
+    "Q_Id": "AG_114",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आप अपने गाँव में क्या उगाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711279502",
+    "Q_Id": "AG_115",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपकी किस फसल को कम या ज्यादा पानी चाहिए होता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711279813",
+    "Q_Id": "AG_116",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "सर्दी के मौसम में कौन - कौन सी फसलें लगाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711280126",
+    "Q_Id": "AG_117",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बरसात के मौसम में कौन - कौन सी फसलें लगाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711280437",
+    "Q_Id": "AG_118",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आप सभी मौसमों में कौन - कौन सी फसलें लगाते हैं ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711280745",
+    "Q_Id": "AG_119",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "खेती से संबंधित काम परिवार में किस तरह से बांटे जात हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711281080",
+    "Q_Id": "AG_120",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "खेती के लिए आप किन मशीनों का प्रयोग करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711281396",
+    "Q_Id": "AG_121",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "फसलें उगाने के लिए आप कौन - कौन से खाद प्रयोग करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711281710",
+    "Q_Id": "AG_122",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गोबर की खाद आप किन - किन फसलों को उगाने के लिए प्रयोग करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711282025",
+    "Q_Id": "AG_123",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समुदाय में मछली पालने या पकड़ने का काम कौन करता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711282339",
+    "Q_Id": "AG_124",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समुदाय में मुर्गी पालन कौन करता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711282651",
+    "Q_Id": "AG_125",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समुदाय में पशुपालन कौन करता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711282961",
+    "Q_Id": "AG_126",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समुदाय में बकरी पालन कौन करता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711283273",
+    "Q_Id": "AG_127",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समुदाय में भेड़ पालन कौन करता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711283583",
+    "Q_Id": "AG_128",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आप कौन - कौन से दूध देने वाले पशू पालते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711283892",
+    "Q_Id": "AG_129",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आप दूध से क्या - क्या बनाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711284203",
+    "Q_Id": "AG_130",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आप अपने धुधारू पशुओं को क्या खिलाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711284519",
+    "Q_Id": "AG_131",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आप कौन - कौन सी दालें उगाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711284845",
+    "Q_Id": "AG_132",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आप कौन - कौन सी हरी सब्जियां उगाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711285164",
+    "Q_Id": "AG_133",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आप कौन - कौन सी सब्जियां उगाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711285476",
+    "Q_Id": "AG_134",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "फसलों को काटकर आप कहां रखते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711285786",
+    "Q_Id": "AG_135",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपको सरकार की तरफ से कौन - कौन से फसल बीमा मिलते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711286096",
+    "Q_Id": "AG_276",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आप मांस को कैसे संरक्षित करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711286407",
+    "Q_Id": "AG_277",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आप कच्ची सब्जियों को कैसे संरक्षित करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711286716",
+    "Q_Id": "AG_278",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आप मछली को कैसे संरक्षित करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711287024",
+    "Q_Id": "AG_279",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आप देसी शराब कैसे बनाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711287333",
+    "Q_Id": "AG_280",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "देसी शराब बनाने के लिए किन सामग्रियों का प्रयोग किया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711287644",
+    "Q_Id": "AG_46",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "चावल उगाने के लिए किस प्रकार के बीजों का प्रयोग किया जाता है? उनके फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711287956",
+    "Q_Id": "AG_47",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "चावल की विभिन्न किस्में कौन सी उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711288289",
+    "Q_Id": "AG_48",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "चावल की विभिन्न किस्में किन महीनों / मौसमों में उगाई जाती हैं - अगर चावल की केवल एक ही किस्म की खेती की जाती है, तो उसके बारे में ही बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711288604",
+    "Q_Id": "AG_49",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "चावल की विभिन्न किस्मों को उगाने की प्रक्रिया क्या है - अगर चावल की केवल एक किस्म की खेती की जाती है, तो हमें केवल उसके बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711288926",
+    "Q_Id": "AG_50",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711289250",
+    "Q_Id": "AG_51",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711289566",
+    "Q_Id": "AG_52",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711289876",
+    "Q_Id": "AG_53",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711290188",
+    "Q_Id": "AG_54",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मक्का उगाने के लिए किस प्रकार के बीजों का प्रयोग किया जाता है? उनके फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711290499",
+    "Q_Id": "AG_55",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मक्के की विभिन्न किस्में कौन सी उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711290809",
+    "Q_Id": "AG_56",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मक्के की विभिन्न किस्में किन महीनों / मौसमों में उगाई जाती हैं - अगर मक्के की केवल एक ही किस्म की खेती की जाती है, तो उसके बारे में ही बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711291123",
+    "Q_Id": "AG_57",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मक्के की विभिन्न किस्मों को उगाने की प्रक्रिया क्या है - अगर मक्के की केवल एक किस्म की खेती की जाती है, तो हमें केवल उसके बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711291438",
+    "Q_Id": "AG_58",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711291752",
+    "Q_Id": "AG_59",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711292062",
+    "Q_Id": "AG_60",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711292369",
+    "Q_Id": "AG_61",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711292678",
+    "Q_Id": "AG_62",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मिर्च उगाने के लिए किस प्रकार के बीजों का प्रयोग किया जाता है? उनके फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711293025",
+    "Q_Id": "AG_63",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मिर्च की विभिन्न किस्में कौन सी उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711293343",
+    "Q_Id": "AG_64",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मिर्च की विभिन्न किस्में किन महीनों / मौसमों में उगाई जाती हैं - अगर मिर्च की केवल एक ही किस्म की खेती की जाती है, तो उसके बारे में ही बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711293673",
+    "Q_Id": "AG_65",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मिर्च की विभिन्न किस्मों को उगाने की प्रक्रिया क्या है - अगर मिर्च की केवल एक किस्म की खेती की जाती है, तो हमें केवल उसके बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711293990",
+    "Q_Id": "AG_66",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711294304",
+    "Q_Id": "AG_67",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711294617",
+    "Q_Id": "AG_68",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711294926",
+    "Q_Id": "AG_69",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711295236",
+    "Q_Id": "AG_70",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "हल्दी उगाने के लिए किस प्रकार के बीजों का प्रयोग किया जाता है? उनके फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711295549",
+    "Q_Id": "AG_71",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "हल्दी की विभिन्न किस्में कौन सी उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711295859",
+    "Q_Id": "AG_72",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "हल्दी की विभिन्न किस्में किन महीनों / मौसमों में उगाई जाती हैं - अगर हल्दी की केवल एक ही किस्म की खेती की जाती है, तो उसके बारे में ही बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711296170",
+    "Q_Id": "AG_73",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "हल्दी की विभिन्न किस्मों को उगाने की प्रक्रिया क्या है - अगर हल्दी की केवल एक किस्म की खेती की जाती है, तो हमें केवल उसके बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711296481",
+    "Q_Id": "AG_74",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711296791",
+    "Q_Id": "AG_75",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711297125",
+    "Q_Id": "AG_76",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711297435",
+    "Q_Id": "AG_77",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711297744",
+    "Q_Id": "AG_78",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आलू उगाने के लिए किस प्रकार के बीजों का प्रयोग किया जाता है? उनके फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711298056",
+    "Q_Id": "AG_79",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आलू की विभिन्न किस्में कौन सी उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711298366",
+    "Q_Id": "AG_80",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आलू की विभिन्न किस्में किन महीनों / मौसमों में उगाई जाती हैं - अगर आलू की केवल एक ही किस्म की खेती की जाती है, तो उसके बारे में ही बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711298679",
+    "Q_Id": "AG_81",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आलू की विभिन्न किस्मों को उगाने की प्रक्रिया क्या है - अगर आलू की केवल एक किस्म की खेती की जाती है, तो हमें केवल उसके बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711298989",
+    "Q_Id": "AG_82",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711299304",
+    "Q_Id": "AG_83",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711299621",
+    "Q_Id": "AG_84",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711299937",
+    "Q_Id": "AG_85",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711300251",
+    "Q_Id": "AG_281",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बाजरा उगाने के लिए किस प्रकार के बीजों का प्रयोग किया जाता है? उनके फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711300562",
+    "Q_Id": "AG_282",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बाजरा की विभिन्न किस्में कौन सी उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711300881",
+    "Q_Id": "AG_283",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बाजरा की विभिन्न किस्में किन महीनों / मौसमों में उगाई जाती हैं - अगर बाजरा की केवल एक ही किस्म की खेती की जाती है, तो उसके बारे में ही बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711301194",
+    "Q_Id": "AG_284",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बाजरा की विभिन्न किस्मों को उगाने की प्रक्रिया क्या है - अगर बाजरा की केवल एक किस्म की खेती की जाती है, तो हमें केवल उसके बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711301507",
+    "Q_Id": "AG_285",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711301820",
+    "Q_Id": "AG_286",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711302129",
+    "Q_Id": "AG_287",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711302549",
+    "Q_Id": "AG_288",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711302868",
+    "Q_Id": "AG_289",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "अदरक उगाने के लिए किस प्रकार के बीजों का प्रयोग किया जाता है? उनके फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711303181",
+    "Q_Id": "AG_290",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "अदरक की विभिन्न किस्में कौन सी उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711303490",
+    "Q_Id": "AG_291",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "अदरक की विभिन्न किस्में किन महीनों / मौसमों में उगाई जाती हैं - अगर अदरक की केवल एक ही किस्म की खेती की जाती है, तो उसके बारे में ही बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711303822",
+    "Q_Id": "AG_292",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "अदरक की विभिन्न किस्मों को उगाने की प्रक्रिया क्या है - अगर अदरक की केवल एक किस्म की खेती की जाती है, तो हमें केवल उसके बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711304139",
+    "Q_Id": "AG_293",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711304456",
+    "Q_Id": "AG_294",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711304773",
+    "Q_Id": "AG_295",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711305108",
+    "Q_Id": "AG_296",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711305422",
+    "Q_Id": "AG_297",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बडी इलायची उगाने के लिए किस प्रकार के बीजों का प्रयोग किया जाता है? उनके फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711305739",
+    "Q_Id": "AG_298",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बडी इलायची की विभिन्न किस्में कौन सी उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711306046",
+    "Q_Id": "AG_299",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बडी इलायची की विभिन्न किस्में किन महीनों / मौसमों में उगाई जाती हैं - अगर बडी इलायची की केवल एक ही किस्म की खेती की जाती है, तो उसके बारे में ही बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711306360",
+    "Q_Id": "AG_300",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बडी इलायची की विभिन्न किस्मों को उगाने की प्रक्रिया क्या है - अगर बडी इलायची की केवल एक किस्म की खेती की जाती है, तो हमें केवल उसके बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711306668",
+    "Q_Id": "AG_301",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711306973",
+    "Q_Id": "AG_302",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711307277",
+    "Q_Id": "AG_303",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711307580",
+    "Q_Id": "AG_304",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711307881",
+    "Q_Id": "AG_305",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "सरसों उगाने के लिए किस प्रकार के बीजों का प्रयोग किया जाता है? उनके फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711308185",
+    "Q_Id": "AG_306",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "सरसों की विभिन्न किस्में कौन सी उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711308490",
+    "Q_Id": "AG_307",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "सरसों की विभिन्न किस्में किन महीनों / मौसमों में उगाई जाती हैं - अगर सरसों की केवल एक ही किस्म की खेती की जाती है, तो उसके बारे में ही बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711308818",
+    "Q_Id": "AG_308",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "सरसों की विभिन्न किस्मों को उगाने की प्रक्रिया क्या है - अगर सरसों की केवल एक किस्म की खेती की जाती है, तो हमें केवल उसके बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711309187",
+    "Q_Id": "AG_309",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711309522",
+    "Q_Id": "AG_310",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711309847",
+    "Q_Id": "AG_311",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711310164",
+    "Q_Id": "AG_312",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711310477",
+    "Q_Id": "AG_86",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आलू उगाने के लिए किस प्रकार के बीजों का प्रयोग किया जाता है? उनके फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711310793",
+    "Q_Id": "AG_87",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आलू की विभिन्न किस्में कौन सी उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711311109",
+    "Q_Id": "AG_88",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आलू की विभिन्न किस्में किन महीनों / मौसमों में उगाई जाती हैं - अगर आलू की केवल एक ही किस्म की खेती की जाती है, तो उसके बारे में ही बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711311422",
+    "Q_Id": "AG_89",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आलू की विभिन्न किस्मों को उगाने की प्रक्रिया क्या है - अगर आलू की केवल एक किस्म की खेती की जाती है, तो हमें केवल उसके बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711311738",
+    "Q_Id": "AG_90",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711312053",
+    "Q_Id": "AG_91",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711312365",
+    "Q_Id": "AG_92",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711312690",
+    "Q_Id": "AG_93",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711313020",
+    "Q_Id": "AG_94",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "केला उगाने के लिए किस प्रकार के बीजों का प्रयोग किया जाता है? उनके फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711313336",
+    "Q_Id": "AG_95",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "केला की विभिन्न किस्में कौन सी उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711313652",
+    "Q_Id": "AG_96",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "केला की विभिन्न किस्में किन महीनों / मौसमों में उगाई जाती हैं - अगर केला की केवल एक ही किस्म की खेती की जाती है, तो उसके बारे में ही बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711313967",
+    "Q_Id": "AG_97",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "केला की विभिन्न किस्मों को उगाने की प्रक्रिया क्या है - अगर केला की केवल एक किस्म की खेती की जाती है, तो हमें केवल उसके बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711314283",
+    "Q_Id": "AG_98",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711314596",
+    "Q_Id": "AG_99",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711314910",
+    "Q_Id": "AG_100",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711315230",
+    "Q_Id": "AG_101",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711315548",
+    "Q_Id": "AG_102",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आप अपने घर में किस तरह के जानवर रखते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711315864",
+    "Q_Id": "AG_103",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे किस लिए उपयोग किए जा रहे हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711316177",
+    "Q_Id": "AG_104",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "सूअरों का उपयोग किस लिए किया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711316493",
+    "Q_Id": "AG_105",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "सूअरों के लिए किस तरह का खाना बनाया और दिया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711316821",
+    "Q_Id": "AG_106",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "सूअरों की देखभाल कैसे की जाती है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711317139",
+    "Q_Id": "AG_107",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "सूअर किस प्रकार की बीमारी से पीड़ित होते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711317455",
+    "Q_Id": "AG_108",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "सूअर घर में कहाँ रहते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711317768",
+    "Q_Id": "AG_109",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "टोटो लोग मक्का कैसे उगाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711318082",
+    "Q_Id": "AG_110",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आप कटहल कैसे उगाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711318391",
+    "Q_Id": "AG_143",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "For kokborok",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711318701",
+    "Q_Id": "AG_144",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "चावल उगाने के लिए किस प्रकार के बीजों का उपयोग किया जाता है? उनके फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711319015",
+    "Q_Id": "AG_145",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "चावल की विभिन्न किस्में कौन सी उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711319351",
+    "Q_Id": "AG_146",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "चावल की विभिन्न किस्में किन महीनों / मौसमों में उगाई जाती हैं - यदि चावल की केवल एक ही किस्म की खेती की जाती है, तो उसके बारे में ही बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711319671",
+    "Q_Id": "AG_147",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "चावल की विभिन्न किस्मों को उगाने की प्रक्रिया क्या है - यदि चावल की केवल एक किस्म की खेती की जाती है, तो हमें केवल उसके बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711319988",
+    "Q_Id": "AG_148",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711320302",
+    "Q_Id": "AG_149",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का प्रयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711320617",
+    "Q_Id": "AG_150",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711320945",
+    "Q_Id": "AG_151",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711321267",
+    "Q_Id": "AG_152",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गेहूं उगाने के लिए किस प्रकार के बीजों का प्रयोग किया जाता है? उनके फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711321585",
+    "Q_Id": "AG_153",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गेहूं की विभिन्न किस्में कौन सी उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711321902",
+    "Q_Id": "AG_154",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गेहूं की विभिन्न किस्में किन महीनों / मौसमों में उगाई जाती हैं - यदि गेहूं की केवल एक ही किस्म की खेती की जाती है, तो उसके बारे में ही बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711322221",
+    "Q_Id": "AG_155",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गेहूं की विभिन्न किस्मों को उगाने की प्रक्रिया क्या है - यदि गेहूं की केवल एक किस्म की खेती की जाती है, तो हमें केवल उसके बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711322542",
+    "Q_Id": "AG_156",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711322859",
+    "Q_Id": "AG_157",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711323178",
+    "Q_Id": "AG_158",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711323495",
+    "Q_Id": "AG_159",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711323809",
+    "Q_Id": "AG_160",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मक्का उगाने के लिए किस प्रकार के बीजों का प्रयोग किया जाता है? उनके फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711324128",
+    "Q_Id": "AG_161",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मक्का की विभिन्न किस्में कौन सी उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711324441",
+    "Q_Id": "AG_162",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मक्का की विभिन्न किस्में किन महीनों / मौसमों में उगाई जाती हैं - यदि मक्का की केवल एक ही किस्म की खेती की जाती है, तो उसके बारे में ही बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711324753",
+    "Q_Id": "AG_163",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मक्का की विभिन्न किस्मों को उगाने की प्रक्रिया क्या है - यदि मक्का की केवल एक किस्म की खेती की जाती है, तो हमें केवल उसके बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711325088",
+    "Q_Id": "AG_164",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711325403",
+    "Q_Id": "AG_165",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711325719",
+    "Q_Id": "AG_166",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711326034",
+    "Q_Id": "AG_167",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711326352",
+    "Q_Id": "AG_168",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "दालें उगाने के लिए किस प्रकार के बीजों का प्रयोग किया जाता है? उनके फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711326669",
+    "Q_Id": "AG_169",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "दालों की विभिन्न किस्में कौन सी उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711326983",
+    "Q_Id": "AG_170",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "दालों की विभिन्न किस्में किन महीनों / मौसमों में उगाई जाती हैं - अगर दाल की केवल एक ही किस्म की खेती की जाती है, तो उसके बारे में ही बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711327301",
+    "Q_Id": "AG_171",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "दालों की विभिन्न किस्मों को उगाने की प्रक्रिया क्या है - यदि दाल की केवल एक किस्म की खेती की जाती है, तो हमें केवल उसके बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711327616",
+    "Q_Id": "AG_172",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711327932",
+    "Q_Id": "AG_173",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711328247",
+    "Q_Id": "AG_174",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711328561",
+    "Q_Id": "AG_175",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711328883",
+    "Q_Id": "AG_176",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गन्ना उगाने के लिए किस प्रकार के बीजों का प्रयोग किया जाता है? उनके फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711329201",
+    "Q_Id": "AG_177",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गन्ना की विभिन्न किस्में कौन सी उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711329512",
+    "Q_Id": "AG_178",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गन्ना की विभिन्न किस्में किन महीनों / मौसमों में उगाई जाती हैं - अगर गन्ना की केवल एक ही किस्म की खेती की जाती है, तो उसके बारे में ही बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711329826",
+    "Q_Id": "AG_179",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "गन्ना की विभिन्न किस्मों को उगाने की प्रक्रिया क्या है - अगर गन्ना की केवल एक किस्म की खेती की जाती है, तो हमें केवल उसके बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711330142",
+    "Q_Id": "AG_180",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711330458",
+    "Q_Id": "AG_181",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711330776",
+    "Q_Id": "AG_182",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711331087",
+    "Q_Id": "AG_183",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711331398",
+    "Q_Id": "AG_184",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "कपास उगाने के लिए किस प्रकार के बीजों का प्रयोग किया जाता है? उनके फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711331710",
+    "Q_Id": "AG_185",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "कपास की विभिन्न किस्में कौन सी उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711332021",
+    "Q_Id": "AG_186",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "कपास की विभिन्न किस्में किन महीनों / मौसमों में उगाई जाती हैं - अगर कपास की केवल एक ही किस्म की खेती की जाती है, तो उसके बारे में ही बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711332335",
+    "Q_Id": "AG_276",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "कपास की विभिन्न किस्मों को उगाने की प्रक्रिया क्या है - अगर कपास की केवल एक किस्म की खेती की जाती है, तो हमें केवल उसके बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711332651",
+    "Q_Id": "AG_277",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711332985",
+    "Q_Id": "AG_278",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711333305",
+    "Q_Id": "AG_279",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711333617",
+    "Q_Id": "AG_280",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711333927",
+    "Q_Id": "AG_281",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "जूट उगाने के लिए किस प्रकार के बीजों का प्रयोग किया जाता है? उनके फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711334241",
+    "Q_Id": "AG_282",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "जूट की विभिन्न किस्में कौन सी उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711334556",
+    "Q_Id": "AG_283",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "जूट की विभिन्न किस्में किन महीनों / मौसमों में उगाई जाती हैं - अगर जूट की केवल एक ही किस्म की खेती की जाती है, तो उसके बारे में ही बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711334874",
+    "Q_Id": "AG_284",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "जूट की विभिन्न किस्मों को उगाने की प्रक्रिया क्या है - अगर जूट की केवल एक किस्म की खेती की जाती है, तो हमें केवल उसके बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711335193",
+    "Q_Id": "AG_285",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711335509",
+    "Q_Id": "AG_286",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711335823",
+    "Q_Id": "AG_287",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711336139",
+    "Q_Id": "AG_288",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711336451",
+    "Q_Id": "AG_289",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मेस्टा उगाने के लिए किस प्रकार के बीजों का प्रयोग किया जाता है? उनके फायदे और नुकसान क्या हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711336766",
+    "Q_Id": "AG_290",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मेस्टा की विभिन्न किस्में कौन सी उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711337099",
+    "Q_Id": "AG_291",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मेस्टा की विभिन्न किस्में किन महीनों / मौसमों में उगाई जाती हैं - अगर जूट की केवल एक ही किस्म की खेती की जाती है, तो उसके बारे में ही बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711337413",
+    "Q_Id": "AG_292",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "मेस्टा की विभिन्न किस्मों को उगाने की प्रक्रिया क्या है - अगर जूट की केवल एक किस्म की खेती की जाती है, तो हमें केवल उसके बारे में बताइए?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711337730",
+    "Q_Id": "AG_293",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711338040",
+    "Q_Id": "AG_294",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें किस प्रकार की विशेष सुरक्षा / देखभाल की आवश्यकता है (जैसे कीटनाशक या ऐसे अन्य उपायों का उपयोग)?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711338356",
+    "Q_Id": "AG_295",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे अन्य लोगों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711338667",
+    "Q_Id": "AG_296",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "इन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711338985",
+    "Q_Id": "AG_187",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "For Chokri",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711339301",
+    "Q_Id": "AG_188",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समुदाय में चावल की कितनी किस्में उगाई जाती हैं? उन्हे नाम दो।",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711339616",
+    "Q_Id": "AG_189",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "चावल की विभिन्न किस्में किस महीने या मौसम में उगाई जाती हैं? और चावल की इन किस्मों में क्या अंतर है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711339930",
+    "Q_Id": "AG_190",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "चावल की खेती की प्रक्रिया के बारे में कुछ बताएं? क्या प्रक्रिया सभी विभिन्न किस्मों के लिए समान है? अगर अलग है, तो बताएं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711340246",
+    "Q_Id": "AG_191",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "चावल को विभिन्न हानिकारक तत्वों से बचाने के लिए उपयोग की जाने वाली विधि या प्रक्रिया क्या है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711340561",
+    "Q_Id": "AG_192",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711340888",
+    "Q_Id": "AG_193",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711341204",
+    "Q_Id": "AG_194",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "प्रति खेती चावल के कितने बैग निकाले जा सकता है? क्या इसे दूसरों को बेचने के लिए इस्तेमाल किया जा सकता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711341520",
+    "Q_Id": "AG_195",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आपके समुदाय में कितनी तरह की जड़ी-बूटियां और सब्जियां उगाई जाती हैं? उन्हे नाम दो?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711341838",
+    "Q_Id": "AG_196",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "विभिन्न प्रकार की जड़ी-बूटियाँ/सब्जियाँ किस महीने या मौसम में उगाई जाती हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711342153",
+    "Q_Id": "AG_197",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "विभिन्न प्रकार की जड़ी-बूटियों/सब्जियों को उगाने की प्रक्रिया के बारे में कुछ बताएं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711342784",
+    "Q_Id": "AG_199",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "विभिन्न प्रकार की जड़ी-बूटियों और सब्जियों को तैयार होने में कितना समय लगता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711343098",
+    "Q_Id": "AG_200",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उन्हें कैसे पकाया और खाया जाता है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711343415",
+    "Q_Id": "AG_201",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "वे दूसरों को कैसे बेचे जाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711343728",
+    "Q_Id": "AG_202",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आप घर पर किस तरह के जानवर रखते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711344042",
+    "Q_Id": "AG_203",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "उनका प्रयोग किस लिए हो रहा है?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711344355",
+    "Q_Id": "AG_204",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "आप अपने घर में विभिन्न जानवरों के लिए भोजन कैसे बनाते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711344667",
+    "Q_Id": "AG_205",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ये जानवर घर पर क्या भूमिका निभाते हैं? वे क्या योगदान करते हैं?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711345112",
+    "Q_Id": "AG_206",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "क्या इन जानवरों का सेवन किया जाता है? यदि हां तो कब और क्यों?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20221213070711345442",
+    "Q_Id": "AG_231",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "बोरो के लिए",
+    "hint": ""
+  }
+]
