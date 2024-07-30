@@ -1,0 +1,506 @@
+[
+  {
+    "quesId": "Q20240420113401410804",
+    "Q_Id": "AG_1",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "নকো জাইকো দেয়াংবিহা হাং হাং তিংচামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401422722",
+    "Q_Id": "AG_2",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "নিয়াংতা হাইক্রি তিংচাওয়া দেয়াংবিহিং হাং জাংমগা ?আবিহা নিয়াংতা হাইক্রিদাং তিংচামগা না লারাংসে হাংক্রিরে জোচামগা ?হেমজো লারাংসে হাং জোচামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401434665",
+    "Q_Id": "AG_3",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "নাবিকো জাইতা তিংচাওয়া নাচো য়েংব্রি কো মিং জাং ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401446902",
+    "Q_Id": "AG_4",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ই য়েংব্রি বিহা হানি ইরিতা তিংচামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401458909",
+    "Q_Id": "AG_5",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ই য়েংব্রি বিহা হেপা তিংনেমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401470980",
+    "Q_Id": "AG_8",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "আকু দেয়াংবিকতা হেপা পিচামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401482878",
+    "Q_Id": "AG_9",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ইয়া হেপা কিংমসা চামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401494843",
+    "Q_Id": "AG_10",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "নাবিকো জাইতা তিংওয়া নাচো ফল কো মিং জাং ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401506827",
+    "Q_Id": "AG_11",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ই ফল হানি এরিতা তিংমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401518985",
+    "Q_Id": "AG_12",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ই ফল হিং হেপা তিংনেমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401531158",
+    "Q_Id": "AG_13",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "আকুহিং মিংপাকো হাসে দিনাং ঘইমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401543100",
+    "Q_Id": "AG_14",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "আকুং হেপা কাংনেমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401555192",
+    "Q_Id": "AG_15",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "আকু হেপা দেয়াংবিকতা পিচামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401567097",
+    "Q_Id": "AG_16",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ইয়া হেপা কিংমসা চামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401579070",
+    "Q_Id": "AG_17",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "নাবিকো জাংতা নিয়াংতা তিংওয়া নিশো শুংচো চাওয়াকো মিং জাং ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401591293",
+    "Q_Id": "AG_18",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ই চাওয়া হানি মইনাতা তিংমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401603228",
+    "Q_Id": "AG_19",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ই চাওয়াবিহিং হেপা তিংনেমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401615372",
+    "Q_Id": "AG_20",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "আকুং জিংকো হাসে ঘইমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401627208",
+    "Q_Id": "AG_21",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "আকুং হেপা কাইনেকগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401639492",
+    "Q_Id": "AG_22",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "আকু হেপা দেয়াংবিকোতা পিচামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401651463",
+    "Q_Id": "AG_23",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ইয়া হেপা কিংমসা চামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401663312",
+    "Q_Id": "AG_24",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "নাবিকো জাইতা তিংওয়া নিশো শুংচো লারাংসে মইবকো মিং জাং",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401675128",
+    "Q_Id": "AG_25",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ই মইবয়বিহা হানি এরিতা তিংমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401686888",
+    "Q_Id": "AG_26",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ই মইংবেবিহা হেপা তিংনেমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401698873",
+    "Q_Id": "AG_27",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "আকু জিংকো হাসে ঘইচামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401710835",
+    "Q_Id": "AG_28",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "আকু হেপা কাংনেমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401722766",
+    "Q_Id": "AG_29",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "আকু দেয়াংবিহাতে হেপা পিচচামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401734699",
+    "Q_Id": "AG_30",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ইয়া হেপা কিংমসা চামগা?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401746741",
+    "Q_Id": "AG_31",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "নাবিকো জাংতা তিংওয়া নাচো সেংটেংকো মিং জাং",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401758661",
+    "Q_Id": "AG_32",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ই সেংটেংসো ইয়ংকো হাং এংতাপা জিংমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401770936",
+    "Q_Id": "AG_33",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ই সেংটেংবিংহা হেপা তিংমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401782790",
+    "Q_Id": "AG_34",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "আবিহা টেবো জিংকো হাসে ঘইমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401794703",
+    "Q_Id": "AG_36",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "কাবিহিং নাবিকো জাংতা নিয়াংতা হাইক্রি হেপা তিংমে জাং ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401806827",
+    "Q_Id": "AG_37",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "নাইগাইকো ইনিহতা নাবিকো জাংতা নিয়াংতা হাইক্রি তিংওয়াতা চুবে হাং জিংগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401818965",
+    "Q_Id": "AG_39",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "নাবিকো জাংতা নিয়াংতা হাইক্রি হানি মেশিনসো তিংচামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401830914",
+    "Q_Id": "AG_40",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ই মেশিনসো হাং জিংমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401843030",
+    "Q_Id": "AG_41",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "আকু নোকো জাংতা নিয়াংতা কাংপাওয়াতা হেপা এংতাপা জমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401855033",
+    "Q_Id": "AG_42",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "নোকো জ্যাতা নিয়াংতা কাংপাকো হাং চালাইচামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401866973",
+    "Q_Id": "AG_43",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "আবিহা হেপা আসাহ হাং জোকো ঘইমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401878832",
+    "Q_Id": "AG_44",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "নাবিকো জ্যাতা নিয়াংতা কাংপইকো হেমজো পিকা এতা এমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401890949",
+    "Q_Id": "AG_86",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "আলু তিংকো হেমজো সেঁবে ঘইমগা ?আবিকো এংতাওা আসাহ হাং মেংতাওা হাংগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401903150",
+    "Q_Id": "AG_87",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "লারাংসে হেমজো আলু তিংমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401915143",
+    "Q_Id": "AG_88",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "লারাংসে আলুবিহা হানি ইরিতা তিংমগা - আলু ইচো মেংচে জিংনাহা আকো নং জাং",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401927127",
+    "Q_Id": "AG_89",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "লারাংসে আলুুবিহা হেপা তিংমগা -আলুকো ইচো মেংচে সেবে তিংনাহা নিয়াংতা আকু বারিতা কাবিহিং জ্যায়",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401939435",
+    "Q_Id": "AG_90",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "আকুং য়োকো হাসে ঘইচামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401951300",
+    "Q_Id": "AG_92",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "আকু দেংয়াবিহিং হেপা পিচছামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401963214",
+    "Q_Id": "AG_93",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ইয়া হেপা কিংমসা চামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401975589",
+    "Q_Id": "AG_94",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ইয়ুংপি তিংকো হেমজো সেবে ঘইমগা ?আকো এংতাওা সহ মেইতাওা নও জাং",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401987689",
+    "Q_Id": "AG_95",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "হেমজো ইয়ুংপি তিংচামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401999684",
+    "Q_Id": "AG_96",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "লারাংসে ইয়ুংপিকো সেবে হানি ইরিতা তিংচামগা -ইচো সেবে কো মেংচে ইয়ুংপি তিংচানাহা আকো বারিতা ল্যায়",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113402012145",
+    "Q_Id": "AG_97",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "লারাংসে ইয়ুংপিকো সেবে হেপা তিংনেমগা -ইচো সেবে কো মেংচে নিয়াংতা ইয়ুংপি তিংনাহা আকো বারিতা কাবিহিং ল্যায়",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113402024398",
+    "Q_Id": "AG_98",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "আকুুহিং মিংকো হাসে ঘইমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113402036678",
+    "Q_Id": "AG_100",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ই দেয়াংবিহা হেপা পিচছামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113402048797",
+    "Q_Id": "AG_101",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "ইয়া হেপা কিংমসা চামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113402060954",
+    "Q_Id": "AG_102",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "নাতিহা নোকো সিতাহ হাং তুইচামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113402072916",
+    "Q_Id": "AG_103",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "আকুহা হাংতা ঘইদিংগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113402084832",
+    "Q_Id": "AG_104",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "পাকাবিহা হাংতা ঘইচামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113402096704",
+    "Q_Id": "AG_105",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "পাকাবিহা হেমজো আমা বানাইমসা আসাহ হেমজো আমা পিচ্ছামগা?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113402108586",
+    "Q_Id": "AG_106",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "পাকাবিহা হেপা কাইনেচামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113402120616",
+    "Q_Id": "AG_107",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "পাকা হিং হেমজো হাইওয়া হাইচামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113402132694",
+    "Q_Id": "AG_108",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "পাকা সাকহ হাংতা ইয়ুমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113402144689",
+    "Q_Id": "AG_109",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "টোটবিহা হেপা সেংজা তিংচামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113402156811",
+    "Q_Id": "AG_110",
+    "Domain": "Agriculture",
+    "Elicitation Method": "Narration",
+    "sentence": "নাতি ধ্যাঁশে হেপা তিংমগা ?",
+    "hint": ""
+  }
+]

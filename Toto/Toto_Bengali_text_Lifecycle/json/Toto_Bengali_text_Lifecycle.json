@@ -1,0 +1,306 @@
+[
+  {
+    "quesId": "Q20240420113400931309",
+    "Q_Id": "LC_1",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "নকো জাইতাহা মাদিপাংপাওাকো দাদাপা হাং হাং জিংমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113400953611",
+    "Q_Id": "LC_2",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "এপ্রাং মাদিপাংপাওা হাংত্রং আসাহ হাংতা জিংমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113400967579",
+    "Q_Id": "LC_3",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "মাদিপাংপাওাকো দাদাপা হাং হাং জিংমগা ?আবিকো মিং আসাহ হাংপা জিংমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113400980965",
+    "Q_Id": "LC_4",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "মাদিপাংপাওা কো দিনাং হাংপা জিংমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113400994249",
+    "Q_Id": "LC_5",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "মাাদিপাংপাওা তা হা হাসু হাসু হিং মংনেমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401007164",
+    "Q_Id": "LC_6",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "মাদিপাংপাানুওা দেয়াংবিহা হাংতা নাইমসা গামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401020137",
+    "Q_Id": "LC_7",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "হেংপা মাদিপাংপামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401032593",
+    "Q_Id": "LC_8",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "মাদিপাংপানুুওা হাং হাং ঘইমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401047276",
+    "Q_Id": "LC_9",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "মাদিপাংপানুওা মিং হাসু মইমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401060181",
+    "Q_Id": "LC_10",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "হাসু চেং চেংপামগা আসাহ হাসু মিং মংমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401072769",
+    "Q_Id": "LC_11",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "মাদিপাংপানুকো নইতাহা চাওয়া আংওয়া জিংমগা ?হেমজো চাওয়া পিছামগা?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401085081",
+    "Q_Id": "LC_12",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "মাদিপাংপাওাাতা হাংয়া নাংশা হাসু তামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401097303",
+    "Q_Id": "LC_13",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "মাদিপাংপাওাতা জিংঙয়া হাংক্রি এচো ঘইওা নওং নাতিমি লাংদাংমেনাহা",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401109701",
+    "Q_Id": "LC_14",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "নাবিকো জাইতাহা বিয়ও কো নাগাই মেমে পজা দশপাকো ছুমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401121901",
+    "Q_Id": "LC_15",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "নাবিকো জাইতা বিয়োই জোক মেমে পজা হেংপা মমগা?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401134000",
+    "Q_Id": "LC_16",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "নাবিকতা বিয়ও জোক পজা মেমে মংকো হাসু চি লাংমাগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401146082",
+    "Q_Id": "LC_17",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "নাবিকো জাইয়তাহা বিয়ওপা দাদাপা হাং হাং জিংমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401158242",
+    "Q_Id": "LC_18",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "এপ্রাংহা হাংত্রং আসাহ হান্তা বিয়ই জিংমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401170353",
+    "Q_Id": "LC_19",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "নাবিকো বিয়তাহা হাং হাং জিংমগা ?আবিকো মিং হাংগা আসাহ হাংপা জিংমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401182397",
+    "Q_Id": "LC_20",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "বিয়ও কো দিনাং হাংত্রং আসাহ হাংপা জিংমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401194494",
+    "Q_Id": "LC_21",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "বিয়ওতাহা হাসু হাসু হিং মংনেমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401206719",
+    "Q_Id": "LC_22",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "বিয়ওতাহাা দেয়াংবিহা হাংতা /হানিসো নাইমসা গাপামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401218986",
+    "Q_Id": "LC_23",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "হাংপা বিয়ওই জিংমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401230985",
+    "Q_Id": "LC_24",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "বিয়ইতাহা হাং হাং ঘইমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401243030",
+    "Q_Id": "LC_25",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "বিয়ইহাং হাসু জপাছামগা",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401255195",
+    "Q_Id": "LC_26",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "চাওয়াআংওয়া বিয়ওতারাং পিছমগা না নাগাই না নুনুইতা পিছামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401267101",
+    "Q_Id": "LC_27",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "বিয়ইতা হাংওয়া নাঁশাহ হাসু তামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401279211",
+    "Q_Id": "LC_28",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "বিয়ইতা জিংওয়া হাংক্রি নওং নাতিমি লাংদামেনা",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401291198",
+    "Q_Id": "LC_29",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "নাবিকো জ্যাতা দেয়াং সিপ্নু হাং হাং জনেমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401303145",
+    "Q_Id": "LC_30",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "এপ্রাং খুই সাংপাওা হাংত্রং আসাহ হাংতা জিংমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401315258",
+    "Q_Id": "LC_31",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "খুই সাংপওাতা হাং হাং জিংমগা ?আবিকো মিং আসাহ হাংপা জিংমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401327153",
+    "Q_Id": "LC_32",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "খুই সাংপানুু হাসু হাসু হিং মংনেমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401339178",
+    "Q_Id": "LC_33",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "খুই সাংপানু দেয়াংবিহা হান্তা নাইমসা গামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401350973",
+    "Q_Id": "LC_35",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "খুুই সাংপাকো হাং হাং ঘইমগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401362755",
+    "Q_Id": "LC_36",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "হাসু খুই সাংপামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401374742",
+    "Q_Id": "LC_37",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "চাওয়াআংওয়া খুইসাংপাওাকো নাগাই পিছামগা না নুনুইতা না আত্রংরা পিছামগা ?হাংপা চাওয়া পিছমাগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401386711",
+    "Q_Id": "LC_38",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "হাসুু খুই সাংপমগা আসাহ আতা হাইয়া নাঁশাহ হাসু তামগা ?",
+    "hint": ""
+  },
+  {
+    "quesId": "Q20240420113401398725",
+    "Q_Id": "LC_39",
+    "Domain": "Lifecycle",
+    "Elicitation Method": "Narration",
+    "sentence": "খুইসাংপাওাতা জিংওয়া হাংক্রি নওং নাতিমি লাংদাংমেনা",
+    "hint": ""
+  }
+]
